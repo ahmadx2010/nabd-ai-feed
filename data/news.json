@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T19:05:44Z",
+ "updated": "2026-11-03T23:40:00Z",
  "categories": [
   {
    "key": "big",
@@ -377,6 +377,30 @@
  },
  "items": [
   {
+   "id": "af325869114f",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "Langsmith Byoc Aws Gc Azure",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/langsmith-byoc-aws-gc-azure",
+   "image": null,
+   "published": "2026-11-03T23:40:00Z",
+   "found": "2026-11-03T23:40:00Z",
+   "importance": 0
+  },
+  {
+   "id": "1f46abcfa59f",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "Human Insight Strategic Advantage Agents",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/human-insight-strategic-advantage-agents",
+   "image": null,
+   "published": "2026-11-03T23:40:00Z",
+   "found": "2026-11-03T23:40:00Z",
+   "importance": 0
+  },
+  {
    "id": "07cdeba3c4cd",
    "company": "openai",
    "kind": "video",
@@ -584,6 +608,18 @@
    "importance": 0
   },
   {
+   "id": "a2357e701f02",
+   "company": "openai",
+   "kind": "blog",
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+   "url": "https://openai.com/index/cisco-cyber",
+   "image": null,
+   "published": "2026-11-03T08:00:00Z",
+   "found": "2026-11-03T23:40:00Z",
+   "importance": 0
+  },
+  {
    "id": "928e7584e6cd",
    "company": "nvidia",
    "kind": "blog",
@@ -627,6 +663,18 @@
    "ar_title": "عقود تكامل النماذج في Transformers",
    "ar_summary": "مقال تقني يعرض مفهوم عقود تكامل النماذج في مكتبة Transformers لتسهيل إضافة النماذج وضمان جودتها.",
    "ai": true
+  },
+  {
+   "id": "3d509e27bae2",
+   "company": "openai",
+   "kind": "blog",
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "image": null,
+   "published": "2026-11-03T00:00:00Z",
+   "found": "2026-11-03T23:40:00Z",
+   "importance": 0
   },
   {
    "id": "767025f393c3",
