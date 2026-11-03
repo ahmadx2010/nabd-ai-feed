@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T18:30:31Z",
+ "updated": "2026-11-03T18:50:53Z",
  "companies": {
   "openai": {
    "name": "OpenAI",
@@ -78,7 +78,10 @@
    "image": "https://i2.ytimg.com/vi/yC72iQx6rM0/hqdefault.jpg",
    "published": "2026-11-03T18:11:23Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "Qodo تدمج سياق الشركة في مراجعة الأكواد عبر Codex",
+   "ar_summary": "إضافة Qodo لـ Codex تجلب معايير الشركة وسياق الكود إلى مراجعة مستقلة تكشف الأخطاء عبر المستودعات. في هذا الحوار يناقش مؤسسها كيف يبنون أدواتهم باستخدام GPT-6 Astra.",
+   "ai": true
   },
   {
    "id": "d84f2d409b05",
@@ -90,7 +93,10 @@
    "image": "https://i3.ytimg.com/vi/63pcV4z0DwI/hqdefault.jpg",
    "published": "2026-11-03T18:04:51Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "ChatGPT Voice متاح الآن في Finances",
+   "ar_summary": "يمكن ربط حساباتك المالية بأمان عبر Finances ثم التحدث صوتياً مع ChatGPT عن اشتراكاتك وما يمكن توفيره بإلغاء بعضها.",
+   "ai": true
   },
   {
    "id": "a55665cf4895",
@@ -102,7 +108,10 @@
    "image": null,
    "published": "2026-11-03T17:15:21Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "StateBench: اختبار تتبع النماذج اللغوية لتغيّر الحالة في المستندات الطويلة",
+   "ar_summary": "مقال بحثي على Hugging Face يقدّم معياراً لقياس قدرة النماذج اللغوية على تتبع تغيّرات الحالة عبر المستندات الطويلة.",
+   "ai": true
   },
   {
    "id": "7b04a568c5ad",
@@ -114,7 +123,10 @@
    "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo",
    "published": "2026-11-03T17:01:49Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "الكيمياء المعلوماتية الوكيلية مع Google Antigravity",
+   "ar_summary": "تشرح DeepMind كيف تسرّع Google Antigravity ومهارات الكيمياء المعلوماتية سير عمل اكتشاف الأدوية والبحث عن المركبات واقتراح حلقات كبيرة جديدة.",
+   "ai": true
   },
   {
    "id": "1afe3cf65797",
@@ -126,7 +138,10 @@
    "image": "https://i3.ytimg.com/vi/JR7xBi2kJjY/hqdefault.jpg",
    "published": "2026-11-03T16:51:36Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "Glean حول الخصوصية وOpenAI Private Intelligence",
+   "ar_summary": "المدير التقني لـ Glean يتحدث عن تحكم العملاء ببياناتهم وعن العمل مع OpenAI في المعاينة الخاصة للمعالجة الآمنة.",
+   "ai": true
   },
   {
    "id": "2baa2e0273f5",
@@ -138,7 +153,10 @@
    "image": "https://i3.ytimg.com/vi/2h16j4K_NbA/hqdefault.jpg",
    "published": "2026-11-03T16:46:37Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "Glean حول الخصوصية وOpenAI Private Intelligence",
+   "ar_summary": "يشرح المدير التقني لـ Glean كيف تعاونت الشركة مع OpenAI لضمان بقاء بيانات العملاء تحت سيطرتهم، ومنها معاينة Private Safety Processing.",
+   "ai": true
   },
   {
    "id": "bc4177032a04",
@@ -150,7 +168,10 @@
    "image": null,
    "published": "2026-11-03T16:35:36Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "Palette: تعليم نموذج صغير بناء العروض التقديمية بلغة تصميمك",
+   "ar_summary": "تعرض IBM Research نموذجاً صغيراً قادراً على إنشاء عروض تقديمية تلتزم بهوية التصميم الخاصة بالمستخدم.",
+   "ai": true
   },
   {
    "id": "c90cd6cc0c02",
@@ -162,7 +183,10 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-semiconductor-fab-still-1920x1080-1.jpg",
    "published": "2026-11-03T16:00:45Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "الذكاء الاصطناعي يغيّر عمل مصانع أشباه الموصلات",
+   "ar_summary": "تشرح NVIDIA كيف يساعد الذكاء الاصطناعي المهندسين على فهم تغييرات العمليات وتتبع العيوب إلى أسبابها في ظل تعقيد التصنيع المتزايد.",
+   "ai": true
   },
   {
    "id": "08b710f1e780",
@@ -174,7 +198,10 @@
    "image": null,
    "published": "2026-11-03T08:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "Heimstaden تغيّر إدارة العقارات السكنية بالذكاء الاصطناعي",
+   "ar_summary": "قصة عميل توضح استخدام Heimstaden لـ ChatGPT Enterprise وCodex لخفض التكاليف وتمكين الموظفين في أوروبا.",
+   "ai": true
   },
   {
    "id": "928e7584e6cd",
@@ -186,7 +213,10 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/smart-city-blog-1920x1080-1.jpeg",
    "published": "2026-11-03T07:00:12Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "مدن حول العالم تبني خدمات ذكاء اصطناعي مع NVIDIA",
+   "ar_summary": "تستخدم المدن الذكاء الاصطناعي المادي والوكيلي، من التوائم الرقمية إلى وكلاء الخدمات، لتحويل بيانات الكاميرات والمستشعرات إلى إجراءات مفيدة.",
+   "ai": true
   },
   {
    "id": "20954e3ac0ff",
@@ -198,7 +228,10 @@
    "image": null,
    "published": "2026-11-03T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "CWE-bench v2: تغطية وجودة وشفافية أكبر",
+   "ar_summary": "إصدار جديد من معيار CWE-bench لتقييم النماذج في اكتشاف الثغرات الأمنية، بتغطية وجودة وشفافية محسّنة.",
+   "ai": true
   },
   {
    "id": "fec0e46ceba4",
@@ -210,7 +243,10 @@
    "image": null,
    "published": "2026-11-03T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "عقود تكامل النماذج في Transformers",
+   "ar_summary": "مقال تقني يعرض مفهوم عقود تكامل النماذج في مكتبة Transformers لتسهيل إضافة النماذج وضمان جودتها.",
+   "ai": true
   },
   {
    "id": "767025f393c3",
@@ -222,7 +258,10 @@
    "image": "https://i3.ytimg.com/vi/NbDF90z-g6w/hqdefault.jpg",
    "published": "2026-11-02T22:44:26Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "Coinbase حول OpenAI Private Intelligence",
+   "ar_summary": "المدير التقني لـ Coinbase يشرح أهمية الأمان وحواجز الحماية وعدم الاحتفاظ بالبيانات عند استخدام OpenAI.",
+   "ai": true
   },
   {
    "id": "f9c3fcec5e4f",
@@ -234,7 +273,10 @@
    "image": null,
    "published": "2026-11-02T21:48:25Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "تسعة مهندسين و1211 تحديثاً برمجياً في يوم: دروس من بناء Copilot Cowork",
+   "ar_summary": "تروي مايكروسوفت تجربة بناء Copilot Cowork والانتقال من Python إلى Rust بفريق صغير وبمساعدة الذكاء الاصطناعي.",
+   "ai": true
   },
   {
    "id": "262cfa35f430",
@@ -246,7 +288,10 @@
    "image": null,
    "published": "2026-11-02T18:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "التحضير لسباق أمني جديد لتحصين OpenAI",
+   "ar_summary": "تعدّ OpenAI لسباق أمني داخلي مع Cathedral Systems لاختبار دفاعاتها وتقويتها باستخدام الذكاء الاصطناعي.",
+   "ai": true
   },
   {
    "id": "6fd6ad7938fa",
@@ -258,7 +303,10 @@
    "image": null,
    "published": "2026-11-02T18:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "ar_title": "مكافآت أكبر للمدافعين عبر برنامج مكافآت الثغرات",
+   "ar_summary": "ترفع OpenAI مكافآت الثغرات الأمنية وتضيف حوافز لجودة التقارير والولاء والحملات ذات الأولوية للباحثين المستقلين.",
+   "ai": true
   },
   {
    "id": "2d062bda8439",
@@ -270,7 +318,10 @@
    "image": null,
    "published": "2026-11-02T17:51:17Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "Lumen ومايكروسوفت توسعان التعاون لبيع شبكات جاهزة للذكاء الاصطناعي",
+   "ar_summary": "توسّع الشركتان تعاونهما للتسويق المشترك لشبكات المؤسسات الجاهزة للذكاء الاصطناعي.",
+   "ai": true
   },
   {
    "id": "b810030289ed",
@@ -282,7 +333,10 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp",
    "published": "2026-11-02T17:45:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_title": "أحدث أخبار الذكاء الاصطناعي التي أعلنتها Google في أكتوبر 2026",
+   "ar_summary": "ملخص شهري لأبرز إعلانات Google في مجال الذكاء الاصطناعي خلال أكتوبر 2026.",
+   "ai": true
   },
   {
    "id": "050eb04e45a8",
@@ -294,7 +348,10 @@
    "image": "https://i2.ytimg.com/vi/Amm9ySSET4c/hqdefault.jpg",
    "published": "2026-11-02T16:59:21Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "Coinbase حول OpenAI Private Intelligence",
+   "ar_summary": "يشرح روب ويتوف سبب أهمية الأمان وعدم الاحتفاظ بالبيانات في اعتماد Coinbase على نماذج OpenAI، إذ تمنح Private Intelligence الشركات تحكماً أكبر ببياناتها.",
+   "ai": true
   },
   {
    "id": "de4cf53f9db9",
@@ -306,7 +363,10 @@
    "image": null,
    "published": "2026-11-02T15:30:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "توسيع Git في OpenAI",
+   "ar_summary": "تكشف OpenAI عن Pando، وهو خلفية متوافقة مع Git صُمّمت لحجم التطوير الذي يتيحه Codex.",
+   "ai": true
   },
   {
    "id": "19244c7aa206",
@@ -318,7 +378,10 @@
    "image": null,
    "published": "2026-11-02T15:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_title": "إطلاق برنامج Grid Protectors",
+   "ar_summary": "سيعمل البرنامج مع شركات المرافق لجعل مجمّعات الحوسبة المستقبلية تدعم موثوقية الشبكة الكهربائية وتحمي المستهلكين من ارتفاع التكاليف.",
+   "ai": true
   },
   {
    "id": "ed4b58253682",
@@ -330,7 +393,10 @@
    "image": null,
    "published": "2026-11-02T09:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "ar_title": "LifeVal",
+   "ar_summary": "معيار جديد يقيس قدرة الذكاء الاصطناعي على مساعدة الناس في مهام الحياة اليومية مثل البحث عن رعاية الأطفال وإدارة الأموال والأوراق الحكومية.",
+   "ai": true
   },
   {
    "id": "ff138f709a7e",
@@ -342,7 +408,10 @@
    "image": null,
    "published": "2026-11-02T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "OpenAI تعيّن Dan Driscoll مستشاراً أول لتحديث الأمن القومي",
+   "ar_summary": "سيقدّم المستشار الجديد المشورة حول الذكاء الاصطناعي المسؤول للأمن القومي والمرونة السيبرانية والتعاون مع حلفاء الولايات المتحدة.",
+   "ai": true
   },
   {
    "id": "598c6194c0d3",
@@ -354,7 +423,10 @@
    "image": null,
    "published": "2026-11-02T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "Qodo تبني السياق في مراجعة الأكواد مع Codex",
+   "ar_summary": "تجلب Qodo معرفة الشركة ومعايير البرمجة إلى Codex لمساعدة المطورين على اكتشاف المشكلات الحرجة قبل طلب الدمج.",
+   "ai": true
   },
   {
    "id": "959f3bc27116",
@@ -366,7 +438,10 @@
    "image": "https://i4.ytimg.com/vi/o4D1J1YWjhg/hqdefault.jpg",
    "published": "2026-10-30T20:17:12Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "هناك مستقبلات كثيرة. أيها تريد أن تبني؟",
+   "ar_summary": "فيديو ترويجي من OpenAI بلا وصف تفصيلي.",
+   "ai": true
   },
   {
    "id": "b2263e9f8412",
@@ -378,7 +453,10 @@
    "image": null,
    "published": "2026-10-30T17:57:24Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "nemotron-halloween",
+   "ar_summary": "منشور من NVIDIA على Hugging Face حول نماذج Nemotron بمناسبة الهالوين.",
+   "ai": true
   },
   {
    "id": "59fa43cbb1dd",
@@ -390,7 +468,10 @@
    "image": "https://i4.ytimg.com/vi/7TtGMileCus/hqdefault.jpg",
    "published": "2026-10-30T15:24:48Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "كيف تحوّل Gen بياناتها إلى قرارات عبر ChatGPT Work",
+   "ar_summary": "يوضح Howie Xu كيف يختصر ChatGPT Work حلقة التغذية الراجعة، فيفهم الفريق أداء منتج جديد خلال ساعات قليلة من إطلاقه.",
+   "ai": true
   },
   {
    "id": "cdb16d541078",
@@ -402,7 +483,10 @@
    "image": "https://i4.ytimg.com/vi/Oi9DHk57KeQ/hqdefault.jpg",
    "published": "2026-10-30T15:22:47Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "كيف تحوّل Gen بياناتها إلى قرارات عبر ChatGPT Work",
+   "ar_summary": "يروي Howie Xu كيف سرّع ChatGPT Work الحصول على إجابات من بيانات الأعمال بدل التنقل بين الفرق والمناطق الزمنية.",
+   "ai": true
   },
   {
    "id": "4a4bcbde667c",
@@ -414,7 +498,10 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-scaled.jpg",
    "published": "2026-10-30T15:00:10Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "الذكاء الاصطناعي الوكيلي ينضم إلى البحث عن إشارات فضائية",
+   "ar_summary": "تشرح NVIDIA كيف قفز البحث عن الذكاء خارج الأرض قفزة كبيرة بفضل الذكاء الاصطناعي ووكلائه.",
+   "ai": true
   },
   {
    "id": "094c331a98fa",
@@ -426,7 +513,10 @@
    "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
    "published": "2026-10-30T14:18:30Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "تسريع قرارات التخطيط بالذكاء الاصطناعي",
+   "ar_summary": "تتعاون Google DeepMind مع الحكومة البريطانية لتقليص أوقات تقييم طلبات التخطيط العمراني.",
+   "ai": true
   },
   {
    "id": "25cc4c9bb2e3",
@@ -438,7 +528,10 @@
    "image": null,
    "published": "2026-10-30T09:30:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "تسهيل تعبير المواقع عن تفضيلاتها لتدريب الذكاء الاصطناعي",
+   "ar_summary": "ستحترم OpenAI إشارة robots.txt مشتركة تتيح لمشغلي المواقع إبلاغ مزودي الذكاء الاصطناعي المشاركين بتفضيلاتهم بشأن التدريب.",
+   "ai": true
   },
   {
    "id": "c7606af40dbb",
@@ -450,7 +543,10 @@
    "image": null,
    "published": "2026-10-30T09:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "تقرير سلامة المجتمع وحمايات جديدة للمراهقين",
+   "ar_summary": "تعزز OpenAI الوقاية من العنف في ChatGPT بضمانات موسعة وتدخلات أبكر والتزام جديد بتقارير السلامة العامة.",
+   "ai": true
   },
   {
    "id": "d2282bcce162",
@@ -462,7 +558,10 @@
    "image": null,
    "published": "2026-10-30T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "الاستخدام العادل يفيد الجميع",
+   "ar_summary": "تنشر OpenAI مقتطفات من مذكرات قضائية لمبدعين وأكاديميين وخبراء قانونيين حول دور الاستخدام العادل في تدريب الذكاء الاصطناعي.",
+   "ai": true
   },
   {
    "id": "237e37ca214f",
@@ -474,7 +573,10 @@
    "image": "https://i4.ytimg.com/vi/GNYHDltnwZQ/hqdefault.jpg",
    "published": "2026-10-29T22:48:11Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "ChatGPT Enterprise في Zendesk: توظيف بيانات الشركة",
+   "ar_summary": "تستخدم فرق Zendesk ChatGPT Enterprise لبناء تطبيقات وطرح أسئلة على البيانات مباشرة.",
+   "ai": true
   },
   {
    "id": "589b6ae4a109",
@@ -486,7 +588,10 @@
    "image": null,
    "published": "2026-10-29T17:00:36Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 0,
+   "ar_title": "Meta وCNIB تتشاركان لدعم الكنديين المكفوفين وضعاف البصر",
+   "ar_summary": "شراكة لإيصال فوائد نظارات الذكاء الاصطناعي إلى مزيد من الكنديين المكفوفين أو ضعاف البصر.",
+   "ai": true
   },
   {
    "id": "7bf0065ceb16",
@@ -498,7 +603,10 @@
    "image": null,
    "published": "2026-10-29T17:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "تحديث Model Spec لذكاء اصطناعي أكثر قدرة ونفعاً",
+   "ar_summary": "تعرض OpenAI خمس قيم أساسية في Model Spec المحدّث لتوجيه النماذج نحو الحكم السليم واحترام إرادة الإنسان وأمانة النوايا.",
+   "ai": true
   },
   {
    "id": "a0c8bc8caa04",
@@ -510,7 +618,10 @@
    "image": "https://i1.ytimg.com/vi/L6pzlo1QvoM/hqdefault.jpg",
    "published": "2026-10-29T16:23:43Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "ChatGPT Enterprise في Zendesk: توظيف بيانات الشركة",
+   "ar_summary": "في Zendesk نحو 600 تطبيق بناها موظفون، ويتاح ChatGPT Enterprise للجميع ليسألوا بياناتهم مباشرة.",
+   "ai": true
   },
   {
    "id": "40ee4ff935a1",
@@ -522,7 +633,10 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fileGen2.0-thumbnail-resize.max-600x600.format-webp.webp",
    "published": "2026-10-29T16:15:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "إنشاء المستندات وتعديلها ومعاينتها مباشرة داخل Gemini",
+   "ar_summary": "يتيح Gemini الآن إنشاء ملفات PDF والمستندات والعروض والجداول ومعاينتها وتحريرها عبر محرر بملء الشاشة.",
+   "ai": true
   },
   {
    "id": "baf7193e75c1",
@@ -534,7 +648,10 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
    "published": "2026-10-29T16:00:35Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_title": "كيف يحوّل المطورون أفكارهم إلى محاكاة بوكلاء ذكاء اصطناعي متقدمين",
+   "ar_summary": "يجمع المطورون نماذج متقدمة مع مكتبات NVIDIA Omniverse لبناء تطبيقات محاكاة لاستكشاف السيناريوهات وتحسين التصاميم.",
+   "ai": true
   },
   {
    "id": "f3538b6fb36f",
@@ -546,7 +663,10 @@
    "image": null,
    "published": "2026-10-29T13:37:07Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "Granite Switch 4.1.1: حدّث النماذج كما تحدّث البرمجيات",
+   "ar_summary": "إصدار جديد من IBM Granite يتيح تحديث النماذج بأسلوب تحديث البرمجيات.",
+   "ai": true
   },
   {
    "id": "f52687297c33",
