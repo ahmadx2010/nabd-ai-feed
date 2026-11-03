@@ -1,73 +1,393 @@
 {
- "updated": "2026-11-03T18:50:53Z",
+ "updated": "2026-11-03T19:05:44Z",
+ "categories": [
+  {
+   "key": "big",
+   "name": "الشركات الكبرى"
+  },
+  {
+   "key": "chat",
+   "name": "المساعدات والنماذج"
+  },
+  {
+   "key": "china",
+   "name": "الشركات الصينية"
+  },
+  {
+   "key": "image",
+   "name": "الصور والتصميم"
+  },
+  {
+   "key": "video",
+   "name": "الفيديو والأفاتار"
+  },
+  {
+   "key": "audio",
+   "name": "الصوت والموسيقى"
+  },
+  {
+   "key": "code",
+   "name": "البرمجة"
+  },
+  {
+   "key": "tools",
+   "name": "أدوات وإنتاجية"
+  },
+  {
+   "key": "dev",
+   "name": "المطورين والبنية التحتية"
+  }
+ ],
  "companies": {
   "openai": {
    "name": "OpenAI",
+   "category": "big",
    "color": "#10A37F",
    "domain": "openai.com"
   },
   "anthropic": {
-   "name": "Anthropic",
+   "name": "Anthropic / Claude",
+   "category": "big",
    "color": "#D97757",
    "domain": "anthropic.com"
   },
   "google": {
-   "name": "Google / Gemini",
+   "name": "Google AI",
+   "category": "big",
    "color": "#4285F4",
    "domain": "google.com"
   },
+  "gemini": {
+   "name": "Gemini",
+   "category": "big",
+   "color": "#8E75FF",
+   "domain": "gemini.google.com",
+   "match": "\\bGemini\\b",
+   "from": [
+    "google",
+    "deepmind",
+    "googlelabs"
+   ]
+  },
   "deepmind": {
    "name": "Google DeepMind",
+   "category": "big",
    "color": "#1A73E8",
    "domain": "deepmind.google"
   },
   "meta": {
    "name": "Meta AI",
+   "category": "big",
    "color": "#0866FF",
    "domain": "meta.com"
   },
   "microsoft": {
-   "name": "Microsoft",
+   "name": "Microsoft / Copilot",
+   "category": "big",
    "color": "#00A4EF",
    "domain": "microsoft.com"
   },
   "xai": {
    "name": "xAI / Grok",
+   "category": "big",
    "color": "#9CA3AF",
    "domain": "x.ai"
   },
   "nvidia": {
    "name": "NVIDIA",
+   "category": "big",
    "color": "#76B900",
    "domain": "nvidia.com"
   },
   "apple": {
-   "name": "Apple",
+   "name": "Apple Intelligence",
+   "category": "big",
    "color": "#A3AAAE",
    "domain": "apple.com"
   },
+  "amazon": {
+   "name": "Amazon / Alexa+",
+   "category": "big",
+   "color": "#FF9900",
+   "domain": "amazon.com"
+  },
+  "samsung": {
+   "name": "Samsung Galaxy AI",
+   "category": "big",
+   "color": "#1428A0",
+   "domain": "samsung.com"
+  },
   "mistral": {
    "name": "Mistral AI",
+   "category": "chat",
    "color": "#FA520F",
    "domain": "mistral.ai"
   },
+  "perplexity": {
+   "name": "Perplexity",
+   "category": "chat",
+   "color": "#20B8CD",
+   "domain": "perplexity.ai"
+  },
+  "cohere": {
+   "name": "Cohere",
+   "category": "chat",
+   "color": "#39594D",
+   "domain": "cohere.com"
+  },
+  "characterai": {
+   "name": "Character.AI",
+   "category": "chat",
+   "color": "#6B7280",
+   "domain": "character.ai"
+  },
+  "manus": {
+   "name": "Manus",
+   "category": "chat",
+   "color": "#3B3B3B",
+   "domain": "manus.im"
+  },
   "deepseek": {
    "name": "DeepSeek",
+   "category": "china",
    "color": "#4D6BFE",
    "domain": "deepseek.com"
   },
   "qwen": {
    "name": "Qwen / Alibaba",
+   "category": "china",
    "color": "#615CED",
-   "domain": "qwenlm.github.io"
+   "domain": "qwen.ai"
+  },
+  "moonshot": {
+   "name": "Kimi / Moonshot",
+   "category": "china",
+   "color": "#1F2937",
+   "domain": "kimi.com"
+  },
+  "zhipu": {
+   "name": "Z.ai / GLM",
+   "category": "china",
+   "color": "#2563EB",
+   "domain": "z.ai"
+  },
+  "minimax": {
+   "name": "MiniMax / Hailuo",
+   "category": "china",
+   "color": "#E11D48",
+   "domain": "minimax.io"
+  },
+  "bytedance": {
+   "name": "ByteDance Seed",
+   "category": "china",
+   "color": "#325AB4",
+   "domain": "bytedance.com"
+  },
+  "baidu": {
+   "name": "Baidu ERNIE",
+   "category": "china",
+   "color": "#2932E1",
+   "domain": "baidu.com"
+  },
+  "midjourney": {
+   "name": "Midjourney",
+   "category": "image",
+   "color": "#C9CDD4",
+   "domain": "midjourney.com"
+  },
+  "stability": {
+   "name": "Stability AI",
+   "category": "image",
+   "color": "#8B5CF6",
+   "domain": "stability.ai"
+  },
+  "bfl": {
+   "name": "FLUX / Black Forest Labs",
+   "category": "image",
+   "color": "#111827",
+   "domain": "bfl.ai"
+  },
+  "ideogram": {
+   "name": "Ideogram",
+   "category": "image",
+   "color": "#F43F5E",
+   "domain": "ideogram.ai"
+  },
+  "adobe": {
+   "name": "Adobe Firefly",
+   "category": "image",
+   "color": "#FA0F00",
+   "domain": "adobe.com"
+  },
+  "canva": {
+   "name": "Canva AI",
+   "category": "image",
+   "color": "#00C4CC",
+   "domain": "canva.com"
+  },
+  "runway": {
+   "name": "Runway",
+   "category": "video",
+   "color": "#E5E7EB",
+   "domain": "runwayml.com"
+  },
+  "pika": {
+   "name": "Pika",
+   "category": "video",
+   "color": "#F59E0B",
+   "domain": "pika.art"
+  },
+  "luma": {
+   "name": "Luma AI",
+   "category": "video",
+   "color": "#A855F7",
+   "domain": "lumalabs.ai"
+  },
+  "kling": {
+   "name": "Kling AI",
+   "category": "video",
+   "color": "#22C55E",
+   "domain": "klingai.com"
+  },
+  "heygen": {
+   "name": "HeyGen",
+   "category": "video",
+   "color": "#7C3AED",
+   "domain": "heygen.com"
+  },
+  "synthesia": {
+   "name": "Synthesia",
+   "category": "video",
+   "color": "#6366F1",
+   "domain": "synthesia.io"
+  },
+  "suno": {
+   "name": "Suno",
+   "category": "audio",
+   "color": "#F5F5F5",
+   "domain": "suno.com"
+  },
+  "udio": {
+   "name": "Udio",
+   "category": "audio",
+   "color": "#EC4899",
+   "domain": "udio.com"
+  },
+  "elevenlabs": {
+   "name": "ElevenLabs",
+   "category": "audio",
+   "color": "#D4D4D4",
+   "domain": "elevenlabs.io"
+  },
+  "cursor": {
+   "name": "Cursor",
+   "category": "code",
+   "color": "#D1D5DB",
+   "domain": "cursor.com"
+  },
+  "copilot": {
+   "name": "GitHub Copilot",
+   "category": "code",
+   "color": "#8B949E",
+   "domain": "github.com",
+   "match": "GitHub Copilot|Copilot (coding agent|code review|CLI)",
+   "from": [
+    "microsoft"
+   ]
+  },
+  "windsurf": {
+   "name": "Windsurf",
+   "category": "code",
+   "color": "#0EA5E9",
+   "domain": "windsurf.com"
+  },
+  "replit": {
+   "name": "Replit",
+   "category": "code",
+   "color": "#F26207",
+   "domain": "replit.com"
+  },
+  "lovable": {
+   "name": "Lovable",
+   "category": "code",
+   "color": "#FF4F81",
+   "domain": "lovable.dev"
+  },
+  "notebooklm": {
+   "name": "NotebookLM",
+   "category": "tools",
+   "color": "#34A853",
+   "domain": "notebooklm.google",
+   "match": "NotebookLM",
+   "from": [
+    "google",
+    "gemini",
+    "googlelabs",
+    "deepmind"
+   ]
+  },
+  "googlelabs": {
+   "name": "Google Labs (Veo, Flow…)",
+   "category": "tools",
+   "color": "#FBBC04",
+   "domain": "labs.google",
+   "match": "\\b(Veo|Flow|Whisk|Jules|Stitch|Google Labs|Project Mariner|Opal)\\b",
+   "from": [
+    "google",
+    "gemini",
+    "deepmind"
+   ]
+  },
+  "notion": {
+   "name": "Notion AI",
+   "category": "tools",
+   "color": "#9CA3AF",
+   "domain": "notion.com"
   },
   "huggingface": {
    "name": "Hugging Face",
+   "category": "dev",
    "color": "#FFB000",
    "domain": "huggingface.co"
+  },
+  "groq": {
+   "name": "Groq",
+   "category": "dev",
+   "color": "#F55036",
+   "domain": "groq.com"
+  },
+  "together": {
+   "name": "Together AI",
+   "category": "dev",
+   "color": "#0F6FFF",
+   "domain": "together.ai"
+  },
+  "langchain": {
+   "name": "LangChain",
+   "category": "dev",
+   "color": "#1C3C3C",
+   "domain": "langchain.com"
+  },
+  "ollama": {
+   "name": "Ollama",
+   "category": "dev",
+   "color": "#E5E7EB",
+   "domain": "ollama.com"
   }
  },
  "items": [
+  {
+   "id": "07cdeba3c4cd",
+   "company": "openai",
+   "kind": "video",
+   "title": "TamaGPT",
+   "summary": "You don't need to be an engineer to make hardware. Want to make something physical? Let GPT-6 Astra help you bring it to life.",
+   "url": "https://www.youtube.com/watch?v=NCxD-qsQcN0",
+   "image": "https://i3.ytimg.com/vi/NCxD-qsQcN0/hqdefault.jpg",
+   "published": "2026-11-03T18:30:30Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
   {
    "id": "60196b10dd33",
    "company": "openai",
@@ -189,6 +509,54 @@
    "ai": true
   },
   {
+   "id": "9c22661ce9de",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub Copilot is now available in JetBrains Air",
+   "summary": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your… The post GitHub Copilot is now available in JetBrains Air appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+   "image": null,
+   "published": "2026-11-03T15:11:46Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 2
+  },
+  {
+   "id": "26c6032e1d26",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Accelerating engineering for the physical world",
+   "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "image": null,
+   "published": "2026-11-03T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "0e889c44fa0a",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "What is call transcription? A practical business guide",
+   "summary": "Learn what call transcription is, how it works, and how to transcribe phone calls with AI. Compare software types and see a sample transcript.",
+   "url": "https://elevenlabs.io/blog/what-is-call-transcription",
+   "image": null,
+   "published": "2026-11-03T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "66a947a7e4a1",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Angle Health’s ElevenAgents pilot handles 90% of provider calls without a transfer",
+   "summary": "Angle Health’s voice agents answer provider calls 24/7 with almost no wait, freeing about 9,000 minutes a day for complex escalations.",
+   "url": "https://elevenlabs.io/blog/angle-health",
+   "image": null,
+   "published": "2026-11-03T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "08b710f1e780",
    "company": "openai",
    "kind": "blog",
@@ -202,6 +570,18 @@
    "ar_title": "Heimstaden تغيّر إدارة العقارات السكنية بالذكاء الاصطناعي",
    "ar_summary": "قصة عميل توضح استخدام Heimstaden لـ ChatGPT Enterprise وCodex لخفض التكاليف وتمكين الموظفين في أوروبا.",
    "ai": true
+  },
+  {
+   "id": "d0cdd7377e6a",
+   "company": "samsung",
+   "kind": "blog",
+   "title": "[Video] Inside the Tech: Samsung Micro RGB TV",
+   "summary": "The TV is often the centerpiece of the living room, and when it comes to big screens, every detail counts. Meet Samsung Micro RGB TV, with microscopic RGB LEDs under 100 μm creating a world of vivid, precise color. With a powerful AI engine that upgrades your favorite content and a Glare-Free, anti-fingerprint surface for […]",
+   "url": "https://news.samsung.com/global/video-inside-the-tech-samsung-micro-rgb-tv",
+   "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/30114048/Samsung-TVs-and-Displays-Samsung-Micro-RGB-TV_Thumb932-728x410.jpg",
+   "published": "2026-11-03T08:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
   },
   {
    "id": "928e7584e6cd",
@@ -384,6 +764,54 @@
    "ai": true
   },
   {
+   "id": "4338b997783e",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "How are synthetic voices created for natural speech?",
+   "summary": "Learn how synthetic voices are created, from speech data to neural text to speech, plus voice cloning, voice design, and how to spot an AI voice.",
+   "url": "https://elevenlabs.io/blog/synthetic-voices",
+   "image": null,
+   "published": "2026-11-02T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "1b616ac07b1e",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "How KPN is bringing voice AI to the Netherlands' entrepreneurs with Mobiel AI",
+   "summary": "KPN partnered with ElevenLabs to build Mobiel AI, an AI assistant inside KPN's business mobile plans that helps Dutch entrepreneurs manage every call.",
+   "url": "https://elevenlabs.io/blog/kpn-mobiel-ai",
+   "image": null,
+   "published": "2026-11-02T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "4d1f48989ead",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Introducing SFX v3 for developers",
+   "summary": "SFX v3 is our newest sound effects model. Switch with one model_id change for better multi-part prompts, vocals, and fewer clipped high notes.",
+   "url": "https://elevenlabs.io/blog/sfx-v3-for-developers",
+   "image": null,
+   "published": "2026-11-02T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 2
+  },
+  {
+   "id": "8e4474f09341",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Why voice wins for complex, stressful conversations",
+   "summary": "In conversations longer than two minutes, voice succeeded 32% more often than text-based chat. Voice also resolves longer conversations faster.",
+   "url": "https://elevenlabs.io/blog/voice-wins-complex-stressful-conversations",
+   "image": null,
+   "published": "2026-11-02T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "ed4b58253682",
    "company": "openai",
    "kind": "blog",
@@ -519,6 +947,30 @@
    "ai": true
   },
   {
+   "id": "bac9edc458a4",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Warm transfer vs cold transfer: choosing the right call",
+   "summary": "Learn the difference between a warm transfer vs cold transfer, when to use each, and how AI voice agents hand calls to a human with full context.",
+   "url": "https://elevenlabs.io/blog/warm-transfer-vs-cold-transfer",
+   "image": null,
+   "published": "2026-10-30T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "626d6f539a19",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "TELUS Digital cut early cancellations by more than half with ElevenAgents",
+   "summary": "TELUS Digital uses ElevenAgents to call new internet customers in their first 90 days, cutting early cancellations by more than half",
+   "url": "https://elevenlabs.io/blog/telus-digital-early-cancellations",
+   "image": null,
+   "published": "2026-10-30T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "25cc4c9bb2e3",
    "company": "openai",
    "kind": "blog",
@@ -609,6 +1061,18 @@
    "ai": true
   },
   {
+   "id": "3898a3075801",
+   "company": "amazon",
+   "kind": "blog",
+   "title": "Speeding up language models for travel applications",
+   "summary": "Two optimization techniques, when combined, can significantly improve a model’s speed and cost effectiveness without sacrificing quality.",
+   "url": "https://www.amazon.science/blog/speeding-up-language-models-for-travel-applications",
+   "image": null,
+   "published": "2026-10-29T16:51:26Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "a0c8bc8caa04",
    "company": "openai",
    "kind": "video",
@@ -625,7 +1089,7 @@
   },
   {
    "id": "40ee4ff935a1",
-   "company": "google",
+   "company": "gemini",
    "kind": "blog",
    "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
    "summary": "Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini.",
@@ -652,6 +1116,18 @@
    "ar_title": "كيف يحوّل المطورون أفكارهم إلى محاكاة بوكلاء ذكاء اصطناعي متقدمين",
    "ar_summary": "يجمع المطورون نماذج متقدمة مع مكتبات NVIDIA Omniverse لبناء تطبيقات محاكاة لاستكشاف السيناريوهات وتحسين التصاميم.",
    "ai": true
+  },
+  {
+   "id": "12f53f82bf25",
+   "company": "suno",
+   "kind": "blog",
+   "title": "Meet Chat: Our In-house Studio Assistant",
+   "summary": "Like a studio assistant, Chat can streamline your sessions, inspire ideas and more!",
+   "url": "https://suno.com/blog/studio-chat-assistant",
+   "image": null,
+   "published": "2026-10-29T16:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
   },
   {
    "id": "f3538b6fb36f",
@@ -681,8 +1157,44 @@
    "importance": 2
   },
   {
+   "id": "e68704a5f0fc",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "What is turn taking in conversational AI: A guide to natural flow",
+   "summary": "Turn taking decides when a voice agent speaks, pauses, or listens. Learn how it works, how barge-in is handled, and how to measure and tune it.",
+   "url": "https://elevenlabs.io/blog/what-is-turn-taking",
+   "image": null,
+   "published": "2026-10-29T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "c0db2f78e6f9",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "How we use ElevenAgents to save 1,200 hours a month in daily operations",
+   "summary": "How we use ElevenAgents to save 1,200 hours a month in daily operations across GTM, product, support, and engineering",
+   "url": "https://elevenlabs.io/blog/internal-ops-agents",
+   "image": null,
+   "published": "2026-10-29T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "19616655e2da",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Introducing SFX v3 in ElevenCreative and ElevenAPI",
+   "summary": "SFX v3 is here: more reliable multi-sound prompts, more convincing music and vocals, and cleaner audio. Now in ElevenCreative and ElevenAPI.",
+   "url": "https://elevenlabs.io/blog/sound-effects-v3",
+   "image": null,
+   "published": "2026-10-29T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 2
+  },
+  {
    "id": "3b9dd560f229",
-   "company": "google",
+   "company": "gemini",
    "kind": "blog",
    "title": "How to use Gemini to update your resume",
    "summary": "Turn raw notes into high-impact, ATS-friendly resume bullets using Gemini. Follow these four steps to polish your professional profile. Get the details.",
@@ -802,7 +1314,7 @@
   },
   {
    "id": "86bb7da2652f",
-   "company": "google",
+   "company": "gemini",
    "kind": "blog",
    "title": "Dive into new topics with immersive explorations in the Gemini app.",
    "summary": "Today, we are rolling out immersive explorations in the new Gemini student hub.",
@@ -826,7 +1338,7 @@
   },
   {
    "id": "b0da25ea6c1a",
-   "company": "deepmind",
+   "company": "gemini",
    "kind": "blog",
    "title": "Gemini 4 Carbon: Our next frontier model",
    "summary": "",
@@ -850,7 +1362,7 @@
   },
   {
    "id": "185e559c77b9",
-   "company": "google",
+   "company": "gemini",
    "kind": "blog",
    "title": "Gemini 4 Carbon: our next frontier model",
    "summary": "Faceted iridescent crystal surrounded by floating white number 4s.",
@@ -885,6 +1397,138 @@
    "importance": 0
   },
   {
+   "id": "f03dd1041972",
+   "company": "amazon",
+   "kind": "blog",
+   "title": "Amazon's most advanced chip helps power the AI behind Prime 360—here's how",
+   "summary": "Amazon's purpose-built Trainium AI chip helps power the diffusion models that deliver NBA on Prime’s breakthrough highlight technology.",
+   "url": "https://www.aboutamazon.com/news/innovation/trainium-ai-chip-prime-360-nba-highlights?utm_source=rss",
+   "image": "https://assets.aboutamazon.com/dims4/default/289ec82/2147483647/strip/true/crop/700x394+0+0/resize/767x432!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F74%2F6b%2F0682c5f54cbb942bb2fcada535bd%2Fezgif-resized.gif",
+   "published": "2026-10-28T16:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "194ab4b69c2c",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Route and orchestrate models with GitHub Copilot Fusion",
+   "summary": "GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you.… The post Route and orchestrate models with GitHub Copilot Fusion appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+   "image": null,
+   "published": "2026-10-28T16:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "dc49fe8911d9",
+   "company": "replit",
+   "kind": "blog",
+   "title": "Replit’s Architecture Behind Secure Agent Work",
+   "summary": "Last week’s security disclosures offered a glimpse of the challenges ahead. Critical flaws surfaced across software that much of the internet depends on. AI agents are making vulnerabilities faster and easier to find, while the time from discovery to exploitation continues to shrink. Companies increasingly need agents both to defend against threats and to transform how work gets done. As agents…",
+   "url": "https://replit.com/blog/architecture-behind-secure-agent-work",
+   "image": "https://cdn.sanity.io/images/bj34pdbp/migration/0e62d793269ed45f561a7d2d5023f81475793ed0-6400x3600.png",
+   "published": "2026-10-28T16:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "f3aa6dba8d09",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub Copilot app, Universe releases",
+   "summary": "Work doesn’t always fit in a single repository or session. A feature can span several repositories. A launch plan can pull in specs, designs, and assets without touching a repository… The post GitHub Copilot app, Universe releases appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+   "image": null,
+   "published": "2026-10-28T15:55:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 2
+  },
+  {
+   "id": "393d97d2e447",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub Enterprise now includes access to GitHub Copilot",
+   "summary": "Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many… The post GitHub Enterprise now includes access to GitHub Copilot appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "image": null,
+   "published": "2026-10-28T15:50:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "adf1996fc970",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Security extension for the GitHub Copilot app",
+   "summary": "You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the… The post Security extension for the GitHub Copilot app appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+   "image": null,
+   "published": "2026-10-28T15:45:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "3a09379f6ade",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub intelligence puts your code, context, and history to work",
+   "summary": "Agents should understand more than your codebase—they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in… The post GitHub intelligence puts your code, context, and history to work appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+   "image": null,
+   "published": "2026-10-28T15:40:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "2304fbe0fd69",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Build shared workflows for your team with Copilot Automations",
+   "summary": "Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the… The post Build shared workflows for your team with Copilot Automations appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
+   "image": null,
+   "published": "2026-10-28T15:35:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "00c85acf9d22",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub Copilot in VS Code, Universe releases",
+   "summary": "This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how… The post GitHub Copilot in VS Code, Universe releases appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases",
+   "image": null,
+   "published": "2026-10-28T15:33:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 2
+  },
+  {
+   "id": "eb9069225e78",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Repository plugin defaults and enterprise plugin controls generally available",
+   "summary": "Repository plugin defaults and enterprise-managed plugin controls are now generally available in VS Code, Copilot CLI, and the GitHub Copilot app. Trusted repositories can install and enable default plugins for… The post Repository plugin defaults and enterprise plugin controls generally available appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-10-28-repository-plugin-defaults-and-enterprise-plugin-controls-generally-available",
+   "image": null,
+   "published": "2026-10-28T15:33:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "05a87e963785",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Generate and edit images directly in Copilot",
+   "summary": "You can now generate and edit images using natural language in GitHub Copilot. When you ask for an image, your selected reasoning model calls a dedicated image-generation tool powered by… The post Generate and edit images directly in Copilot appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot",
+   "image": null,
+   "published": "2026-10-28T15:30:55Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "2952348be6c4",
    "company": "nvidia",
    "kind": "blog",
@@ -895,6 +1539,54 @@
    "published": "2026-10-28T15:00:46Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1
+  },
+  {
+   "id": "3f3621d9515c",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Conversational AI in banking: Use cases, benefits, examples",
+   "summary": "Learn what conversational AI in banking is, how voice agents handle phone calls, use cases, core metrics, and how banks and fintechs use ElevenAgents today",
+   "url": "https://elevenlabs.io/blog/conversational-ai-in-banking",
+   "image": null,
+   "published": "2026-10-28T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "00787c6ce357",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Lettuce cuts creative ad production from over a week to under a minute with ElevenLabs",
+   "summary": "Lettuce uses Ads Engine in ElevenCreative to generate Meta ad variants in 45 seconds, cutting creative costs by 75% and cost per lead by 40-60%.",
+   "url": "https://elevenlabs.io/blog/lettuce",
+   "image": null,
+   "published": "2026-10-28T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "f6dcfa10e659",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "ElevenLabs and adELA bring free voice restoration to Spain",
+   "summary": "ElevenLabs partners with adELA, Spain’s leading ALS association, to restore the voices of patients living with ALS for free.",
+   "url": "https://elevenlabs.io/blog/elevenlabs-adela",
+   "image": null,
+   "published": "2026-10-28T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "9296d1168d38",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "How your transcript knows where each word is spoken",
+   "summary": "Meet Cue, ElevenLabs’ forced alignment model: character-level timestamps, any recording length, and an hour of audio aligned in under a second.",
+   "url": "https://elevenlabs.io/blog/cue-aligner",
+   "image": null,
+   "published": "2026-10-28T12:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
   },
   {
    "id": "baba7bee56c6",
@@ -1005,6 +1697,18 @@
    "importance": 1
   },
   {
+   "id": "993dac35f314",
+   "company": "replit",
+   "kind": "blog",
+   "title": "Anyone can now bring their ideas into the company codebase",
+   "summary": "Save a seat to hear directly from our product team in a webinar on November 5! Since we launched the first generally available coding agent in 2024, almost anyone can build an app. But changing your company’s core product is still out of reach for anyone outside engineering, and that bottleneck has only grown as more people build. The people who know what should change in a product often sit…",
+   "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+   "image": "https://cdn.sanity.io/images/bj34pdbp/migration/013bc1ad1b9f5911b76fe44d5bac3720f69eb51a-7680x4320.jpg",
+   "published": "2026-10-27T15:30:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 1
+  },
+  {
    "id": "df8156dd7062",
    "company": "nvidia",
    "kind": "blog",
@@ -1018,7 +1722,7 @@
   },
   {
    "id": "ab4bae5b2a4c",
-   "company": "google",
+   "company": "gemini",
    "kind": "blog",
    "title": "8 examples of Gemini 4 Argon in action",
    "summary": "Collage of various uses of Gemini 4 Argon",
@@ -1027,6 +1731,18 @@
    "published": "2026-10-27T15:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2
+  },
+  {
+   "id": "378820e71e6f",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+   "summary": "",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+   "image": null,
+   "published": "2026-10-27T12:58:45Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
   },
   {
    "id": "b459574059fa",
@@ -1041,8 +1757,20 @@
    "importance": 1
   },
   {
+   "id": "42a0e145db67",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Siri AI is available in more languages starting today",
+   "summary": "",
+   "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
+   "image": null,
+   "published": "2026-10-26T18:37:30Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "84dbedb386be",
-   "company": "google",
+   "company": "gemini",
    "kind": "blog",
    "title": "15 college students share their favorite Gemini features",
    "summary": "Three young adults gathered around a laptop looking at its screen",
@@ -1062,6 +1790,18 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
    "published": "2026-10-26T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
+   "importance": 0
+  },
+  {
+   "id": "f6c7de22a7ee",
+   "company": "replit",
+   "kind": "blog",
+   "title": "The Rise of the Self-Driving Company",
+   "summary": "In 1937, British Nobel Prize-winning economist Ronald Coase asked: Why do firms exist? His answer was transaction costs. It’s often cheaper to organize economic activity inside a company than to coordinate it through markets. But companies have their own coordination costs: management, meetings, departments, reporting, and bureaucracy. For more than a century, we've accepted these costs as the…",
+   "url": "https://replit.com/blog/rise-of-self-driving-company",
+   "image": "https://cdn.sanity.io/images/bj34pdbp/migration/46e4e304d1e71a5a44df0beffe3c5e3ee9613745-2880x1506.png",
+   "published": "2026-10-26T15:50:00Z",
+   "found": "2026-11-03T19:05:44Z",
    "importance": 0
   },
   {
@@ -1090,7 +1830,7 @@
   },
   {
    "id": "5bd9a2479d45",
-   "company": "google",
+   "company": "gemini",
    "kind": "blog",
    "title": "See what 5 builders are making with Gemini 4 Argon",
    "summary": "Collage showing five builds with Gemini 4 Argon",
@@ -1099,6 +1839,18 @@
    "published": "2026-10-23T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2
+  },
+  {
+   "id": "caa4b3017f0c",
+   "company": "replit",
+   "kind": "blog",
+   "title": "Security vulnerabilities across the internet: How Replit is protecting your business",
+   "summary": "The vulnerabilities disclosed this week affect software that much of the internet depends on. They create real risks for businesses and more work for the teams responsible for keeping their applications secure. As AI makes more vulnerabilities easy to find, those teams will face more pressure to respond. At Replit, the security of our customers and the software and businesses they are building is…",
+   "url": "https://replit.com/blog/security-vulnerabilities-across-the-internet",
+   "image": "https://cdn.sanity.io/images/bj34pdbp/migration/ed99c7586297ce3cf20ebd140777d03b3c19296f-1920x1080.jpg",
+   "published": "2026-10-23T03:09:09Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
   },
   {
    "id": "b21a97b1b273",
@@ -1134,6 +1886,30 @@
    "image": null,
    "published": "2026-10-22T22:24:34Z",
    "found": "2026-11-03T18:30:31Z",
+   "importance": 0
+  },
+  {
+   "id": "ed34adaea542",
+   "company": "replit",
+   "kind": "blog",
+   "title": "Replit Monitoring Agent: Your very own software engineering team",
+   "summary": "Anyone who has published an app knows that dreaded message from a user: “Doesn’t work for me”. At a large company, an on-call engineer gets paged, investigates the problem, and works to get the app running again. For most creators and small teams, that responsibility falls to the same person building the product, supporting customers, and trying to grow the business. Today, we’re changing that.…",
+   "url": "https://replit.com/blog/replit-monitoring-agent",
+   "image": "https://cdn.sanity.io/images/bj34pdbp/migration/d5813975d778851053019144628b568b031069d1-1600x900.png",
+   "published": "2026-10-22T20:24:13Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "ece244a82d3e",
+   "company": "amazon",
+   "kind": "blog",
+   "title": "The science behind TorchNeuron, Amazon’s new PyTorch backend for AWS Trainium chips",
+   "summary": "Runtime optimizations and a thorough evaluation process driven by agentic AI help ensure that models written in PyTorch will execute efficiently and reliably on Trainium systems.",
+   "url": "https://www.amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips",
+   "image": null,
+   "published": "2026-10-22T19:36:42Z",
+   "found": "2026-11-03T19:05:44Z",
    "importance": 0
   },
   {
@@ -1281,8 +2057,32 @@
    "importance": 0
   },
   {
+   "id": "a3ad0558b97a",
+   "company": "amazon",
+   "kind": "blog",
+   "title": "Strengthening AI safety evaluation through independent third-party review",
+   "summary": "How Amazon partnered with AVERI to independently assess — and improve — our internal safety testing of Amazon models.",
+   "url": "https://www.amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
+   "image": null,
+   "published": "2026-10-20T17:57:55Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "d3ec3a595c33",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+   "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
+   "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+   "image": null,
+   "published": "2026-10-20T16:05:03Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "cbc887d67fea",
-   "company": "google",
+   "company": "gemini",
    "kind": "blog",
    "title": "New Gemini tools for small business owners",
    "summary": "\"Your brand, your tools, all in one place\" banner featuring three feature highlights: \"Create image styles for your brand,\" \"Customize Gemini with apps and skills,\" and \"Create content with templates.\"",
@@ -1290,6 +2090,30 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp",
    "published": "2026-10-20T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
+   "importance": 0
+  },
+  {
+   "id": "6d5eddf85402",
+   "company": "google",
+   "kind": "blog",
+   "title": "Inside YouTube's findings on generative video and personal creativity",
+   "summary": "A new YouTube Culture & Trends report shows how creators and hobbyists use generative AI video to express personal identity and connect over shared passions.",
+   "url": "https://blog.youtube/culture-and-trends/youtube-generative-ai-video-creativity-report/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YouTube-Mainstream-Report-Cover.max-600x600.format-webp_9n1FlTM.webp",
+   "published": "2026-10-20T11:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "9b2975afbab1",
+   "company": "samsung",
+   "kind": "blog",
+   "title": "Tailored for Every Home: Samsung “The Brief” Goes Global With AI-Powered Home Appliances",
+   "summary": "Samsung Electronics hosted “The Brief,” a series of home appliance tech seminars across five regions: the US, Europe, Latin America, Southwest Asia, and Southeast Asia. The event showcased AI-powered home appliance experiences reflecting each region’s living environment and consumer needs. Across the five regions, Samsung highlighted AI appliance technologies and how they are applied in […]",
+   "url": "https://news.samsung.com/global/tailored-for-every-home-samsung-the-brief-goes-global-with-ai-powered-home-appliances",
+   "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/19163329/Samsung-Corporate-The-Brief-Global-with-AI-Powered-Home-Appliances_Thumb932-728x410.jpg",
+   "published": "2026-10-20T08:00:31Z",
+   "found": "2026-11-03T19:05:44Z",
    "importance": 0
   },
   {
@@ -1305,8 +2129,32 @@
    "importance": 0
   },
   {
+   "id": "f8471e3dcfd4",
+   "company": "cursor",
+   "kind": "blog",
+   "title": "Agent SDK",
+   "summary": "Define an agent as a folder of code, test it with evals, and deploy it to Cursor or your own infrastructure.",
+   "url": "https://cursor.com/changelog/agent-sdk",
+   "image": null,
+   "published": "2026-10-20T00:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "0f3dfef227c0",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "How to continue a GitHub Copilot app session in VS Code",
+   "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
+   "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+   "image": null,
+   "published": "2026-10-19T18:47:22Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "7b7535a06a66",
-   "company": "google",
+   "company": "gemini",
    "kind": "blog",
    "title": "4 tips for styling outfits with Gemini",
    "summary": "UI showing a user asking Gemini to put a person into various outfit items",
@@ -1314,6 +2162,18 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp",
    "published": "2026-10-19T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
+   "importance": 0
+  },
+  {
+   "id": "23efc0a95fbc",
+   "company": "amazon",
+   "kind": "blog",
+   "title": "Amazon opens its AWS Trainium AI chips to every PyTorch developer, no rewrite needed",
+   "summary": "TorchNeuron lets developers run their existing AI code on AWS Trainium chips with virtually no changes, reducing the friction to adopting new hardware.",
+   "url": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai?utm_source=rss",
+   "image": "https://assets.aboutamazon.com/dims4/default/f66c60b/2147483647/strip/true/crop/1600x900+0+0/resize/767x431!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F8a%2F19%2F8a5b8b1542a18aea511b89378867%2Faws-torchneuron-terminal-inline.gif",
+   "published": "2026-10-19T13:00:10Z",
+   "found": "2026-11-03T19:05:44Z",
    "importance": 0
   },
   {
@@ -1329,6 +2189,30 @@
    "importance": 0
   },
   {
+   "id": "94224a1993d6",
+   "company": "replit",
+   "kind": "blog",
+   "title": "Bring Your Own Cloud to Replit",
+   "summary": "Enterprise teams want to build apps connected to their company’s systems and data. But strict security requirements often mean development and production must stay within the isolation and control of their own cloud. Replit has steadily expanded its governance and isolation posture with many governance tools, separate development and production databases and a single-tenant Replit offering for…",
+   "url": "https://replit.com/blog/bring-your-own-cloud",
+   "image": "https://cdn.sanity.io/images/bj34pdbp/migration/3e54b7ac2f7528322ea28d1938bfe24e0086ecca-1920x1004.png",
+   "published": "2026-10-16T09:30:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "f50edeef798d",
+   "company": "cursor",
+   "kind": "blog",
+   "title": "Cloud Agent Canvases and Environment Improvements",
+   "summary": "Cloud agents can now build and share interactive canvases. The Environments API is available in beta, environments support up to 300 repos, and large environments load 5x faster.",
+   "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+   "image": null,
+   "published": "2026-10-16T00:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "996b33c09ad5",
    "company": "deepmind",
    "kind": "blog",
@@ -1338,6 +2222,18 @@
    "image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo",
    "published": "2026-10-15T16:08:03Z",
    "found": "2026-11-03T18:30:31Z",
+   "importance": 0
+  },
+  {
+   "id": "7c11c79ec35f",
+   "company": "suno",
+   "kind": "blog",
+   "title": "Sidechaining Makes Your Music Pump",
+   "summary": "One of the oldest tricks in pro audio can bring your mix to life",
+   "url": "https://suno.com/blog/about-sidechaining",
+   "image": null,
+   "published": "2026-10-15T15:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
    "importance": 0
   },
   {
@@ -1486,7 +2382,7 @@
   },
   {
    "id": "471508c04c30",
-   "company": "deepmind",
+   "company": "gemini",
    "kind": "blog",
    "title": "Developing Gemini 4 Argon responsibly and safely",
    "summary": "",
@@ -1497,8 +2393,20 @@
    "importance": 2
   },
   {
+   "id": "ed2bad3e4df7",
+   "company": "suno",
+   "kind": "blog",
+   "title": "Behind the Scenes: Make what moves you",
+   "summary": "Nina McNeely brings Braylon Browner's and Banoffee's visions to life across two shoots built on experimentation, instinct and creative freedom.",
+   "url": "https://suno.com/blog/behind-the-scenes-make-what-moves-you",
+   "image": null,
+   "published": "2026-10-13T19:01:53Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "3e78d0d4c307",
-   "company": "google",
+   "company": "gemini",
    "kind": "blog",
    "title": "Developing Gemini 4 Argon responsibly and safely",
    "summary": "Gemini 4 Argon logo next to a large white \"4\", all on a gradient blue background",
@@ -1509,8 +2417,32 @@
    "importance": 2
   },
   {
+   "id": "22c6ef693aee",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+   "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog .",
+   "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+   "image": null,
+   "published": "2026-10-13T17:56:33Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "d057f04d0b3c",
+   "company": "replit",
+   "kind": "blog",
+   "title": "Introducing Replit Solutions Partners",
+   "summary": "When anyone in an organization can put AI to work on the problems they know best, the way the organization operates starts to change. Designers turn ideas into working software that engineers can review and build on. HR builds its own onboarding tools. Finance replaces messy spreadsheets with live, custom dashboards. Support teams use agents to investigate issues and resolve tickets faster. The…",
+   "url": "https://replit.com/blog/introducing-replit-solutions-partners",
+   "image": "https://cdn.sanity.io/images/bj34pdbp/migration/9b07abf4052e0699a2bbc0bb80da5c2eba7fea57-1920x1080.png",
+   "published": "2026-10-13T17:25:04Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 2
+  },
+  {
    "id": "e1fac0b9234f",
-   "company": "deepmind",
+   "company": "gemini",
    "kind": "video",
    "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
    "summary": "The Chromium codebase is millions of lines long and decades old. In the past, working with it has meant navigating decades of tangled features, where touching one component can unexpectedly affect another. Erik Chen, an engineer at Google, is using Gemini 4 Argon to ‘untangle’ the architecture. The model’s coding capabilities mean that multiple agents can work independently to refactor the…",
@@ -1522,7 +2454,7 @@
   },
   {
    "id": "d5d8f56a8647",
-   "company": "deepmind",
+   "company": "gemini",
    "kind": "video",
    "title": "Using Gemini 4 Argon to protect against Cyber attackers",
    "summary": "In shadow A/B testing on real-world systems, Wiz security researchers put Gemini 4 Argon to the test against complex cyber threats. Using its advanced reasoning and long-horizon capabilities, Gemini 4 Argon found over two times more vulnerabilities than baseline models and successfully uncovered critical risks—such as identifying a file download bypass and master key in healthcare software. By…",
@@ -1534,7 +2466,7 @@
   },
   {
    "id": "884ebf3c3978",
-   "company": "deepmind",
+   "company": "gemini",
    "kind": "blog",
    "title": "Gemini 4 Argon for Robotics",
    "summary": "",
@@ -1546,7 +2478,7 @@
   },
   {
    "id": "f174716114a9",
-   "company": "deepmind",
+   "company": "gemini",
    "kind": "blog",
    "title": "Gemini 4 Argon: Built to solve your hardest problems",
    "summary": "",
@@ -1570,7 +2502,7 @@
   },
   {
    "id": "592d3ff77c96",
-   "company": "google",
+   "company": "gemini",
    "kind": "blog",
    "title": "Gemini 4 Argon comes to the Gemini app.",
    "summary": "Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.",
@@ -1582,7 +2514,7 @@
   },
   {
    "id": "c1e94fc83136",
-   "company": "google",
+   "company": "gemini",
    "kind": "blog",
    "title": "Gemini 4 Argon: Built to solve your hardest problems",
    "summary": "TBD",
@@ -1594,7 +2526,7 @@
   },
   {
    "id": "ade12c07232f",
-   "company": "deepmind",
+   "company": "gemini",
    "kind": "video",
    "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
    "summary": "In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing cornhole. Using its video understanding and advanced reasoning capabilities, Gemini 4 built a virtual simulation in MuJoCo and accurately calculated the physics and whole-body control required for Apptronik’s Apollo 2 humanoid to sink seven consecutive shots in the real world.…",
@@ -1606,7 +2538,7 @@
   },
   {
    "id": "1d27ca953a63",
-   "company": "deepmind",
+   "company": "gemini",
    "kind": "video",
    "title": "Untangling 500-page chemistry patents with Gemini 4",
    "summary": "Auditing chemistry literature usually means weeks of manual, error-prone reading, where a molecule’s structure can sit 50 pages away from its experimental readout. At Isomorphic Labs, researchers Brian Bender and Santosh Adhikari are using Gemini 4 Argon’s multimodal capabilities to help tackle this early research bottleneck. The model synthesizes dense papers and extracts patent data into…",
@@ -1615,6 +2547,18 @@
    "published": "2026-10-13T15:58:17Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2
+  },
+  {
+   "id": "3c04da4c4ba3",
+   "company": "characterai",
+   "kind": "blog",
+   "title": "An Update on Character.ai",
+   "summary": "Today, we’re sharing that Character.ai has initiated a voluntary Chapter 11 bankruptcy process to facilitate a court-supervised sale of the company. Over the past year, we’ve taken meaningful steps to sustain and improve our business amid significant legal, regulatory, and operational headwinds. After",
+   "url": "https://blog.character.ai/an-update-on-character-ai/",
+   "image": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/2026/10/oct-blog-header.jpg",
+   "published": "2026-10-13T03:52:33Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
   },
   {
    "id": "adadd90b83d7",
@@ -1626,6 +2570,42 @@
    "image": null,
    "published": "2026-10-13T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
+   "importance": 0
+  },
+  {
+   "id": "b8b5f613d53f",
+   "company": "cursor",
+   "kind": "blog",
+   "title": "Origin App Marketplace",
+   "summary": "Origin integrates with over 20 apps for deployments, CI, code review, security, monitoring, and project management, and the marketplace is now open to public submissions.",
+   "url": "https://cursor.com/changelog/origin-app-marketplace",
+   "image": null,
+   "published": "2026-10-13T00:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "d8d241723974",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+   "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
+   "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+   "image": null,
+   "published": "2026-10-12T17:43:59Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "e05f5dfb850c",
+   "company": "amazon",
+   "kind": "blog",
+   "title": "Can we change an AI model’s architecture without retraining it from scratch?",
+   "summary": "“Priming” reuses pretrained Transformer weights to build models with more efficient architectures at less than 1% of the original training cost and with throughputs up to twice as high.",
+   "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+   "image": null,
+   "published": "2026-10-12T17:36:18Z",
+   "found": "2026-11-03T19:05:44Z",
    "importance": 0
   },
   {
@@ -1665,6 +2645,30 @@
    "importance": 0
   },
   {
+   "id": "6d143a9a16cf",
+   "company": "midjourney",
+   "kind": "blog",
+   "title": "Testing Thinking Mode",
+   "summary": "hi everyone! We're testing a new \"Thinking Mode\" for image generation on our Alpha website ( alpha.midjourney.com ) and we'd love your feedback. To run it go under the lightbox for a job and click \"Rerun (Thinking)\" in the lower right corner",
+   "url": "https://updates.midjourney.com/testing-thinking-mode/",
+   "image": null,
+   "published": "2026-10-08T21:17:13Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "a0c18c3e9abb",
+   "company": "midjourney",
+   "kind": "blog",
+   "title": "Alpha Changelog - 10/7/26",
+   "summary": "Hi everyone, here's this week's round of changes on alpha.midjourney.com . The highlight this week is shared folders, a new way to collaborate on Midjourney. Many of these improvements came straight from #alpha-ideas-and-bugs and office hours, so keep your thoughts coming! 🆕",
+   "url": "https://updates.midjourney.com/alpha-changelog-10-7-26/",
+   "image": null,
+   "published": "2026-10-08T21:16:55Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "fc6c16485847",
    "company": "google",
    "kind": "blog",
@@ -1674,6 +2678,18 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
    "published": "2026-10-07T20:19:57Z",
    "found": "2026-11-03T18:30:31Z",
+   "importance": 0
+  },
+  {
+   "id": "c13c9140efc7",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Secret protection must scale with software",
+   "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .",
+   "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+   "image": null,
+   "published": "2026-10-07T17:45:34Z",
+   "found": "2026-11-03T19:05:44Z",
    "importance": 0
   },
   {
@@ -1701,6 +2717,18 @@
    "importance": 0
   },
   {
+   "id": "608f20beda26",
+   "company": "googlelabs",
+   "kind": "blog",
+   "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
+   "summary": "Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp",
+   "published": "2026-10-06T16:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "0ec0c3cc2f3e",
    "company": "google",
    "kind": "blog",
@@ -1710,6 +2738,18 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
    "published": "2026-10-06T15:05:11Z",
    "found": "2026-11-03T18:30:31Z",
+   "importance": 0
+  },
+  {
+   "id": "ecd4573e22e0",
+   "company": "cursor",
+   "kind": "blog",
+   "title": "Remote control for local agents",
+   "summary": "See and reply to the local agents running on your computer from the Cursor iOS app.",
+   "url": "https://cursor.com/changelog/remote-control-local-agents",
+   "image": null,
+   "published": "2026-10-06T00:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
    "importance": 0
   },
   {
@@ -1725,6 +2765,30 @@
    "importance": 0
   },
   {
+   "id": "c33acdf7bc8b",
+   "company": "suno",
+   "kind": "blog",
+   "title": "5 Albums You Can't Miss",
+   "summary": "Discover some of the first albums on Suno.",
+   "url": "https://suno.com/blog/albums-to-discover",
+   "image": null,
+   "published": "2026-10-05T18:53:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "4b0c57f28723",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "ReviewBench: An open benchmark for AI code review",
+   "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .",
+   "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+   "image": null,
+   "published": "2026-10-05T15:59:40Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 1
+  },
+  {
    "id": "1122627a66df",
    "company": "google",
    "kind": "blog",
@@ -1735,6 +2799,18 @@
    "published": "2026-10-02T15:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2
+  },
+  {
+   "id": "5afa66c19841",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "AI is changing developer work. Here are three skills to strengthen.",
+   "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog .",
+   "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+   "image": null,
+   "published": "2026-10-02T15:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
   },
   {
    "id": "b9b18411de99",
@@ -1749,6 +2825,30 @@
    "importance": 0
   },
   {
+   "id": "2b4cb4b013a5",
+   "company": "midjourney",
+   "kind": "blog",
+   "title": "Alpha Changelog - 10/1/26",
+   "summary": "ICYMI – last week, we launched a few features on alpha.midjourney.com that we're really excited about: style previews in the sidebar so you can see what you’ll get before you generate, larger images in create, and setting default parameters in a folder. Mostly focused",
+   "url": "https://updates.midjourney.com/alpha-changelog-10-1-26/",
+   "image": null,
+   "published": "2026-10-02T00:57:01Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 1
+  },
+  {
+   "id": "9506769ef6ff",
+   "company": "suno",
+   "kind": "blog",
+   "title": "Introducing Speech (beta)",
+   "summary": "A new way to express yourself creatively",
+   "url": "https://suno.com/blog/introducing-speech-beta",
+   "image": null,
+   "published": "2026-10-01T20:35:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 2
+  },
+  {
    "id": "8aa77346da60",
    "company": "deepmind",
    "kind": "video",
@@ -1761,8 +2861,20 @@
    "importance": 0
   },
   {
+   "id": "853d99b4e783",
+   "company": "amazon",
+   "kind": "blog",
+   "title": "Graph-centric agentic intelligence",
+   "summary": "Augmenting a network graph with agentic AI produces a “digital twin” that can help isolate network failures.",
+   "url": "https://www.amazon.science/blog/graph-centric-agentic-intelligence",
+   "image": null,
+   "published": "2026-10-01T12:54:31Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "15e70ee5e4a7",
-   "company": "deepmind",
+   "company": "gemini",
    "kind": "blog",
    "title": "Gemini 4 Argon: our next era of frontier intelligence",
    "summary": "",
@@ -1783,6 +2895,18 @@
    "published": "2026-09-30T15:03:07Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2
+  },
+  {
+   "id": "34b6fd4acf3f",
+   "company": "suno",
+   "kind": "blog",
+   "title": "Three Must-learn Tips for Using EQ",
+   "summary": "EQ will be one of the first tools to master when you come to Suno Studio. Get started here!",
+   "url": "https://suno.com/blog/about-eq",
+   "image": null,
+   "published": "2026-09-29T19:00:20Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
   },
   {
    "id": "105e76d8cdee",
@@ -1809,6 +2933,54 @@
    "importance": 0
   },
   {
+   "id": "dc939076f65e",
+   "company": "characterai",
+   "kind": "blog",
+   "title": "introducing PipSqueak 3, ShortSqueak, and (c.ai) lite",
+   "summary": "Two new free Chat Styles are rolling out to everyone on (c.ai): PipSqueak 3 , a big step up for general roleplay, and ShortSqueak , a much requested style for quick, casual chats. Alongside them, we’re launching (c.ai) lite , a new subscription plan that gets you more out",
+   "url": "https://blog.character.ai/new-styles-new-plan/",
+   "image": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/2026/09/Model-Launch.png",
+   "published": "2026-09-28T18:00:30Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 2
+  },
+  {
+   "id": "aabbcb7a3a47",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+   "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog .",
+   "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+   "image": null,
+   "published": "2026-09-25T18:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "4dfafaa726ef",
+   "company": "amazon",
+   "kind": "blog",
+   "title": "A kernel-centric path to real-time video generation on Trainium",
+   "summary": "Using the Neuron Kernel Interface, a Reactor–AWS collaboration tackled the dynamic shapes, memory access patterns, and cache management that make real-time autoregressive diffusion hard—building techniques that generalize across models.",
+   "url": "https://www.amazon.science/blog/a-kernel-centric-path-to-real-time-video-generation-on-trainium",
+   "image": "https://cdn.amazon.science/64/06/65de2b8949c5ad6788d04e1cd813/trainium-cover.png",
+   "published": "2026-09-25T14:55:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "234391b377f9",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "When chat is the wrong UI",
+   "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog .",
+   "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+   "image": null,
+   "published": "2026-09-24T20:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "da79314d1ca0",
    "company": "google",
    "kind": "blog",
@@ -1821,8 +2993,32 @@
    "importance": 0
   },
   {
+   "id": "87c949c5277f",
+   "company": "midjourney",
+   "kind": "blog",
+   "title": "Edit updates, thumbnail previews, and more",
+   "summary": "Hi everyone! A few updates to share with you today We're experimenting with fast models in the interface on alpha.midjourney.com . The Styles sidebar can now preview what your latest prompt looks like across styles. Turn on \"Live previews\" and see a preview of your",
+   "url": "https://updates.midjourney.com/edit-updates-thumbnail-previews-and-more/",
+   "image": null,
+   "published": "2026-09-24T19:36:40Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "5d810621a5e7",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+   "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .",
+   "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+   "image": null,
+   "published": "2026-09-24T18:26:12Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "e7107d9a76d9",
-   "company": "deepmind",
+   "company": "gemini",
    "kind": "blog",
    "title": "Introducing Gemini 3.8 Live with Live Avatar",
    "summary": "",
@@ -1831,6 +3027,18 @@
    "published": "2026-09-24T16:20:39Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2
+  },
+  {
+   "id": "abbe680279c1",
+   "company": "midjourney",
+   "kind": "blog",
+   "title": "Alpha Changelog - 9/23/26",
+   "summary": "Hi everyone, here are the latest round of changes on alpha.midjourney.com . Many of these came directly from your feedback in #alpha-ideas-and-bugs . Please keep it coming! STYLE PREVIEWS We're experimenting with fast models in the interface. The Styles sidebar can now preview your current",
+   "url": "https://updates.midjourney.com/alpha-changelog-9-23-26/",
+   "image": null,
+   "published": "2026-09-24T01:59:23Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
   },
   {
    "id": "cb4e42d4d067",
@@ -1869,8 +3077,20 @@
    "importance": 1
   },
   {
+   "id": "8a125b97e524",
+   "company": "googlelabs",
+   "kind": "blog",
+   "title": "6 new Google Flow Tools built by industry creatives",
+   "summary": "Colorful, iridescent 3D tiles with embossed symbols on a black background.",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp",
+   "published": "2026-09-23T16:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
    "id": "61c4e542f161",
-   "company": "deepmind",
+   "company": "gemini",
    "kind": "video",
    "title": "Create your own voices with Gemini 3.8 text-to-speech",
    "summary": "Design entirely new vocal personas from scratch for gaming, immersive audiobooks, or dual-speaker podcasts using natural language prompts - directing every performance line by line with nuanced acting cues, pacing, back channeling, and dialect shifts. Or, recreate consistent adult vocal profiles from just a 30-second audio sample of your voice or a voice you have the rights to use, backed by…",
@@ -1879,6 +3099,78 @@
    "published": "2026-09-23T15:23:38Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2
+  },
+  {
+   "id": "01251fcfddec",
+   "company": "google",
+   "kind": "blog",
+   "title": "Innovation for the YouTube Era: What’s new for viewers and creators",
+   "summary": "Discover everything announced at Made On YouTube 2026. Explore new conversational AI tools, Custom Feeds, Live Auto-Dubbing, and updates to the YouTube Era.",
+   "url": "https://blog.youtube/news-and-events/innovation-youtube-era-made-on-viewers-creators/",
+   "image": null,
+   "published": "2026-09-23T14:30:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 1
+  },
+  {
+   "id": "7c348eedc060",
+   "company": "amazon",
+   "kind": "blog",
+   "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude",
+   "summary": "Sellers can now automate routine tasks 24/7 with Seller Assistant and bring their Amazon data and Seller Central insights into the AI tools they already use.",
+   "url": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude?utm_source=rss",
+   "image": "https://assets.aboutamazon.com/dims4/default/83adb37/2147483647/strip/true/crop/1434x1434+243+0/resize/605x605!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Ff2%2F04%2Ffd4576b74c66be6294fc5f69edd1%2Faccelerate-2026-seller-assistant-hero-feature.jpg",
+   "published": "2026-09-23T13:00:08Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "089c4ff63dd0",
+   "company": "cursor",
+   "kind": "blog",
+   "title": "Rollouts and Security Review",
+   "summary": "Two bots for the last mile of shipping code: Rollouts watches every change as it deploys, and Security Review reports exploitable bugs on every pull request.",
+   "url": "https://cursor.com/changelog/rollouts-and-security-reviewer",
+   "image": null,
+   "published": "2026-09-23T00:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "e8cb7a03edd8",
+   "company": "amazon",
+   "kind": "blog",
+   "title": "Inside a decade of Amazon chip design, built workload by workload",
+   "summary": "At AI Infra Summit, Amazon SVP Peter DeSantis explained how real customer workloads guided every generation of Amazon's chips, from Nitro to Trainium.",
+   "url": "https://www.aboutamazon.com/news/innovation-at-amazon/peter-desantis-amazon-ai-chips-design?utm_source=rss",
+   "image": "https://assets.aboutamazon.com/dims4/default/994bb0d/2147483647/strip/true/crop/2000x1125+0+0/resize/767x431!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F19%2F3f%2F7f2ad1434a4e80ac0c18d86ce797%2Faiinfrasummit-hero-amazonnews-ck2226-2.png",
+   "published": "2026-09-22T18:42:38Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "b94504d94fb1",
+   "company": "suno",
+   "kind": "blog",
+   "title": "What Does a Compressor Actually Do?",
+   "summary": "We talk compression and dynamics in the first in a series where we explain the tools behind great-sounding music.",
+   "url": "https://suno.com/blog/about-compression",
+   "image": null,
+   "published": "2026-09-22T14:00:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
+  },
+  {
+   "id": "390b17852f3a",
+   "company": "amazon",
+   "kind": "blog",
+   "title": "Advancing AI for biology: Teaching models to design and characterize antibodies",
+   "summary": "Three new papers from Amazon Bio Discovery address bottlenecks in AI-driven antibody engineering, from benchmarking binding predictors to experimentally validating de novo design.",
+   "url": "https://www.amazon.science/blog/advancing-ai-for-biology-teaching-models-to-design-and-characterize-antibodies",
+   "image": null,
+   "published": "2026-09-21T17:51:00Z",
+   "found": "2026-11-03T19:05:44Z",
+   "importance": 0
   }
  ]
 }
