@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:26:28Z",
+ "updated": "2026-11-04T18:35:37Z",
  "categories": [
   {
    "key": "big",
@@ -3001,7 +3001,7 @@
    "title": "Strengthening AI safety evaluation through independent third-party review",
    "summary": "How Amazon partnered with AVERI to independently assess — and improve — our internal safety testing of Amazon models.",
    "url": "https://www.amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
-   "image": null,
+   "image": "https://cdn.amazon.science/dims4/default/3299451/2147483647/strip/true/crop/1344x706+0+31/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F75%2Fa3%2F2bf26f074b729cd42d7c68cca6d7%2Fmagnifying-glass-with-checklist.png",
    "published": "2026-10-20T17:57:55Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -3010,7 +3010,8 @@
    "ar_detail": true,
    "ar_title": "تعزيز تقييم أمان الذكاء الاصطناعي عبر مراجعة طرف ثالث مستقل",
    "ar_summary": "شاركت Amazon منظمة AVERI لمراجعة جودة اختبارات الأمان الداخلية لنماذجها، وأجرت أربعة تغييرات استجابة لنتائجها.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "d3ec3a595c33",
@@ -3028,7 +3029,8 @@
    "ar_detail": true,
    "ar_title": "كيف يستخدم ثلاثة من أبطال Java أداة GitHub Copilot لزيادة الإنتاجية",
    "ar_summary": "يشارك ثلاثة خبراء Java أمثلة وممارسات لاستخدام Copilot مع إبقاء المسؤولية على المطور.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "cbc887d67fea",
@@ -3091,7 +3093,7 @@
    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
    "summary": "",
    "url": "https://huggingface.co/blog/hf-torchtpu",
-   "image": null,
+   "image": "https://huggingface.co/blog/assets/hf-torchtpu/thumbnail.png",
    "published": "2026-10-20T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -3100,7 +3102,8 @@
    "ar_detail": true,
    "ar_title": "Hugging Face تدعم TorchTPU: وحدات TPU بشكل أصيل",
    "ar_summary": "مع TorchTPU أصبحت TPU جهازاً عادياً في PyTorch، وتعمل مكتبات Transformers وDiffusers عليها مباشرة.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "f8471e3dcfd4",
@@ -3109,7 +3112,7 @@
    "title": "Agent SDK",
    "summary": "Define an agent as a folder of code, test it with evals, and deploy it to Cursor or your own infrastructure.",
    "url": "https://cursor.com/changelog/agent-sdk",
-   "image": null,
+   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/OG%20Images/agent-sdk-changelog-og-krfALVPprmQ7C4sYpRVGoL7N2vR2pE.png",
    "published": "2026-10-20T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -3118,7 +3121,8 @@
    "ar_detail": true,
    "ar_title": "Cursor تطلق Agent SDK",
    "ar_summary": "يتيح Agent SDK تعريف الوكيل كمجلد شيفرة واختباره بالتقييمات ونشره على Cursor أو بنيتك الخاصة.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "0f3dfef227c0",
@@ -3127,7 +3131,7 @@
    "title": "How to continue a GitHub Copilot app session in VS Code",
    "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-3.11.02-PM.png",
    "published": "2026-10-19T18:47:22Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -3136,7 +3140,8 @@
    "ar_detail": true,
    "ar_title": "كيف تكمل جلسة تطبيق GitHub Copilot داخل VS Code",
    "ar_summary": "شرح لنقل جلسة الوكيل من تطبيق Copilot إلى VS Code مع الحفاظ على المحادثة والتغييرات.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "7b7535a06a66",
@@ -3217,7 +3222,7 @@
    "title": "Cloud Agent Canvases and Environment Improvements",
    "summary": "Cloud agents can now build and share interactive canvases. The Environments API is available in beta, environments support up to 300 repos, and large environments load 5x faster.",
    "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
-   "image": null,
+   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
    "published": "2026-10-16T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -3226,7 +3231,8 @@
    "ar_detail": true,
    "ar_title": "وكلاء Cursor السحابيون يبنون لوحات تفاعلية وتحسينات كبيرة للبيئات",
    "ar_summary": "أصبح بإمكان وكلاء Cursor السحابيين بناء لوحات (Canvases) تفاعلية ومشاركتها، كما أُتيحت واجهة Environments API بنسخة تجريبية. تدعم البيئات الآن حتى 300 مستودع وتُحمَّل البيئات الكبيرة أسرع بخمس مرات.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "996b33c09ad5",
@@ -3253,7 +3259,7 @@
    "title": "Sidechaining Makes Your Music Pump",
    "summary": "One of the oldest tricks in pro audio can bring your mix to life",
    "url": "https://suno.com/blog/about-sidechaining",
-   "image": null,
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/5152a1b2be75701b57c6328ff10986c61d3573db-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
    "published": "2026-10-15T15:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -3262,7 +3268,8 @@
    "ar_detail": true,
    "ar_title": "السايدتشين: خدعة صوتية قديمة تمنح موسيقاك نبضاً",
    "ar_summary": "مقال تعليمي من Suno يشرح تقنية الضغط الجانبي (sidechain) وتاريخها واستخدامها في الموسيقى الإلكترونية، ويربطها بأداة الضاغط في Suno Studio.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "18caff74c7f5",
@@ -3307,7 +3314,7 @@
    "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
    "summary": "",
    "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-   "image": null,
+   "image": "https://mlr.cdn-apple.com/media/MLX_icon_F001_TC_2048_2600_6439f2ba0f.png",
    "published": "2026-10-15T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -3316,7 +3323,8 @@
    "ar_detail": true,
    "ar_title": "Apple: تشغيل نماذج ضخمة محلياً وموزعاً على Mac Studio عبر MLX وRDMA",
    "ar_summary": "تشرح Apple كيف يمكن تشغيل نموذج Muse Spark Open بنحو تريليون معامل على أربعة أجهزة Mac Studio بسرعة تتجاوز 36 رمزاً في الثانية، باستخدام أحدث إصدار من MLX.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "1aaf9ecdd8b2",
@@ -3325,7 +3333,7 @@
    "title": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents",
    "summary": "Multimodal agents commonly generate freeform reasoning before each action. For small models, limited model capacity can result in lengthy reasoning that provides little useful guidance for action generation while incurring substantial inference cost. To address this challenge, we introduce Selection-based Structured Reasoning (SSR), a framework that reformulates reasoning as selection instead of…",
    "url": "https://machinelearning.apple.com/research/selection-structured-reasoning",
-   "image": null,
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
    "published": "2026-10-15T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
@@ -3334,7 +3342,8 @@
    "ar_detail": true,
    "ar_title": "الاستدلال المنظم القائم على الاختيار: نحو وكلاء بحث متعددي الوسائط أكثر كفاءة",
    "ar_summary": "تقدم أبحاث Apple إطار SSR الذي يحوّل الاستدلال إلى اختيار من خيارات جاهزة، فيقلل زمن الاستدلال لكل خطوة أكثر من 90%.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "7f2975ae8e0c",
@@ -3343,7 +3352,7 @@
    "title": "Plan or Retrieve First? A Scale Study of Tool Discovery Architectures",
    "summary": "Tool-augmented LLM agents discover relevant APIs from large registries before planning execution, yet finite context windows prohibit injecting all tool definitions into a single prompt. The dominant approach, which we term Retrieve-then-Plan (RtP), embeds the user query and retrieves similar tools via approximate nearest-neighbor search. We study an alternative Plan-then-Retrieve (PtR) paradigm…",
    "url": "https://machinelearning.apple.com/research/plan-retrieve-tool-discovery",
-   "image": null,
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
    "published": "2026-10-15T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
@@ -3352,7 +3361,8 @@
    "ar_detail": true,
    "ar_title": "هل نخطط أولاً أم نسترجع أولاً؟ دراسة لبنى اكتشاف الأدوات لدى الوكلاء",
    "ar_summary": "بحث من Apple يقارن بين استرجاع الأدوات ثم التخطيط والتخطيط ثم الاسترجاع. يتفوق الأول في الاستعلامات البسيطة والثاني في الاستعلامات متعددة الأدوات.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "93dc9e9d57ba",
@@ -3450,7 +3460,7 @@
    "title": "Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models",
    "summary": "Code-switching (CS), the alternation between languages within an utterance, is common in multilingual speech but underrepresented in pretraining corpora. Increasing CS coverage requires finding relevant utterances in large speech collections so that they can be included in training data. One way to find such utterances is to transcribe the speech and detect language alternation in the text, but…",
    "url": "https://machinelearning.apple.com/research/code-switching-detection",
-   "image": null,
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
    "published": "2026-10-14T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
@@ -3459,7 +3469,8 @@
    "ar_detail": true,
    "ar_title": "كشف التبديل اللغوي في الكلام عبر أبعاد انتقائية للغة",
    "ar_summary": "بحث من Apple يقترح طريقة خفيفة لاكتشاف التبديل بين لغتين داخل الجملة مباشرة من الكلام باستخدام مشفّر Whisper، بمتوسط F1 يبلغ 0.798.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "e612dc941250",
@@ -3468,7 +3479,7 @@
    "title": "The Design Space of Tri-Modal Masked Diffusion Models",
    "summary": "Discrete diffusion models have emerged as strong alternatives to autoregressive language models, with recent work initializing and finetuning a base unimodal model for bi-modal generation. Diverging from previous approaches, we introduce the first tri-modal Masked Diffusion Models (MDM) pretrained from scratch on text, image-text, and audio-text data. We systematically analyze multimodal scaling…",
    "url": "https://machinelearning.apple.com/research/tri-modal-masked-diffusion",
-   "image": null,
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
    "published": "2026-10-14T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -3477,7 +3488,8 @@
    "ar_detail": true,
    "ar_title": "فضاء تصميم نماذج الانتشار المقنّع ثلاثية الوسائط",
    "ar_summary": "تقدم Apple أول نماذج انتشار مقنّع ثلاثية الوسائط (نص وصورة وصوت) مدرّبة من الصفر، مع دراسة منهجية لقوانين التوسع.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "471508c04c30",
@@ -3486,7 +3498,7 @@
    "title": "Developing Gemini 4 Argon responsibly and safely",
    "summary": "",
    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-   "image": null,
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup_light_16-9.width-1300.png",
    "published": "2026-10-13T19:43:07Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -3495,7 +3507,8 @@
    "ar_summary": "تشرح Google DeepMind نهجها في السلامة والأمان عند تطوير Gemini 4 Argon.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "ed2bad3e4df7",
@@ -3504,7 +3517,7 @@
    "title": "Behind the Scenes: Make what moves you",
    "summary": "Nina McNeely brings Braylon Browner's and Banoffee's visions to life across two shoots built on experimentation, instinct and creative freedom.",
    "url": "https://suno.com/blog/behind-the-scenes-make-what-moves-you",
-   "image": null,
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/71ffab6b0d1c3fd4787bf7ae1135c926a97fe4f8-2970x1620.jpg?rect=0,31,2970,1559&w=1200&h=630&fit=crop&auto=format",
    "published": "2026-10-13T19:01:53Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -3513,7 +3526,8 @@
    "ar_detail": true,
    "ar_title": "كواليس Suno: اصنع ما يحرّكك",
    "ar_summary": "تحتفي Suno بإطلاق v6 بتصوير مشروعين مع الراقص Braylon Browner والمغنية Banoffee بإخراج Nina McNeely، لكل منهما أسلوبه الإبداعي.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "3e78d0d4c307",
@@ -3549,7 +3563,8 @@
    "ar_detail": true,
    "ar_title": "نموذج GitHub لكشف الأسرار: نتائج أكثر بضجيج أقل",
    "ar_summary": "طورت GitHub مصنّفاً واعياً بالسياق لاكتشاف الأسرار يرفع القبول الموزون 11.5% ويخفض زمن الفحص 86%.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "d057f04d0b3c",
@@ -3612,7 +3627,7 @@
    "title": "Gemini 4 Argon for Robotics",
    "summary": "",
    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-   "image": null,
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-1200x600.png",
    "published": "2026-10-13T16:01:58Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -3621,7 +3636,8 @@
    "ar_summary": "تعرض Google DeepMind قدرات Gemini 4 Argon في مجال الروبوتات.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f174716114a9",
@@ -3630,7 +3646,7 @@
    "title": "Gemini 4 Argon: Built to solve your hardest problems",
    "summary": "",
    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-   "image": null,
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__2784x1566.width-1300.png",
    "published": "2026-10-13T16:01:52Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2,
@@ -3639,7 +3655,8 @@
    "ar_summary": "أصبح Gemini 4 Argon متاحاً عالمياً للمطورين والشركات عبر API ولمشتركي Google AI Ultra وPro في تطبيق Gemini وAI Mode.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "687470cab9be",
@@ -3756,7 +3773,7 @@
    "title": "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings",
    "summary": "For most languages of the world, language model pre-training operates in a data-constrained regime where models must repeat their training data many times, degrading generalization. Two remedies exist: aggressive hyperparameter tuning such as high weight decay, and mixing in data from a high-resource auxiliary language to directly aid the low-resource target. While hyperparameter tuning…",
    "url": "https://machinelearning.apple.com/research/mix-dont-tune",
-   "image": null,
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
    "published": "2026-10-13T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -3765,7 +3782,8 @@
    "ar_detail": true,
    "ar_title": "اخلط ولا تضبط: التدريب ثنائي اللغة يتفوق على ضبط المعاملات",
    "ar_summary": "دراسة من Apple باستخدام العربية كلغة هدف والإنجليزية كمساندة تظهر أن خلط بيانات لغة غنية أفضل من ضبط المعاملات عند شح البيانات.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "b8b5f613d53f",
@@ -3774,7 +3792,7 @@
    "title": "Origin App Marketplace",
    "summary": "Origin integrates with over 20 apps for deployments, CI, code review, security, monitoring, and project management, and the marketplace is now open to public submissions.",
    "url": "https://cursor.com/changelog/origin-app-marketplace",
-   "image": null,
+   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/OG%20Images/origin-app-marketplace-YJgFl3hzGx8O8gQLTktnZtVE3oF9D7.png",
    "published": "2026-10-13T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -3783,7 +3801,8 @@
    "ar_detail": true,
    "ar_title": "Cursor تفتح سوق تطبيقات Origin للمطورين",
    "ar_summary": "يتكامل Origin مع أكثر من 20 تطبيقاً للنشر والتكامل المستمر ومراجعة الشيفرة والأمان، وأصبح السوق مفتوحاً لتقديم التطبيقات.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "d8d241723974",
@@ -3792,7 +3811,7 @@
    "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
    "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-3.08.26-PM.png",
    "published": "2026-10-12T17:43:59Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -3801,7 +3820,8 @@
    "ar_detail": true,
    "ar_title": "تطبيق GitHub Copilot للمبتدئين: كيف تعلّم Copilot عن شيفرتك",
    "ar_summary": "دليل يشرح التعليمات المخصصة والمهارات والوكلاء المخصصين وخوادم MCP لتكييف Copilot مع مشروعك.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "e05f5dfb850c",
@@ -3810,7 +3830,7 @@
    "title": "Can we change an AI model’s architecture without retraining it from scratch?",
    "summary": "“Priming” reuses pretrained Transformer weights to build models with more efficient architectures at less than 1% of the original training cost and with throughputs up to twice as high.",
    "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
-   "image": null,
+   "image": "https://cdn.amazon.science/dims4/default/34de22a/2147483647/strip/true/crop/2270x1192+0+43/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F48%2Ffc%2Fcf86b92b484f9da3927d4c06f537%2Fstate-composition-16x9.png",
    "published": "2026-10-12T17:36:18Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -3819,7 +3839,8 @@
    "ar_detail": true,
    "ar_title": "Amazon: «التهيئة المسبقة» تغيّر بنية النموذج دون إعادة التدريب من الصفر",
    "ar_summary": "طرحت AWS طريقة priming تعيد استخدام أوزان Transformer لبناء نماذج هجينة بتكلفة أقل من 1% وإنتاجية تصل إلى الضعف.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "78d6d66a2b4f",
@@ -3828,7 +3849,7 @@
    "title": "Large Language Models for Machine Translation Quality Annotation: Humans and Models Are Both Challenged",
    "summary": "Large Language Models (LLMs) are considered to be a more efficient and cost-effective alternative to human judgment for Machine Translation (MT) evaluation. With MT evaluation spanning a large number of language pairs, domains and levels of annotation granularity, LLMs must be thoroughly evaluated across these dimensions before being reliably used as alternatives to human evaluation. In this…",
    "url": "https://machinelearning.apple.com/research/llm-translation-quality-annotation",
-   "image": null,
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
    "published": "2026-10-12T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
@@ -3837,7 +3858,8 @@
    "ar_detail": true,
    "ar_title": "نماذج اللغة في تقييم جودة الترجمة الآلية: البشر والنماذج يواجهون صعوبات",
    "ar_summary": "دراسة من Apple تقارن اتفاق نماذج LLM مع المقيّمين البشر على 70 زوج لغات، وتجد أن الموثوقية ضعيفة في معظم الحالات.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "438f8f82161f",
@@ -3846,7 +3868,7 @@
    "title": "Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
    "summary": "The increasing demand for GPU-accelerated machine learning inference has exposed limitations in centralized GPU infrastructures, including high cost, limited elasticity, and long wait times under resource constraints. At the same time, modern Apple Silicon–based macOS devices are equipped with powerful GPUs that remain largely idle during normal usage. This paper presents Minions, a dynamic and…",
    "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-   "image": null,
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
    "published": "2026-10-12T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
@@ -3855,7 +3877,8 @@
    "ar_detail": true,
    "ar_title": "Minions: سحابة GPU موزعة من أجهزة Apple Silicon الخاملة",
    "ar_summary": "ورقة من Apple تقدم Minions، نظاماً يجمع معالجات الرسوميات الخاملة في أجهزة macOS لتنفيذ استدلال تعلم الآلة.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "770df069ccb5",
@@ -3864,7 +3887,7 @@
    "title": "Self-Compacting Language Model Agents",
    "summary": "Long agent traces composed of chains of thought and tool calls accumulate stale content that anchor subsequent generations, and eventually outgrow the context window. Existing scaffolds mitigate it with fixed-interval compaction triggered at a token threshold. Such triggers pay no heed to trajectory structure, risking discard of partial results mid-derivation or mid-search. We propose…",
    "url": "https://machinelearning.apple.com/research/self-compacting-language-agents",
-   "image": null,
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
    "published": "2026-10-12T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -3873,7 +3896,8 @@
    "ar_detail": true,
    "ar_title": "وكلاء لغويون يضغطون سياقهم ذاتياً",
    "ar_summary": "يقترح بحث Apple إطار SELFCOMPACT الذي يتيح للنموذج تحديد وقت وكيفية تلخيص سياقه، فيخفض التكلفة 30–70% ويحسن النتائج.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "6d143a9a16cf",
@@ -3891,7 +3915,8 @@
    "ar_detail": true,
    "ar_title": "Midjourney تختبر «وضع التفكير» لتوليد الصور",
    "ar_summary": "تختبر Midjourney وضع Thinking على موقع Alpha لتحسين دقة الالتزام بالوصف والكتابة والترابط.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "a0c18c3e9abb",
@@ -3909,7 +3934,8 @@
    "ar_detail": true,
    "ar_title": "سجل تغييرات Midjourney Alpha: مجلدات مشتركة ووضع التفكير",
    "ar_summary": "أضاف التحديث الأسبوعي المجلدات المشتركة ووضع Thinking لصور الإصدار 8.2 وتحسينات في التنظيم واللوحات.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "fc6c16485847",
@@ -3936,7 +3962,7 @@
    "title": "Secret protection must scale with software",
    "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .",
    "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/01/generic-security-invertocat-blocks-copilot.png",
    "published": "2026-10-07T17:45:34Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -3945,7 +3971,8 @@
    "ar_detail": true,
    "ar_title": "حماية الأسرار يجب أن تواكب نمو البرمجيات",
    "ar_summary": "يعرض GitHub بيانات تسعة أرباع سنوية تظهر أن المطورين ليسوا أكثر إهمالاً بل تجاوزهم حجم العمل، ويقدم مصنفاً جديداً مع Microsoft لتوسيع حماية الدفع إلى الأسرار غير المنظمة.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "22643d6fcb19",
@@ -3972,7 +3999,7 @@
    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
    "summary": "",
    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-   "image": null,
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.width-1300.png",
    "published": "2026-10-06T19:57:04Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2,
@@ -3981,7 +4008,8 @@
    "ar_detail": true,
    "ar_title": "EmbeddingGemma 2: نموذج تضمين متعدد الوسائط مفتوح وخفيف",
    "ar_summary": "أطلقت Google DeepMind نموذج EmbeddingGemma 2 بحجم 740 مليون معامل، يدمج النص والصور والصوت والفيديو والشيفرة في فضاء تضمين واحد، ويعمل على الأجهزة بترخيص Apache 2.0.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "608f20beda26",
@@ -4026,7 +4054,7 @@
    "title": "Remote control for local agents",
    "summary": "See and reply to the local agents running on your computer from the Cursor iOS app.",
    "url": "https://cursor.com/changelog/remote-control-local-agents",
-   "image": null,
+   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/OG%20Images/remote-control-for-local-agents-0ohSVDCa58OLDRkm0Dt3WyACu4AuXi.png",
    "published": "2026-10-06T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -4035,7 +4063,8 @@
    "ar_detail": true,
    "ar_title": "Cursor تتيح التحكم عن بُعد بالوكلاء المحليين من iOS",
    "ar_summary": "يمكن الآن رؤية الوكلاء العاملين على حاسوبك والرد عليهم من تطبيق Cursor على iOS. الميزة مفعّلة افتراضياً لغير مؤسسات Enterprise.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "c3d66983a8dc",
@@ -4062,7 +4091,7 @@
    "title": "5 Albums You Can't Miss",
    "summary": "Discover some of the first albums on Suno.",
    "url": "https://suno.com/blog/albums-to-discover",
-   "image": null,
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/5c4ceca97a157bfd08a546b52029541517b9ff40-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
    "published": "2026-10-05T18:53:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -4071,7 +4100,8 @@
    "ar_detail": true,
    "ar_title": "خمسة ألبومات لا تفوتها على Suno",
    "ar_summary": "تستعرض Suno مجموعة من أوائل الألبومات المنشأة على منصتها بعد إطلاق ميزة Albums.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "4b0c57f28723",
@@ -4089,7 +4119,8 @@
    "ar_detail": true,
    "ar_title": "ReviewBench: معيار مفتوح لقياس مراجعة الكود بالذكاء الاصطناعي",
    "ar_summary": "أطلقت GitHub معيار ReviewBench لتقييم وكلاء مراجعة الكود على طلبات سحب حقيقية وبمقاييس قريبة من الإنتاج.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "1122627a66df",
@@ -4116,7 +4147,7 @@
    "title": "AI is changing developer work. Here are three skills to strengthen.",
    "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog .",
    "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/03/branchingout.png",
    "published": "2026-10-02T15:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -4125,7 +4156,8 @@
    "ar_detail": true,
    "ar_title": "الذكاء الاصطناعي يغيّر عمل المطورين: ثلاث مهارات تستحق التعزيز",
    "ar_summary": "ينصح GitHub المطورين بتعلم توجيه وكلاء الذكاء الاصطناعي ومراجعة مخرجاتهم بنقد وإبقاء الحكم التقني في صلب عملهم.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "b9b18411de99",
@@ -4161,7 +4193,8 @@
    "ar_detail": true,
    "ar_title": "سجل تغييرات Midjourney Alpha - 1 أكتوبر",
    "ar_summary": "تحديث يركز على إصلاح الأخطاء وتحسين الواجهة في موقع Midjourney Alpha، مع تلميح لأدوات تعاونية جديدة.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "9506769ef6ff",
@@ -4170,7 +4203,7 @@
    "title": "Introducing Speech (beta)",
    "summary": "A new way to express yourself creatively",
    "url": "https://suno.com/blog/introducing-speech-beta",
-   "image": null,
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/7980bce19cb4a95a1e332b32be9ab8d2f83dbd6f-1920x1102.jpg?rect=0,47,1920,1008&w=1200&h=630&fit=crop&auto=format",
    "published": "2026-10-01T20:35:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -4179,7 +4212,8 @@
    "ar_summary": "تقدّم Suno ميزة Speech التجريبية كطريقة جديدة للتعبير الإبداعي.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "8aa77346da60",
@@ -4206,7 +4240,7 @@
    "title": "Graph-centric agentic intelligence",
    "summary": "Augmenting a network graph with agentic AI produces a “digital twin” that can help isolate network failures.",
    "url": "https://www.amazon.science/blog/graph-centric-agentic-intelligence",
-   "image": null,
+   "image": "https://cdn.amazon.science/dims4/default/30d8727/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F81%2F9e%2Fb5c68ee14cab93522c05fc9b534c%2Fnetwork-digital-twin.gif",
    "published": "2026-10-01T12:54:31Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -4215,7 +4249,8 @@
    "ar_detail": true,
    "ar_title": "ذكاء وكيلي قائم على الرسوم البيانية لتحديد أعطال الشبكات",
    "ar_summary": "تشرح Amazon Science كيف يؤدي دمج الرسم البياني للشبكة مع وكلاء الذكاء الاصطناعي إلى «توأم رقمي» يحدد الأسباب الجذرية للأعطال خلال دقائق.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "15e70ee5e4a7",
@@ -4224,7 +4259,7 @@
    "title": "Gemini 4 Argon: our next era of frontier intelligence",
    "summary": "",
    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-   "image": null,
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
    "published": "2026-09-30T20:01:45Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2,
@@ -4233,7 +4268,8 @@
    "ar_summary": "كشفت Google عن Gemini 4 Argon بنافذة سياق 1M رمز، يُطرح أولاً لمدافعين سيبرانيين موثوقين عبر Fairwind قبل إتاحته للجمهور.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "0a622a33b8e3",
@@ -4259,7 +4295,7 @@
    "title": "Three Must-learn Tips for Using EQ",
    "summary": "EQ will be one of the first tools to master when you come to Suno Studio. Get started here!",
    "url": "https://suno.com/blog/about-eq",
-   "image": null,
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/28dab778fb20f14011e20015a6f1666e624ae57c-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
    "published": "2026-09-29T19:00:20Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -4268,7 +4304,8 @@
    "ar_detail": true,
    "ar_title": "ثلاث نصائح لا غنى عنها لاستخدام EQ في Suno Studio",
    "ar_summary": "درس تعليمي من Suno عن المعادِل الصوتي (EQ) وأساسياته ضمن Suno Studio.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "105e76d8cdee",
@@ -4331,7 +4368,7 @@
    "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
    "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog .",
    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-3.59.20-PM.png",
    "published": "2026-09-25T18:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -4340,7 +4377,8 @@
    "ar_detail": true,
    "ar_title": "تطبيق GitHub Copilot للمبتدئين: بناء سير عمل مخصص بالـ Canvases",
    "ar_summary": "شرح لكيفية وصف الواجهة المطلوبة بلغة عادية ليبني الوكيل سطحاً حياً يستخدمه الطرفان ويحدّثانه معاً.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "4dfafaa726ef",
@@ -4376,7 +4414,8 @@
    "ar_detail": true,
    "ar_title": "حين تكون المحادثة واجهة خاطئة",
    "ar_summary": "مقال من GitHub يرى أن المحادثة ليست دائماً أفضل واجهة للذكاء الاصطناعي، ويقدم canvases في تطبيق Copilot بديلاً.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "da79314d1ca0",
@@ -4412,7 +4451,8 @@
    "ar_detail": true,
    "ar_title": "Midjourney: تحديثات التحرير ومعاينات الأنماط",
    "ar_summary": "حسّنت Midjourney الرسم الداخلي والخارجي بنموذج التحرير، وأضافت معاينات حية للأنماط وتحسيناً لـ --tile.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "5d810621a5e7",
