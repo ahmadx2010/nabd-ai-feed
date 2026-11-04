@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T22:33:15Z",
+ "updated": "2026-11-04T22:43:08Z",
  "categories": [
   {
    "key": "big",
@@ -599,9 +599,13 @@
    "image": null,
    "published": "2026-11-04T08:00:00Z",
    "found": "2026-11-04T22:33:15Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ألف مسار أقل نحو صلاحيات الجذر: OpenAI تكتشف ثغرات في نواة لينكس",
+   "ar_summary": "بنت OpenAI خط أنابيب مستقلًا اكتشف وتحقق وولّد إصلاحات لـ 948 ثغرة تصعيد صلاحيات محلية في نواة لينكس.",
+   "ai": true
   },
   {
    "id": "75679f5aa60b",
@@ -686,9 +690,13 @@
    "image": null,
    "published": "2026-11-04T00:00:00Z",
    "found": "2026-11-04T22:24:07Z",
-   "importance": 2,
+   "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "DevRev تقدّم خدمة ذاتية مستقلة للمؤسسات بالاعتماد على GPT-6.1 Sol",
+   "ar_summary": "تستخدم DevRev نموذج GPT-6.1 Sol لتشغيل منتجي Computer وOperator، محققةً توازنًا بين جودة الاستدلال والسرعة والتكلفة في خدمة العملاء للمؤسسات.",
+   "ai": true
   },
   {
    "id": "af325869114f",
