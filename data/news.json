@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:41:36Z",
+ "updated": "2026-11-04T20:16:20Z",
  "categories": [
   {
    "key": "big",
@@ -396,6 +396,21 @@
    "published": "2026-11-04T19:25:46Z",
    "found": "2026-11-04T19:39:59Z",
    "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "a05548ef29e1",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub Copilot is now available in Xcode’s coding assistant",
+   "summary": "You can now work with GitHub Copilot directly in Xcode’s built-in coding assistant, bringing Copilot into your native Xcode workflow. The integration is now in public preview, available starting with… The post GitHub Copilot is now available in Xcode’s coding assistant appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+   "image": "https://github.blog/wp-content/uploads/2026/11/694394305-f9d288c4-2862-48ff-aadf-b307e5ead674.png",
+   "published": "2026-11-04T19:10:40Z",
+   "found": "2026-11-04T20:16:20Z",
+   "importance": 2,
+   "detail": true,
    "fetched": true,
    "img_tried": true
   },
