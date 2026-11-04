@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T14:00:33Z",
+ "updated": "2026-11-04T14:21:25Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-04T13:42:22Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "كيف بنينا Lovable ولماذا نعيد بناءه باستمرار",
+   "ar_summary": "يشارك Anton Osika دروسًا من بناء Lovable عبر أكثر من 100 ألف طلب سحب، منها مواءمة حرية الوكيل مع قدرة النموذج.",
+   "ai": true
   },
   {
    "id": "0f281cabd4f6",
@@ -426,9 +430,13 @@
    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6aeabb2d32c073ccbc87444e_Polymorphic_Inference_OG_1200x630.png",
    "published": "2026-11-04T00:00:00Z",
    "found": "2026-11-04T14:00:33Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "الاستدلال متعدد الأشكال: استدلال ذاتي الضبط للنماذج المفتوحة",
+   "ar_summary": "تقدم Together AI مفهوم Polymorphic Inference الذي يتكيف مع تغير النماذج وحركة الطلبات والعتاد، باستخدام وكلاء ذكاء اصطناعي.",
+   "ai": true
   },
   {
    "id": "94fc66559302",
@@ -440,9 +448,13 @@
    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6aead6f8d7e2304104f29687_TKCC_OG_1200x630-dark.jpg",
    "published": "2026-11-04T00:00:00Z",
    "found": "2026-11-04T14:00:33Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Together Compiler: تجميع مستمر لاستدلال الذكاء الاصطناعي",
+   "ar_summary": "أطلقت Together AI مترجم Together Compiler الذي يحسّن النماذج المفتوحة في أقل من 24 ساعة ويرفع الإنتاجية بين 1.3 و3 أضعاف.",
+   "ai": true
   },
   {
    "id": "af325869114f",
@@ -1775,7 +1787,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "شريحة Amazon المتقدمة تشغّل ذكاء Prime 360 للقطات NBA",
+   "ar_summary": "تساعد شريحة Trainium في تشغيل نماذج الانتشار خلف لقطات Prime 360 السينمائية في بث NBA على Prime.",
+   "ai": true
   },
   {
    "id": "194ab4b69c2c",
@@ -1787,9 +1803,13 @@
    "image": null,
    "published": "2026-10-28T16:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 2,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "GitHub Copilot Fusion متاح للجميع لتوجيه النماذج وتنسيقها تلقائيًا",
+   "ar_summary": "أصبح Copilot Fusion متاحًا عمومًا ويختار النماذج ويوزع العمل بينها تلقائيًا، بأداء قريب من Claude Code بنصف التكلفة.",
+   "ai": true
   },
   {
    "id": "dc49fe8911d9",
@@ -1803,7 +1823,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "معمارية Replit لعمل الوكلاء الآمن",
+   "ar_summary": "تشرح Replit كيف منعت عزلة بنيتها استغلال ثغرات النواة المعلنة، وتقدم Agent Habitat لتوفير ضوابط أمنية للوكلاء.",
+   "ai": true
   },
   {
    "id": "f3aa6dba8d09",
@@ -1833,9 +1857,13 @@
    "image": null,
    "published": "2026-10-28T15:50:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "GitHub Enterprise يتضمن الآن الوصول إلى GitHub Copilot",
+   "ar_summary": "يمكن للمؤسسات عبر فرق GitHub أو Microsoft الحصول على Copilot ضمن GitHub Enterprise لكل مستخدم مرخّص.",
+   "ai": true
   },
   {
    "id": "adf1996fc970",
@@ -1847,9 +1875,13 @@
    "image": null,
    "published": "2026-10-28T15:45:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "إضافة أمان لتطبيق GitHub Copilot",
+   "ar_summary": "إضافة GitHub security بمعاينة عامة تتيح معالجة تنبيهات code scanning داخل تطبيق Copilot.",
+   "ai": true
   },
   {
    "id": "3a09379f6ade",
@@ -1861,9 +1893,13 @@
    "image": null,
    "published": "2026-10-28T15:40:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "GitHub intelligence: ذاكرة وسياق لوكلاء البرمجة",
+   "ar_summary": "تقدم GitHub طبقة سياق وتعلم تضم ذاكرة Copilot (متاحة عمومًا) وميزة Dreaming والبحث في الكود خارج المستودع.",
+   "ai": true
   },
   {
    "id": "2304fbe0fd69",
@@ -1937,7 +1973,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "حواسيب NVIDIA RTX Spark المحمولة تحصل على نماذج وأدوات وكلاء وألعاب جديدة",
+   "ar_summary": "أعلنت NVIDIA أن حواسيب RTX Spark المحمولة متوفرة الآن من ASUS وDell وHP وLenovo وMicrosoft وMSI، مع نموذج Nemotron 3.5 Transcribe المفتوح وتحديثات جديدة للألعاب والوكلاء.",
+   "ai": true
   },
   {
    "id": "3f3621d9515c",
@@ -2122,7 +2162,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA وOracle توسعان Vera Rubin إلى مستوى عدة جيجاواط وتجلبان Vera CPU إلى OCI",
+   "ar_summary": "أعلنت NVIDIA وOracle توسيع عناقيد OCI Superclusters بأنظمة Vera Rubin NVL72 إلى مستوى متعدد الجيجاواط، مع إتاحة معالجات Vera على بنية Oracle السحابية.",
+   "ai": true
   },
   {
    "id": "993dac35f314",
@@ -2136,7 +2180,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Replit: يمكن لأي شخص الآن المساهمة بأفكاره في كود الشركة عبر Cloud Agents",
+   "ar_summary": "أطلقت Replit ميزة Cloud Agents التي تتيح لغير المهندسين اقتراح تغييرات على الكود الأساسي للشركة بلغة عادية، مع معاينة حية وطلبات دمج تخضع لمراجعة المهندسين.",
+   "ai": true
   },
   {
    "id": "df8156dd7062",
@@ -2194,9 +2242,13 @@
    "image": "https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591",
    "published": "2026-10-27T05:52:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
+   "importance": 2,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA وMeta توسعان التعاون حول نماذج Muse مع استثمار 3 مليارات دولار",
+   "ar_summary": "أعلنت NVIDIA وMeta توسيع شراكتهما لتحسين أداء الاستدلال والتدريب لعائلة نماذج Muse، وستستثمر NVIDIA 3 مليارات دولار في طرح أسهم Meta.",
+   "ai": true
   },
   {
    "id": "42a0e145db67",
@@ -2324,9 +2376,13 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/kz-post-note-gtc-berliin-2026-1920x1080-1.jpg",
    "published": "2026-10-23T02:00:13Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
+   "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "كازاخستان توسّع قدراتها الحاسوبية لمستقبلها في الذكاء الاصطناعي",
+   "ar_summary": "تزامنًا مع زيارة Jensen Huang إلى أستانا، أعلنت NVIDIA عن انتقال منظومة الذكاء الاصطناعي في كازاخستان من الخطط إلى التنفيذ في البنية والنماذج والتطبيقات.",
+   "ai": true
   },
   {
    "id": "6430909168b5",
@@ -2425,9 +2481,13 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Call-Of-Duty-Modern-Warfare-4.jpg",
    "published": "2026-10-22T13:00:20Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
+   "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Call of Duty: Modern Warfare 4 تصل إلى GeForce NOW عند الإطلاق",
+   "ar_summary": "تصل لعبة Call of Duty: Modern Warfare 4 إلى GeForce NOW مع أداء بمستوى RTX 5080 لأعضاء Ultimate، إضافة إلى ست ألعاب جديدة هذا الأسبوع.",
+   "ai": true
   },
   {
    "id": "8eb5c126f8cf",
@@ -2455,7 +2515,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA Cosmos تفتح أدوات جديدة لتدريب وتقييم ونشر نماذج العالم",
+   "ar_summary": "وسّعت NVIDIA منصة Cosmos بأدوات تدريب ونقاط فحص للمحاكاة ومخططات Cosmos Data Factory لمساعدة المطورين على بناء نماذج العالم للذكاء الاصطناعي المادي.",
+   "ai": true
   },
   {
    "id": "761a1716cf64",
@@ -2481,9 +2545,13 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-European-Retail.jpg",
    "published": "2026-10-22T05:00:23Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
+   "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA تحوّل قطاع التجزئة الأوروبي من اكتشاف المنتجات إلى العمليات الفعلية",
+   "ar_summary": "تستخدم شركات تجزئة أوروبية النماذج المفتوحة والذكاء المادي، ومنها Shopify التي خفضت تكلفة التشغيل 90%.",
+   "ai": true
   },
   {
    "id": "6d8a31a2427f",
@@ -2817,9 +2885,13 @@
    "image": null,
    "published": "2026-10-15T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
+   "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "الاستدلال المنظم القائم على الاختيار: نحو وكلاء بحث متعددي الوسائط أكثر كفاءة",
+   "ar_summary": "تقدم أبحاث Apple إطار SSR الذي يحوّل الاستدلال إلى اختيار من خيارات جاهزة، فيقلل زمن الاستدلال لكل خطوة أكثر من 90%.",
+   "ai": true
   },
   {
    "id": "7f2975ae8e0c",
@@ -2887,9 +2959,13 @@
    "image": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?fit=3000%2C2000",
    "published": "2026-10-14T16:00:57Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
+   "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Meta وبيناكوتيكا دي بريرا وEssilorLuxottica توسّع الوصول إلى الفن عبر نظارات الذكاء الاصطناعي",
+   "ar_summary": "أطلقت Meta مشروعًا تجريبيًا في متحف بريرا بميلانو يستخدم النظارات الذكية لجعل الأعمال الفنية متاحة للمكفوفين وضعاف البصر.",
+   "ai": true
   },
   {
    "id": "58e4191fcfe4",
@@ -2930,7 +3006,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "فضاء تصميم نماذج الانتشار المقنّع ثلاثية الوسائط",
+   "ar_summary": "تقدم Apple أول نماذج انتشار مقنّع ثلاثية الوسائط (نص وصورة وصوت) مدرّبة من الصفر، مع دراسة منهجية لقوانين التوسع.",
+   "ai": true
   },
   {
    "id": "471508c04c30",
@@ -3098,7 +3178,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "خوارزميتك بكلماتك: طرق جديدة لتشكيل ما تراه على Facebook",
+   "ar_summary": "تطلق Meta أدوات مدعومة بالذكاء الاصطناعي تتيح لمستخدمي Facebook وصف اهتماماتهم بكلماتهم لتخصيص الخلاصة والريلز.",
+   "ai": true
   },
   {
    "id": "592d3ff77c96",
@@ -3454,7 +3538,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "ReviewBench: معيار مفتوح لقياس مراجعة الكود بالذكاء الاصطناعي",
+   "ar_summary": "أطلقت GitHub معيار ReviewBench لتقييم وكلاء مراجعة الكود على طلبات سحب حقيقية وبمقاييس قريبة من الإنتاج.",
+   "ai": true
   },
   {
    "id": "1122627a66df",
@@ -3512,9 +3600,13 @@
    "image": null,
    "published": "2026-10-02T00:57:01Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
+   "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "سجل تغييرات Midjourney Alpha - 1 أكتوبر",
+   "ar_summary": "تحديث يركز على إصلاح الأخطاء وتحسين الواجهة في موقع Midjourney Alpha، مع تلميح لأدوات تعاونية جديدة.",
+   "ai": true
   },
   {
    "id": "9506769ef6ff",
@@ -3812,7 +3904,11 @@
    "published": "2026-09-23T16:00:57Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "تطوير Private AI Compute بذاكرة آمنة على الخادم",
+   "ar_summary": "تقدم Google DeepMind ذاكرة خاصة على الخادم ضمن Private AI Compute للذكاء الاصطناعي الشخصي.",
+   "ai": true
   },
   {
    "id": "8a125b97e524",
@@ -3857,7 +3953,11 @@
    "published": "2026-09-23T14:30:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "ابتكار لعصر YouTube: الجديد للمشاهدين وصنّاع المحتوى",
+   "ar_summary": "كشفت YouTube في Made On YouTube 2026 عن أدوات ذكاء اصطناعي حوارية وخلاصات مخصصة ودبلجة تلقائية للبث المباشر.",
+   "ai": true
   },
   {
    "id": "7c348eedc060",
