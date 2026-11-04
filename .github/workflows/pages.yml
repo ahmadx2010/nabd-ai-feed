@@ -1,0 +1,43 @@
+name: share-pages
+# Builds the public share site: a page + branded preview image per news item.
+# Started by collect-news / claude-editor whenever the news changes.
+on:
+  workflow_dispatch:
+concurrency:
+  group: pages
+  cancel-in-progress: true
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      NABD_DATA: ${{ github.workspace }}/data
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: ahmadx2010/nabd-ai
+          ssh-key: ${{ secrets.CODE_KEY }}
+          path: code
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q pillow arabic-reshaper python-bidi
+      - uses: actions/cache@v4
+        with:
+          path: og-cache
+          key: og-${{ github.run_id }}
+          restore-keys: og-
+      - run: python code/collector/share.py site og-cache
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4

@@ -38,8 +38,10 @@ jobs:
           for i in 1 2 3 4 5 6; do
             git pull -q --rebase || git reset -q --hard origin/main
             (cd code && git pull -q) || true
+            before=$(git rev-parse HEAD)
             python code/collector/collect.py || true
             bash code/collector/push.sh "news $(date -u +%H:%M)" "python code/collector/collect.py" || true
+            [ "$(git rev-parse HEAD)" = "$before" ] || gh workflow run pages.yml --repo "$GITHUB_REPOSITORY" || true
             [ "$i" = 6 ] || sleep 540
           done
       - name: Hourly Claude editor
