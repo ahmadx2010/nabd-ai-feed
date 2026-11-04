@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:55:43Z",
+ "updated": "2026-11-04T19:39:59Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "56dd15d9b848",
+   "company": "openai",
+   "kind": "video",
+   "title": "Messi asks ChatGPT to reimagine his room",
+   "summary": "Messi wanted this empty room to feel a little more like him, but wasn’t sure where to start. So he asked ChatGPT for some ideas. Try it yourself: “Reimagine this room in my style. Surprise me.”",
+   "url": "https://www.youtube.com/shorts/6IttBmI4P9M",
+   "image": "https://i3.ytimg.com/vi/6IttBmI4P9M/hqdefault.jpg",
+   "published": "2026-11-04T19:25:46Z",
+   "found": "2026-11-04T19:39:59Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "c4f5d2954769",
    "company": "google",
