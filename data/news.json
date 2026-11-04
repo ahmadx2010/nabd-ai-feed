@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:12:26Z",
+ "updated": "2026-11-04T22:24:07Z",
  "categories": [
   {
    "key": "big",
@@ -661,6 +661,20 @@
    "ar_title": "Together Compiler: تجميع مستمر لاستدلال الذكاء الاصطناعي",
    "ar_summary": "أطلقت Together AI مترجم Together Compiler الذي يحسّن النماذج المفتوحة في أقل من 24 ساعة ويرفع الإنتاجية بين 1.3 و3 أضعاف.",
    "ai": true
+  },
+  {
+   "id": "bf25be8f8779",
+   "company": "openai",
+   "kind": "blog",
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+   "url": "https://openai.com/index/devrev-enterprise-self-service",
+   "image": null,
+   "published": "2026-11-04T00:00:00Z",
+   "found": "2026-11-04T22:24:07Z",
+   "importance": 2,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "af325869114f",
