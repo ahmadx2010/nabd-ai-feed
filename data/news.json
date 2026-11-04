@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T15:13:59Z",
+ "updated": "2026-11-04T15:52:07Z",
  "categories": [
   {
    "key": "big",
@@ -414,7 +414,11 @@
    "published": "2026-11-04T14:30:00Z",
    "found": "2026-11-04T15:04:51Z",
    "importance": 2,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تستحوذ على شركة Pierre Computer لتعزيز أدوات Codex",
+   "ar_summary": "أعلنت OpenAI عزمها الاستحواذ على شركة Pierre Computer Company لتوسيع أدوات Codex في بناء الشيفرة البرمجية وفهمها ومراجعتها.",
+   "ai": true
   },
   {
    "id": "8d682625501f",
@@ -444,8 +448,12 @@
    "image": null,
    "published": "2026-11-04T07:00:00Z",
    "found": "2026-11-04T15:13:59Z",
-   "importance": 2,
-   "fetched": true
+   "importance": 1,
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Daybreak Red متاح الآن في AWS GovCloud (US-East)",
+   "ar_summary": "يتيح Daybreak Red نموذج GPT-5.6 Cyber للعملاء المعتمدين في AWS GovCloud عبر Amazon Bedrock لأعمال الأمن السيبراني المصرح بها.",
+   "ai": true
   },
   {
    "id": "0f281cabd4f6",
@@ -2550,7 +2558,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "تحويل تقييم قواعد البيانات إلى مكافآت تعلم معزز لتدريب الوكلاء عبر ThinkingBox",
+   "ar_summary": "تعرض Microsoft وHugging Face كيف يمكن استخدام فحص حالة قاعدة البيانات النهائية كمكافأة لتدريب الوكلاء، مما رفع متوسط نجاح Qwen3.8-27B من 51.70% إلى 60.78%.",
+   "ai": true
   },
   {
    "id": "ed34adaea542",
@@ -2562,9 +2574,13 @@
    "image": "https://cdn.sanity.io/images/bj34pdbp/migration/d5813975d778851053019144628b568b031069d1-1600x900.png",
    "published": "2026-10-22T20:24:13Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Replit Monitoring Agent: مهندس مناوب مستقل لتطبيقك",
+   "ar_summary": "أطلقت Replit وكيل مراقبة يحقق في أعطال التطبيقات المنشورة ويصلحها وينشر الإصلاح تلقائياً ثم يرسل تقريراً بما حدث.",
+   "ai": true
   },
   {
    "id": "ece244a82d3e",
@@ -2576,9 +2592,13 @@
    "image": null,
    "published": "2026-10-22T19:36:42Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "علم TorchNeuron: واجهة PyTorch الجديدة من Amazon لرقائق AWS Trainium",
+   "ar_summary": "تشرح Amazon التحسينات خلف TorchNeuron وطريقة تقييمه بالوكلاء الذكية لضمان تشغيل نماذج PyTorch بكفاءة على Trainium.",
+   "ai": true
   },
   {
    "id": "06769efcf6f4",
@@ -2608,8 +2628,12 @@
    "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo",
    "published": "2026-10-22T14:30:24Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "fetched": true
+   "importance": 1,
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "ما بعد الغطاء الشجري: خريطة لأنواع الغابات في العالم",
+   "ar_summary": "خريطة عالمية تصنف كل قطعة أرض بدقة 10 أمتار إلى أنواع مختلفة من الغابات.",
+   "ai": true
   },
   {
    "id": "0d155a8c6750",
@@ -2639,9 +2663,13 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Financial-Services-NVIDIA-Open-Models.jpg",
    "published": "2026-10-22T05:00:56Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "مؤسسات مالية أوروبية تتبنى النماذج المفتوحة لبناء ذكاء خاص بها",
+   "ar_summary": "في GTC برلين، تعرض بنوك وشركات مدفوعات بناء أنظمتها على حوسبة NVIDIA ونماذج مفتوحة الأوزان تعمل على بنيتها الخاصة.",
+   "ai": true
   },
   {
    "id": "381130e24d54",
@@ -2671,9 +2699,13 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/dsx-ai-factory-platform.jpg",
    "published": "2026-10-22T05:00:25Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "كيف تستخدم الشركات NVIDIA DSX لكسر عنق زجاجة الطاقة",
+   "ar_summary": "تعتمد شركات منصة NVIDIA DSX للمصانع الذكية لتخطيط ومحاكاة وتشغيل الشبكة الكهربائية ومصنع الذكاء الاصطناعي كنظام واحد.",
+   "ai": true
   },
   {
    "id": "231615289514",
@@ -2703,9 +2735,13 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Earth-2-Open-Models-Climate-Prediction.png",
    "published": "2026-10-22T05:00:19Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "رواد في أوروبا ينشرون نماذج NVIDIA Earth-2 المفتوحة للتنبؤ بالطقس والمناخ",
+   "ar_summary": "تنضم StormScope EU إلى Earth-2 للتنبؤ قصير المدى فوق أوروبا، وتستخدمها جهات مثل AXA وVaisala Xweather.",
+   "ai": true
   },
   {
    "id": "354f89a6c7db",
@@ -2719,7 +2755,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "كيف يخفض تخصيص مفردات النماذج الصغيرة تكلفة الاستدلال بنسبة 77%",
+   "ar_summary": "تعرض Dharma AI طريقة VocabX لإعادة بناء مفردات النموذج حسب تكلفة كل رمز، فخفضت تكلفة الاستدلال 77% دون تغيير النموذج الأساسي.",
+   "ai": true
   },
   {
    "id": "2de1f3f85cd4",
@@ -2731,9 +2771,13 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/FrontlineMaternalCarewithAI2_ModelOverview.png",
    "published": "2026-10-21T16:23:53Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "دعم رعاية الأمومة الأولية بالموجات فوق الصوتية بمساعدة الذكاء الاصطناعي",
+   "ar_summary": "دراسة متعددة المراكز تُظهر أن تقييم العمر الحملي بالذكاء الاصطناعي عبر مسح «blind sweep» يمكّن غير المتخصصين من تقييمات بمستوى الخبراء.",
+   "ai": true
   },
   {
    "id": "f9b499debdda",
@@ -2747,7 +2791,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "تحليل أداء TorchNeuron (الجزء 1): على AWS Trainium",
+   "ar_summary": "دليل عملي لتحليل أداء الاستدلال على Trainium باستخدام torch.profiler وNeuron Explorer.",
+   "ai": true
   },
   {
    "id": "1778fb273dbb",
@@ -2761,7 +2809,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "اقتصاد جنوب شرق آسيا الرقمي يبلغ 368 مليار دولار",
+   "ar_summary": "يتوقع تقرير e-Conomy SEA من Google وTemasek وBain نمو الاقتصاد الرقمي 17% في 2026 مدفوعاً بالذكاء الاصطناعي التوليدي.",
+   "ai": true
   },
   {
    "id": "a3ad0558b97a",
@@ -2773,9 +2825,13 @@
    "image": null,
    "published": "2026-10-20T17:57:55Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "تعزيز تقييم أمان الذكاء الاصطناعي عبر مراجعة طرف ثالث مستقل",
+   "ar_summary": "شاركت Amazon منظمة AVERI لمراجعة جودة اختبارات الأمان الداخلية لنماذجها، وأجرت أربعة تغييرات استجابة لنتائجها.",
+   "ai": true
   },
   {
    "id": "d3ec3a595c33",
@@ -2789,7 +2845,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "كيف يستخدم ثلاثة من أبطال Java أداة GitHub Copilot لزيادة الإنتاجية",
+   "ar_summary": "يشارك ثلاثة خبراء Java أمثلة وممارسات لاستخدام Copilot مع إبقاء المسؤولية على المطور.",
+   "ai": true
   },
   {
    "id": "cbc887d67fea",
@@ -2801,9 +2861,13 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp",
    "published": "2026-10-20T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "أدوات Gemini الجديدة لأصحاب الأعمال الصغيرة",
+   "ar_summary": "تطلق Gemini صفحة مركزية للأعمال الصغيرة مع ربط التطبيقات وتوليد صور متسقة مع هوية العلامة التجارية.",
+   "ai": true
   },
   {
    "id": "6d5eddf85402",
@@ -2817,7 +2881,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "نتائج YouTube حول الفيديو التوليدي والإبداع الشخصي",
+   "ar_summary": "تقرير يظهر أن 72% من الناشرين يستخدمون الذكاء الاصطناعي في الفيديو أو الصور للتعبير عن الهوية.",
+   "ai": true
   },
   {
    "id": "9b2975afbab1",
@@ -2831,7 +2899,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "سامسونغ تعرض أجهزة منزلية بالذكاء الاصطناعي في فعاليات The Brief العالمية",
+   "ar_summary": "نظمت سامسونغ ندوات The Brief في خمس مناطق لعرض أجهزة منزلية ذكية تناسب كل بيئة.",
+   "ai": true
   },
   {
    "id": "84cd8d44e982",
@@ -2843,9 +2915,13 @@
    "image": null,
    "published": "2026-10-20T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Hugging Face تدعم TorchTPU: وحدات TPU بشكل أصيل",
+   "ar_summary": "مع TorchTPU أصبحت TPU جهازاً عادياً في PyTorch، وتعمل مكتبات Transformers وDiffusers عليها مباشرة.",
+   "ai": true
   },
   {
    "id": "f8471e3dcfd4",
@@ -2857,9 +2933,13 @@
    "image": null,
    "published": "2026-10-20T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Cursor تطلق Agent SDK",
+   "ar_summary": "يتيح Agent SDK تعريف الوكيل كمجلد شيفرة واختباره بالتقييمات ونشره على Cursor أو بنيتك الخاصة.",
+   "ai": true
   },
   {
    "id": "0f3dfef227c0",
@@ -2873,7 +2953,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "كيف تكمل جلسة تطبيق GitHub Copilot داخل VS Code",
+   "ar_summary": "شرح لنقل جلسة الوكيل من تطبيق Copilot إلى VS Code مع الحفاظ على المحادثة والتغييرات.",
+   "ai": true
   },
   {
    "id": "7b7535a06a66",
@@ -2887,7 +2971,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "4 نصائح لتنسيق الإطلالات مع Gemini",
+   "ar_summary": "تشرح مصممة أزياء رياضيين كيف تستخدم Gemini لتجربة الملابس افتراضياً وتعديلها ومشاركتها.",
+   "ai": true
   },
   {
    "id": "23efc0a95fbc",
@@ -2899,9 +2987,13 @@
    "image": "https://assets.aboutamazon.com/dims4/default/f66c60b/2147483647/strip/true/crop/1600x900+0+0/resize/767x431!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F8a%2F19%2F8a5b8b1542a18aea511b89378867%2Faws-torchneuron-terminal-inline.gif",
    "published": "2026-10-19T13:00:10Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Amazon تفتح رقائق Trainium لكل مطوري PyTorch دون إعادة كتابة الشيفرة",
+   "ar_summary": "يتيح TorchNeuron تشغيل شيفرة PyTorch الحالية على رقائق AWS Trainium بلا تغييرات تذكر.",
+   "ai": true
   },
   {
    "id": "83945f3b589d",
@@ -2913,9 +3005,13 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs_Cover.gif",
    "published": "2026-10-16T18:11:34Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "ربط وكلاء الذكاء الاصطناعي بالواقع البيولوجي: لبنات المختبرات الذاتية",
+   "ar_summary": "تعرض Google Research مشاريع تدمج وكلاء الذكاء الاصطناعي مع روبوتات المختبر في دورات تصميم جزيئي مغلقة.",
+   "ai": true
   },
   {
    "id": "94224a1993d6",
@@ -2927,9 +3023,13 @@
    "image": "https://cdn.sanity.io/images/bj34pdbp/migration/3e54b7ac2f7528322ea28d1938bfe24e0086ecca-1920x1004.png",
    "published": "2026-10-16T09:30:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Replit تتيح «أحضر سحابتك الخاصة» للمؤسسات",
+   "ar_summary": "تقدم Replit خيارات لتشغيل التطوير والإنتاج داخل سحابة العميل على Azure أو Google Cloud أو AWS.",
+   "ai": true
   },
   {
    "id": "f50edeef798d",
