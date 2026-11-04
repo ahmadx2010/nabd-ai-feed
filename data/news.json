@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:05:35Z",
+ "updated": "2026-11-04T13:08:24Z",
  "categories": [
   {
    "key": "big",
@@ -1686,7 +1686,11 @@
    "image": null,
    "published": "2026-10-28T15:55:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 2
+   "importance": 1,
+   "ar_detail": true,
+   "ar_title": "تطبيق GitHub Copilot: إصدارات مؤتمر Universe",
+   "ar_summary": "يقدّم GitHub تحديثات جديدة لتطبيق Copilot تتيح العمل على مهام تمتد عبر عدة مستودعات وجلسات، وحتى جمع المواصفات والتصاميم والأصول دون لمس مستودع.",
+   "ai": true
   },
   {
    "id": "393d97d2e447",
@@ -1746,7 +1750,11 @@
    "image": null,
    "published": "2026-10-28T15:33:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 2
+   "importance": 1,
+   "ar_detail": true,
+   "ar_title": "GitHub Copilot في VS Code: إصدارات Universe",
+   "ar_summary": "يعرض GitHub تحديثات Copilot في Visual Studio Code التي تمنح المطورين خيارات أوسع في النماذج المستخدمة ومكان تشغيل الوكلاء.",
+   "ai": true
   },
   {
    "id": "eb9069225e78",
@@ -1878,7 +1886,11 @@
    "image": "https://about.fb.com/wp-content/uploads/2026/10/Muse-16x9-SG.png?fit=2048%2C1152",
    "published": "2026-10-28T00:00:03Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_detail": true,
+   "ar_title": "Muse متاح الآن في سنغافورة",
+   "ar_summary": "أعلنت Meta توفر Muse، وكيلها الشخصي الذكي، في سنغافورة.",
+   "ai": true
   },
   {
    "id": "91ab09be6954",
@@ -1974,7 +1986,11 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ExamplesofArgon_Hero.max-600x600.format-webp.webp",
    "published": "2026-10-27T15:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 0,
+   "ar_detail": true,
+   "ar_title": "8 أمثلة على Gemini 4 Argon أثناء العمل",
+   "ar_summary": "تعرض Google ثمانية أمثلة عملية لاستخدامات نموذج Gemini 4 Argon.",
+   "ai": true
   },
   {
    "id": "378820e71e6f",
@@ -2082,7 +2098,11 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5buildersArgon_Hero.max-600x600.format-webp.webp",
    "published": "2026-10-23T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 0,
+   "ar_detail": true,
+   "ar_title": "ماذا يبني 5 مطورين باستخدام Gemini 4 Argon",
+   "ar_summary": "تستعرض Google مشاريع بناها خمسة مطورين باستخدام Gemini 4 Argon.",
+   "ai": true
   },
   {
    "id": "caa4b3017f0c",
@@ -2166,7 +2186,11 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ethernet-corp-blog-minerva-kv-1280x680-5595752.png",
    "published": "2026-10-22T15:00:02Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 2,
+   "ar_detail": true,
+   "ar_title": "NVIDIA تكشف عن Minerva لمراقبة مصانع الذكاء الاصطناعي",
+   "ar_summary": "أطلقت NVIDIA منصة Minerva لعمليات الذكاء الاصطناعي (AIOps) تجمع بيانات القياس من البنية التحتية وأحمال الذكاء الاصطناعي وتحللها بنماذج مخصصة لاكتشاف المشكلات مبكرًا.",
+   "ai": true
   },
   {
    "id": "e66e9796ba6b",
@@ -2634,7 +2658,11 @@
    "image": null,
    "published": "2026-10-13T19:43:07Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_detail": true,
+   "ar_title": "تطوير Gemini 4 Argon بمسؤولية وأمان",
+   "ar_summary": "تشرح Google DeepMind نهجها في السلامة والأمان عند تطوير Gemini 4 Argon.",
+   "ai": true
   },
   {
    "id": "ed2bad3e4df7",
@@ -2658,7 +2686,11 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup.max-600x600.format-webp.webp",
    "published": "2026-10-13T18:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_detail": true,
+   "ar_title": "تطوير Gemini 4 Argon بمسؤولية وأمان",
+   "ar_summary": "تشرح Google نهجها في السلامة والأمان عند تطوير Gemini 4 Argon.",
+   "ai": true
   },
   {
    "id": "22c6ef693aee",
@@ -2682,7 +2714,11 @@
    "image": "https://cdn.sanity.io/images/bj34pdbp/migration/9b07abf4052e0699a2bbc0bb80da5c2eba7fea57-1920x1080.png",
    "published": "2026-10-13T17:25:04Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 2
+   "importance": 0,
+   "ar_detail": true,
+   "ar_title": "Replit تعلن عن شركاء الحلول",
+   "ar_summary": "تقدّم Replit برنامج شركاء الحلول لمساعدة المؤسسات على توظيف الذكاء الاصطناعي في بناء البرمجيات داخل مختلف الفرق.",
+   "ai": true
   },
   {
    "id": "e1fac0b9234f",
@@ -2694,7 +2730,11 @@
    "image": "https://i1.ytimg.com/vi/LVEfFyijQ2c/hqdefault.jpg",
    "published": "2026-10-13T16:38:17Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 0,
+   "ar_detail": true,
+   "ar_title": "استخدام Gemini 4 في صيانة شيفرة Chromium واسعة النطاق",
+   "ar_summary": "يعمل مهندس في Google مع Gemini 4 Argon لفك تعقيد بنية Chromium عبر وكلاء يعيدون الهيكلة بشكل مستقل.",
+   "ai": true
   },
   {
    "id": "d5d8f56a8647",
@@ -2706,7 +2746,11 @@
    "image": "https://i3.ytimg.com/vi/ftkic7Tdpcg/hqdefault.jpg",
    "published": "2026-10-13T16:38:14Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 0,
+   "ar_detail": true,
+   "ar_title": "Gemini 4 Argon في الحماية من الهجمات السيبرانية",
+   "ar_summary": "في اختبارات مع باحثي Wiz وجد Gemini 4 Argon ضعف عدد الثغرات مقارنة بالنماذج الأساسية.",
+   "ai": true
   },
   {
    "id": "884ebf3c3978",
@@ -2718,7 +2762,11 @@
    "image": null,
    "published": "2026-10-13T16:01:58Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_detail": true,
+   "ar_title": "Gemini 4 Argon للروبوتات",
+   "ar_summary": "تعرض Google DeepMind قدرات Gemini 4 Argon في مجال الروبوتات.",
+   "ai": true
   },
   {
    "id": "f174716114a9",
@@ -2730,7 +2778,11 @@
    "image": null,
    "published": "2026-10-13T16:01:52Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 2,
+   "ar_detail": true,
+   "ar_title": "Gemini 4 Argon: نموذج لحل أصعب مشكلاتك",
+   "ar_summary": "تعلن Google DeepMind عن Gemini 4 Argon، نموذجها الجديد للاستدلال المتقدم والبرمجة الوكيلة.",
+   "ai": true
   },
   {
    "id": "687470cab9be",
@@ -2754,7 +2806,11 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp",
    "published": "2026-10-13T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 2,
+   "ar_detail": true,
+   "ar_title": "Gemini 4 Argon يصل إلى تطبيق Gemini",
+   "ar_summary": "أصبح Gemini 4 Argon متاحًا لمشتركي Google AI Pro وUltra في تطبيق Gemini، مع استدلال متقدم وبرمجة وكيلة.",
+   "ai": true
   },
   {
    "id": "c1e94fc83136",
@@ -2766,7 +2822,11 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
    "published": "2026-10-13T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 2,
+   "ar_detail": true,
+   "ar_title": "Gemini 4 Argon: نموذج لحل أصعب مشكلاتك",
+   "ar_summary": "تعلن Google عن Gemini 4 Argon، نموذج جديد للاستدلال المتقدم والبرمجة الوكيلة.",
+   "ai": true
   },
   {
    "id": "ade12c07232f",
@@ -2778,7 +2838,11 @@
    "image": "https://i2.ytimg.com/vi/9PICEmtfpWU/hqdefault.jpg",
    "published": "2026-10-13T15:58:20Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_detail": true,
+   "ar_title": "تعليم روبوت بشري لعب كورنهول بواسطة Gemini 4 Argon",
+   "ar_summary": "في اختبار داخلي شاهد Gemini 4 Argon فيديو للعبة، وبنى محاكاة ومكّن روبوت Apollo 2 من تسجيل سبع رميات متتالية.",
+   "ai": true
   },
   {
    "id": "1d27ca953a63",
@@ -2790,7 +2854,11 @@
    "image": "https://i2.ytimg.com/vi/9jQA7IgPhBE/hqdefault.jpg",
    "published": "2026-10-13T15:58:17Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 0,
+   "ar_detail": true,
+   "ar_title": "تحليل براءات اختراع كيميائية من 500 صفحة بـ Gemini 4",
+   "ar_summary": "يستخدم باحثو Isomorphic Labs قدرات Gemini 4 Argon متعددة الوسائط لاستخراج البيانات من براءات الاختراع الكيميائية.",
+   "ai": true
   },
   {
    "id": "3c04da4c4ba3",
@@ -2946,7 +3014,11 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
    "published": "2026-10-07T12:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_detail": true,
+   "ar_title": "Playground: أنشئ ولعب ألعابًا مخصصة",
+   "ar_summary": "تقدّم Google منصة Playground التجريبية لإنشاء الألعاب المخصصة واللعب بها.",
+   "ai": true
   },
   {
    "id": "4dd290070848",
@@ -3042,7 +3114,11 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
    "published": "2026-10-02T15:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 0,
+   "ar_detail": true,
+   "ar_title": "أحدث أخبار Google للذكاء الاصطناعي في سبتمبر 2026",
+   "ar_summary": "ملخص لأبرز إعلانات Google في الذكاء الاصطناعي خلال سبتمبر 2026.",
+   "ai": true
   },
   {
    "id": "5afa66c19841",
@@ -3090,7 +3166,11 @@
    "image": null,
    "published": "2026-10-01T20:35:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 2
+   "importance": 1,
+   "ar_detail": true,
+   "ar_title": "Suno تطلق Speech (تجريبي)",
+   "ar_summary": "تقدّم Suno ميزة Speech التجريبية كطريقة جديدة للتعبير الإبداعي.",
+   "ai": true
   },
   {
    "id": "8aa77346da60",
@@ -3126,7 +3206,11 @@
    "image": null,
    "published": "2026-09-30T20:01:45Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 2,
+   "ar_detail": true,
+   "ar_title": "Gemini 4 Argon: عصر جديد من الذكاء المتقدم",
+   "ar_summary": "تعلن Google DeepMind عن Gemini 4 Argon كمرحلة جديدة من الذكاء المتقدم.",
+   "ai": true
   },
   {
    "id": "0a622a33b8e3",
@@ -3138,7 +3222,11 @@
    "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo",
    "published": "2026-09-30T15:03:07Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_detail": true,
+   "ar_title": "تقديم SynthID Bio",
+   "ar_summary": "نموذج أولي لوضع علامة مائية على البروتينات المولدة بالذكاء الاصطناعي مع الحفاظ على وظيفتها البيولوجية.",
+   "ai": true
   },
   {
    "id": "34b6fd4acf3f",
@@ -3186,7 +3274,11 @@
    "image": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/2026/09/Model-Launch.png",
    "published": "2026-09-28T18:00:30Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 2
+   "importance": 1,
+   "ar_detail": true,
+   "ar_title": "Character.AI تقدم PipSqueak 3 وShortSqueak وخطة (c.ai) lite",
+   "ar_summary": "تطلق Character.AI نمطين مجانيين جديدين للمحادثة، PipSqueak 3 للتقمص العام وShortSqueak للمحادثات القصيرة، إضافة إلى خطة اشتراك (c.ai) lite.",
+   "ai": true
   },
   {
    "id": "aabbcb7a3a47",
@@ -3270,7 +3362,11 @@
    "image": null,
    "published": "2026-09-24T16:20:39Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_detail": true,
+   "ar_title": "تقديم Gemini 3.8 Live مع Live Avatar",
+   "ar_summary": "تعلن Google DeepMind عن Gemini 3.8 Live مع ميزة الصورة الرمزية الحية.",
+   "ai": true
   },
   {
    "id": "abbe680279c1",
@@ -3342,7 +3438,11 @@
    "image": "https://i3.ytimg.com/vi/FL6mI_Br-mc/hqdefault.jpg",
    "published": "2026-09-23T15:23:38Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_detail": true,
+   "ar_title": "أنشئ أصواتك الخاصة بتحويل النص إلى كلام في Gemini 3.8",
+   "ar_summary": "يتيح Gemini 3.8 تصميم شخصيات صوتية جديدة بالأوامر النصية أو إعادة إنتاج صوت من عينة مدتها 30 ثانية.",
+   "ai": true
   },
   {
    "id": "01251fcfddec",
