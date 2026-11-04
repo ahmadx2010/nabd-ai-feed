@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:39:59Z",
+ "updated": "2026-11-04T19:41:36Z",
  "categories": [
   {
    "key": "big",
@@ -595,12 +595,13 @@
    "published": "2026-11-04T00:32:19Z",
    "found": "2026-11-04T03:19:31Z",
    "importance": 0,
-   "ar_title": "دعم BYOK والنماذج المخصصة للمؤسسات في واجهة Copilot لقياس الاستخدام",
-   "ar_summary": "تعرض واجهة مقاييس استخدام Copilot الآن استخدام مفاتيح المستخدم الخاصة (BYOK) بشكل منفصل عن النماذج التي تستضيفها GitHub. يساعد ذلك المؤسسات على تتبع التكاليف والاستخدام بدقة أكبر.",
+   "ar_title": "واجهة استخدام Copilot تعرض الآن استخدام BYOK والنماذج المخصصة",
+   "ar_summary": "أضاف GitHub إلى واجهة مقاييس Copilot فصلًا لاستخدام مفاتيح BYOK والنماذج المخصصة عن النماذج المستضافة.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "493a258a2758",
@@ -649,11 +650,12 @@
    "published": "2026-11-03T23:40:00Z",
    "found": "2026-11-03T23:40:00Z",
    "importance": 0,
-   "ar_title": "LangSmith BYOC يدعم الآن AWS وGoogle Cloud وAzure",
-   "ar_summary": "أعلنت LangChain عن توسيع خيار «أحضر سحابتك الخاصة» في LangSmith ليشمل عدة مزودي سحابة.",
+   "ar_title": "LangSmith BYOC على AWS وGoogle Cloud وAzure",
+   "ar_summary": "تدوينة من LangChain عن نشر LangSmith ضمن بيئة العميل السحابية على AWS وGoogle Cloud وAzure.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "1f46abcfa59f",
@@ -666,11 +668,12 @@
    "published": "2026-11-03T23:40:00Z",
    "found": "2026-11-03T23:40:00Z",
    "importance": 0,
-   "ar_title": "البصيرة البشرية كميزة استراتيجية في عصر الوكلاء الأذكياء",
-   "ar_summary": "مقال من LangChain يناقش دور الخبرة البشرية في بناء وكلاء الذكاء الاصطناعي وتحقيق ميزة تنافسية.",
+   "ar_title": "البصيرة البشرية ميزة استراتيجية في عصر الوكلاء",
+   "ar_summary": "تدوينة من LangChain حول دور البصيرة البشرية كميزة استراتيجية مع وكلاء الذكاء الاصطناعي.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "07cdeba3c4cd",
@@ -683,10 +686,11 @@
    "published": "2026-11-03T18:30:30Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
-   "ar_title": "TamaGPT: صناعة الأجهزة مع GPT-6 Astra",
-   "ar_summary": "فيديو من OpenAI يوضح كيف يساعد GPT-6 Astra غير المهندسين على تصميم وصنع أجهزة مادية.",
+   "ar_title": "TamaGPT: صناعة عتاد مع GPT-6 Astra",
+   "ar_summary": "فيديو من OpenAI يظهر كيف يساعد GPT-6 Astra غير المهندسين على صناعة أجهزة مادية.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "60196b10dd33",
@@ -699,11 +703,12 @@
    "published": "2026-11-03T18:11:23Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
-   "ar_title": "Qodo تدمج سياق الشركة في مراجعة الأكواد عبر Codex",
-   "ar_summary": "إضافة Qodo لـ Codex تجلب معايير الشركة وسياق الكود إلى مراجعة مستقلة تكشف الأخطاء عبر المستودعات. في هذا الحوار يناقش مؤسسها كيف يبنون أدواتهم باستخدام GPT-6 Astra.",
+   "ar_title": "Qodo تجلب سياق الشركة إلى مراجعة الكود في Codex",
+   "ar_summary": "إضافة Qodo لـ Codex تضيف معايير الكود والسياق ومراجعة مستقلة لكشف الأخطاء عبر المستودعات.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "d84f2d409b05",
@@ -770,11 +775,12 @@
    "published": "2026-11-03T16:51:36Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
-   "ar_title": "Glean حول الخصوصية وOpenAI Private Intelligence",
-   "ar_summary": "المدير التقني لـ Glean يتحدث عن تحكم العملاء ببياناتهم وعن العمل مع OpenAI في المعاينة الخاصة للمعالجة الآمنة.",
+   "ar_title": "Glean عن الخصوصية وOpenAI Private Intelligence",
+   "ar_summary": "مقطع قصير يناقش فيه CTO في Glean تحكم العملاء ببياناتهم والعمل مع OpenAI.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "2baa2e0273f5",
@@ -787,11 +793,12 @@
    "published": "2026-11-03T16:46:37Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
-   "ar_title": "Glean حول الخصوصية وOpenAI Private Intelligence",
-   "ar_summary": "يشرح المدير التقني لـ Glean كيف تعاونت الشركة مع OpenAI لضمان بقاء بيانات العملاء تحت سيطرتهم، ومنها معاينة Private Safety Processing.",
+   "ar_title": "Glean عن الخصوصية وOpenAI Private Intelligence",
+   "ar_summary": "يشرح CTO في Glean كيف تعمل الشركة مع OpenAI لتلبية احتياجات الخصوصية.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "bc4177032a04",
@@ -878,12 +885,13 @@
    "published": "2026-11-03T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
-   "ar_title": "ما هو تفريغ المكالمات؟ دليل عملي للشركات",
-   "ar_summary": "دليل يشرح كيفية عمل تفريغ المكالمات بالذكاء الاصطناعي ومقارنة أنواع البرامج.",
+   "ar_title": "ما هو نسخ المكالمات؟ دليل عملي للشركات",
+   "ar_summary": "دليل من ElevenLabs يشرح نسخ المكالمات بالذكاء الاصطناعي وكيفية عمله واستخداماته.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "66a947a7e4a1",
@@ -896,12 +904,13 @@
    "published": "2026-11-03T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
-   "ar_title": "Angle Health: وكلاء ElevenAgents يعالجون 90% من مكالمات المزودين دون تحويل",
-   "ar_summary": "تجيب وكلاء الصوت على مكالمات مزودي الرعاية على مدار الساعة، مما يوفر نحو 9000 دقيقة يوميًا.",
+   "ar_title": "وكلاء ElevenAgents لدى Angle Health يعالجون 90% من مكالمات مقدمي الرعاية دون تحويل",
+   "ar_summary": "تجربة Angle Health مع ElevenAgents ترد على مكالمات مقدمي الرعاية على مدار الساعة وتوفر نحو 9000 دقيقة يوميًا.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "08b710f1e780",
@@ -915,10 +924,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "ar_title": "Heimstaden تغيّر إدارة العقارات السكنية بالذكاء الاصطناعي",
-   "ar_summary": "قصة عميل توضح استخدام Heimstaden لـ ChatGPT Enterprise وCodex لخفض التكاليف وتمكين الموظفين في أوروبا.",
+   "ar_summary": "قصة عميل عن استخدام Heimstaden لـ ChatGPT Enterprise وCodex في إدارة العقارات في أوروبا.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "d0cdd7377e6a",
@@ -931,11 +941,12 @@
    "published": "2026-11-03T08:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
-   "ar_title": "فيديو: داخل تقنية تلفزيون Samsung Micro RGB",
-   "ar_summary": "نظرة على تلفزيون Micro RGB بمصابيح أصغر من 100 ميكرومتر ومحرك ذكاء اصطناعي لتحسين المحتوى وسطح مضاد للوهج.",
+   "ar_title": "فيديو: داخل تقنية تلفزيون سامسونغ Micro RGB",
+   "ar_summary": "فيديو يعرض تلفزيون Micro RGB بمصابيح أصغر من 100 ميكرومتر ومحرك ذكاء اصطناعي لتحسين المحتوى.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "a2357e701f02",
@@ -948,11 +959,12 @@
    "published": "2026-11-03T08:00:00Z",
    "found": "2026-11-03T23:40:00Z",
    "importance": 0,
-   "ar_title": "كيف تدافع Cisco بسرعة الآلة باستخدام OpenAI",
-   "ar_summary": "تجمع Cisco بين ذكاء الشبكات ونماذج OpenAI لتعزيز أمن المؤسسات وبناء دفاعات أكثر تكيفًا.",
+   "ar_title": "كيف تدافع Cisco بسرعة الآلة مع OpenAI",
+   "ar_summary": "قصة عميل عن دمج Cisco لذكاء الشبكات مع نماذج OpenAI لتعزيز الأمن.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "928e7584e6cd",
@@ -1985,11 +1997,12 @@
    "published": "2026-10-28T17:00:49Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "Meta تتعاون مع خمس جامعات أمريكية لتسريع الاكتشافات الطبية والعلمية",
-   "ar_summary": "توفر Meta نماذجها وتمويلًا بحثيًا وتعاونًا مباشرًا مع الباحثين الذين يستخدمون نماذجها في العلوم والطب.",
+   "ar_title": "ميتا تتعاون مع خمس جامعات أمريكية لتسريع الاكتشافات الطبية والعلمية",
+   "ar_summary": "أعلنت ميتا شراكات مع خمس جامعات أمريكية بتمويل قدره 2 مليون دولار لدعم أبحاث تستخدم نماذجها في الطب والعلوم.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "185e559c77b9",
@@ -2019,12 +2032,13 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ManinOffice_V2.max-600x600.format-webp.webp",
    "published": "2026-10-28T17:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "ar_title": "XREAL AURA: نظارات XR سلكية للمشاهدة والعمل واللعب",
-   "ar_summary": "تقدم Google نظارات XREAL AURA العاملة بنظام Android XR.",
+   "importance": 2,
+   "ar_title": "XREAL AURA: أول نظارات XR سلكية بنظام Android XR للعمل والترفيه",
+   "ar_summary": "أطلقت غوغل وXREAL نظارات AURA، أول نظارات واقع ممتد سلكية تعمل بنظام Android XR وتدعم Gemini، والطلب متاح من اليوم في عدة دول.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "d532f885a7b9",
@@ -2037,11 +2051,12 @@
    "published": "2026-10-28T17:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "بناء وإدارة التطبيقات المتصلة في مكان واحد",
-   "ar_summary": "أداة للمطورين لربط التطبيقات بـ Gemini وبحث Google وإدارتها من مكان واحد.",
+   "ar_title": "غوغل تطلق منصة Connected Apps لبناء وإدارة التطبيقات المرتبطة بالبحث وGemini",
+   "ar_summary": "أطلقت غوغل نسخة تجريبية من منصة موحدة للمطورين لبناء تطبيقات تعمل داخل البحث وتطبيق Gemini، مع شركاء جدد مثل Adobe وCalm وPeloton.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "f03dd1041972",
@@ -2110,8 +2125,8 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
    "ar_detail": true,
-   "ar_title": "تطبيق GitHub Copilot: إصدارات مؤتمر Universe",
-   "ar_summary": "يقدّم GitHub تحديثات جديدة لتطبيق Copilot تتيح العمل على مهام تمتد عبر عدة مستودعات وجلسات، وحتى جمع المواصفات والتصاميم والأصول دون لمس مستودع.",
+   "ar_title": "تطبيق GitHub Copilot: مشاريع ووكلاء متعددون واستخدام الحاسوب",
+   "ar_summary": "أطلق GitHub في معاينة عامة ميزة المشاريع في تطبيق Copilot، مع ميزة استخدام الحاسوب للتحكم بتطبيقات سطح المكتب.",
    "ai": true,
    "detail": true,
    "fetched": true,
@@ -2205,8 +2220,8 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
    "ar_detail": true,
-   "ar_title": "GitHub Copilot في VS Code: إصدارات Universe",
-   "ar_summary": "يعرض GitHub تحديثات Copilot في Visual Studio Code التي تمنح المطورين خيارات أوسع في النماذج المستخدمة ومكان تشغيل الوكلاء.",
+   "ar_title": "GitHub Copilot في VS Code: جلسات سحابية ووكلاء يعملون في الخلفية",
+   "ar_summary": "أعلن GitHub ميزات جديدة في VS Code تتيح بدء جلسات وكلاء سحابية ومتابعتها عبر الأجهزة وتشغيل الوكلاء على أجهزتك البعيدة.",
    "ai": true,
    "detail": true,
    "fetched": true,
@@ -2409,8 +2424,8 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "ar_detail": true,
-   "ar_title": "Muse متاح الآن في سنغافورة",
-   "ar_summary": "أعلنت Meta توفر Muse، وكيلها الشخصي الذكي، في سنغافورة.",
+   "ar_title": "مساعد Muse من ميتا يصل إلى سنغافورة",
+   "ar_summary": "أعلنت ميتا توفر وكيلها الشخصي Muse في سنغافورة مع موصلات لتطبيقات محلية مثل Shopee وGrab وSingapore Airlines.",
    "ai": true,
    "detail": true,
    "fetched": true
@@ -3564,7 +3579,7 @@
    "importance": 1,
    "ar_detail": true,
    "ar_title": "تطوير Gemini 4 Argon بمسؤولية وأمان",
-   "ar_summary": "تشرح Google DeepMind نهجها في السلامة والأمان عند تطوير Gemini 4 Argon.",
+   "ar_summary": "تشرح ديب مايند نهجها في سلامة وأمن Gemini 4 Argon، بما يشمل منع إساءة الاستخدام السيبراني والبيولوجي وتوسيع برنامج Fairwind للمدافعين.",
    "ai": true,
    "detail": true,
    "fetched": true,
@@ -3602,7 +3617,7 @@
    "importance": 1,
    "ar_detail": true,
    "ar_title": "تطوير Gemini 4 Argon بمسؤولية وأمان",
-   "ar_summary": "تشرح Google نهجها في السلامة والأمان عند تطوير Gemini 4 Argon.",
+   "ar_summary": "تعرض غوغل نهجها في سلامة وأمن Gemini 4 Argon، مع توسيع برنامج Fairwind للمدافعين السيبرانيين.",
    "ai": true,
    "detail": true,
    "fetched": true
@@ -3693,7 +3708,7 @@
    "importance": 1,
    "ar_detail": true,
    "ar_title": "Gemini 4 Argon للروبوتات",
-   "ar_summary": "تعرض Google DeepMind قدرات Gemini 4 Argon في مجال الروبوتات.",
+   "ar_summary": "تعرض ديب مايند قفزة Gemini 4 Argon في الفهم الفيزيائي والتحكم بالروبوتات، بنتيجة 87% في اختبار ERQA.",
    "ai": true,
    "detail": true,
    "fetched": true,
@@ -4046,8 +4061,8 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "ar_detail": true,
-   "ar_title": "Playground: أنشئ ولعب ألعابًا مخصصة",
-   "ar_summary": "تقدّم Google منصة Playground التجريبية لإنشاء الألعاب المخصصة واللعب بها.",
+   "ar_title": "غوغل تقدم Playground لإنشاء الألعاب ومشاركتها دون برمجة",
+   "ar_summary": "منصة تجريبية تتيح إنشاء ألعاب مخصصة ولعبها ومشاركتها عبر وصف نصي فقط.",
    "ai": true,
    "detail": true,
    "fetched": true
@@ -4268,8 +4283,8 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
    "ar_detail": true,
-   "ar_title": "Suno تطلق Speech (تجريبي)",
-   "ar_summary": "تقدّم Suno ميزة Speech التجريبية كطريقة جديدة للتعبير الإبداعي.",
+   "ar_title": "Suno تطلق Speech: نموذج يولد الصوت المنطوق والموسيقى معًا",
+   "ar_summary": "فتحت Suno النسخة التجريبية من Speech، أول نموذج صوتي يولد الكلام مع موسيقى في مقطع واحد.",
    "ai": true,
    "detail": true,
    "fetched": true,
@@ -4415,8 +4430,8 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
    "ar_detail": true,
-   "ar_title": "Character.AI تقدم PipSqueak 3 وShortSqueak وخطة (c.ai) lite",
-   "ar_summary": "تطلق Character.AI نمطين مجانيين جديدين للمحادثة، PipSqueak 3 للتقمص العام وShortSqueak للمحادثات القصيرة، إضافة إلى خطة اشتراك (c.ai) lite.",
+   "ar_title": "Character.AI تطلق PipSqueak 3 وShortSqueak وخطة lite",
+   "ar_summary": "أسلوبان جديدان مجانيان للمحادثة وخطة اشتراك أرخص باسم (c.ai) lite.",
    "ai": true,
    "detail": true,
    "fetched": true
@@ -4545,8 +4560,8 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "ar_detail": true,
-   "ar_title": "تقديم Gemini 3.8 Live مع Live Avatar",
-   "ar_summary": "تعلن Google DeepMind عن Gemini 3.8 Live مع ميزة الصورة الرمزية الحية.",
+   "ar_title": "Gemini 3.8 Live مع Live Avatar: حضور مرئي لحظي في المحادثة",
+   "ar_summary": "تقدم ديب مايند Live Avatar، ميزة تضيف شخصية مرئية بفيديو لحظي إلى محادثات Gemini الصوتية، متاحة في Gemini Enterprise.",
    "ai": true,
    "detail": true,
    "fetched": true,
