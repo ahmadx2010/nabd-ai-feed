@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T03:19:31Z",
+ "updated": "2026-11-04T06:41:22Z",
  "categories": [
   {
    "key": "big",
@@ -386,7 +386,10 @@
    "image": null,
    "published": "2026-11-04T00:32:19Z",
    "found": "2026-11-04T03:19:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "دعم BYOK والنماذج المخصصة للمؤسسات في واجهة Copilot لقياس الاستخدام",
+   "ar_summary": "تعرض واجهة مقاييس استخدام Copilot الآن استخدام مفاتيح المستخدم الخاصة (BYOK) بشكل منفصل عن النماذج التي تستضيفها GitHub. يساعد ذلك المؤسسات على تتبع التكاليف والاستخدام بدقة أكبر.",
+   "ai": true
   },
   {
    "id": "af325869114f",
@@ -398,7 +401,10 @@
    "image": null,
    "published": "2026-11-03T23:40:00Z",
    "found": "2026-11-03T23:40:00Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "LangSmith BYOC يدعم الآن AWS وGoogle Cloud وAzure",
+   "ar_summary": "أعلنت LangChain عن توسيع خيار «أحضر سحابتك الخاصة» في LangSmith ليشمل عدة مزودي سحابة.",
+   "ai": true
   },
   {
    "id": "1f46abcfa59f",
@@ -410,7 +416,10 @@
    "image": null,
    "published": "2026-11-03T23:40:00Z",
    "found": "2026-11-03T23:40:00Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "البصيرة البشرية كميزة استراتيجية في عصر الوكلاء الأذكياء",
+   "ar_summary": "مقال من LangChain يناقش دور الخبرة البشرية في بناء وكلاء الذكاء الاصطناعي وتحقيق ميزة تنافسية.",
+   "ai": true
   },
   {
    "id": "07cdeba3c4cd",
@@ -422,7 +431,10 @@
    "image": "https://i3.ytimg.com/vi/NCxD-qsQcN0/hqdefault.jpg",
    "published": "2026-11-03T18:30:30Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "TamaGPT: صناعة الأجهزة مع GPT-6 Astra",
+   "ar_summary": "فيديو من OpenAI يوضح كيف يساعد GPT-6 Astra غير المهندسين على تصميم وصنع أجهزة مادية.",
+   "ai": true
   },
   {
    "id": "60196b10dd33",
@@ -554,7 +566,10 @@
    "image": null,
    "published": "2026-11-03T15:11:46Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 2
+   "importance": 1,
+   "ar_title": "GitHub Copilot متاح الآن في JetBrains Air",
+   "ar_summary": "يمكن الآن تفويض مهام البرمجة ومراجعة النتائج عبر Copilot داخل JetBrains Air باستخدام بروتوكول Agent Client Protocol.",
+   "ai": true
   },
   {
    "id": "26c6032e1d26",
@@ -566,7 +581,10 @@
    "image": null,
    "published": "2026-11-03T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "تسريع الهندسة للعالم المادي",
+   "ar_summary": "تستعرض OpenAI كيف يساعد ChatGPT وCodex المهندسين في تصميم CAD وPCB والمحاكاة وغيرها من سير العمل الهندسية.",
+   "ai": true
   },
   {
    "id": "0e889c44fa0a",
@@ -578,7 +596,10 @@
    "image": null,
    "published": "2026-11-03T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "ما هو تفريغ المكالمات؟ دليل عملي للشركات",
+   "ar_summary": "دليل يشرح كيفية عمل تفريغ المكالمات بالذكاء الاصطناعي ومقارنة أنواع البرامج.",
+   "ai": true
   },
   {
    "id": "66a947a7e4a1",
@@ -590,7 +611,10 @@
    "image": null,
    "published": "2026-11-03T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "Angle Health: وكلاء ElevenAgents يعالجون 90% من مكالمات المزودين دون تحويل",
+   "ar_summary": "تجيب وكلاء الصوت على مكالمات مزودي الرعاية على مدار الساعة، مما يوفر نحو 9000 دقيقة يوميًا.",
+   "ai": true
   },
   {
    "id": "08b710f1e780",
@@ -617,7 +641,10 @@
    "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/30114048/Samsung-TVs-and-Displays-Samsung-Micro-RGB-TV_Thumb932-728x410.jpg",
    "published": "2026-11-03T08:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "فيديو: داخل تقنية تلفزيون Samsung Micro RGB",
+   "ar_summary": "نظرة على تلفزيون Micro RGB بمصابيح أصغر من 100 ميكرومتر ومحرك ذكاء اصطناعي لتحسين المحتوى وسطح مضاد للوهج.",
+   "ai": true
   },
   {
    "id": "a2357e701f02",
@@ -629,7 +656,10 @@
    "image": null,
    "published": "2026-11-03T08:00:00Z",
    "found": "2026-11-03T23:40:00Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "كيف تدافع Cisco بسرعة الآلة باستخدام OpenAI",
+   "ar_summary": "تجمع Cisco بين ذكاء الشبكات ونماذج OpenAI لتعزيز أمن المؤسسات وبناء دفاعات أكثر تكيفًا.",
+   "ai": true
   },
   {
    "id": "928e7584e6cd",
@@ -686,7 +716,10 @@
    "image": null,
    "published": "2026-11-03T00:00:00Z",
    "found": "2026-11-03T23:40:00Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "OpenAI تعين جيل هازلبيكر رئيسةً للشؤون المؤسسية",
+   "ar_summary": "ستقود هازلبيكر الاتصالات العالمية وتموضع الشركة المؤسسي في OpenAI.",
+   "ai": true
   },
   {
    "id": "767025f393c3",
@@ -833,7 +866,10 @@
    "image": null,
    "published": "2026-11-02T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "كيف تُنشأ الأصوات الاصطناعية للكلام الطبيعي؟",
+   "ar_summary": "شرح لكيفية إنشاء الأصوات الاصطناعية من بيانات الكلام إلى الشبكات العصبية واستنساخ الصوت.",
+   "ai": true
   },
   {
    "id": "1b616ac07b1e",
@@ -845,7 +881,10 @@
    "image": null,
    "published": "2026-11-02T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "KPN تقدم الذكاء الصوتي لرواد الأعمال الهولنديين عبر Mobiel AI",
+   "ar_summary": "بالشراكة مع ElevenLabs أطلقت KPN مساعدًا ذكيًا ضمن باقات الهاتف للأعمال لإدارة المكالمات.",
+   "ai": true
   },
   {
    "id": "4d1f48989ead",
@@ -857,7 +896,10 @@
    "image": null,
    "published": "2026-11-02T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 2
+   "importance": 1,
+   "ar_title": "تقديم SFX v3 للمطورين",
+   "ar_summary": "نموذج المؤثرات الصوتية الجديد من ElevenLabs يحسن الأوامر متعددة الأجزاء والأصوات ويمكن التبديل إليه بتغيير model_id.",
+   "ai": true
   },
   {
    "id": "8e4474f09341",
@@ -869,7 +911,10 @@
    "image": null,
    "published": "2026-11-02T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "لماذا يتفوق الصوت في المحادثات المعقدة والمجهدة",
+   "ar_summary": "في المحادثات الأطول من دقيقتين نجح الصوت أكثر بنسبة 32% من الدردشة النصية.",
+   "ai": true
   },
   {
    "id": "ed4b58253682",
@@ -1016,7 +1061,10 @@
    "image": null,
    "published": "2026-10-30T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "التحويل الدافئ مقابل البارد: اختيار الأنسب",
+   "ar_summary": "يشرح الفرق بين النوعين ومتى يُستخدم كل منهما وكيف تحوّل وكلاء الصوت المكالمات إلى موظف بشري.",
+   "ai": true
   },
   {
    "id": "626d6f539a19",
@@ -1028,7 +1076,10 @@
    "image": null,
    "published": "2026-10-30T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "TELUS Digital تخفض الإلغاءات المبكرة لأكثر من النصف",
+   "ar_summary": "استخدمت الشركة ElevenAgents للاتصال بالعملاء الجدد خلال أول 90 يومًا فخفضت الإلغاء المبكر بأكثر من النصف.",
+   "ai": true
   },
   {
    "id": "25cc4c9bb2e3",
@@ -1130,7 +1181,10 @@
    "image": null,
    "published": "2026-10-29T16:51:26Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "تسريع النماذج اللغوية لتطبيقات السفر",
+   "ar_summary": "تقنيتان للتحسين، عند دمجهما، ترفعان سرعة النموذج وكفاءة تكلفته دون التضحية بالجودة.",
+   "ai": true
   },
   {
    "id": "a0c8bc8caa04",
@@ -1187,7 +1241,10 @@
    "image": null,
    "published": "2026-10-29T16:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "تعرف على Chat: مساعد الاستوديو من Suno",
+   "ar_summary": "مساعد مدمج في استوديو Suno يسهّل الجلسات ويقدم أفكارًا إبداعية.",
+   "ai": true
   },
   {
    "id": "f3538b6fb36f",
@@ -1214,7 +1271,10 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gfn-thursday-10-29-blog-1920x1080-logo.jpg",
    "published": "2026-10-29T13:00:16Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 0,
+   "ar_title": "لعبة Phantom Blade Zero تصل إلى GeForce NOW",
+   "ar_summary": "تضيف NVIDIA اللعبة إلى خدمة GeForce NOW السحابية مع ألعاب أخرى قادمة.",
+   "ai": true
   },
   {
    "id": "e68704a5f0fc",
@@ -1226,7 +1286,10 @@
    "image": null,
    "published": "2026-10-29T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "ما هو تبادل الأدوار في الذكاء الاصطناعي الحواري",
+   "ar_summary": "دليل يشرح كيف يقرر وكيل الصوت متى يتكلم أو يصمت ويستمع وكيفية قياس ذلك.",
+   "ai": true
   },
   {
    "id": "c0db2f78e6f9",
@@ -1238,7 +1301,10 @@
    "image": null,
    "published": "2026-10-29T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "كيف وفّرنا 1200 ساعة شهريًا بوكلاء ElevenAgents",
+   "ar_summary": "تعرض ElevenLabs استخدام وكلائها داخليًا في المبيعات والمنتج والدعم والهندسة.",
+   "ai": true
   },
   {
    "id": "19616655e2da",
@@ -1250,7 +1316,10 @@
    "image": null,
    "published": "2026-10-29T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 2
+   "importance": 1,
+   "ar_title": "تقديم SFX v3 في ElevenCreative وElevenAPI",
+   "ar_summary": "إصدار جديد بأوامر متعددة الأصوات أكثر موثوقية وموسيقى وأصوات غنائية أكثر إقناعًا وصوت أنقى.",
+   "ai": true
   },
   {
    "id": "3b9dd560f229",
@@ -1262,7 +1331,10 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_GeminiApp.max-600x600.format-webp.webp",
    "published": "2026-10-29T11:33:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "كيف تستخدم Gemini لتحديث سيرتك الذاتية",
+   "ar_summary": "أربع خطوات لتحويل الملاحظات إلى نقاط سيرة ذاتية مؤثرة ومتوافقة مع أنظمة ATS.",
+   "ai": true
   },
   {
    "id": "d28967fce9c6",
@@ -1274,7 +1346,10 @@
    "image": null,
    "published": "2026-10-29T09:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_title": "كيف نكتشف انحراف النماذج المتقدمة",
+   "ar_summary": "تستخدم OpenAI مراقبة متعددة الطبقات لرصد انحراف النماذج وسلوك الوكلاء غير المصرح به للتدخل قبل تفاقم الحوادث.",
+   "ai": true
   },
   {
    "id": "2d9928289658",
@@ -1286,7 +1361,10 @@
    "image": null,
    "published": "2026-10-29T07:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "Ropes & Gray تطور الذكاء الاصطناعي للعناية الواجبة في الصفقات",
+   "ar_summary": "تعمل الشركة القانونية مع OpenAI، ويراجع المحامون المستندات والملخصات قبل تقديم المشورة.",
+   "ai": true
   },
   {
    "id": "6750c2461412",
@@ -1298,7 +1376,10 @@
    "image": null,
    "published": "2026-10-29T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "Credit Saison تحقق عائد 954% في تجربة ChatGPT Enterprise",
+   "ar_summary": "أظهرت التجربة عائدًا كبيرًا على الاستثمار وأدت إلى اعتماد واسع داخل الشركة.",
+   "ai": true
   },
   {
    "id": "e1c742c1d925",
@@ -1310,7 +1391,10 @@
    "image": null,
    "published": "2026-10-29T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_title": "الإعلان عن مشروع ProtoStar لجعل العلوم الممولة حكوميًا جاهزة للذكاء الاصطناعي",
+   "ar_summary": "مبادرة من Hugging Face لتهيئة البيانات العلمية الممولة من القطاع العام لاستخدامها في الذكاء الاصطناعي.",
+   "ai": true
   },
   {
    "id": "a1765f446c5b",
@@ -1322,7 +1406,10 @@
    "image": null,
    "published": "2026-10-29T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 2,
+   "ar_title": "Mistral Large 4 متاح الآن على Hugging Face",
+   "ar_summary": "وصول نموذج Mistral Large 4 إلى منصة Hugging Face ليتمكن المطورون من استخدامه.",
+   "ai": true
   },
   {
    "id": "85d975255b4f",
@@ -1334,7 +1421,10 @@
    "image": null,
    "published": "2026-10-29T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 1,
+   "ar_title": "AnySpeechRecognizer وAnyDecisionModel: نماذج مفتوحة للكلام والقرارات على منصات Apple",
+   "ar_summary": "نموذجان مفتوحان للتعرف على الكلام واتخاذ القرارات يعملان على أجهزة Apple.",
+   "ai": true
   },
   {
    "id": "e59c1ac4a994",
@@ -1346,7 +1436,10 @@
    "image": "https://i2.ytimg.com/vi/ujmyzWSj8IU/hqdefault.jpg",
    "published": "2026-10-28T23:45:26Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "رصيد API ضمن خطط ChatGPT Pro وBusiness",
+   "ar_summary": "يمكن للمشتركين المؤهلين الحصول على حتى 500 دولار شهريًا من رصيد API لبناء التطبيقات والوكلاء، بحسب الخطة.",
+   "ai": true
   },
   {
    "id": "cdfba1037a44",
@@ -1358,7 +1451,10 @@
    "image": null,
    "published": "2026-10-28T23:15:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "Microsoft: إيرادات السحابة تتجاوز 63 مليار دولار بنمو 30%",
+   "ar_summary": "أعلنت Microsoft بداية قوية لسنتها المالية مع تسارع نمو السحابة إلى 30% سنويًا وتركيز على عصر الوكلاء.",
+   "ai": true
   },
   {
    "id": "efb7fea1c4e3",
@@ -1370,7 +1466,10 @@
    "image": null,
    "published": "2026-10-28T21:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "NVIDIA تحدد موعد مكالمة نتائج الربع الثالث",
+   "ar_summary": "ستعقد المكالمة في 17 نوفمبر لمناقشة نتائج الربع الثالث من السنة المالية 2027.",
+   "ai": true
   },
   {
    "id": "86bb7da2652f",
@@ -1382,7 +1481,10 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/immersiveView_quasars_16x9_01_2.max-600x600.format-webp.webp",
    "published": "2026-10-28T18:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "ar_title": "استكشافات غامرة في مركز الطلاب الجديد بتطبيق Gemini",
+   "ar_summary": "تطرح Google ميزة الاستكشافات الغامرة ضمن مركز الطلاب في Gemini.",
+   "ai": true
   },
   {
    "id": "785ea5df4937",
@@ -1394,7 +1496,10 @@
    "image": null,
    "published": "2026-10-28T18:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "Microsoft: إعادة تعريف دورة تطوير البرمجيات لعصر الوكلاء",
+   "ar_summary": "تحديثات كثيرة من GitHub في مؤتمر Universe تستهدف دورة حياة تطوير البرمجيات.",
+   "ai": true
   },
   {
    "id": "b0da25ea6c1a",
@@ -1406,7 +1511,10 @@
    "image": null,
    "published": "2026-10-28T17:00:58Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 2,
+   "ar_title": "Gemini 4 Carbon: نموذجنا الرائد القادم",
+   "ar_summary": "أعلنت Google DeepMind عن Gemini 4 Carbon كنموذجها المتقدم التالي.",
+   "ai": true
   },
   {
    "id": "a04b7e8be316",
@@ -1418,7 +1526,10 @@
    "image": "https://about.fb.com/wp-content/uploads/2026/10/Meta-Partners-With-Five-US-Universities-to-Accelerate-Medical-and-Scientific-Breakthroughs_Header.jpg?fit=1920%2C1080",
    "published": "2026-10-28T17:00:49Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "Meta تتعاون مع خمس جامعات أمريكية لتسريع الاكتشافات الطبية والعلمية",
+   "ar_summary": "توفر Meta نماذجها وتمويلًا بحثيًا وتعاونًا مباشرًا مع الباحثين الذين يستخدمون نماذجها في العلوم والطب.",
+   "ai": true
   },
   {
    "id": "185e559c77b9",
@@ -1430,7 +1541,10 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp",
    "published": "2026-10-28T17:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 2
+   "importance": 2,
+   "ar_title": "تقديم Gemini 4 Carbon: نموذجنا الرائد القادم",
+   "ar_summary": "تعلن Google عن Gemini 4 Carbon، نموذجها الرائد الجديد.",
+   "ai": true
   },
   {
    "id": "3b44a74c8a19",
@@ -1442,7 +1556,10 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ManinOffice_V2.max-600x600.format-webp.webp",
    "published": "2026-10-28T17:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "XREAL AURA: نظارات XR سلكية للمشاهدة والعمل واللعب",
+   "ar_summary": "تقدم Google نظارات XREAL AURA العاملة بنظام Android XR.",
+   "ai": true
   },
   {
    "id": "d532f885a7b9",
@@ -1454,7 +1571,10 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp",
    "published": "2026-10-28T17:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 1,
+   "ar_title": "بناء وإدارة التطبيقات المتصلة في مكان واحد",
+   "ar_summary": "أداة للمطورين لربط التطبيقات بـ Gemini وبحث Google وإدارتها من مكان واحد.",
+   "ai": true
   },
   {
    "id": "f03dd1041972",
