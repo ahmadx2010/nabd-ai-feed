@@ -1,43 +1,62 @@
 name: share-pages
-# Builds the public share site: a page + branded preview image per news item.
-# Started by collect-news / claude-editor whenever the news changes.
+# Builds the public news site (page + branded image per story, download page, app-link file)
+# and pushes it to the "site" branch, which Vercel serves. Started when the news changes.
 on:
   workflow_dispatch:
 concurrency:
   group: pages
   cancel-in-progress: true
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
     env:
       NABD_DATA: ${{ github.workspace }}/data
     steps:
       - uses: actions/checkout@v4
+      - name: At most one site update every 20 minutes (Vercel free plan allows ~100 deploys a day)
+        id: gate
+        run: |
+          last=$(git ls-remote origin refs/heads/site | cut -f1)
+          if [ -n "$last" ]; then
+            git fetch -q --depth=1 origin site
+            age=$(( $(date +%s) - $(git log -1 --format=%ct FETCH_HEAD) ))
+            [ "$age" -lt 1200 ] && echo "skip=1" >> "$GITHUB_OUTPUT"
+          fi
+          true
       - uses: actions/checkout@v4
+        if: steps.gate.outputs.skip != '1'
         with:
           repository: ahmadx2010/nabd-ai
           ssh-key: ${{ secrets.CODE_KEY }}
           path: code
+          fetch-depth: 0
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.skip != '1'
         with:
           python-version: "3.12"
-      - run: pip install -q pillow arabic-reshaper python-bidi
       - uses: actions/cache@v4
+        if: steps.gate.outputs.skip != '1'
         with:
           path: og-cache
           key: og-${{ github.run_id }}
           restore-keys: og-
-      - run: python code/collector/share.py site og-cache
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-      - id: deploy
-        uses: actions/deploy-pages@v4
+      - name: Build site
+        if: steps.gate.outputs.skip != '1'
+        run: |
+          pip install -q pillow arabic-reshaper python-bidi
+          python code/collector/share.py site og-cache
+          # Latest APK for the download page (the app build pushes it to the code repo's "apk" branch).
+          git -C code show origin/apk:NabdAI.apk > site/NabdAI.apk 2>/dev/null || rm -f site/NabdAI.apk
+      - name: Push to the site branch
+        if: steps.gate.outputs.skip != '1'
+        run: |
+          cd site
+          git init -q -b site
+          git config user.name "nabd-bot"
+          git config user.email "nabd-bot@users.noreply.github.com"
+          git add -A
+          git commit -q -m "site $(date -u +%H:%M)"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" site
