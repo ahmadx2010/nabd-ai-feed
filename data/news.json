@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:42:22Z",
+ "updated": "2026-11-04T14:00:33Z",
  "categories": [
   {
    "key": "big",
@@ -413,6 +413,34 @@
    "ar_title": "دعم BYOK والنماذج المخصصة للمؤسسات في واجهة Copilot لقياس الاستخدام",
    "ar_summary": "تعرض واجهة مقاييس استخدام Copilot الآن استخدام مفاتيح المستخدم الخاصة (BYOK) بشكل منفصل عن النماذج التي تستضيفها GitHub. يساعد ذلك المؤسسات على تتبع التكاليف والاستخدام بدقة أكبر.",
    "ai": true,
+   "detail": true,
+   "fetched": true
+  },
+  {
+   "id": "493a258a2758",
+   "company": "together",
+   "kind": "blog",
+   "title": "Polymorphic Inference: self-tuning inference for open models",
+   "summary": "Models, traffic and chips are constantly changing. Polymorphic Inference adapts to each, and Together Compiler uses AI agents to keep production inference tuned.",
+   "url": "https://www.together.ai/blog/polymorphic-inference",
+   "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6aeabb2d32c073ccbc87444e_Polymorphic_Inference_OG_1200x630.png",
+   "published": "2026-11-04T00:00:00Z",
+   "found": "2026-11-04T14:00:33Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true
+  },
+  {
+   "id": "94fc66559302",
+   "company": "together",
+   "kind": "blog",
+   "title": "Together Compiler: Continuous Compilation for AI inference",
+   "summary": "Together Compiler uses agents and persistent engines to optimize open models in under 24 hours, delivering 1.3 to 3x higher throughput as traffic changes.",
+   "url": "https://www.together.ai/blog/together-compiler-continuous-compilation-for-ai-inference",
+   "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6aead6f8d7e2304104f29687_TKCC_OG_1200x630-dark.jpg",
+   "published": "2026-11-04T00:00:00Z",
+   "found": "2026-11-04T14:00:33Z",
+   "importance": 0,
    "detail": true,
    "fetched": true
   },
