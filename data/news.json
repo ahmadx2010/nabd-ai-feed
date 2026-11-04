@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:14:42Z",
+ "updated": "2026-11-04T13:23:48Z",
  "categories": [
   {
    "key": "big",
@@ -1722,7 +1722,9 @@
    "image": "https://assets.aboutamazon.com/dims4/default/289ec82/2147483647/strip/true/crop/700x394+0+0/resize/767x432!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F74%2F6b%2F0682c5f54cbb942bb2fcada535bd%2Fezgif-resized.gif",
    "published": "2026-10-28T16:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "194ab4b69c2c",
@@ -1734,7 +1736,9 @@
    "image": null,
    "published": "2026-10-28T16:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "dc49fe8911d9",
@@ -1746,7 +1750,9 @@
    "image": "https://cdn.sanity.io/images/bj34pdbp/migration/0e62d793269ed45f561a7d2d5023f81475793ed0-6400x3600.png",
    "published": "2026-10-28T16:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "f3aa6dba8d09",
@@ -1762,7 +1768,9 @@
    "ar_detail": true,
    "ar_title": "تطبيق GitHub Copilot: إصدارات مؤتمر Universe",
    "ar_summary": "يقدّم GitHub تحديثات جديدة لتطبيق Copilot تتيح العمل على مهام تمتد عبر عدة مستودعات وجلسات، وحتى جمع المواصفات والتصاميم والأصول دون لمس مستودع.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "393d97d2e447",
@@ -1774,7 +1782,9 @@
    "image": null,
    "published": "2026-10-28T15:50:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "adf1996fc970",
@@ -1786,7 +1796,9 @@
    "image": null,
    "published": "2026-10-28T15:45:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "3a09379f6ade",
@@ -1798,7 +1810,9 @@
    "image": null,
    "published": "2026-10-28T15:40:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "2304fbe0fd69",
@@ -1810,7 +1824,9 @@
    "image": null,
    "published": "2026-10-28T15:35:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "00c85acf9d22",
@@ -1826,7 +1842,9 @@
    "ar_detail": true,
    "ar_title": "GitHub Copilot في VS Code: إصدارات Universe",
    "ar_summary": "يعرض GitHub تحديثات Copilot في Visual Studio Code التي تمنح المطورين خيارات أوسع في النماذج المستخدمة ومكان تشغيل الوكلاء.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "eb9069225e78",
@@ -1838,7 +1856,9 @@
    "image": null,
    "published": "2026-10-28T15:33:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "05a87e963785",
@@ -1850,7 +1870,9 @@
    "image": null,
    "published": "2026-10-28T15:30:55Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "2952348be6c4",
@@ -1862,7 +1884,9 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2-1.jpg",
    "published": "2026-10-28T15:00:46Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "3f3621d9515c",
@@ -1874,7 +1898,9 @@
    "image": null,
    "published": "2026-10-28T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "00787c6ce357",
@@ -1886,7 +1912,9 @@
    "image": null,
    "published": "2026-10-28T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "f6dcfa10e659",
@@ -1898,7 +1926,9 @@
    "image": null,
    "published": "2026-10-28T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "9296d1168d38",
@@ -1910,7 +1940,9 @@
    "image": null,
    "published": "2026-10-28T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "baba7bee56c6",
@@ -1922,7 +1954,9 @@
    "image": "https://i4.ytimg.com/vi/kP26OlW5PBk/hqdefault.jpg",
    "published": "2026-10-28T11:51:11Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "533d74e110ac",
@@ -1934,7 +1968,9 @@
    "image": "https://i3.ytimg.com/vi/6ep8Vvm4Bdw/hqdefault.jpg",
    "published": "2026-10-28T11:50:26Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "b781f6bc8b54",
@@ -1946,7 +1982,8 @@
    "image": "https://i2.ytimg.com/vi/M2Oa42hF67E/hqdefault.jpg",
    "published": "2026-10-28T09:45:24Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "fetched": true
   },
   {
    "id": "54079a67657c",
@@ -1962,7 +1999,9 @@
    "ar_detail": true,
    "ar_title": "Muse متاح الآن في سنغافورة",
    "ar_summary": "أعلنت Meta توفر Muse، وكيلها الشخصي الذكي، في سنغافورة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "91ab09be6954",
@@ -1974,7 +2013,9 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
    "published": "2026-10-27T17:35:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "f8fd4664c9c8",
@@ -1986,7 +2027,9 @@
    "image": null,
    "published": "2026-10-27T17:34:05Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "db98bf59a6c7",
@@ -1998,7 +2041,9 @@
    "image": null,
    "published": "2026-10-27T17:16:52Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "8a965d9f9cf7",
@@ -2010,7 +2055,9 @@
    "image": "https://i4.ytimg.com/vi/sFfPkUJd_Jk/hqdefault.jpg",
    "published": "2026-10-27T16:00:41Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "6cf6ca19286e",
@@ -2022,7 +2069,9 @@
    "image": "https://iprsoftwaremedia.com/219/files/202610/504a33442ba2c6832992b7ea1255ccc2/6adfdd4c3d6332394404e329_oracle-nvidia/oracle-nvidia_thmb.jpg?v=0a5d2559-28eb-4cf3-bd23-0f249074bf5b",
    "published": "2026-10-27T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "993dac35f314",
@@ -2034,7 +2083,9 @@
    "image": "https://cdn.sanity.io/images/bj34pdbp/migration/013bc1ad1b9f5911b76fe44d5bac3720f69eb51a-7680x4320.jpg",
    "published": "2026-10-27T15:30:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "df8156dd7062",
@@ -2046,7 +2097,9 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/cbrain-nvidia-1.png",
    "published": "2026-10-27T15:00:20Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "ab4bae5b2a4c",
@@ -2062,7 +2115,9 @@
    "ar_detail": true,
    "ar_title": "8 أمثلة على Gemini 4 Argon أثناء العمل",
    "ar_summary": "تعرض Google ثمانية أمثلة عملية لاستخدامات نموذج Gemini 4 Argon.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "378820e71e6f",
@@ -2074,7 +2129,9 @@
    "image": null,
    "published": "2026-10-27T12:58:45Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "b459574059fa",
@@ -2086,7 +2143,9 @@
    "image": "https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591",
    "published": "2026-10-27T05:52:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "42a0e145db67",
@@ -2098,7 +2157,9 @@
    "image": null,
    "published": "2026-10-26T18:37:30Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "84dbedb386be",
@@ -2110,7 +2171,9 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/College_Fave_Gemini_Features_he.max-600x600.format-webp.webp",
    "published": "2026-10-26T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "be77c96c39b4",
@@ -2122,7 +2185,9 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
    "published": "2026-10-26T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "f6c7de22a7ee",
@@ -2134,7 +2199,9 @@
    "image": "https://cdn.sanity.io/images/bj34pdbp/migration/46e4e304d1e71a5a44df0beffe3c5e3ee9613745-2880x1506.png",
    "published": "2026-10-26T15:50:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "4cd82f931931",
@@ -2146,7 +2213,9 @@
    "image": null,
    "published": "2026-10-26T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "3c115b0c264d",
@@ -2158,7 +2227,9 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AIforTBScreening2_Xray.png",
    "published": "2026-10-23T18:51:33Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "5bd9a2479d45",
@@ -2174,7 +2245,9 @@
    "ar_detail": true,
    "ar_title": "ماذا يبني 5 مطورين باستخدام Gemini 4 Argon",
    "ar_summary": "تستعرض Google مشاريع بناها خمسة مطورين باستخدام Gemini 4 Argon.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "caa4b3017f0c",
@@ -2186,7 +2259,9 @@
    "image": "https://cdn.sanity.io/images/bj34pdbp/migration/ed99c7586297ce3cf20ebd140777d03b3c19296f-1920x1080.jpg",
    "published": "2026-10-23T03:09:09Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "b21a97b1b273",
@@ -2198,7 +2273,9 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/kz-post-note-gtc-berliin-2026-1920x1080-1.jpg",
    "published": "2026-10-23T02:00:13Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "6430909168b5",
@@ -2210,7 +2287,9 @@
    "image": null,
    "published": "2026-10-23T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "95eb6975ad24",
