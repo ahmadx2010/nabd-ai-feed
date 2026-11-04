@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T15:04:51Z",
+ "updated": "2026-11-04T15:06:38Z",
  "categories": [
   {
    "key": "big",
@@ -395,9 +395,13 @@
    "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2bf7ca0269bb95916830cc2a5116d517ddf6353f-3840x2160.png?rect=0,72,3840,2016&w=1200&h=630&q=80&fit=crop&auto=format",
    "published": "2026-11-04T15:00:00Z",
    "found": "2026-11-04T15:04:25Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "نموذجا Embed 5 وRerank 5 من Cohere متاحان الآن عبر OpenRouter",
+   "ar_summary": "أعلنت Cohere أن نموذجَي الاسترجاع Embed 5 وRerank 5 أصبحا متاحين عبر OpenRouter بواجهة API واحدة وفوترة موحدة دون حاجة إلى حزم إضافية.",
+   "ai": true
   },
   {
    "id": "3a06f84c0f51",
@@ -1938,9 +1942,13 @@
    "image": null,
    "published": "2026-10-28T15:35:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "أتمتة Copilot المشتركة تتيح للفرق بناء سير عمل جماعي",
+   "ar_summary": "بدأ GitHub طرح «Copilot Automations» المشتركة التي تتيح للفرق بناء وصيانة سير عمل مدعوم بالذكاء الاصطناعي معًا، وتُحتسب تكلفتها على مالك المستودع.",
+   "ai": true
   },
   {
    "id": "00c85acf9d22",
@@ -1972,7 +1980,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "إتاحة الإضافات الافتراضية للمستودعات وضوابط المؤسسات لإضافات Copilot",
+   "ar_summary": "أصبحت الإضافات الافتراضية للمستودعات وضوابط الإضافات للمؤسسات متاحة عمومًا في VS Code وCopilot CLI وتطبيق GitHub Copilot.",
+   "ai": true
   },
   {
    "id": "05a87e963785",
@@ -1984,9 +1996,13 @@
    "image": null,
    "published": "2026-10-28T15:30:55Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "توليد الصور وتحريرها مباشرة داخل GitHub Copilot",
+   "ar_summary": "أتاح GitHub توليد الصور وتحريرها بلغة طبيعية داخل Copilot عبر أداة مبنية على GPT Image 2.5 Flare، بوصفها معاينة عامة.",
+   "ai": true
   },
   {
    "id": "2952348be6c4",
@@ -2018,7 +2034,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "الذكاء الاصطناعي المحادثي في القطاع المصرفي: حالات الاستخدام والفوائد",
+   "ar_summary": "دليل من ElevenLabs يشرح كيف تستخدم البنوك وكلاء الصوت والدردشة لتقديم خدمة على مدار الساعة، وأهم المقاييس وحالات الاستخدام.",
+   "ai": true
   },
   {
    "id": "00787c6ce357",
@@ -2032,7 +2052,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Lettuce تقلص إنتاج الإعلانات من أسبوع إلى أقل من دقيقة مع ElevenLabs",
+   "ar_summary": "تستخدم Lettuce أداة Ads Engine من ElevenCreative لتوليد نسخ إعلانات Meta في 45 ثانية، مع خفض تكاليف الإبداع بنحو 75%.",
+   "ai": true
   },
   {
    "id": "f6dcfa10e659",
@@ -2044,9 +2068,13 @@
    "image": null,
    "published": "2026-10-28T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs وadELA تتيحان استعادة الصوت مجانًا لمرضى التصلب الجانبي في إسبانيا",
+   "ar_summary": "أعلنت ElevenLabs شراكة مع جمعية adELA الإسبانية لتوفير تقنية استعادة الصوت مجانًا لمرضى التصلب الجانبي الضموري.",
+   "ai": true
   },
   {
    "id": "9296d1168d38",
@@ -2058,9 +2086,13 @@
    "image": null,
    "published": "2026-10-28T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Cue: نموذج ElevenLabs لمحاذاة النص مع الصوت بدقة على مستوى الحرف",
+   "ar_summary": "كشفت ElevenLabs عن Cue، نموذج محاذاة قسرية يحدد توقيت كل حرف في التسجيل ويعالج ساعة صوت في أقل من ثانية.",
+   "ai": true
   },
   {
    "id": "baba7bee56c6",
@@ -2074,7 +2106,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "رئيسة Merge: الإلمام بالذكاء الاصطناعي يبدأ من القمة",
+   "ar_summary": "مقطع قصير من OpenAI تشرح فيه شينسي دينغ، الرئيسة التنفيذية لـ Merge، لماذا تستخدم Codex بنفسها.",
+   "ai": true
   },
   {
    "id": "533d74e110ac",
@@ -2088,7 +2124,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "لماذا تبقى رئيسة Merge منخرطة عمليًا مع Codex",
+   "ar_summary": "فيديو من OpenAI يعرض كيف تغيّر استخدام شينسي دينغ لـ Codex طريقة إدارتها للشركة وتوقعاتها من فرقها.",
+   "ai": true
   },
   {
    "id": "b781f6bc8b54",
@@ -2101,7 +2141,11 @@
    "published": "2026-10-28T09:45:24Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "من عنق زجاجة قانوني إلى شريك للأعمال: تجربة Legora مع الذكاء الاصطناعي",
+   "ar_summary": "تقول المستشارة القانونية في Legora إن مراجعة اتفاقيات عدم الإفصاح انخفضت من نحو 20% من طاقة الفريق إلى أقل من 1%.",
+   "ai": true
   },
   {
    "id": "54079a67657c",
@@ -2131,9 +2175,13 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
    "published": "2026-10-27T17:35:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "إطار «النوم»: طريقة جديدة لتذكّر النماذج اللغوية في التعلم المستمر",
+   "ar_summary": "قدّم باحثو Google إطار مرحلة «نوم» يتيح للنماذج دمج المعلومات الجديدة في معاملاتها طويلة الأمد مع الحد من النسيان الكارثي.",
+   "ai": true
   },
   {
    "id": "f8fd4664c9c8",
@@ -2145,9 +2193,13 @@
    "image": null,
    "published": "2026-10-27T17:34:05Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "كيف تساعد الشركات وكلاء الذكاء الاصطناعي على التعلم من بعضهم",
+   "ar_summary": "بحثت Microsoft مع Keystone أكثر من 200 مؤسسة، ووجدت أن «العمود الفقري المعرفي» المشترك للوكلاء يرتبط بمكاسب أكبر في الهوامش.",
+   "ai": true
   },
   {
    "id": "db98bf59a6c7",
@@ -2159,9 +2211,13 @@
    "image": null,
    "published": "2026-10-27T17:16:52Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Liquid AI تطلق LFM3: نماذج متعددة الوسائط صغيرة للأجهزة الطرفية",
+   "ar_summary": "أطلقت Liquid AI عائلة LFM3 من ستة نماذج بحجم نحو 2 مليار معامل تغطي النص والرؤية والصوت على هيكل واحد.",
+   "ai": true
   },
   {
    "id": "8a965d9f9cf7",
@@ -2173,9 +2229,13 @@
    "image": "https://i4.ytimg.com/vi/sFfPkUJd_Jk/hqdefault.jpg",
    "published": "2026-10-27T16:00:41Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 2,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Genie 4: جيل جديد من محاكاة العوالم من Google DeepMind",
+   "ar_summary": "كشفت DeepMind عن Genie 4، أكثر نماذج العوالم واقعية وتفاعلًا، المبني على Gemini، بمعاينة بحثية للمختبِرين الموثوقين.",
+   "ai": true
   },
   {
    "id": "6cf6ca19286e",
@@ -2225,7 +2285,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "كيف يغيّر الذكاء الاصطناعي وتيرة الاكتشاف لملايين مصابي الخرف",
+   "ar_summary": "تعمل NVIDIA مع اتحاد C-BRAIN على أدوات ذكاء اصطناعي تستفيد من «البيانات المظلمة» لتسريع أبحاث ألزهايمر.",
+   "ai": true
   },
   {
    "id": "ab4bae5b2a4c",
@@ -2255,9 +2319,13 @@
    "image": null,
    "published": "2026-10-27T12:58:45Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Apple Creator Studio تضيف ميزات ذكاء اصطناعي وأدوات إبداعية جديدة",
+   "ar_summary": "أعلنت Apple تحديثات لـ Creator Studio تشمل MotionVFX في Final Cut Pro ومساعدًا ذكيًا في Logic Pro وميزات ذكاء جديدة في Keynote وPages وNumbers.",
+   "ai": true
   },
   {
    "id": "b459574059fa",
@@ -2287,9 +2355,13 @@
    "image": null,
    "published": "2026-10-26T18:37:30Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Siri AI تتوفر بلغات أكثر بدءًا من اليوم",
+   "ar_summary": "مع تحديثات 27.2 توسعت Siri AI لتشمل الفرنسية واليابانية والكورية والبرتغالية والإسبانية، بنسخة تجريبية وغير متاحة في الاتحاد الأوروبي.",
+   "ai": true
   },
   {
    "id": "84dbedb386be",
@@ -2303,7 +2375,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "15 طالبًا جامعيًا يشاركون ميزات Gemini المفضلة لديهم",
+   "ar_summary": "يعرض Google كيف يستخدم سفراء الطلاب Gemini في المذاكرة وتنظيم الملاحظات والبحث والتحضير للمقابلات.",
+   "ai": true
   },
   {
    "id": "be77c96c39b4",
@@ -2317,7 +2393,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "مهمة AI Quest الجديدة من Google: رسم خريطة الدماغ البشري",
+   "ar_summary": "أطلقت Google Research مع Stanford المهمة التعليمية «Polar Peaks» التي تعلّم طلاب 11–14 عامًا استخدام الذكاء الاصطناعي لرسم الدماغ.",
+   "ai": true
   },
   {
    "id": "f6c7de22a7ee",
@@ -2331,7 +2411,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "صعود «الشركة ذاتية القيادة» كما تراه Replit",
+   "ar_summary": "تتوقع Replit أن تصبح كل شركات Fortune 500 «ذاتية القيادة» بحلول نهاية 2030، حيث تنفذ الوكلاء المهام ويحدد البشر الأهداف.",
+   "ai": true
   },
   {
    "id": "4cd82f931931",
@@ -2345,7 +2429,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "GHARP: تحريك رؤوس ثلاثية الأبعاد في الزمن الحقيقي",
+   "ar_summary": "بحث من Apple يحرّك رؤوس بشرية ثلاثية الأبعاد في الزمن الحقيقي من صور قليلة، بأداء أسرع حتى 13 ضعفًا.",
+   "ai": true
   },
   {
    "id": "3c115b0c264d",
@@ -2357,9 +2445,13 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AIforTBScreening2_Xray.png",
    "published": "2026-10-23T18:51:33Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "نماذج أساسية في الخطوط الأمامية لفحص السل",
+   "ar_summary": "تعرض Google كيف انتقل عملها على قراءة صور الصدر بالذكاء الاصطناعي من الأبحاث إلى نماذج مفتوحة مثل MedGemma لفحص السل.",
+   "ai": true
   },
   {
    "id": "5bd9a2479d45",
@@ -2391,7 +2483,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "ثغرات أمنية عبر الإنترنت: كيف تحمي Replit أعمالك",
+   "ar_summary": "أوضحت Replit إجراءاتها لمعالجة ثغرات في شهادات CA وNode.js، وما يجب على المستخدمين فعله.",
+   "ai": true
   },
   {
    "id": "b21a97b1b273",
@@ -2423,7 +2519,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "هل يعمل نموذجك على AWS Trainium؟ ابحث عنه",
+   "ar_summary": "أطلق Hugging Face مساحة تبين النماذج الشائعة التي تعمل دون تعديل على AWS Trainium عبر torch-neuronx.",
+   "ai": true
   },
   {
    "id": "95eb6975ad24",
