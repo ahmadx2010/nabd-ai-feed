@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:08:24Z",
+ "updated": "2026-11-04T13:14:42Z",
  "categories": [
   {
    "key": "big",
@@ -1053,7 +1053,9 @@
    "importance": 0,
    "ar_title": "nemotron-halloween",
    "ar_summary": "منشور من NVIDIA على Hugging Face حول نماذج Nemotron بمناسبة الهالوين.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "59fa43cbb1dd",
@@ -1068,7 +1070,9 @@
    "importance": 0,
    "ar_title": "كيف تحوّل Gen بياناتها إلى قرارات عبر ChatGPT Work",
    "ar_summary": "يوضح Howie Xu كيف يختصر ChatGPT Work حلقة التغذية الراجعة، فيفهم الفريق أداء منتج جديد خلال ساعات قليلة من إطلاقه.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "cdb16d541078",
@@ -1083,7 +1087,9 @@
    "importance": 0,
    "ar_title": "كيف تحوّل Gen بياناتها إلى قرارات عبر ChatGPT Work",
    "ar_summary": "يروي Howie Xu كيف سرّع ChatGPT Work الحصول على إجابات من بيانات الأعمال بدل التنقل بين الفرق والمناطق الزمنية.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "4a4bcbde667c",
@@ -1098,7 +1104,9 @@
    "importance": 0,
    "ar_title": "الذكاء الاصطناعي الوكيلي ينضم إلى البحث عن إشارات فضائية",
    "ar_summary": "تشرح NVIDIA كيف قفز البحث عن الذكاء خارج الأرض قفزة كبيرة بفضل الذكاء الاصطناعي ووكلائه.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "094c331a98fa",
@@ -1113,7 +1121,8 @@
    "importance": 1,
    "ar_title": "تسريع قرارات التخطيط بالذكاء الاصطناعي",
    "ar_summary": "تتعاون Google DeepMind مع الحكومة البريطانية لتقليص أوقات تقييم طلبات التخطيط العمراني.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "bac9edc458a4",
@@ -1128,7 +1137,9 @@
    "importance": 0,
    "ar_title": "التحويل الدافئ مقابل البارد: اختيار الأنسب",
    "ar_summary": "يشرح الفرق بين النوعين ومتى يُستخدم كل منهما وكيف تحوّل وكلاء الصوت المكالمات إلى موظف بشري.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "626d6f539a19",
@@ -1143,7 +1154,9 @@
    "importance": 0,
    "ar_title": "TELUS Digital تخفض الإلغاءات المبكرة لأكثر من النصف",
    "ar_summary": "استخدمت الشركة ElevenAgents للاتصال بالعملاء الجدد خلال أول 90 يومًا فخفضت الإلغاء المبكر بأكثر من النصف.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "25cc4c9bb2e3",
@@ -1158,7 +1171,8 @@
    "importance": 1,
    "ar_title": "تسهيل تعبير المواقع عن تفضيلاتها لتدريب الذكاء الاصطناعي",
    "ar_summary": "ستحترم OpenAI إشارة robots.txt مشتركة تتيح لمشغلي المواقع إبلاغ مزودي الذكاء الاصطناعي المشاركين بتفضيلاتهم بشأن التدريب.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "c7606af40dbb",
@@ -1173,7 +1187,8 @@
    "importance": 1,
    "ar_title": "تقرير سلامة المجتمع وحمايات جديدة للمراهقين",
    "ar_summary": "تعزز OpenAI الوقاية من العنف في ChatGPT بضمانات موسعة وتدخلات أبكر والتزام جديد بتقارير السلامة العامة.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "d2282bcce162",
@@ -1188,7 +1203,8 @@
    "importance": 0,
    "ar_title": "الاستخدام العادل يفيد الجميع",
    "ar_summary": "تنشر OpenAI مقتطفات من مذكرات قضائية لمبدعين وأكاديميين وخبراء قانونيين حول دور الاستخدام العادل في تدريب الذكاء الاصطناعي.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "237e37ca214f",
@@ -1203,7 +1219,9 @@
    "importance": 0,
    "ar_title": "ChatGPT Enterprise في Zendesk: توظيف بيانات الشركة",
    "ar_summary": "تستخدم فرق Zendesk ChatGPT Enterprise لبناء تطبيقات وطرح أسئلة على البيانات مباشرة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "589b6ae4a109",
@@ -1218,7 +1236,9 @@
    "importance": 0,
    "ar_title": "Meta وCNIB تتشاركان لدعم الكنديين المكفوفين وضعاف البصر",
    "ar_summary": "شراكة لإيصال فوائد نظارات الذكاء الاصطناعي إلى مزيد من الكنديين المكفوفين أو ضعاف البصر.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "7bf0065ceb16",
@@ -1233,7 +1253,8 @@
    "importance": 1,
    "ar_title": "تحديث Model Spec لذكاء اصطناعي أكثر قدرة ونفعاً",
    "ar_summary": "تعرض OpenAI خمس قيم أساسية في Model Spec المحدّث لتوجيه النماذج نحو الحكم السليم واحترام إرادة الإنسان وأمانة النوايا.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "3898a3075801",
@@ -1248,7 +1269,9 @@
    "importance": 0,
    "ar_title": "تسريع النماذج اللغوية لتطبيقات السفر",
    "ar_summary": "تقنيتان للتحسين، عند دمجهما، ترفعان سرعة النموذج وكفاءة تكلفته دون التضحية بالجودة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "a0c8bc8caa04",
@@ -1263,7 +1286,9 @@
    "importance": 0,
    "ar_title": "ChatGPT Enterprise في Zendesk: توظيف بيانات الشركة",
    "ar_summary": "في Zendesk نحو 600 تطبيق بناها موظفون، ويتاح ChatGPT Enterprise للجميع ليسألوا بياناتهم مباشرة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "40ee4ff935a1",
@@ -1278,7 +1303,9 @@
    "importance": 1,
    "ar_title": "إنشاء المستندات وتعديلها ومعاينتها مباشرة داخل Gemini",
    "ar_summary": "يتيح Gemini الآن إنشاء ملفات PDF والمستندات والعروض والجداول ومعاينتها وتحريرها عبر محرر بملء الشاشة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "baf7193e75c1",
@@ -1293,7 +1320,9 @@
    "importance": 1,
    "ar_title": "كيف يحوّل المطورون أفكارهم إلى محاكاة بوكلاء ذكاء اصطناعي متقدمين",
    "ar_summary": "يجمع المطورون نماذج متقدمة مع مكتبات NVIDIA Omniverse لبناء تطبيقات محاكاة لاستكشاف السيناريوهات وتحسين التصاميم.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "12f53f82bf25",
@@ -1308,7 +1337,9 @@
    "importance": 1,
    "ar_title": "تعرف على Chat: مساعد الاستوديو من Suno",
    "ar_summary": "مساعد مدمج في استوديو Suno يسهّل الجلسات ويقدم أفكارًا إبداعية.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "f3538b6fb36f",
@@ -1323,7 +1354,9 @@
    "importance": 1,
    "ar_title": "Granite Switch 4.1.1: حدّث النماذج كما تحدّث البرمجيات",
    "ar_summary": "إصدار جديد من IBM Granite يتيح تحديث النماذج بأسلوب تحديث البرمجيات.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "f52687297c33",
@@ -1338,7 +1371,9 @@
    "importance": 0,
    "ar_title": "لعبة Phantom Blade Zero تصل إلى GeForce NOW",
    "ar_summary": "تضيف NVIDIA اللعبة إلى خدمة GeForce NOW السحابية مع ألعاب أخرى قادمة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "e68704a5f0fc",
@@ -1353,7 +1388,9 @@
    "importance": 0,
    "ar_title": "ما هو تبادل الأدوار في الذكاء الاصطناعي الحواري",
    "ar_summary": "دليل يشرح كيف يقرر وكيل الصوت متى يتكلم أو يصمت ويستمع وكيفية قياس ذلك.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "c0db2f78e6f9",
@@ -1368,7 +1405,9 @@
    "importance": 0,
    "ar_title": "كيف وفّرنا 1200 ساعة شهريًا بوكلاء ElevenAgents",
    "ar_summary": "تعرض ElevenLabs استخدام وكلائها داخليًا في المبيعات والمنتج والدعم والهندسة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "19616655e2da",
@@ -1383,7 +1422,9 @@
    "importance": 1,
    "ar_title": "تقديم SFX v3 في ElevenCreative وElevenAPI",
    "ar_summary": "إصدار جديد بأوامر متعددة الأصوات أكثر موثوقية وموسيقى وأصوات غنائية أكثر إقناعًا وصوت أنقى.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "3b9dd560f229",
@@ -1398,7 +1439,9 @@
    "importance": 0,
    "ar_title": "كيف تستخدم Gemini لتحديث سيرتك الذاتية",
    "ar_summary": "أربع خطوات لتحويل الملاحظات إلى نقاط سيرة ذاتية مؤثرة ومتوافقة مع أنظمة ATS.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "d28967fce9c6",
@@ -1413,7 +1456,8 @@
    "importance": 1,
    "ar_title": "كيف نكتشف انحراف النماذج المتقدمة",
    "ar_summary": "تستخدم OpenAI مراقبة متعددة الطبقات لرصد انحراف النماذج وسلوك الوكلاء غير المصرح به للتدخل قبل تفاقم الحوادث.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "2d9928289658",
@@ -1428,7 +1472,8 @@
    "importance": 0,
    "ar_title": "Ropes & Gray تطور الذكاء الاصطناعي للعناية الواجبة في الصفقات",
    "ar_summary": "تعمل الشركة القانونية مع OpenAI، ويراجع المحامون المستندات والملخصات قبل تقديم المشورة.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "6750c2461412",
@@ -1443,7 +1488,8 @@
    "importance": 0,
    "ar_title": "Credit Saison تحقق عائد 954% في تجربة ChatGPT Enterprise",
    "ar_summary": "أظهرت التجربة عائدًا كبيرًا على الاستثمار وأدت إلى اعتماد واسع داخل الشركة.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "e1c742c1d925",
@@ -1458,7 +1504,9 @@
    "importance": 1,
    "ar_title": "الإعلان عن مشروع ProtoStar لجعل العلوم الممولة حكوميًا جاهزة للذكاء الاصطناعي",
    "ar_summary": "مبادرة من Hugging Face لتهيئة البيانات العلمية الممولة من القطاع العام لاستخدامها في الذكاء الاصطناعي.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "a1765f446c5b",
@@ -1473,7 +1521,9 @@
    "importance": 2,
    "ar_title": "Mistral Large 4 متاح الآن على Hugging Face",
    "ar_summary": "وصول نموذج Mistral Large 4 إلى منصة Hugging Face ليتمكن المطورون من استخدامه.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "85d975255b4f",
@@ -1488,7 +1538,9 @@
    "importance": 1,
    "ar_title": "AnySpeechRecognizer وAnyDecisionModel: نماذج مفتوحة للكلام والقرارات على منصات Apple",
    "ar_summary": "نموذجان مفتوحان للتعرف على الكلام واتخاذ القرارات يعملان على أجهزة Apple.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "e59c1ac4a994",
@@ -1503,7 +1555,9 @@
    "importance": 1,
    "ar_title": "رصيد API ضمن خطط ChatGPT Pro وBusiness",
    "ar_summary": "يمكن للمشتركين المؤهلين الحصول على حتى 500 دولار شهريًا من رصيد API لبناء التطبيقات والوكلاء، بحسب الخطة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "cdfba1037a44",
@@ -1518,7 +1572,9 @@
    "importance": 1,
    "ar_title": "Microsoft: إيرادات السحابة تتجاوز 63 مليار دولار بنمو 30%",
    "ar_summary": "أعلنت Microsoft بداية قوية لسنتها المالية مع تسارع نمو السحابة إلى 30% سنويًا وتركيز على عصر الوكلاء.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "efb7fea1c4e3",
@@ -1533,7 +1589,9 @@
    "importance": 0,
    "ar_title": "NVIDIA تحدد موعد مكالمة نتائج الربع الثالث",
    "ar_summary": "ستعقد المكالمة في 17 نوفمبر لمناقشة نتائج الربع الثالث من السنة المالية 2027.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "86bb7da2652f",
@@ -1548,7 +1606,9 @@
    "importance": 0,
    "ar_title": "استكشافات غامرة في مركز الطلاب الجديد بتطبيق Gemini",
    "ar_summary": "تطرح Google ميزة الاستكشافات الغامرة ضمن مركز الطلاب في Gemini.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "785ea5df4937",
@@ -1563,7 +1623,9 @@
    "importance": 1,
    "ar_title": "Microsoft: إعادة تعريف دورة تطوير البرمجيات لعصر الوكلاء",
    "ar_summary": "تحديثات كثيرة من GitHub في مؤتمر Universe تستهدف دورة حياة تطوير البرمجيات.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "b0da25ea6c1a",
@@ -1578,7 +1640,9 @@
    "importance": 2,
    "ar_title": "Gemini 4 Carbon: نموذجنا الرائد القادم",
    "ar_summary": "أعلنت Google DeepMind عن Gemini 4 Carbon كنموذجها المتقدم التالي.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "a04b7e8be316",
@@ -1593,7 +1657,9 @@
    "importance": 1,
    "ar_title": "Meta تتعاون مع خمس جامعات أمريكية لتسريع الاكتشافات الطبية والعلمية",
    "ar_summary": "توفر Meta نماذجها وتمويلًا بحثيًا وتعاونًا مباشرًا مع الباحثين الذين يستخدمون نماذجها في العلوم والطب.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "185e559c77b9",
@@ -1608,7 +1674,9 @@
    "importance": 2,
    "ar_title": "تقديم Gemini 4 Carbon: نموذجنا الرائد القادم",
    "ar_summary": "تعلن Google عن Gemini 4 Carbon، نموذجها الرائد الجديد.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "3b44a74c8a19",
@@ -1623,7 +1691,9 @@
    "importance": 1,
    "ar_title": "XREAL AURA: نظارات XR سلكية للمشاهدة والعمل واللعب",
    "ar_summary": "تقدم Google نظارات XREAL AURA العاملة بنظام Android XR.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "d532f885a7b9",
@@ -1638,7 +1708,9 @@
    "importance": 1,
    "ar_title": "بناء وإدارة التطبيقات المتصلة في مكان واحد",
    "ar_summary": "أداة للمطورين لربط التطبيقات بـ Gemini وبحث Google وإدارتها من مكان واحد.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "f03dd1041972",
