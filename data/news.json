@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T14:21:25Z",
+ "updated": "2026-11-04T15:04:25Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "a655af3d86e9",
+   "company": "cohere",
+   "kind": "blog",
+   "title": "Cohere retrieval models on OpenRouter",
+   "summary": "Access Cohere’s state-of-the-art retrieval models through a single API, with unified billing and no additional SDKs.",
+   "url": "https://cohere.com/blog/embed-rerank-5-openrouter",
+   "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2bf7ca0269bb95916830cc2a5116d517ddf6353f-3840x2160.png?rect=0,72,3840,2016&w=1200&h=630&q=80&fit=crop&auto=format",
+   "published": "2026-11-04T15:00:00Z",
+   "found": "2026-11-04T15:04:25Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true
+  },
   {
    "id": "8d682625501f",
    "company": "lovable",
