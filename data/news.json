@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:40:24Z",
+ "updated": "2026-11-04T17:58:41Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "5afc49da7bd4",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "summary": "",
+   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+   "image": null,
+   "published": "2026-11-04T17:50:10Z",
+   "found": "2026-11-04T17:58:41Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true
+  },
   {
    "id": "166d08d878ba",
    "company": "openai",
