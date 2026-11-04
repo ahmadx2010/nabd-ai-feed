@@ -1,10 +1,11 @@
 name: claude-editor
+# Started every hour by collect-news; the cron is only a backup.
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "17 */3 * * *"
   workflow_dispatch:
 concurrency:
-  group: news
+  group: claude
   cancel-in-progress: false
 permissions:
   contents: write
@@ -16,32 +17,42 @@ jobs:
       NABD_DATA: ${{ github.workspace }}/data
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+      - name: Skip if Claude ran less than 40 minutes ago
+        id: gate
+        run: |
+          last=$(git log -1 --format=%ct --grep="^claude edit" || echo 0)
+          if [ $(( $(date +%s) - ${last:-0} )) -lt 2400 ]; then echo "skip=1" >> "$GITHUB_OUTPUT"; fi
       - uses: actions/checkout@v4
+        if: steps.gate.outputs.skip != '1'
         with:
           repository: ahmadx2010/nabd-ai
           ssh-key: ${{ secrets.CODE_KEY }}
           path: code
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.skip != '1'
         with:
           python-version: "3.12"
       - uses: actions/setup-node@v4
+        if: steps.gate.outputs.skip != '1'
         with:
           node-version: "22"
-      - run: npm install -g @anthropic-ai/claude-code
-      - run: python code/collector/todo.py
       - name: Claude
+        if: steps.gate.outputs.skip != '1'
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
+          npm install -g @anthropic-ai/claude-code > /dev/null
+          python code/collector/todo.py
           claude -p "$(cat code/collector/claude_prompt.md)" --model sonnet --max-turns 80 \
             --allowedTools "WebSearch,WebFetch,Read,Write,Edit,Bash(python3 code/collector/check.py)" --output-format text | tail -20
           python code/collector/check.py || true
-      - run: python code/collector/collect.py --merge-only
-      - name: Commit
+      - name: Merge and push
+        if: steps.gate.outputs.skip != '1'
         run: |
           git config user.name "nabd-bot"
           git config user.email "nabd-bot@users.noreply.github.com"
-          git add data/news.json data/seen.json
-          git diff --cached --quiet && exit 0
-          git commit -q -m "claude edit $(date -u +%H:%M)"
-          git pull -q --rebase && git push -q
+          git pull -q --rebase || git reset -q --hard origin/main
+          python code/collector/collect.py --merge-only
+          bash code/collector/push.sh "claude edit $(date -u +%H:%M)" "python code/collector/collect.py --merge-only"
