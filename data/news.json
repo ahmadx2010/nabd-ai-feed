@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T20:16:20Z",
+ "updated": "2026-11-04T20:27:15Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-04T19:39:59Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ميسي يطلب من ChatGPT إعادة تخيل غرفته",
+   "ar_summary": "فيديو قصير يظهر ليونيل ميسي وهو يستخدم ChatGPT للحصول على أفكار لتصميم غرفة فارغة بأسلوبه الخاص.",
+   "ai": true
   },
   {
    "id": "a05548ef29e1",
@@ -409,10 +413,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/694394305-f9d288c4-2862-48ff-aadf-b307e5ead674.png",
    "published": "2026-11-04T19:10:40Z",
    "found": "2026-11-04T20:16:20Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "GitHub Copilot متاح الآن في مساعد البرمجة داخل Xcode",
+   "ar_summary": "أعلنت GitHub إتاحة Copilot مباشرة داخل مساعد البرمجة المدمج في Xcode، بنسخة معاينة عامة ابتداءً من Xcode 27.3 beta.",
+   "ai": true
   },
   {
    "id": "c4f5d2954769",
@@ -1028,13 +1036,14 @@
    "image": null,
    "published": "2026-11-03T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "ar_title": "عقود تكامل النماذج في Transformers",
-   "ar_summary": "مقال تقني يعرض مفهوم عقود تكامل النماذج في مكتبة Transformers لتسهيل إضافة النماذج وضمان جودتها.",
+   "importance": 1,
+   "ar_title": "عقود تكامل النماذج في Transformers لاكتشاف الأخطاء مبكرًا",
+   "ar_summary": "تقترح Hugging Face معيار «Model Integration Contracts» يعتمد نماذج مصغرة لاختبار تكامل النماذج على المعالج بتكلفة منخفضة، بعد أن مر خطأ في UMT5 قرابة شهرين دون اكتشاف.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "3d509e27bae2",
@@ -1046,12 +1055,13 @@
    "image": null,
    "published": "2026-11-03T00:00:00Z",
    "found": "2026-11-03T23:40:00Z",
-   "importance": 0,
+   "importance": 1,
    "ar_title": "OpenAI تعين جيل هازلبيكر رئيسةً للشؤون المؤسسية",
-   "ar_summary": "ستقود هازلبيكر الاتصالات العالمية وتموضع الشركة المؤسسي في OpenAI.",
+   "ar_summary": "ستنضم جيل هازلبيكر إلى OpenAI بمنصب الرئيس التنفيذي للشؤون المؤسسية، وتقود الاتصالات العالمية وتموضع الشركة.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "767025f393c3",
@@ -1064,11 +1074,12 @@
    "published": "2026-11-02T22:44:26Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
-   "ar_title": "Coinbase حول OpenAI Private Intelligence",
-   "ar_summary": "المدير التقني لـ Coinbase يشرح أهمية الأمان وحواجز الحماية وعدم الاحتفاظ بالبيانات عند استخدام OpenAI.",
+   "ar_title": "Coinbase تتحدث عن OpenAI Private Intelligence",
+   "ar_summary": "يشرح روب ويتوف، المدير التقني في Coinbase، أهمية الأمان وحواجز الحماية وعدم الاحتفاظ بالبيانات عند استخدام OpenAI.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "f9c3fcec5e4f",
@@ -1135,13 +1146,14 @@
    "image": null,
    "published": "2026-11-02T17:51:17Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "ar_title": "Lumen ومايكروسوفت توسعان التعاون لبيع شبكات جاهزة للذكاء الاصطناعي",
-   "ar_summary": "توسّع الشركتان تعاونهما للتسويق المشترك لشبكات المؤسسات الجاهزة للذكاء الاصطناعي.",
+   "importance": 1,
+   "ar_title": "Lumen وMicrosoft توسعان التعاون لبيع شبكات جاهزة للذكاء الاصطناعي",
+   "ar_summary": "أعلنت Lumen وMicrosoft توسيع التعاون في البيع المشترك لمساعدة المؤسسات على ربط البيانات والتطبيقات والبنية التحتية لأعباء الذكاء الاصطناعي عبر Azure.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "b810030289ed",
@@ -1172,11 +1184,12 @@
    "published": "2026-11-02T16:59:21Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
-   "ar_title": "Coinbase حول OpenAI Private Intelligence",
-   "ar_summary": "يشرح روب ويتوف سبب أهمية الأمان وعدم الاحتفاظ بالبيانات في اعتماد Coinbase على نماذج OpenAI، إذ تمنح Private Intelligence الشركات تحكماً أكبر ببياناتها.",
+   "ar_title": "Coinbase تتحدث عن OpenAI Private Intelligence",
+   "ar_summary": "يشرح روب ويتوف كيف يمنح الأمان وعدم الاحتفاظ بالبيانات Coinbase السيطرة على بياناتها أثناء استخدام أحدث نماذج OpenAI.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "de4cf53f9db9",
@@ -1225,12 +1238,13 @@
    "published": "2026-11-02T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
-   "ar_title": "كيف تُنشأ الأصوات الاصطناعية للكلام الطبيعي؟",
-   "ar_summary": "شرح لكيفية إنشاء الأصوات الاصطناعية من بيانات الكلام إلى الشبكات العصبية واستنساخ الصوت.",
+   "ar_title": "كيف تُصنع الأصوات الاصطناعية للكلام الطبيعي؟",
+   "ar_summary": "مقال تعليمي من ElevenLabs يشرح مراحل إنشاء الأصوات الاصطناعية من بيانات الكلام إلى الشبكات العصبية، مع استنساخ الصوت وتصميمه.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "1b616ac07b1e",
@@ -1243,12 +1257,13 @@
    "published": "2026-11-02T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
-   "ar_title": "KPN تقدم الذكاء الصوتي لرواد الأعمال الهولنديين عبر Mobiel AI",
-   "ar_summary": "بالشراكة مع ElevenLabs أطلقت KPN مساعدًا ذكيًا ضمن باقات الهاتف للأعمال لإدارة المكالمات.",
+   "ar_title": "KPN تطلق Mobiel AI بتقنية ElevenLabs لرواد الأعمال الهولنديين",
+   "ar_summary": "تعاونت KPN مع ElevenLabs لبناء مساعد Mobiel AI ضمن باقات الجوال للأعمال، لإدارة المكالمات للمقاولين الصغار.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "4d1f48989ead",
@@ -1281,11 +1296,12 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "ar_title": "لماذا يتفوق الصوت في المحادثات المعقدة والمجهدة",
-   "ar_summary": "في المحادثات الأطول من دقيقتين نجح الصوت أكثر بنسبة 32% من الدردشة النصية.",
+   "ar_summary": "بحث من ElevenLabs يظهر أن المحادثات الصوتية الأطول من دقيقتين تنجح بنسبة أعلى 32% من الدردشة النصية.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "ed4b58253682",
@@ -1334,11 +1350,12 @@
    "published": "2026-11-02T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
-   "ar_title": "Qodo تبني السياق في مراجعة الأكواد مع Codex",
-   "ar_summary": "تجلب Qodo معرفة الشركة ومعايير البرمجة إلى Codex لمساعدة المطورين على اكتشاف المشكلات الحرجة قبل طلب الدمج.",
+   "ar_title": "Qodo تضيف السياق إلى مراجعة الكود مع Codex",
+   "ar_summary": "تدمج Qodo معرفة الشركة ومعايير البرمجة في Codex لمساعدة المطورين على اكتشاف المشكلات الحرجة قبل فتح طلب الدمج.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "959f3bc27116",
@@ -1351,10 +1368,11 @@
    "published": "2026-10-30T20:17:12Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
-   "ar_title": "هناك مستقبلات كثيرة. أيها تريد أن تبني؟",
-   "ar_summary": "فيديو ترويجي من OpenAI بلا وصف تفصيلي.",
+   "ar_title": "هناك مستقبلات كثيرة، أيها تريد أن تبنيه؟",
+   "ar_summary": "فيديو ترويجي من OpenAI يدعو إلى التفكير في المستقبل الذي نريد بناءه بالذكاء الاصطناعي.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "b2263e9f8412",
@@ -1367,12 +1385,13 @@
    "published": "2026-10-30T17:57:24Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
-   "ar_title": "nemotron-halloween",
-   "ar_summary": "منشور من NVIDIA على Hugging Face حول نماذج Nemotron بمناسبة الهالوين.",
+   "ar_title": "بناء بيت مسكون بنماذج NVIDIA Nemotron المفتوحة",
+   "ar_summary": "مشروع MonsterHouse إسقاط تفاعلي بمناسبة الهالوين يتحدث مع الأطفال بصوت قرصان غاضب باستخدام نماذج Nemotron على محطة عمل واحدة.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "59fa43cbb1dd",
@@ -1385,11 +1404,12 @@
    "published": "2026-10-30T15:24:48Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
-   "ar_title": "كيف تحوّل Gen بياناتها إلى قرارات عبر ChatGPT Work",
-   "ar_summary": "يوضح Howie Xu كيف يختصر ChatGPT Work حلقة التغذية الراجعة، فيفهم الفريق أداء منتج جديد خلال ساعات قليلة من إطلاقه.",
+   "ar_title": "كيف تحول Gen البيانات إلى قرارات عبر ChatGPT Work",
+   "ar_summary": "يقول هووي شو من Gen إن ChatGPT Work قصّر دورة التغذية الراجعة لتحليل تجربة المنتج خلال ساعات من الإطلاق.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "cdb16d541078",
@@ -1402,11 +1422,12 @@
    "published": "2026-10-30T15:22:47Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
-   "ar_title": "كيف تحوّل Gen بياناتها إلى قرارات عبر ChatGPT Work",
-   "ar_summary": "يروي Howie Xu كيف سرّع ChatGPT Work الحصول على إجابات من بيانات الأعمال بدل التنقل بين الفرق والمناطق الزمنية.",
+   "ar_title": "كيف تحول Gen البيانات إلى قرارات عبر ChatGPT Work",
+   "ar_summary": "يقول هووي شو من Gen إن ChatGPT Work قصّر دورة التغذية الراجعة لتحليل تجربة المنتج خلال ساعات من الإطلاق.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "4a4bcbde667c",
@@ -1418,12 +1439,13 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-scaled.jpg",
    "published": "2026-10-30T15:00:10Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "ar_title": "الذكاء الاصطناعي الوكيلي ينضم إلى البحث عن إشارات فضائية",
-   "ar_summary": "تشرح NVIDIA كيف قفز البحث عن الذكاء خارج الأرض قفزة كبيرة بفضل الذكاء الاصطناعي ووكلائه.",
+   "importance": 1,
+   "ar_title": "الذكاء الاصطناعي الوكيلي ينضم إلى البحث عن إشارات الكائنات الفضائية",
+   "ar_summary": "تدمج Breakthrough Listen ومعهد SETI وكلاء ذكاء اصطناعي مع منصة NVIDIA Holoscan لتشغيل تلسكوب Allen Telescope Array ومعالجة بياناته بطلب نصي واحد.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "094c331a98fa",
@@ -1453,12 +1475,13 @@
    "published": "2026-10-30T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
-   "ar_title": "التحويل الدافئ مقابل البارد: اختيار الأنسب",
-   "ar_summary": "يشرح الفرق بين النوعين ومتى يُستخدم كل منهما وكيف تحوّل وكلاء الصوت المكالمات إلى موظف بشري.",
+   "ar_title": "التحويل الدافئ مقابل البارد: كيف تختار؟",
+   "ar_summary": "دليل من ElevenLabs يشرح الفرق بين نقل المكالمة مع سياق للمستلم أو بدونه، وكيف تسلم وكلاء الصوت المكالمات للبشر.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "626d6f539a19",
@@ -1471,12 +1494,13 @@
    "published": "2026-10-30T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
-   "ar_title": "TELUS Digital تخفض الإلغاءات المبكرة لأكثر من النصف",
-   "ar_summary": "استخدمت الشركة ElevenAgents للاتصال بالعملاء الجدد خلال أول 90 يومًا فخفضت الإلغاء المبكر بأكثر من النصف.",
+   "ar_title": "TELUS Digital تخفض الإلغاءات المبكرة لأكثر من النصف مع ElevenAgents",
+   "ar_summary": "تستخدم TELUS Digital وكيلًا صوتيًا للاتصال بعملاء الإنترنت الجدد في أول 90 يومًا، فانخفضت الإلغاءات إلى أقل من نصف المعدل.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "25cc4c9bb2e3",
@@ -1524,12 +1548,13 @@
    "image": null,
    "published": "2026-10-30T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "ar_title": "الاستخدام العادل يفيد الجميع",
-   "ar_summary": "تنشر OpenAI مقتطفات من مذكرات قضائية لمبدعين وأكاديميين وخبراء قانونيين حول دور الاستخدام العادل في تدريب الذكاء الاصطناعي.",
+   "importance": 1,
+   "ar_title": "OpenAI: الاستخدام العادل يفيد الجميع",
+   "ar_summary": "تنشر OpenAI مقتطفات من مذكرات قضائية لمبدعين وأكاديميين وخبراء قانون حول دعم الاستخدام العادل لتدريب الذكاء الاصطناعي.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "237e37ca214f",
@@ -1543,10 +1568,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "ar_title": "ChatGPT Enterprise في Zendesk: توظيف بيانات الشركة",
-   "ar_summary": "تستخدم فرق Zendesk ChatGPT Enterprise لبناء تطبيقات وطرح أسئلة على البيانات مباشرة.",
+   "ar_summary": "تبني فرق Zendesk نحو 600 تطبيق، ويتاح ChatGPT Enterprise لكل موظف لاستجواب البيانات مباشرة.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "589b6ae4a109",
@@ -1558,13 +1584,14 @@
    "image": null,
    "published": "2026-10-29T17:00:36Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "ar_title": "Meta وCNIB تتشاركان لدعم الكنديين المكفوفين وضعاف البصر",
-   "ar_summary": "شراكة لإيصال فوائد نظارات الذكاء الاصطناعي إلى مزيد من الكنديين المكفوفين أو ضعاف البصر.",
+   "importance": 1,
+   "ar_title": "Meta وCNIB تدعمان الكنديين المكفوفين بنظارات الذكاء الاصطناعي",
+   "ar_summary": "تشارك Meta مع CNIB لتوفير نظارات الذكاء الاصطناعي للكنديين المكفوفين أو ضعاف البصر.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "7bf0065ceb16",
@@ -1594,13 +1621,14 @@
    "image": "https://cdn.amazon.science/dims4/default/f2f66a8/2147483647/strip/true/crop/6617x3474+0+124/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fa6%2F93%2F01de2f8d495eb2ee8f2b371a2a9e%2Fsmart-filters-16x9.png",
    "published": "2026-10-29T16:51:26Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "ar_title": "تسريع النماذج اللغوية لتطبيقات السفر",
-   "ar_summary": "تقنيتان للتحسين، عند دمجهما، ترفعان سرعة النموذج وكفاءة تكلفته دون التضحية بالجودة.",
+   "ar_summary": "دمج تقطير المعرفة مع Medusa-2 أنتج نموذجًا صغيرًا بجودة نموذج 70 مليار معامل وأسرع 10 إلى 20 مرة، بالتعاون مع Booking.com.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "a0c8bc8caa04",
@@ -1614,10 +1642,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "ar_title": "ChatGPT Enterprise في Zendesk: توظيف بيانات الشركة",
-   "ar_summary": "في Zendesk نحو 600 تطبيق بناها موظفون، ويتاح ChatGPT Enterprise للجميع ليسألوا بياناتهم مباشرة.",
+   "ar_summary": "تبني فرق Zendesk نحو 600 تطبيق، ويتاح ChatGPT Enterprise لكل موظف لاستجواب البيانات مباشرة.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "40ee4ff935a1",
@@ -1705,10 +1734,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "ar_title": "لعبة Phantom Blade Zero تصل إلى GeForce NOW",
-   "ar_summary": "تضيف NVIDIA اللعبة إلى خدمة GeForce NOW السحابية مع ألعاب أخرى قادمة.",
+   "ar_summary": "تضيف NVIDIA لعبة Phantom Blade Zero إلى GeForce NOW مع World of Warcraft: Forever ودعم المودات لـ Cyberpunk 2077 وThe Witcher 3.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "e68704a5f0fc",
@@ -1721,12 +1751,13 @@
    "published": "2026-10-29T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
-   "ar_title": "ما هو تبادل الأدوار في الذكاء الاصطناعي الحواري",
-   "ar_summary": "دليل يشرح كيف يقرر وكيل الصوت متى يتكلم أو يصمت ويستمع وكيفية قياس ذلك.",
+   "ar_title": "ما هو تبادل الأدوار في الذكاء الاصطناعي الحواري؟",
+   "ar_summary": "دليل من ElevenLabs يشرح كيف يقرر وكيل الصوت متى يتكلم أو يصمت أو يستمع.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "c0db2f78e6f9",
