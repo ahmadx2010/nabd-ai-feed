@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T15:06:38Z",
+ "updated": "2026-11-04T15:13:59Z",
  "categories": [
   {
    "key": "big",
@@ -433,6 +433,19 @@
    "ar_title": "كيف بنينا Lovable ولماذا نعيد بناءه باستمرار",
    "ar_summary": "يشارك Anton Osika دروسًا من بناء Lovable عبر أكثر من 100 ألف طلب سحب، منها مواءمة حرية الوكيل مع قدرة النموذج.",
    "ai": true
+  },
+  {
+   "id": "75679f5aa60b",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "image": null,
+   "published": "2026-11-04T07:00:00Z",
+   "found": "2026-11-04T15:13:59Z",
+   "importance": 2,
+   "fetched": true
   },
   {
    "id": "0f281cabd4f6",
