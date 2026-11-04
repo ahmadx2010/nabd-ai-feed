@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:23:57Z",
+ "updated": "2026-11-04T17:40:24Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "166d08d878ba",
+   "company": "openai",
+   "kind": "video",
+   "title": "How Figma Is Building Self-Serve Analytics with OpenAI",
+   "summary": "Marketers shouldn’t have to wait for a new dashboard to understand how a campaign is performing. In an early pilot with OpenAI, Figma is building shared context that helps marketers ask how campaigns are landing and whether they’re converting customers. Teams can get useful insights sooner, without waiting for someone to build a dashboard or metric. “OpenAI has unlocked the ability to deliver…",
+   "url": "https://www.youtube.com/watch?v=44GBqQGc-v0",
+   "image": "https://i1.ytimg.com/vi/44GBqQGc-v0/hqdefault.jpg",
+   "published": "2026-11-04T17:27:07Z",
+   "found": "2026-11-04T17:40:24Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true
+  },
   {
    "id": "ccf4ad643fca",
    "company": "suno",
