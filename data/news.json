@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:58:41Z",
+ "updated": "2026-11-04T18:10:06Z",
  "categories": [
   {
    "key": "big",
@@ -395,9 +395,13 @@
    "image": null,
    "published": "2026-11-04T17:50:10Z",
    "found": "2026-11-04T17:58:41Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Dharma Field Extractor: نموذج يحوّل أي مستند إلى حقول JSON منظمة",
+   "ar_summary": "أطلق فريق Dharma نموذجاً من 2 مليار معامل يستخرج الحقول المطلوبة فقط من أي مستند ويعيدها بصيغة JSON، ويتفوق بحسب الفريق على نماذج LLM الرائدة بتكلفة أقل.",
+   "ai": true
   },
   {
    "id": "166d08d878ba",
@@ -411,7 +415,11 @@
    "found": "2026-11-04T17:40:24Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "كيف تبني Figma تحليلات ذاتية الخدمة بالتعاون مع OpenAI",
+   "ar_summary": "في تجربة أولية مع OpenAI، تبني Figma سياقاً مشتركاً يتيح للمسوّقين معرفة أداء الحملات دون انتظار بناء لوحات معلومات جديدة.",
+   "ai": true
   },
   {
    "id": "ccf4ad643fca",
@@ -649,10 +657,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "ar_title": "ChatGPT Voice متاح الآن في Finances",
-   "ar_summary": "يمكن ربط حساباتك المالية بأمان عبر Finances ثم التحدث صوتياً مع ChatGPT عن اشتراكاتك وما يمكن توفيره بإلغاء بعضها.",
+   "ar_summary": "يمكنك الآن التحدث صوتياً مع ChatGPT حول أموالك بعد ربط حساباتك بأمان عبر ميزة Finances.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "a55665cf4895",
@@ -665,11 +674,12 @@
    "published": "2026-11-03T17:15:21Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "StateBench: اختبار تتبع النماذج اللغوية لتغيّر الحالة في المستندات الطويلة",
-   "ar_summary": "مقال بحثي على Hugging Face يقدّم معياراً لقياس قدرة النماذج اللغوية على تتبع تغيّرات الحالة عبر المستندات الطويلة.",
+   "ar_title": "StateBench: اختبار تتبع النماذج لتغيّر الحالة في المستندات الطويلة",
+   "ar_summary": "قدم Ai2 معياراً لقياس قدرة النماذج على تتبع تغيّر حالة الكيانات في السياقات الطويلة، ويُظهر أن النماذج الرائدة تتعثر في الأشكال الأصعب.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "7b04a568c5ad",
@@ -682,10 +692,11 @@
    "published": "2026-11-03T17:01:49Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "الكيمياء المعلوماتية الوكيلية مع Google Antigravity",
-   "ar_summary": "تشرح DeepMind كيف تسرّع Google Antigravity ومهارات الكيمياء المعلوماتية سير عمل اكتشاف الأدوية والبحث عن المركبات واقتراح حلقات كبيرة جديدة.",
+   "ar_title": "المعلوماتية الكيميائية الوكيلية مع Google Antigravity",
+   "ar_summary": "تعرض DeepMind كيف يسرّع Antigravity ومهارات الكيمياء المعلوماتية سير عمل اكتشاف الأدوية والبحث عن المركبات واقتراح حلقات كبيرة جديدة.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "1afe3cf65797",
@@ -732,11 +743,12 @@
    "published": "2026-11-03T16:35:36Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "Palette: تعليم نموذج صغير بناء العروض التقديمية بلغة تصميمك",
-   "ar_summary": "تعرض IBM Research نموذجاً صغيراً قادراً على إنشاء عروض تقديمية تلتزم بهوية التصميم الخاصة بالمستخدم.",
+   "ar_title": "Palette: تعليم نموذج صغير بناء عروض تقديمية بلغة تصميمك",
+   "ar_summary": "دربت IBM نموذجاً مفتوحاً من 20 مليار معامل لبناء العروض التقديمية وفق لغة IBM Design، ويتصدر في مجالين من ثلاثة على PresentBench.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "c90cd6cc0c02",
@@ -750,10 +762,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "ar_title": "الذكاء الاصطناعي يغيّر عمل مصانع أشباه الموصلات",
-   "ar_summary": "تشرح NVIDIA كيف يساعد الذكاء الاصطناعي المهندسين على فهم تغييرات العمليات وتتبع العيوب إلى أسبابها في ظل تعقيد التصنيع المتزايد.",
+   "ar_summary": "تشرح NVIDIA كيف تسرّع الحوسبة والذكاء الاصطناعي الفيزيائي والوكلاء والتوائم الرقمية عمل مهندسي تصنيع الرقائق.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "9c22661ce9de",
@@ -767,10 +780,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
    "ar_title": "GitHub Copilot متاح الآن في JetBrains Air",
-   "ar_summary": "يمكن الآن تفويض مهام البرمجة ومراجعة النتائج عبر Copilot داخل JetBrains Air باستخدام بروتوكول Agent Client Protocol.",
+   "ar_summary": "يمكن الآن تفويض مهام البرمجة ومراجعة النتائج مع GitHub Copilot داخل JetBrains Air عبر بروتوكول ACP محلياً أو سحابياً.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "26c6032e1d26",
@@ -784,9 +798,10 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
    "ar_title": "تسريع الهندسة للعالم المادي",
-   "ar_summary": "تستعرض OpenAI كيف يساعد ChatGPT وCodex المهندسين في تصميم CAD وPCB والمحاكاة وغيرها من سير العمل الهندسية.",
+   "ar_summary": "تعرض OpenAI كيف يساعد ChatGPT وCodex المهندسين في CAD وتصميم PCB والمحاكاة وغيرها.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "0e889c44fa0a",
@@ -883,10 +898,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "ar_title": "مدن حول العالم تبني خدمات ذكاء اصطناعي مع NVIDIA",
-   "ar_summary": "تستخدم المدن الذكاء الاصطناعي المادي والوكيلي، من التوائم الرقمية إلى وكلاء الخدمات، لتحويل بيانات الكاميرات والمستشعرات إلى إجراءات مفيدة.",
+   "ar_summary": "تتوسع NVIDIA وشركاؤها في الذكاء الاصطناعي الفيزيائي والوكيلي للمدن، من التوائم الرقمية إلى وكلاء الخدمات والرؤية.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "20954e3ac0ff",
@@ -900,10 +916,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "ar_title": "CWE-bench v2: تغطية وجودة وشفافية أكبر",
-   "ar_summary": "إصدار جديد من معيار CWE-bench لتقييم النماذج في اكتشاف الثغرات الأمنية، بتغطية وجودة وشفافية محسّنة.",
+   "ar_summary": "أطلقت Collinear AI الإصدار الثاني من CWE-bench بمجموعة عامة من 100 مهمة لاختبار قدرات النماذج في إيجاد الثغرات وإصلاحها.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "fec0e46ceba4",
@@ -966,11 +983,12 @@
    "published": "2026-11-02T21:48:25Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "تسعة مهندسين و1211 تحديثاً برمجياً في يوم: دروس من بناء Copilot Cowork",
-   "ar_summary": "تروي مايكروسوفت تجربة بناء Copilot Cowork والانتقال من Python إلى Rust بفريق صغير وبمساعدة الذكاء الاصطناعي.",
+   "ar_title": "تسعة مهندسين و1211 طلب دمج في يوم: دروس من بناء Copilot Cowork",
+   "ar_summary": "تروي Microsoft كيف بنى فريق صغير Copilot Cowork خلال نحو أربعة أشهر ونصف بكتابة الوكلاء لمعظم الكود، ثم نقلوا بيئة التشغيل من Python إلى Rust وهي حية.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "262cfa35f430",
@@ -1698,11 +1716,12 @@
    "published": "2026-10-29T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2,
-   "ar_title": "Mistral Large 4 متاح الآن على Hugging Face",
-   "ar_summary": "وصول نموذج Mistral Large 4 إلى منصة Hugging Face ليتمكن المطورون من استخدامه.",
+   "ar_title": "مرحباً Le Chonk: Mistral Large 4 على Hugging Face",
+   "ar_summary": "Mistral Large 4 نموذج متعدد الوسائط ومتعدد اللغات بتقنية MoE بنحو تريليون معامل و1M رمز سياق، وقوي في الأمن السيبراني والبرمجة.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "85d975255b4f",
@@ -1817,11 +1836,12 @@
    "published": "2026-10-28T17:00:58Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2,
-   "ar_title": "Gemini 4 Carbon: نموذجنا الرائد القادم",
-   "ar_summary": "أعلنت Google DeepMind عن Gemini 4 Carbon كنموذجها المتقدم التالي.",
+   "ar_title": "Gemini 4 Carbon: نموذجنا الرائد التالي",
+   "ar_summary": "أعلنت Google DeepMind عن Gemini 4 Carbon، أقوى نماذجها بقدرات متقدمة في الأمن السيبراني والمهام طويلة الأمد، ويتاح أولاً لمدافعين سيبرانيين مختارين.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "a04b7e8be316",
@@ -1851,11 +1871,12 @@
    "published": "2026-10-28T17:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2,
-   "ar_title": "تقديم Gemini 4 Carbon: نموذجنا الرائد القادم",
-   "ar_summary": "تعلن Google عن Gemini 4 Carbon، نموذجها الرائد الجديد.",
+   "ar_title": "Gemini 4 Carbon: نموذجنا الرائد التالي",
+   "ar_summary": "تعلن Google عن Gemini 4 Carbon، أقوى نماذجها بقدرات رائدة في الأمن السيبراني والمهام طويلة الأمد، بإتاحة تدريجية تبدأ بمدافعين سيبرانيين.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "3b44a74c8a19",
@@ -3520,8 +3541,8 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 2,
    "ar_detail": true,
-   "ar_title": "Gemini 4 Argon: نموذج لحل أصعب مشكلاتك",
-   "ar_summary": "تعلن Google DeepMind عن Gemini 4 Argon، نموذجها الجديد للاستدلال المتقدم والبرمجة الوكيلة.",
+   "ar_title": "Gemini 4 Argon: مصمم لحل أصعب مشكلاتك",
+   "ar_summary": "أصبح Gemini 4 Argon متاحاً عالمياً للمطورين والشركات عبر API ولمشتركي Google AI Ultra وPro في تطبيق Gemini وAI Mode.",
    "ai": true,
    "detail": true,
    "fetched": true
@@ -3557,7 +3578,7 @@
    "importance": 2,
    "ar_detail": true,
    "ar_title": "Gemini 4 Argon يصل إلى تطبيق Gemini",
-   "ar_summary": "أصبح Gemini 4 Argon متاحًا لمشتركي Google AI Pro وUltra في تطبيق Gemini، مع استدلال متقدم وبرمجة وكيلة.",
+   "ar_summary": "يقدم Argon استدلالاً متقدماً وبرمجة وكيلية في تطبيق Gemini لمشتركي Google AI Pro وUltra، مع تبديل بسيط بين المحادثة والمهام.",
    "ai": true,
    "detail": true,
    "fetched": true
@@ -3574,8 +3595,8 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 2,
    "ar_detail": true,
-   "ar_title": "Gemini 4 Argon: نموذج لحل أصعب مشكلاتك",
-   "ar_summary": "تعلن Google عن Gemini 4 Argon، نموذج جديد للاستدلال المتقدم والبرمجة الوكيلة.",
+   "ar_title": "Gemini 4 Argon: مصمم لحل أصعب مشكلاتك",
+   "ar_summary": "أصبح Gemini 4 Argon متاحاً عالمياً للمطورين والشركات وللمشتركين في تطبيق Gemini وAI Mode، بتفوق في البرمجة والتمويل والقانون والأمن.",
    "ai": true,
    "detail": true,
    "fetched": true
@@ -4114,8 +4135,8 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 2,
    "ar_detail": true,
-   "ar_title": "Gemini 4 Argon: عصر جديد من الذكاء المتقدم",
-   "ar_summary": "تعلن Google DeepMind عن Gemini 4 Argon كمرحلة جديدة من الذكاء المتقدم.",
+   "ar_title": "Gemini 4 Argon: حقبتنا التالية من الذكاء المتقدم",
+   "ar_summary": "كشفت Google عن Gemini 4 Argon بنافذة سياق 1M رمز، يُطرح أولاً لمدافعين سيبرانيين موثوقين عبر Fairwind قبل إتاحته للجمهور.",
    "ai": true,
    "detail": true,
    "fetched": true
@@ -4416,9 +4437,13 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp",
    "published": "2026-09-23T16:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "6 أدوات جديدة لـ Google Flow صنعها مبدعون من الصناعة",
+   "ar_summary": "أطلقت Google ست أدوات جديدة ضمن Flow Tools صممها مبدعون في العمارة وتصميم الصوت والمحتوى الرقمي، ويمكن بناء أدوات مخصصة بوصف ما تحتاجه.",
+   "ai": true
   },
   {
    "id": "61c4e542f161",
@@ -4465,9 +4490,13 @@
    "image": "https://assets.aboutamazon.com/dims4/default/83adb37/2147483647/strip/true/crop/1434x1434+243+0/resize/605x605!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Ff2%2F04%2Ffd4576b74c66be6294fc5f69edd1%2Faccelerate-2026-seller-assistant-hero-feature.jpg",
    "published": "2026-09-23T13:00:08Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Amazon تطوّر Seller Assistant وتطلق إضافة لـ Amazon Quick وClaude من Anthropic",
+   "ar_summary": "أصبح Seller Assistant أكثر ذكاءً بذاكرة دائمة وسير عمل مؤتمت على مدار الساعة، مع إضافة جديدة تنقل بيانات البائعين إلى Amazon Quick وClaude.",
+   "ai": true
   },
   {
    "id": "089c4ff63dd0",
@@ -4479,9 +4508,13 @@
    "image": null,
    "published": "2026-09-23T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Cursor تطلق Rollouts وSecurity Review لمراقبة النشر وفحص الثغرات",
+   "ar_summary": "أطلقت Cursor بوتين جديدين: Rollouts يراقب صحة كل تغيير أثناء نشره، وSecurity Review يبلغ عن الثغرات القابلة للاستغلال في كل طلب دمج.",
+   "ai": true
   },
   {
    "id": "e8cb7a03edd8",
@@ -4495,7 +4528,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "عقد من تصميم الرقائق في Amazon: كل جيل بُني حول أحمال عمل حقيقية",
+   "ar_summary": "في قمة AI Infra شرح بيتر ديسانتيس كيف قادت أحمال عمل العملاء الحقيقية كل جيل من رقائق Amazon من Nitro إلى Trainium.",
+   "ai": true
   },
   {
    "id": "b94504d94fb1",
@@ -4509,7 +4546,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "ما الذي يفعله الضاغط الصوتي فعلاً؟ سلسلة تعليمية من Suno",
+   "ar_summary": "تبدأ Suno سلسلة تشرح أدوات الإنتاج الموسيقي بمقال عن الضغط الصوتي (compression) والديناميكيات.",
+   "ai": true
   },
   {
    "id": "390b17852f3a",
@@ -4521,9 +4562,13 @@
    "image": null,
    "published": "2026-09-21T17:51:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "الذكاء الاصطناعي في الأحياء: Amazon تعلّم النماذج تصميم الأجسام المضادة",
+   "ar_summary": "نشر فريق Amazon Bio Discovery ثلاث أوراق بحثية تعالج عقبات تصميم الأجسام المضادة بالذكاء الاصطناعي، من التنبؤ بالارتباط إلى التحقق المخبري.",
+   "ai": true
   }
  ]
 }
