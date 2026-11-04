@@ -3,6 +3,11 @@ name: share-pages
 # and pushes it to the "site" branch, which Vercel serves. Started when the news changes.
 on:
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Skip the 20-minute limit"
+        required: false
+        default: "false"
 concurrency:
   group: pages
   cancel-in-progress: true
@@ -20,7 +25,7 @@ jobs:
         id: gate
         run: |
           last=$(git ls-remote origin refs/heads/site | cut -f1)
-          if [ -n "$last" ]; then
+          if [ -n "$last" ] && [ "${{ inputs.force }}" != "true" ]; then
             git fetch -q --depth=1 origin site
             age=$(( $(date +%s) - $(git log -1 --format=%ct FETCH_HEAD) ))
             [ "$age" -lt 1200 ] && echo "skip=1" >> "$GITHUB_OUTPUT"
