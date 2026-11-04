@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:44:47Z",
+ "updated": "2026-11-04T18:53:54Z",
  "categories": [
   {
    "key": "big",
@@ -527,6 +527,21 @@
    "ar_title": "ElevenAgents يتكامل مع منصات مراكز الاتصال الكبرى",
    "ar_summary": "أعلنت ElevenLabs تكاملاً أصلياً لـ ElevenAgents مع NiCE وGenesys Cloud وAmazon Connect وFive9، ودعم أي منصة أخرى عبر SIP. يتيح ذلك للشركات إضافة وكلاء صوتيين دون تغيير بنيتها الحالية.",
    "ai": true,
+   "img_tried": true
+  },
+  {
+   "id": "a239c4a01220",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "AI voice agent pricing: What it costs for your business",
+   "summary": "See AI voice agent pricing from $0 to custom Enterprise, what sets your price per minute, and how to calculate ROI against staffing costs.",
+   "url": "https://elevenlabs.io/blog/ai-voice-agent-pricing-guide",
+   "image": null,
+   "published": "2026-11-04T12:00:00Z",
+   "found": "2026-11-04T18:53:54Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
    "img_tried": true
   },
   {
