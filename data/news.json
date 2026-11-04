@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:35:37Z",
+ "updated": "2026-11-04T18:44:47Z",
  "categories": [
   {
    "key": "big",
@@ -4461,7 +4461,7 @@
    "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
    "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .",
    "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-security-invertocat.png",
    "published": "2026-09-24T18:26:12Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -4470,7 +4470,8 @@
    "ar_detail": true,
    "ar_title": "اختبار Fuzzing مدعوم بالذكاء الاصطناعي عبر وكيل Taskflow من GitHub Security Lab",
    "ar_summary": "قدم GitHub Security Lab مسار عمل مستقلاً لاختبار Fuzzing على مشاريع C/C++ يكتب الأدوات ويشغل AFL++ ويحلل الأعطال.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "e7107d9a76d9",
@@ -4479,7 +4480,7 @@
    "title": "Introducing Gemini 3.8 Live with Live Avatar",
    "summary": "",
    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-   "image": null,
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.width-1300.png",
    "published": "2026-09-24T16:20:39Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -4488,7 +4489,8 @@
    "ar_summary": "تعلن Google DeepMind عن Gemini 3.8 Live مع ميزة الصورة الرمزية الحية.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "abbe680279c1",
@@ -4506,7 +4508,8 @@
    "ar_detail": true,
    "ar_title": "سجل تغييرات Midjourney Alpha بتاريخ 23 سبتمبر",
    "ar_summary": "دفعة تغييرات على alpha.midjourney.com تشمل معاينات الأنماط وإعدادات افتراضية ومظهراً جديداً للخلاصة.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "cb4e42d4d067",
@@ -4604,7 +4607,7 @@
    "title": "Innovation for the YouTube Era: What’s new for viewers and creators",
    "summary": "Discover everything announced at Made On YouTube 2026. Explore new conversational AI tools, Custom Feeds, Live Auto-Dubbing, and updates to the YouTube Era.",
    "url": "https://blog.youtube/news-and-events/innovation-youtube-era-made-on-viewers-creators/",
-   "image": null,
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MOYT_-_YT_posts-5.max-1440x810.png",
    "published": "2026-09-23T14:30:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -4612,7 +4615,8 @@
    "ar_detail": true,
    "ar_title": "ابتكار لعصر YouTube: الجديد للمشاهدين وصنّاع المحتوى",
    "ar_summary": "كشفت YouTube في Made On YouTube 2026 عن أدوات ذكاء اصطناعي حوارية وخلاصات مخصصة ودبلجة تلقائية للبث المباشر.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "7c348eedc060",
@@ -4639,7 +4643,7 @@
    "title": "Rollouts and Security Review",
    "summary": "Two bots for the last mile of shipping code: Rollouts watches every change as it deploys, and Security Review reports exploitable bugs on every pull request.",
    "url": "https://cursor.com/changelog/rollouts-and-security-reviewer",
-   "image": null,
+   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/rollouts-security-reviewer-cl-og-gETNeLXHPfvrWaSPKRE0YbaxpwUHTK.png",
    "published": "2026-09-23T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -4648,7 +4652,8 @@
    "ar_detail": true,
    "ar_title": "Cursor تطلق Rollouts وSecurity Review لمراقبة النشر وفحص الثغرات",
    "ar_summary": "أطلقت Cursor بوتين جديدين: Rollouts يراقب صحة كل تغيير أثناء نشره، وSecurity Review يبلغ عن الثغرات القابلة للاستغلال في كل طلب دمج.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "e8cb7a03edd8",
@@ -4675,7 +4680,7 @@
    "title": "What Does a Compressor Actually Do?",
    "summary": "We talk compression and dynamics in the first in a series where we explain the tools behind great-sounding music.",
    "url": "https://suno.com/blog/about-compression",
-   "image": null,
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/7dac0f63a6ef74646a1f035c1fafec010a1faf77-3349x1884.jpg?rect=0,63,3349,1758&w=1200&h=630&fit=crop&auto=format",
    "published": "2026-09-22T14:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -4684,7 +4689,8 @@
    "ar_detail": true,
    "ar_title": "ما الذي يفعله الضاغط الصوتي فعلاً؟ سلسلة تعليمية من Suno",
    "ar_summary": "تبدأ Suno سلسلة تشرح أدوات الإنتاج الموسيقي بمقال عن الضغط الصوتي (compression) والديناميكيات.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "390b17852f3a",
@@ -4693,7 +4699,7 @@
    "title": "Advancing AI for biology: Teaching models to design and characterize antibodies",
    "summary": "Three new papers from Amazon Bio Discovery address bottlenecks in AI-driven antibody engineering, from benchmarking binding predictors to experimentally validating de novo design.",
    "url": "https://www.amazon.science/blog/advancing-ai-for-biology-teaching-models-to-design-and-characterize-antibodies",
-   "image": null,
+   "image": "https://cdn.amazon.science/dims4/default/cf81c8b/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Ffd%2F70%2F3a65a679455aba2bf7e351dff7aa%2Fbiodiscovery-16x9.png",
    "published": "2026-09-21T17:51:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -4702,7 +4708,8 @@
    "ar_detail": true,
    "ar_title": "الذكاء الاصطناعي في الأحياء: Amazon تعلّم النماذج تصميم الأجسام المضادة",
    "ar_summary": "نشر فريق Amazon Bio Discovery ثلاث أوراق بحثية تعالج عقبات تصميم الأجسام المضادة بالذكاء الاصطناعي، من التنبؤ بالارتباط إلى التحقق المخبري.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   }
  ]
 }
