@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:53:54Z",
+ "updated": "2026-11-04T18:55:43Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AgileDeliberation1_Thumbnail.png",
    "published": "2026-11-04T18:07:05Z",
    "found": "2026-11-04T18:17:16Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "التداول الرشيق: كيف يساعد الذكاء الاصطناعي البشر على تحديد المناطق الرمادية",
+   "ar_summary": "قدّم باحثو Google Research إطار «Agile Deliberation» لبناء مصنّفات صور للفئات الذاتية عبر حوار تفاعلي يساعد المستخدم على تحديد تعريفه وحالاته الحدّية. الكود متاح مفتوح المصدر على GitHub.",
+   "ai": true
   },
   {
    "id": "5afc49da7bd4",
@@ -542,7 +546,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تسعير وكلاء الصوت بالذكاء الاصطناعي: كم يكلّف عملك؟",
+   "ar_summary": "دليل من ElevenLabs يشرح مكوّنات تكلفة وكلاء الصوت (المنصة والنموذج اللغوي والاتصالات) مع أسعار ElevenAgents وطريقة حساب العائد مقارنة بتكلفة الموظفين.",
+   "ai": true
   },
   {
    "id": "75679f5aa60b",
@@ -1051,11 +1059,12 @@
    "published": "2026-11-02T18:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "التحضير لسباق أمني جديد لتحصين OpenAI",
-   "ar_summary": "تعدّ OpenAI لسباق أمني داخلي مع Cathedral Systems لاختبار دفاعاتها وتقويتها باستخدام الذكاء الاصطناعي.",
+   "ar_title": "OpenAI تستعد لسباق أمني جديد لتعزيز دفاعاتها",
+   "ar_summary": "تحضّر OpenAI لسباق أمني داخلي جديد بالتعاون مع Cathedral Systems لاختبار دفاعاتها وتقويتها باستخدام الذكاء الاصطناعي.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "6fd6ad7938fa",
@@ -1068,11 +1077,12 @@
    "published": "2026-11-02T18:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "مكافآت أكبر للمدافعين عبر برنامج مكافآت الثغرات",
-   "ar_summary": "ترفع OpenAI مكافآت الثغرات الأمنية وتضيف حوافز لجودة التقارير والولاء والحملات ذات الأولوية للباحثين المستقلين.",
+   "ar_title": "مكافآت أكبر للمدافعين: OpenAI ترفع جوائز اكتشاف الثغرات",
+   "ar_summary": "رفعت OpenAI مكافآت برنامج Security Bug Bounty وأضافت مكافآت لجودة التقارير والولاء وحملات الأولوية للباحثين الأمنيين المستقلين.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "2d062bda8439",
@@ -1103,11 +1113,12 @@
    "published": "2026-11-02T17:45:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "أحدث أخبار الذكاء الاصطناعي التي أعلنتها Google في أكتوبر 2026",
-   "ar_summary": "ملخص شهري لأبرز إعلانات Google في مجال الذكاء الاصطناعي خلال أكتوبر 2026.",
+   "ar_title": "أبرز أخبار الذكاء الاصطناعي من Google في أكتوبر 2026",
+   "ar_summary": "ملخص شهري لأبرز إعلانات Google في أكتوبر، يتصدرها Gemini 4 Argon وGemini 4 Carbon ونموذج العوالم Genie 4.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "050eb04e45a8",
@@ -1138,10 +1149,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "ar_title": "توسيع Git في OpenAI",
-   "ar_summary": "تكشف OpenAI عن Pando، وهو خلفية متوافقة مع Git صُمّمت لحجم التطوير الذي يتيحه Codex.",
+   "ar_summary": "تشرح OpenAI كيف بنت Pando، واجهة خلفية متوافقة مع Git مصممة لحجم التطوير الذي يتيحه Codex.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "19244c7aa206",
@@ -1154,11 +1166,12 @@
    "published": "2026-11-02T15:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "إطلاق برنامج Grid Protectors",
-   "ar_summary": "سيعمل البرنامج مع شركات المرافق لجعل مجمّعات الحوسبة المستقبلية تدعم موثوقية الشبكة الكهربائية وتحمي المستهلكين من ارتفاع التكاليف.",
+   "ar_title": "OpenAI تطلق برنامج «حماة الشبكة»",
+   "ar_summary": "سيعمل برنامج Grid Protectors مع شركات المرافق لدعم موثوقية شبكة الكهرباء في مراكز الحوسبة المستقبلية وحماية تكاليف الكهرباء على المستهلكين.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "4338b997783e",
@@ -1206,13 +1219,14 @@
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/5mo6tyh5yio-sfx-v1.webp",
    "published": "2026-11-02T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "ar_title": "تقديم SFX v3 للمطورين",
-   "ar_summary": "نموذج المؤثرات الصوتية الجديد من ElevenLabs يحسن الأوامر متعددة الأجزاء والأصوات ويمكن التبديل إليه بتغيير model_id.",
+   "importance": 0,
+   "ar_title": "تقديم SFX v3 للمطورين من ElevenLabs",
+   "ar_summary": "أطلقت ElevenLabs نموذج المؤثرات الصوتية SFX v3 في واجهتها البرمجية، ويتبع التعليمات المتعددة بدقة أكبر ويتعامل أفضل مع الأصوات والموسيقى.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "8e4474f09341",
@@ -1243,11 +1257,12 @@
    "published": "2026-11-02T09:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "LifeVal",
-   "ar_summary": "معيار جديد يقيس قدرة الذكاء الاصطناعي على مساعدة الناس في مهام الحياة اليومية مثل البحث عن رعاية الأطفال وإدارة الأموال والأوراق الحكومية.",
+   "ar_title": "LifeVal: معيار لقياس مساعدة الذكاء الاصطناعي في مهام الحياة اليومية",
+   "ar_summary": "قدّمت OpenAI معيار LifeVal لقياس قدرة الذكاء الاصطناعي على مساعدة الناس في مهام يومية مثل إيجاد رعاية الأطفال وإدارة المال والأوراق الحكومية.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "ff138f709a7e",
@@ -1259,12 +1274,13 @@
    "image": null,
    "published": "2026-11-02T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "ar_title": "OpenAI تعيّن Dan Driscoll مستشاراً أول لتحديث الأمن القومي",
-   "ar_summary": "سيقدّم المستشار الجديد المشورة حول الذكاء الاصطناعي المسؤول للأمن القومي والمرونة السيبرانية والتعاون مع حلفاء الولايات المتحدة.",
+   "importance": 0,
+   "ar_title": "OpenAI تعيّن دان دريسكول مستشارًا أول لتحديث الأمن القومي",
+   "ar_summary": "عيّنت OpenAI دان دريسكول لتقديم المشورة بشأن الذكاء الاصطناعي المسؤول في تحديث الأمن القومي والمرونة السيبرانية والتعاون مع حلفاء أمريكا.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "598c6194c0d3",
@@ -1379,10 +1395,11 @@
    "published": "2026-10-30T14:18:30Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "تسريع قرارات التخطيط بالذكاء الاصطناعي",
-   "ar_summary": "تتعاون Google DeepMind مع الحكومة البريطانية لتقليص أوقات تقييم طلبات التخطيط العمراني.",
+   "ar_title": "تسريع قرارات التخطيط العمراني بالذكاء الاصطناعي",
+   "ar_summary": "تتعاون Google DeepMind مع الحكومة البريطانية لتقليص أوقات تقييم طلبات التخطيط.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "bac9edc458a4",
@@ -1431,11 +1448,12 @@
    "published": "2026-10-30T09:30:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "تسهيل تعبير المواقع عن تفضيلاتها لتدريب الذكاء الاصطناعي",
-   "ar_summary": "ستحترم OpenAI إشارة robots.txt مشتركة تتيح لمشغلي المواقع إبلاغ مزودي الذكاء الاصطناعي المشاركين بتفضيلاتهم بشأن التدريب.",
+   "ar_title": "تسهيل تعبير المواقع عن تفضيلاتها بشأن تدريب الذكاء الاصطناعي",
+   "ar_summary": "ستحترم OpenAI إشارة مشتركة في ملف robots.txt تتيح لأصحاب المواقع إبلاغ مزوّدي الذكاء الاصطناعي المشاركين بتفضيلاتهم حول التدريب.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "c7606af40dbb",
@@ -1448,11 +1466,12 @@
    "published": "2026-10-30T09:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "تقرير سلامة المجتمع وحمايات جديدة للمراهقين",
-   "ar_summary": "تعزز OpenAI الوقاية من العنف في ChatGPT بضمانات موسعة وتدخلات أبكر والتزام جديد بتقارير السلامة العامة.",
+   "ar_title": "تقرير السلامة المجتمعية وحمايات جديدة للمراهقين",
+   "ar_summary": "تعزّز OpenAI منع العنف في ChatGPT بضمانات موسعة وتدخلات مبكرة والتزام جديد بإصدار تقارير السلامة العامة.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "d2282bcce162",
@@ -1517,11 +1536,12 @@
    "published": "2026-10-29T17:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "تحديث Model Spec لذكاء اصطناعي أكثر قدرة ونفعاً",
-   "ar_summary": "تعرض OpenAI خمس قيم أساسية في Model Spec المحدّث لتوجيه النماذج نحو الحكم السليم واحترام إرادة الإنسان وأمانة النوايا.",
+   "ar_title": "Model Spec محدَّث لذكاء اصطناعي أكثر قدرة ونفعًا",
+   "ar_summary": "حدّثت OpenAI وثيقة Model Spec لتحدد خمس قيم أساسية توجّه النماذج نحو حكم سليم واحترام الاستقلالية البشرية والالتزام بنوايا الإنسان.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "3898a3075801",
@@ -1569,11 +1589,12 @@
    "published": "2026-10-29T16:15:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "إنشاء المستندات وتعديلها ومعاينتها مباشرة داخل Gemini",
-   "ar_summary": "يتيح Gemini الآن إنشاء ملفات PDF والمستندات والعروض والجداول ومعاينتها وتحريرها عبر محرر بملء الشاشة.",
+   "ar_title": "إنشاء المستندات وتعديلها مباشرة داخل Gemini",
+   "ar_summary": "صار بإمكان مستخدمي Gemini إنشاء ومعاينة وتعديل المستندات وPDF والعروض والجداول والأكواد داخل المحادثة بمحرر بملء الشاشة.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "baf7193e75c1",
@@ -1586,11 +1607,12 @@
    "published": "2026-10-29T16:00:35Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "كيف يحوّل المطورون أفكارهم إلى محاكاة بوكلاء ذكاء اصطناعي متقدمين",
-   "ar_summary": "يجمع المطورون نماذج متقدمة مع مكتبات NVIDIA Omniverse لبناء تطبيقات محاكاة لاستكشاف السيناريوهات وتحسين التصاميم.",
+   "ar_title": "مطورون يحوّلون الأفكار إلى محاكاة بوكلاء ذكاء اصطناعي متقدمين مع Omniverse",
+   "ar_summary": "يستخدم المطورون نماذج متقدمة مثل GPT-6 Astra مع مكتبات NVIDIA Omniverse لبناء تطبيقات محاكاة بتعليمات بلغة طبيعية.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "12f53f82bf25",
@@ -1602,13 +1624,14 @@
    "image": "https://cdn.sanity.io/images/cl7b1q1i/production/fc8af4d734f5a625daf3e957d7cdee3f1b2aa3fc-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
    "published": "2026-10-29T16:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "ar_title": "تعرف على Chat: مساعد الاستوديو من Suno",
-   "ar_summary": "مساعد مدمج في استوديو Suno يسهّل الجلسات ويقدم أفكارًا إبداعية.",
+   "importance": 0,
+   "ar_title": "تعرّف على Chat: مساعد Suno Studio المدمج",
+   "ar_summary": "يقدم Suno Studio مساعدًا مدمجًا اسمه Chat ينجز مهام مثل إعادة تسمية المسارات وضبط المستويات وتقديم ملاحظات على المشروع.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "f3538b6fb36f",
@@ -1620,13 +1643,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png",
    "published": "2026-10-29T13:37:07Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
+   "importance": 0,
    "ar_title": "Granite Switch 4.1.1: حدّث النماذج كما تحدّث البرمجيات",
-   "ar_summary": "إصدار جديد من IBM Granite يتيح تحديث النماذج بأسلوب تحديث البرمجيات.",
+   "ar_summary": "أصدرت IBM تحديثًا تصحيحيًا متوافقًا مع 4.1 يضم نموذج Granite Speech محدَّثًا لـ10 لغات ومحوّل Decision محسّنًا.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "f52687297c33",
@@ -1692,12 +1716,13 @@
    "published": "2026-10-29T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
-   "ar_title": "تقديم SFX v3 في ElevenCreative وElevenAPI",
-   "ar_summary": "إصدار جديد بأوامر متعددة الأصوات أكثر موثوقية وموسيقى وأصوات غنائية أكثر إقناعًا وصوت أنقى.",
+   "ar_title": "SFX v3 في ElevenCreative وElevenAPI",
+   "ar_summary": "أطلقت ElevenLabs نموذج المؤثرات الصوتية SFX v3 بدقة أعلى مع الأوامر المتعددة وموسيقى وأصوات أكثر إقناعًا وجودة أنظف.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "3b9dd560f229",
@@ -1727,11 +1752,12 @@
    "published": "2026-10-29T09:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "كيف نكتشف انحراف النماذج المتقدمة",
-   "ar_summary": "تستخدم OpenAI مراقبة متعددة الطبقات لرصد انحراف النماذج وسلوك الوكلاء غير المصرح به للتدخل قبل تفاقم الحوادث.",
+   "ar_title": "كيف نكشف انحراف النماذج المتقدمة",
+   "ar_summary": "تستخدم OpenAI مراقبة متعددة الطبقات لكشف انحراف النماذج المتقدمة وسلوك الوكلاء غير المصرّح به قبل تفاقم الحوادث.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "2d9928289658",
@@ -1778,12 +1804,13 @@
    "published": "2026-10-29T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "الإعلان عن مشروع ProtoStar لجعل العلوم الممولة حكوميًا جاهزة للذكاء الاصطناعي",
-   "ar_summary": "مبادرة من Hugging Face لتهيئة البيانات العلمية الممولة من القطاع العام لاستخدامها في الذكاء الاصطناعي.",
+   "ar_title": "مشروع ProtoStar: جعل العلوم الممولة حكوميًا جاهزة للذكاء الاصطناعي",
+   "ar_summary": "أطلقت Hugging Face مع جامعات ومؤسسات مبادرة ProtoStar لإتاحة البيانات والنماذج والأكواد العلمية بصيغ جاهزة للذكاء الاصطناعي.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "a1765f446c5b",
@@ -1816,11 +1843,12 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
    "ar_title": "AnySpeechRecognizer وAnyDecisionModel: نماذج مفتوحة للكلام والقرارات على منصات Apple",
-   "ar_summary": "نموذجان مفتوحان للتعرف على الكلام واتخاذ القرارات يعملان على أجهزة Apple.",
+   "ar_summary": "قدمت Hugging Face حزمتي Swift تتيحان اختيار محرك التعرف على الكلام ونماذج القرار وتشغيلها محليًا على أجهزة Apple.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "e59c1ac4a994",
@@ -1833,11 +1861,12 @@
    "published": "2026-10-28T23:45:26Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "رصيد API ضمن خطط ChatGPT Pro وBusiness",
-   "ar_summary": "يمكن للمشتركين المؤهلين الحصول على حتى 500 دولار شهريًا من رصيد API لبناء التطبيقات والوكلاء، بحسب الخطة.",
+   "ar_title": "رصيد API ضمن اشتراكات ChatGPT Pro وBusiness",
+   "ar_summary": "يستطيع مشتركو ChatGPT Pro وBusiness المؤهلون المطالبة برصيد API حتى 500 دولار شهريًا لبناء التطبيقات والوكلاء.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "cdfba1037a44",
@@ -1850,12 +1879,13 @@
    "published": "2026-10-28T23:15:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "Microsoft: إيرادات السحابة تتجاوز 63 مليار دولار بنمو 30%",
-   "ar_summary": "أعلنت Microsoft بداية قوية لسنتها المالية مع تسارع نمو السحابة إلى 30% سنويًا وتركيز على عصر الوكلاء.",
+   "ar_title": "ناديلا: إيرادات Microsoft Cloud تتجاوز 63 مليار دولار بنمو 30%",
+   "ar_summary": "أعلن ساتيا ناديلا بعد مكالمة الأرباح أن إيرادات Microsoft Cloud تجاوزت 63 مليار دولار بنمو 30%، مع أكبر تحديث لـCopilot حتى الآن.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "efb7fea1c4e3",
@@ -1903,12 +1933,13 @@
    "published": "2026-10-28T18:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
-   "ar_title": "Microsoft: إعادة تعريف دورة تطوير البرمجيات لعصر الوكلاء",
-   "ar_summary": "تحديثات كثيرة من GitHub في مؤتمر Universe تستهدف دورة حياة تطوير البرمجيات.",
+   "ar_title": "ناديلا: إعادة تعريف دورة تطوير البرمجيات في عصر الوكلاء مع GitHub",
+   "ar_summary": "أعلنت GitHub في Universe تحديثات منها Copilot Fusion بتكلفة أقل حتى 77% وCopilot Projects لتنسيق وكلاء متعددين.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "b0da25ea6c1a",
