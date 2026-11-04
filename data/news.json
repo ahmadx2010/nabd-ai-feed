@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T20:27:15Z",
+ "updated": "2026-11-04T21:12:26Z",
  "categories": [
   {
    "key": "big",
@@ -1751,8 +1751,8 @@
    "published": "2026-10-29T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
-   "ar_title": "ما هو تبادل الأدوار في الذكاء الاصطناعي الحواري؟",
-   "ar_summary": "دليل من ElevenLabs يشرح كيف يقرر وكيل الصوت متى يتكلم أو يصمت أو يستمع.",
+   "ar_title": "ما هو تبادل الأدوار في الذكاء الاصطناعي الحواري؟ دليل للتدفق الطبيعي",
+   "ar_summary": "تشرح ElevenLabs كيف يقرر وكيل الصوت متى يتكلم ومتى يصمت ومتى يستمع، وكيف تُعالج المقاطعة وتُقاس جودة الحوار وتُضبط.",
    "ai": true,
    "detail": true,
    "fetched": true,
@@ -1770,12 +1770,13 @@
    "published": "2026-10-29T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
-   "ar_title": "كيف وفّرنا 1200 ساعة شهريًا بوكلاء ElevenAgents",
-   "ar_summary": "تعرض ElevenLabs استخدام وكلائها داخليًا في المبيعات والمنتج والدعم والهندسة.",
+   "ar_title": "كيف توفر ElevenLabs 1200 ساعة شهريًا باستخدام وكلاء ElevenAgents داخليًا",
+   "ar_summary": "تقول ElevenLabs إن وكلاءها الداخليين يوفرون أكثر من 1200 ساعة شهريًا ويجيبون عن أكثر من 5000 سؤال ويفتحون عشرات التذاكر.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "19616655e2da",
@@ -1808,10 +1809,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "ar_title": "كيف تستخدم Gemini لتحديث سيرتك الذاتية",
-   "ar_summary": "أربع خطوات لتحويل الملاحظات إلى نقاط سيرة ذاتية مؤثرة ومتوافقة مع أنظمة ATS.",
+   "ar_summary": "دليل من أربع خطوات لتحويل ملاحظاتك الخام إلى نقاط سيرة ذاتية مؤثرة ومتوافقة مع أنظمة ATS باستخدام Gemini.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "d28967fce9c6",
@@ -1843,10 +1845,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "ar_title": "Ropes & Gray تطور الذكاء الاصطناعي للعناية الواجبة في الصفقات",
-   "ar_summary": "تعمل الشركة القانونية مع OpenAI، ويراجع المحامون المستندات والملخصات قبل تقديم المشورة.",
+   "ar_summary": "تطور شركة Ropes & Gray بالتعاون مع OpenAI أدوات ذكاء اصطناعي لمراجعة المستندات المجمعة والملخصات والتقارير قبل أن يقدم المحامون استشاراتهم.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "6750c2461412",
@@ -1859,11 +1862,12 @@
    "published": "2026-10-29T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
-   "ar_title": "Credit Saison تحقق عائد 954% في تجربة ChatGPT Enterprise",
-   "ar_summary": "أظهرت التجربة عائدًا كبيرًا على الاستثمار وأدت إلى اعتماد واسع داخل الشركة.",
+   "ar_title": "Credit Saison تحقق عائدًا بنسبة 954% في تجربة ChatGPT Enterprise",
+   "ar_summary": "حققت تجربة Credit Saison مع ChatGPT Enterprise عائدًا على الاستثمار بلغ 954%، وساعدت القيادات والموظفون على تعميم الاستخدام في الشركة.",
    "ai": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "e1c742c1d925",
@@ -1970,12 +1974,13 @@
    "published": "2026-10-28T21:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
-   "ar_title": "NVIDIA تحدد موعد مكالمة نتائج الربع الثالث",
-   "ar_summary": "ستعقد المكالمة في 17 نوفمبر لمناقشة نتائج الربع الثالث من السنة المالية 2027.",
+   "ar_title": "NVIDIA تحدد موعد مكالمة نتائج الربع الثالث المالي",
+   "ar_summary": "ستعقد NVIDIA مكالمة لمناقشة نتائج الربع الثالث من السنة المالية 2027 يوم الثلاثاء 17 نوفمبر الساعة 2 ظهرًا بتوقيت المحيط الهادئ.",
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true
   },
   {
    "id": "86bb7da2652f",
@@ -1987,12 +1992,13 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/immersiveView_quasars_16x9_01_2.max-600x600.format-webp.webp",
    "published": "2026-10-28T18:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "ar_title": "استكشافات غامرة في مركز الطلاب الجديد بتطبيق Gemini",
-   "ar_summary": "تطرح Google ميزة الاستكشافات الغامرة ضمن مركز الطلاب في Gemini.",
+   "importance": 1,
+   "ar_title": "استكشافات غامرة في تطبيق Gemini ضمن مركز الطلاب",
+   "ar_summary": "تطلق Google مكتبة استكشافات غامرة تفاعلية في مركز الطلاب الجديد بتطبيق Gemini لاستكشاف المواضيع طبقة بعد طبقة.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true
   },
   {
    "id": "785ea5df4937",
@@ -2614,10 +2620,10 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ExamplesofArgon_Hero.max-600x600.format-webp.webp",
    "published": "2026-10-27T15:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "ar_detail": true,
    "ar_title": "8 أمثلة على Gemini 4 Argon أثناء العمل",
-   "ar_summary": "تعرض Google ثمانية أمثلة عملية لاستخدامات نموذج Gemini 4 Argon.",
+   "ar_summary": "تعرض Google ثمانية أمثلة لقدرات نموذج Gemini 4 Argon في البحث العميق والتصميم ثلاثي الأبعاد والألعاب وتحليل البيانات الضخمة.",
    "ai": true,
    "detail": true,
    "fetched": true
@@ -2779,10 +2785,10 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5buildersArgon_Hero.max-600x600.format-webp.webp",
    "published": "2026-10-23T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "ar_detail": true,
    "ar_title": "ماذا يبني 5 مطورين باستخدام Gemini 4 Argon",
-   "ar_summary": "تستعرض Google مشاريع بناها خمسة مطورين باستخدام Gemini 4 Argon.",
+   "ar_summary": "تعرض Google خمسة مشاريع من المجتمع بُنيت بنموذج Gemini 4 Argon، منها كرة أرضية تفاعلية تعرض الموجات الزلزالية ولعبة متعددة اللاعبين.",
    "ai": true,
    "detail": true,
    "fetched": true
@@ -3260,7 +3266,7 @@
    "fetched": true,
    "ar_detail": true,
    "ar_title": "كيف تكمل جلسة تطبيق GitHub Copilot داخل VS Code",
-   "ar_summary": "شرح لنقل جلسة الوكيل من تطبيق Copilot إلى VS Code مع الحفاظ على المحادثة والتغييرات.",
+   "ar_summary": "شرح لنقل جلسة وكيل من تطبيق GitHub Copilot إلى VS Code دون فقدان المحادثة أو التغييرات أو سياق العمل.",
    "ai": true,
    "img_tried": true
   },
@@ -3697,10 +3703,10 @@
    "image": "https://cdn.sanity.io/images/bj34pdbp/migration/9b07abf4052e0699a2bbc0bb80da5c2eba7fea57-1920x1080.png",
    "published": "2026-10-13T17:25:04Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "ar_detail": true,
-   "ar_title": "Replit تعلن عن شركاء الحلول",
-   "ar_summary": "تقدّم Replit برنامج شركاء الحلول لمساعدة المؤسسات على توظيف الذكاء الاصطناعي في بناء البرمجيات داخل مختلف الفرق.",
+   "ar_title": "Replit تعلن برنامج شركاء الحلول",
+   "ar_summary": "تطلق Replit برنامج Solutions Partner لدعم شركات التكامل والاستشارات والوكالات في نشر Replit داخل المؤسسات.",
    "ai": true,
    "detail": true,
    "fetched": true
@@ -3992,12 +3998,12 @@
    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
    "published": "2026-10-12T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
    "ar_detail": true,
-   "ar_title": "Minions: سحابة GPU موزعة من أجهزة Apple Silicon الخاملة",
-   "ar_summary": "ورقة من Apple تقدم Minions، نظاماً يجمع معالجات الرسوميات الخاملة في أجهزة macOS لتنفيذ استدلال تعلم الآلة.",
+   "ar_title": "Minions: سحابة GPU افتراضية موزعة على أجهزة Apple Silicon الخاملة",
+   "ar_summary": "ورقة بحثية من Apple تقدم Minions، نظامًا يجمع معالجات الرسوميات الخاملة في أجهزة macOS لتنفيذ استدلال تعلم الآلة.",
    "ai": true,
    "img_tried": true
   },
@@ -4253,10 +4259,10 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
    "published": "2026-10-02T15:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "ar_detail": true,
-   "ar_title": "أحدث أخبار Google للذكاء الاصطناعي في سبتمبر 2026",
-   "ar_summary": "ملخص لأبرز إعلانات Google في الذكاء الاصطناعي خلال سبتمبر 2026.",
+   "ar_title": "أبرز أخبار Google للذكاء الاصطناعي في سبتمبر 2026",
+   "ar_summary": "ملخص شهري يضم Gemini 4 Argon وتطبيقات متصلة في Gemini وWeatherNext 3 وGemini لنظام Windows وGooglebook.",
    "ai": true,
    "detail": true,
    "fetched": true
