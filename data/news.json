@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T22:24:07Z",
+ "updated": "2026-11-04T22:33:15Z",
  "categories": [
   {
    "key": "big",
@@ -588,6 +588,20 @@
    "ar_title": "تسعير وكلاء الصوت بالذكاء الاصطناعي: كم يكلّف عملك؟",
    "ar_summary": "دليل من ElevenLabs يشرح مكوّنات تكلفة وكلاء الصوت (المنصة والنموذج اللغوي والاتصالات) مع أسعار ElevenAgents وطريقة حساب العائد مقارنة بتكلفة الموظفين.",
    "ai": true
+  },
+  {
+   "id": "a4f4c423c542",
+   "company": "openai",
+   "kind": "blog",
+   "title": "A thousand fewer paths to root",
+   "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "image": null,
+   "published": "2026-11-04T08:00:00Z",
+   "found": "2026-11-04T22:33:15Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "75679f5aa60b",
