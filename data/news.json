@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T16:54:30Z",
+ "updated": "2026-11-04T17:23:57Z",
  "categories": [
   {
    "key": "big",
@@ -395,9 +395,13 @@
    "image": null,
    "published": "2026-11-04T16:45:00Z",
    "found": "2026-11-04T16:54:30Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Suno تتيح بدء الأغنية من ملف MIDI",
+   "ar_summary": "أضافت Suno إمكانية بدء إنشاء أغنية من ملف MIDI عبر سحبه وإفلاته في صفحة Create. يمنح ذلك المستخدم نقطة انطلاق أدق من النص أو الصوت.",
+   "ai": true
   },
   {
    "id": "a655af3d86e9",
@@ -462,9 +466,13 @@
    "image": null,
    "published": "2026-11-04T12:00:00Z",
    "found": "2026-11-04T16:54:30Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "ElevenAgents يتكامل مع منصات مراكز الاتصال الكبرى",
+   "ar_summary": "أعلنت ElevenLabs تكاملاً أصلياً لـ ElevenAgents مع NiCE وGenesys Cloud وAmazon Connect وFive9، ودعم أي منصة أخرى عبر SIP. يتيح ذلك للشركات إضافة وكلاء صوتيين دون تغيير بنيتها الحالية.",
+   "ai": true
   },
   {
    "id": "75679f5aa60b",
@@ -3788,9 +3796,13 @@
    "image": null,
    "published": "2026-10-07T17:45:34Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "حماية الأسرار يجب أن تواكب نمو البرمجيات",
+   "ar_summary": "يعرض GitHub بيانات تسعة أرباع سنوية تظهر أن المطورين ليسوا أكثر إهمالاً بل تجاوزهم حجم العمل، ويقدم مصنفاً جديداً مع Microsoft لتوسيع حماية الدفع إلى الأسرار غير المنظمة.",
+   "ai": true
   },
   {
    "id": "22643d6fcb19",
@@ -3820,9 +3832,13 @@
    "image": null,
    "published": "2026-10-06T19:57:04Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 2,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "EmbeddingGemma 2: نموذج تضمين متعدد الوسائط مفتوح وخفيف",
+   "ar_summary": "أطلقت Google DeepMind نموذج EmbeddingGemma 2 بحجم 740 مليون معامل، يدمج النص والصور والصوت والفيديو والشيفرة في فضاء تضمين واحد، ويعمل على الأجهزة بترخيص Apache 2.0.",
+   "ai": true
   },
   {
    "id": "608f20beda26",
@@ -3834,9 +3850,13 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp",
    "published": "2026-10-06T16:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "منتجو الموسيقى يبنون أدواتهم الخاصة بالبرمجة بالحدس عبر Google Flow Music",
+   "ar_summary": "تتيح ميزة Spaces في Google Flow Music للمبدعين بناء آلات وتأثيرات مخصصة بلغة طبيعية، ويمكن الآن تصديرها كإضافات VST3/AU إلى برامج الإنتاج الصوتي.",
+   "ai": true
   },
   {
    "id": "0ec0c3cc2f3e",
@@ -3848,9 +3868,13 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
    "published": "2026-10-06T15:05:11Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "نماذج Earth AI الجغرافية الأساسية في خدمة الصحة العامة العالمية",
+   "ar_summary": "تعرض Google Research خمس دراسات حالة مع شركاء تُظهر أن نموذج PDFM ضمن Earth AI يمكن دمجه في سير العمل الوبائي لسد فجوات البيانات وتأخر التقارير.",
+   "ai": true
   },
   {
    "id": "ecd4573e22e0",
@@ -3862,9 +3886,13 @@
    "image": null,
    "published": "2026-10-06T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Cursor تتيح التحكم عن بُعد بالوكلاء المحليين من iOS",
+   "ar_summary": "يمكن الآن رؤية الوكلاء العاملين على حاسوبك والرد عليهم من تطبيق Cursor على iOS. الميزة مفعّلة افتراضياً لغير مؤسسات Enterprise.",
+   "ai": true
   },
   {
    "id": "c3d66983a8dc",
@@ -3878,7 +3906,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "مشكلات مفتوحة في خصوصية وأمان الوكلاء الذكيين من منظور السياق",
+   "ar_summary": "نشرت Google Research تقرير ورشة عمل شارك فيها أكثر من 50 خبيراً يحدد اتجاهات بحثية لجعل وكلاء الذكاء الاصطناعي ملتزمين بالأعراف السلوكية السياقية.",
+   "ai": true
   },
   {
    "id": "c33acdf7bc8b",
@@ -3892,7 +3924,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "خمسة ألبومات لا تفوتها على Suno",
+   "ar_summary": "تستعرض Suno مجموعة من أوائل الألبومات المنشأة على منصتها بعد إطلاق ميزة Albums.",
+   "ai": true
   },
   {
    "id": "4b0c57f28723",
@@ -3942,7 +3978,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "الذكاء الاصطناعي يغيّر عمل المطورين: ثلاث مهارات تستحق التعزيز",
+   "ar_summary": "ينصح GitHub المطورين بتعلم توجيه وكلاء الذكاء الاصطناعي ومراجعة مخرجاتهم بنقد وإبقاء الحكم التقني في صلب عملهم.",
+   "ai": true
   },
   {
    "id": "b9b18411de99",
@@ -3954,9 +3994,13 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
    "published": "2026-10-02T14:57:41Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "نحو تعلّم خاص يمكن إثباته من البيانات الموزعة",
+   "ar_summary": "أعلنت Google الجيل الجديد من نظام التعلم الاتحادي المعتمد على بيئات التنفيذ الموثوقة، ويوفر ضمانات خصوصية قابلة للتحقق خارجياً مع تحسين السرعة والدقة.",
+   "ai": true
   },
   {
    "id": "2b4cb4b013a5",
@@ -4006,7 +4050,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "من التزييف العميق إلى الحمض النووي: علم وضع العلامات المائية للذكاء الاصطناعي",
+   "ar_summary": "حلقة مع Hannah Fry وPushmeet Kohli وJeremy Ratcliffe تشرح SynthID وتوسعها من النص والصور والفيديو إلى علم الأحياء.",
+   "ai": true
   },
   {
    "id": "853d99b4e783",
@@ -4020,7 +4068,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "ذكاء وكيلي قائم على الرسوم البيانية لتحديد أعطال الشبكات",
+   "ar_summary": "تشرح Amazon Science كيف يؤدي دمج الرسم البياني للشبكة مع وكلاء الذكاء الاصطناعي إلى «توأم رقمي» يحدد الأسباب الجذرية للأعطال خلال دقائق.",
+   "ai": true
   },
   {
    "id": "15e70ee5e4a7",
@@ -4069,7 +4121,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "ثلاث نصائح لا غنى عنها لاستخدام EQ في Suno Studio",
+   "ar_summary": "درس تعليمي من Suno عن المعادِل الصوتي (EQ) وأساسياته ضمن Suno Studio.",
+   "ai": true
   },
   {
    "id": "105e76d8cdee",
@@ -4081,9 +4137,13 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
    "published": "2026-09-29T18:38:27Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Diffusion Controller يوحّد ويبسّط توليد الصور بالذكاء الاصطناعي",
+   "ar_summary": "قدمت Google Research إطار Diffusion Controller، وهو شبكة خفيفة توجّه توليد الصور لتحسين التوافق مع الوصف النصي، ويمكن ربطها حتى بنماذج مغلقة.",
+   "ai": true
   },
   {
    "id": "1eadd5627184",
@@ -4097,7 +4157,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "الفيلم الفائز بجائزة Future Vision XPRIZE: «The Gifted»",
+   "ar_summary": "أُعلن المخرج المستقل Jeff Synthesized فائزاً بالجائزة الكبرى عن فيلم The Gifted من بين أكثر من 2,500 مشاركة.",
+   "ai": true
   },
   {
    "id": "dc939076f65e",
@@ -4129,7 +4193,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "تطبيق GitHub Copilot للمبتدئين: بناء سير عمل مخصص بالـ Canvases",
+   "ar_summary": "شرح لكيفية وصف الواجهة المطلوبة بلغة عادية ليبني الوكيل سطحاً حياً يستخدمه الطرفان ويحدّثانه معاً.",
+   "ai": true
   },
   {
    "id": "4dfafaa726ef",
@@ -4143,7 +4211,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "مسار قائم على النوى لتوليد الفيديو الفوري على Trainium",
+   "ar_summary": "تعاون بين Reactor وAWS باستخدام Neuron Kernel Interface لمعالجة تحديات توليد الفيديو الفوري بالانتشار الانحداري الذاتي.",
+   "ai": true
   },
   {
    "id": "234391b377f9",
@@ -4157,7 +4229,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "حين تكون المحادثة واجهة خاطئة",
+   "ar_summary": "مقال من GitHub يرى أن المحادثة ليست دائماً أفضل واجهة للذكاء الاصطناعي، ويقدم canvases في تطبيق Copilot بديلاً.",
+   "ai": true
   },
   {
    "id": "da79314d1ca0",
@@ -4169,9 +4245,13 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
    "published": "2026-09-24T19:40:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "أتمتة توليد الفيديو الطويل المتسق",
+   "ar_summary": "قدمت Google Research إطاراً متعدد الوكلاء يولّد سرداً مرئياً طويلاً متسقاً زمنياً فوق Gemini وVeo.",
+   "ai": true
   },
   {
    "id": "87c949c5277f",
@@ -4183,9 +4263,13 @@
    "image": null,
    "published": "2026-09-24T19:36:40Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Midjourney: تحديثات التحرير ومعاينات الأنماط",
+   "ar_summary": "حسّنت Midjourney الرسم الداخلي والخارجي بنموذج التحرير، وأضافت معاينات حية للأنماط وتحسيناً لـ --tile.",
+   "ai": true
   },
   {
    "id": "5d810621a5e7",
@@ -4197,9 +4281,13 @@
    "image": null,
    "published": "2026-09-24T18:26:12Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "اختبار Fuzzing مدعوم بالذكاء الاصطناعي عبر وكيل Taskflow من GitHub Security Lab",
+   "ar_summary": "قدم GitHub Security Lab مسار عمل مستقلاً لاختبار Fuzzing على مشاريع C/C++ يكتب الأدوات ويشغل AFL++ ويحلل الأعطال.",
+   "ai": true
   },
   {
    "id": "e7107d9a76d9",
@@ -4231,7 +4319,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "سجل تغييرات Midjourney Alpha بتاريخ 23 سبتمبر",
+   "ar_summary": "دفعة تغييرات على alpha.midjourney.com تشمل معاينات الأنماط وإعدادات افتراضية ومظهراً جديداً للخلاصة.",
+   "ai": true
   },
   {
    "id": "cb4e42d4d067",
@@ -4243,9 +4335,13 @@
    "image": "https://i1.ytimg.com/vi/DdCEmlAydcw/hqdefault.jpg",
    "published": "2026-09-23T18:01:32Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "داخل مختبر البيولوجيا الجزيئية في Anthropic",
+   "ar_summary": "تعرض Anthropic مجموعة بحثية ومختبراً جديدين لاختبار قدرة Claude على مساعدة العلماء في اكتشاف بروتينات غير معتادة، وقد اكتشف Claude نظام إنزيم جديداً.",
+   "ai": true
   },
   {
    "id": "8a86c97089bb",
@@ -4257,9 +4353,13 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp",
    "published": "2026-09-23T18:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Google Beam تتوسع بمناطق وشركاء وعملاء جدد",
+   "ar_summary": "تتوسع Google Beam إلى ست دول بدعم 18 شريكاً وأجهزة جديدة من HP، مع إتاحة التجربة في مواقع Industrious اعتباراً من أكتوبر.",
+   "ai": true
   },
   {
    "id": "4c4abcff4acd",
