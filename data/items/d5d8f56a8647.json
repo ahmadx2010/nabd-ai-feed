@@ -1,3 +1,4 @@
 {
- "ar_body": "في اختبارات مع باحثي Wiz وجد Gemini 4 Argon ضعف عدد الثغرات مقارنة بالنماذج الأساسية."
+ "ar_body": "في اختبارات مع باحثي Wiz وجد Gemini 4 Argon ضعف عدد الثغرات مقارنة بالنماذج الأساسية.",
+ "body": "In shadow A/B testing on real-world systems, Wiz security researchers put Gemini 4 Argon to the test against complex cyber threats. Using its advanced reasoning and long-horizon capabilities, Gemini 4 Argon found over two times more vulnerabilities than baseline models and successfully uncovered critical risks—such as identifying a file download bypass and master key in healthcare software. By handling tireless, multi-step threat analysis and remediation, Gemini 4 gives defenders the crucial advantage needed to outpace attackers and protect sensitive data faster than ever before. Learn more about Gemini 4 Argon: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/ ___ Subscribe to our channel https://www.youtube.com/@googledeepmind Find us on X https://x.com/GoogleDeepMind Follow us on Instagram https://instagram.com/googledeepmind Add us on Linkedin https://www.linkedin.com/company/deepmind/"
 }

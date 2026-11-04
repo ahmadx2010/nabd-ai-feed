@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:32:54Z",
+ "updated": "2026-11-04T13:33:15Z",
  "categories": [
   {
    "key": "big",
@@ -2872,7 +2872,9 @@
    "image": null,
    "published": "2026-10-14T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "e612dc941250",
@@ -2884,7 +2886,9 @@
    "image": null,
    "published": "2026-10-14T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "471508c04c30",
@@ -2900,7 +2904,9 @@
    "ar_detail": true,
    "ar_title": "تطوير Gemini 4 Argon بمسؤولية وأمان",
    "ar_summary": "تشرح Google DeepMind نهجها في السلامة والأمان عند تطوير Gemini 4 Argon.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "ed2bad3e4df7",
@@ -2912,7 +2918,9 @@
    "image": null,
    "published": "2026-10-13T19:01:53Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "3e78d0d4c307",
@@ -2928,7 +2936,9 @@
    "ar_detail": true,
    "ar_title": "تطوير Gemini 4 Argon بمسؤولية وأمان",
    "ar_summary": "تشرح Google نهجها في السلامة والأمان عند تطوير Gemini 4 Argon.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "22c6ef693aee",
@@ -2940,7 +2950,9 @@
    "image": null,
    "published": "2026-10-13T17:56:33Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "d057f04d0b3c",
@@ -2956,7 +2968,9 @@
    "ar_detail": true,
    "ar_title": "Replit تعلن عن شركاء الحلول",
    "ar_summary": "تقدّم Replit برنامج شركاء الحلول لمساعدة المؤسسات على توظيف الذكاء الاصطناعي في بناء البرمجيات داخل مختلف الفرق.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "e1fac0b9234f",
@@ -2972,7 +2986,9 @@
    "ar_detail": true,
    "ar_title": "استخدام Gemini 4 في صيانة شيفرة Chromium واسعة النطاق",
    "ar_summary": "يعمل مهندس في Google مع Gemini 4 Argon لفك تعقيد بنية Chromium عبر وكلاء يعيدون الهيكلة بشكل مستقل.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "d5d8f56a8647",
@@ -2988,7 +3004,9 @@
    "ar_detail": true,
    "ar_title": "Gemini 4 Argon في الحماية من الهجمات السيبرانية",
    "ar_summary": "في اختبارات مع باحثي Wiz وجد Gemini 4 Argon ضعف عدد الثغرات مقارنة بالنماذج الأساسية.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "884ebf3c3978",
@@ -3004,7 +3022,9 @@
    "ar_detail": true,
    "ar_title": "Gemini 4 Argon للروبوتات",
    "ar_summary": "تعرض Google DeepMind قدرات Gemini 4 Argon في مجال الروبوتات.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "f174716114a9",
@@ -3020,7 +3040,9 @@
    "ar_detail": true,
    "ar_title": "Gemini 4 Argon: نموذج لحل أصعب مشكلاتك",
    "ar_summary": "تعلن Google DeepMind عن Gemini 4 Argon، نموذجها الجديد للاستدلال المتقدم والبرمجة الوكيلة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "687470cab9be",
@@ -3032,7 +3054,9 @@
    "image": "https://about.fb.com/wp-content/uploads/2026/10/Your-Algorithm_Your-Words_New-Ways-to-Shape-What-You-See-on-Facebook_Header.jpg?fit=1920%2C1080",
    "published": "2026-10-13T16:00:29Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "592d3ff77c96",
@@ -3048,7 +3072,9 @@
    "ar_detail": true,
    "ar_title": "Gemini 4 Argon يصل إلى تطبيق Gemini",
    "ar_summary": "أصبح Gemini 4 Argon متاحًا لمشتركي Google AI Pro وUltra في تطبيق Gemini، مع استدلال متقدم وبرمجة وكيلة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "c1e94fc83136",
@@ -3064,7 +3090,9 @@
    "ar_detail": true,
    "ar_title": "Gemini 4 Argon: نموذج لحل أصعب مشكلاتك",
    "ar_summary": "تعلن Google عن Gemini 4 Argon، نموذج جديد للاستدلال المتقدم والبرمجة الوكيلة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "ade12c07232f",
@@ -3080,7 +3108,9 @@
    "ar_detail": true,
    "ar_title": "تعليم روبوت بشري لعب كورنهول بواسطة Gemini 4 Argon",
    "ar_summary": "في اختبار داخلي شاهد Gemini 4 Argon فيديو للعبة، وبنى محاكاة ومكّن روبوت Apollo 2 من تسجيل سبع رميات متتالية.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "1d27ca953a63",
@@ -3096,7 +3126,9 @@
    "ar_detail": true,
    "ar_title": "تحليل براءات اختراع كيميائية من 500 صفحة بـ Gemini 4",
    "ar_summary": "يستخدم باحثو Isomorphic Labs قدرات Gemini 4 Argon متعددة الوسائط لاستخراج البيانات من براءات الاختراع الكيميائية.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "3c04da4c4ba3",
@@ -3108,7 +3140,9 @@
    "image": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/2026/10/oct-blog-header.jpg",
    "published": "2026-10-13T03:52:33Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "adadd90b83d7",
@@ -3120,7 +3154,9 @@
    "image": null,
    "published": "2026-10-13T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "b8b5f613d53f",
@@ -3132,7 +3168,9 @@
    "image": null,
    "published": "2026-10-13T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "d8d241723974",
@@ -3144,7 +3182,9 @@
    "image": null,
    "published": "2026-10-12T17:43:59Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "e05f5dfb850c",
@@ -3156,7 +3196,9 @@
    "image": null,
    "published": "2026-10-12T17:36:18Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "78d6d66a2b4f",
@@ -3168,7 +3210,9 @@
    "image": null,
    "published": "2026-10-12T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "438f8f82161f",
@@ -3180,7 +3224,9 @@
    "image": null,
    "published": "2026-10-12T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "770df069ccb5",
@@ -3192,7 +3238,9 @@
    "image": null,
    "published": "2026-10-12T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "6d143a9a16cf",
@@ -3204,7 +3252,9 @@
    "image": null,
    "published": "2026-10-08T21:17:13Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "a0c18c3e9abb",
@@ -3216,7 +3266,9 @@
    "image": null,
    "published": "2026-10-08T21:16:55Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "fc6c16485847",
@@ -3228,7 +3280,9 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
    "published": "2026-10-07T20:19:57Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "c13c9140efc7",
@@ -3240,7 +3294,9 @@
    "image": null,
    "published": "2026-10-07T17:45:34Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "22643d6fcb19",
@@ -3256,7 +3312,9 @@
    "ar_detail": true,
    "ar_title": "Playground: أنشئ ولعب ألعابًا مخصصة",
    "ar_summary": "تقدّم Google منصة Playground التجريبية لإنشاء الألعاب المخصصة واللعب بها.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "4dd290070848",
@@ -3268,7 +3326,9 @@
    "image": null,
    "published": "2026-10-06T19:57:04Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "608f20beda26",
@@ -3280,7 +3340,9 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp",
    "published": "2026-10-06T16:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "0ec0c3cc2f3e",
@@ -3292,7 +3354,9 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
    "published": "2026-10-06T15:05:11Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "ecd4573e22e0",
@@ -3304,7 +3368,9 @@
    "image": null,
    "published": "2026-10-06T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "c3d66983a8dc",
@@ -3316,7 +3382,9 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PrivacySecurity_ContextualAngle2-ModelOverview.png",
    "published": "2026-10-05T21:08:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "c33acdf7bc8b",
@@ -3328,7 +3396,9 @@
    "image": null,
    "published": "2026-10-05T18:53:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "4b0c57f28723",
@@ -3340,7 +3410,9 @@
    "image": null,
    "published": "2026-10-05T15:59:40Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "1122627a66df",
@@ -3356,7 +3428,9 @@
    "ar_detail": true,
    "ar_title": "أحدث أخبار Google للذكاء الاصطناعي في سبتمبر 2026",
    "ar_summary": "ملخص لأبرز إعلانات Google في الذكاء الاصطناعي خلال سبتمبر 2026.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "5afa66c19841",
@@ -3368,7 +3442,9 @@
    "image": null,
    "published": "2026-10-02T15:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "b9b18411de99",
@@ -3380,7 +3456,9 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
    "published": "2026-10-02T14:57:41Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "2b4cb4b013a5",
@@ -3392,7 +3470,9 @@
    "image": null,
    "published": "2026-10-02T00:57:01Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "9506769ef6ff",

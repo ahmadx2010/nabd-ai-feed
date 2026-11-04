@@ -1,3 +1,4 @@
 {
- "ar_body": "يستخدم باحثو Isomorphic Labs قدرات Gemini 4 Argon متعددة الوسائط لاستخراج البيانات من براءات الاختراع الكيميائية."
+ "ar_body": "يستخدم باحثو Isomorphic Labs قدرات Gemini 4 Argon متعددة الوسائط لاستخراج البيانات من براءات الاختراع الكيميائية.",
+ "body": "Auditing chemistry literature usually means weeks of manual, error-prone reading, where a molecule’s structure can sit 50 pages away from its experimental readout. At Isomorphic Labs, researchers Brian Bender and Santosh Adhikari are using Gemini 4 Argon’s multimodal capabilities to help tackle this early research bottleneck. The model synthesizes dense papers and extracts patent data into structured reports in an afternoon instead of a month, helping teams uncover connected insights faster. Learn more about Gemini 4 Argon: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/ ___ Subscribe to our channel https://www.youtube.com/@googledeepmind Find us on X https://x.com/GoogleDeepMind Follow us on Instagram https://instagram.com/googledeepmind Add us on Linkedin https://www.linkedin.com/company/deepmind/"
 }
