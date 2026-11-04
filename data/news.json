@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:17:16Z",
+ "updated": "2026-11-04T18:26:28Z",
  "categories": [
   {
    "key": "big",
@@ -1505,7 +1505,8 @@
    "ar_title": "تحديث Model Spec لذكاء اصطناعي أكثر قدرة ونفعاً",
    "ar_summary": "تعرض OpenAI خمس قيم أساسية في Model Spec المحدّث لتوجيه النماذج نحو الحكم السليم واحترام إرادة الإنسان وأمانة النوايا.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "3898a3075801",
@@ -1514,7 +1515,7 @@
    "title": "Speeding up language models for travel applications",
    "summary": "Two optimization techniques, when combined, can significantly improve a model’s speed and cost effectiveness without sacrificing quality.",
    "url": "https://www.amazon.science/blog/speeding-up-language-models-for-travel-applications",
-   "image": null,
+   "image": "https://cdn.amazon.science/dims4/default/f2f66a8/2147483647/strip/true/crop/6617x3474+0+124/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fa6%2F93%2F01de2f8d495eb2ee8f2b371a2a9e%2Fsmart-filters-16x9.png",
    "published": "2026-10-29T16:51:26Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -1522,7 +1523,8 @@
    "ar_summary": "تقنيتان للتحسين، عند دمجهما، ترفعان سرعة النموذج وكفاءة تكلفته دون التضحية بالجودة.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "a0c8bc8caa04",
@@ -1582,7 +1584,7 @@
    "title": "Meet Chat: Our In-house Studio Assistant",
    "summary": "Like a studio assistant, Chat can streamline your sessions, inspire ideas and more!",
    "url": "https://suno.com/blog/studio-chat-assistant",
-   "image": null,
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/fc8af4d734f5a625daf3e957d7cdee3f1b2aa3fc-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
    "published": "2026-10-29T16:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -1590,7 +1592,8 @@
    "ar_summary": "مساعد مدمج في استوديو Suno يسهّل الجلسات ويقدم أفكارًا إبداعية.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f3538b6fb36f",
@@ -1599,7 +1602,7 @@
    "title": "Granite Switch 4.1.1 — Update models like you update software",
    "summary": "",
    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-   "image": null,
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png",
    "published": "2026-10-29T13:37:07Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -1607,7 +1610,8 @@
    "ar_summary": "إصدار جديد من IBM Granite يتيح تحديث النماذج بأسلوب تحديث البرمجيات.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f52687297c33",
@@ -1641,7 +1645,8 @@
    "ar_summary": "دليل يشرح كيف يقرر وكيل الصوت متى يتكلم أو يصمت ويستمع وكيفية قياس ذلك.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "c0db2f78e6f9",
@@ -1650,7 +1655,7 @@
    "title": "How we use ElevenAgents to save 1,200 hours a month in daily operations",
    "summary": "How we use ElevenAgents to save 1,200 hours a month in daily operations across GTM, product, support, and engineering",
    "url": "https://elevenlabs.io/blog/internal-ops-agents",
-   "image": null,
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/namnay44d3-Internal-ops-agent-cover.webp",
    "published": "2026-10-29T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -1658,7 +1663,8 @@
    "ar_summary": "تعرض ElevenLabs استخدام وكلائها داخليًا في المبيعات والمنتج والدعم والهندسة.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "19616655e2da",
@@ -1667,7 +1673,7 @@
    "title": "Introducing SFX v3 in ElevenCreative and ElevenAPI",
    "summary": "SFX v3 is here: more reliable multi-sound prompts, more convincing music and vocals, and cleaner audio. Now in ElevenCreative and ElevenAPI.",
    "url": "https://elevenlabs.io/blog/sound-effects-v3",
-   "image": null,
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/4i9xsghce45-SFX-v3_-Thumbnail--1-.webp",
    "published": "2026-10-29T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -1675,7 +1681,8 @@
    "ar_summary": "إصدار جديد بأوامر متعددة الأصوات أكثر موثوقية وموسيقى وأصوات غنائية أكثر إقناعًا وصوت أنقى.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "3b9dd560f229",
@@ -1708,7 +1715,8 @@
    "ar_title": "كيف نكتشف انحراف النماذج المتقدمة",
    "ar_summary": "تستخدم OpenAI مراقبة متعددة الطبقات لرصد انحراف النماذج وسلوك الوكلاء غير المصرح به للتدخل قبل تفاقم الحوادث.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "2d9928289658",
@@ -1724,7 +1732,8 @@
    "ar_title": "Ropes & Gray تطور الذكاء الاصطناعي للعناية الواجبة في الصفقات",
    "ar_summary": "تعمل الشركة القانونية مع OpenAI، ويراجع المحامون المستندات والملخصات قبل تقديم المشورة.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "6750c2461412",
@@ -1740,7 +1749,8 @@
    "ar_title": "Credit Saison تحقق عائد 954% في تجربة ChatGPT Enterprise",
    "ar_summary": "أظهرت التجربة عائدًا كبيرًا على الاستثمار وأدت إلى اعتماد واسع داخل الشركة.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "e1c742c1d925",
@@ -1749,7 +1759,7 @@
    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
    "summary": "",
    "url": "https://huggingface.co/blog/announcing-project-protostar",
-   "image": null,
+   "image": "https://huggingface.co/blog/assets/announcing-project-protostar/thumbnail.jpg",
    "published": "2026-10-29T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -1757,7 +1767,8 @@
    "ar_summary": "مبادرة من Hugging Face لتهيئة البيانات العلمية الممولة من القطاع العام لاستخدامها في الذكاء الاصطناعي.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "a1765f446c5b",
@@ -1766,7 +1777,7 @@
    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
    "summary": "",
    "url": "https://huggingface.co/blog/mistral-large4",
-   "image": null,
+   "image": "https://huggingface.co/blog/assets/ml4/thumbnail.png",
    "published": "2026-10-29T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2,
@@ -1775,7 +1786,8 @@
    "ai": true,
    "detail": true,
    "fetched": true,
-   "ar_detail": true
+   "ar_detail": true,
+   "img_tried": true
   },
   {
    "id": "85d975255b4f",
@@ -1784,7 +1796,7 @@
    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
    "summary": "",
    "url": "https://huggingface.co/blog/anydecisionmodel",
-   "image": null,
+   "image": "https://huggingface.co/blog/assets/anydecisionmodel/banner.png",
    "published": "2026-10-29T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -1792,7 +1804,8 @@
    "ar_summary": "نموذجان مفتوحان للتعرف على الكلام واتخاذ القرارات يعملان على أجهزة Apple.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "e59c1ac4a994",
@@ -1818,7 +1831,7 @@
    "title": "Just wrapped our earnings call. It was a fast start to our fiscal year. Microsoft Cloud revenue surpassed $63B, with growth accelerating to 30% YoY. Lots of innovation as we build the new tech stack…",
    "summary": "The post Just wrapped our earnings call. It was a fast start to our fiscal year. Microsoft Cloud revenue surpassed $63B, with growth accelerating to 30% YoY. Lots of innovation as we build the new tech stack for the agentic wave. [Read more] appeared first on Source .",
    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7521344259774660609/",
-   "image": null,
+   "image": "https://media.licdn.com/dms/image/v2/D5622AQG_rOvBCcD-2g/feedshare-image-high-res/B56aGEuv74HoAY-/0/1793228210196?e=2147483647&v=beta&t=PazwIkvhVVLPyARcOUiCe2nCl_Glqxw518oC-6eWawo",
    "published": "2026-10-28T23:15:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -1826,7 +1839,8 @@
    "ar_summary": "أعلنت Microsoft بداية قوية لسنتها المالية مع تسارع نمو السحابة إلى 30% سنويًا وتركيز على عصر الوكلاء.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "efb7fea1c4e3",
@@ -1843,7 +1857,8 @@
    "ar_summary": "ستعقد المكالمة في 17 نوفمبر لمناقشة نتائج الربع الثالث من السنة المالية 2027.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "86bb7da2652f",
@@ -1869,7 +1884,7 @@
    "title": "We’re redefining the SDLC for the agentic era. Lots of GitHub updates this morning at Universe [Read more]",
    "summary": "The post We’re redefining the SDLC for the agentic era. Lots of GitHub updates this morning at Universe [Read more] appeared first on Source .",
    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7521256785148706816/",
-   "image": null,
+   "image": "https://dms.licdn.com/playlist/vid/v2/D5605AQFI8obN6sQ-rQ/thumbnail-with-play-button-overlay-high/B56aGDfKnOIsC0-/0/1793207349140?e=2147483647&v=beta&t=QtXMk2gUqcqoBpeshkMhDQI8P085rbflNXWbwGSmmgw",
    "published": "2026-10-28T18:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -1877,7 +1892,8 @@
    "ar_summary": "تحديثات كثيرة من GitHub في مؤتمر Universe تستهدف دورة حياة تطوير البرمجيات.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "b0da25ea6c1a",
@@ -1886,7 +1902,7 @@
    "title": "Gemini 4 Carbon: Our next frontier model",
    "summary": "",
    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "image": null,
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
    "published": "2026-10-28T17:00:58Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 2,
@@ -1895,7 +1911,8 @@
    "ai": true,
    "detail": true,
    "fetched": true,
-   "ar_detail": true
+   "ar_detail": true,
+   "img_tried": true
   },
   {
    "id": "a04b7e8be316",
@@ -1991,7 +2008,7 @@
    "title": "Route and orchestrate models with GitHub Copilot Fusion",
    "summary": "GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you.… The post Route and orchestrate models with GitHub Copilot Fusion appeared first on The GitHub Blog .",
    "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/11/683299408-b1d020a6-0c6d-49a5-ab57-5434d64fb7f9.png",
    "published": "2026-10-28T16:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 2,
@@ -2000,7 +2017,8 @@
    "ar_detail": true,
    "ar_title": "GitHub Copilot Fusion متاح للجميع لتوجيه النماذج وتنسيقها تلقائيًا",
    "ar_summary": "أصبح Copilot Fusion متاحًا عمومًا ويختار النماذج ويوزع العمل بينها تلقائيًا، بأداء قريب من Claude Code بنصف التكلفة.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "dc49fe8911d9",
@@ -2027,7 +2045,7 @@
    "title": "GitHub Copilot app, Universe releases",
    "summary": "Work doesn’t always fit in a single repository or session. A feature can span several repositories. A launch plan can pull in specs, designs, and assets without touching a repository… The post GitHub Copilot app, Universe releases appeared first on The GitHub Blog .",
    "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/11/685514709-41f0ff65-b075-454a-a844-00d288bb4bc1.jpg",
    "published": "2026-10-28T15:55:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -2036,7 +2054,8 @@
    "ar_summary": "يقدّم GitHub تحديثات جديدة لتطبيق Copilot تتيح العمل على مهام تمتد عبر عدة مستودعات وجلسات، وحتى جمع المواصفات والتصاميم والأصول دون لمس مستودع.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "393d97d2e447",
@@ -2045,7 +2064,7 @@
    "title": "GitHub Enterprise now includes access to GitHub Copilot",
    "summary": "Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many… The post GitHub Enterprise now includes access to GitHub Copilot appeared first on The GitHub Blog .",
    "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/10/Changelog_NewRelease_Unfurl_Centered_GitHubEnterpriseCopilot.jpg",
    "published": "2026-10-28T15:50:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -2054,7 +2073,8 @@
    "ar_detail": true,
    "ar_title": "GitHub Enterprise يتضمن الآن الوصول إلى GitHub Copilot",
    "ar_summary": "يمكن للمؤسسات عبر فرق GitHub أو Microsoft الحصول على Copilot ضمن GitHub Enterprise لكل مستخدم مرخّص.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "adf1996fc970",
@@ -2063,7 +2083,7 @@
    "title": "Security extension for the GitHub Copilot app",
    "summary": "You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the… The post Security extension for the GitHub Copilot app appeared first on The GitHub Blog .",
    "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/11/679183361-35ff63da-9551-4d66-bbc5-6df787729297.jpg",
    "published": "2026-10-28T15:45:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -2072,7 +2092,8 @@
    "ar_detail": true,
    "ar_title": "إضافة أمان لتطبيق GitHub Copilot",
    "ar_summary": "إضافة GitHub security بمعاينة عامة تتيح معالجة تنبيهات code scanning داخل تطبيق Copilot.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "3a09379f6ade",
@@ -2081,7 +2102,7 @@
    "title": "GitHub intelligence puts your code, context, and history to work",
    "summary": "Agents should understand more than your codebase—they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in… The post GitHub intelligence puts your code, context, and history to work appeared first on The GitHub Blog .",
    "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/11/Changelog_NewRelease_Unfurl_GitHubIntelligence.jpg",
    "published": "2026-10-28T15:40:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -2090,7 +2111,8 @@
    "ar_detail": true,
    "ar_title": "GitHub intelligence: ذاكرة وسياق لوكلاء البرمجة",
    "ar_summary": "تقدم GitHub طبقة سياق وتعلم تضم ذاكرة Copilot (متاحة عمومًا) وميزة Dreaming والبحث في الكود خارج المستودع.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "2304fbe0fd69",
@@ -2099,7 +2121,7 @@
    "title": "Build shared workflows for your team with Copilot Automations",
    "summary": "Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the… The post Build shared workflows for your team with Copilot Automations appeared first on The GitHub Blog .",
    "url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/10/Changelog_Improvement_Unfurl_TextOnly_CopilotAutomationsSharedWorkflows.jpg",
    "published": "2026-10-28T15:35:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -2108,7 +2130,8 @@
    "ar_detail": true,
    "ar_title": "أتمتة Copilot المشتركة تتيح للفرق بناء سير عمل جماعي",
    "ar_summary": "بدأ GitHub طرح «Copilot Automations» المشتركة التي تتيح للفرق بناء وصيانة سير عمل مدعوم بالذكاء الاصطناعي معًا، وتُحتسب تكلفتها على مالك المستودع.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "00c85acf9d22",
@@ -2117,7 +2140,7 @@
    "title": "GitHub Copilot in VS Code, Universe releases",
    "summary": "This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how… The post GitHub Copilot in VS Code, Universe releases appeared first on The GitHub Blog .",
    "url": "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/10/682195464-b41a2f6c-87a4-4a31-bdb4-78c524ea0fe5.png",
    "published": "2026-10-28T15:33:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -2126,7 +2149,8 @@
    "ar_summary": "يعرض GitHub تحديثات Copilot في Visual Studio Code التي تمنح المطورين خيارات أوسع في النماذج المستخدمة ومكان تشغيل الوكلاء.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "eb9069225e78",
@@ -2135,7 +2159,7 @@
    "title": "Repository plugin defaults and enterprise plugin controls generally available",
    "summary": "Repository plugin defaults and enterprise-managed plugin controls are now generally available in VS Code, Copilot CLI, and the GitHub Copilot app. Trusted repositories can install and enable default plugins for… The post Repository plugin defaults and enterprise plugin controls generally available appeared first on The GitHub Blog .",
    "url": "https://github.blog/changelog/2026-10-28-repository-plugin-defaults-and-enterprise-plugin-controls-generally-available",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/10/Changelog_Improvement_Unfurl_TextOnly_RepositoryPluginControls.jpg",
    "published": "2026-10-28T15:33:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -2144,7 +2168,8 @@
    "ar_detail": true,
    "ar_title": "إتاحة الإضافات الافتراضية للمستودعات وضوابط المؤسسات لإضافات Copilot",
    "ar_summary": "أصبحت الإضافات الافتراضية للمستودعات وضوابط الإضافات للمؤسسات متاحة عمومًا في VS Code وCopilot CLI وتطبيق GitHub Copilot.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "05a87e963785",
@@ -2153,7 +2178,7 @@
    "title": "Generate and edit images directly in Copilot",
    "summary": "You can now generate and edit images using natural language in GitHub Copilot. When you ask for an image, your selected reasoning model calls a dedicated image-generation tool powered by… The post Generate and edit images directly in Copilot appeared first on The GitHub Blog .",
    "url": "https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/10/Changelog_NewRelease_Unfurl_GenerateImagesCopilotApp.jpg",
    "published": "2026-10-28T15:30:55Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -2162,7 +2187,8 @@
    "ar_detail": true,
    "ar_title": "توليد الصور وتحريرها مباشرة داخل GitHub Copilot",
    "ar_summary": "أتاح GitHub توليد الصور وتحريرها بلغة طبيعية داخل Copilot عبر أداة مبنية على GPT Image 2.5 Flare، بوصفها معاينة عامة.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "2952348be6c4",
@@ -2198,7 +2224,8 @@
    "ar_detail": true,
    "ar_title": "الذكاء الاصطناعي المحادثي في القطاع المصرفي: حالات الاستخدام والفوائد",
    "ar_summary": "دليل من ElevenLabs يشرح كيف تستخدم البنوك وكلاء الصوت والدردشة لتقديم خدمة على مدار الساعة، وأهم المقاييس وحالات الاستخدام.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "00787c6ce357",
@@ -2207,7 +2234,7 @@
    "title": "Lettuce cuts creative ad production from over a week to under a minute with ElevenLabs",
    "summary": "Lettuce uses Ads Engine in ElevenCreative to generate Meta ad variants in 45 seconds, cutting creative costs by 75% and cost per lead by 40-60%.",
    "url": "https://elevenlabs.io/blog/lettuce",
-   "image": null,
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/ijcihre29q-Blog-Template1920---ElevenLabs-x-Lettuce.webp",
    "published": "2026-10-28T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -2216,7 +2243,8 @@
    "ar_detail": true,
    "ar_title": "Lettuce تقلص إنتاج الإعلانات من أسبوع إلى أقل من دقيقة مع ElevenLabs",
    "ar_summary": "تستخدم Lettuce أداة Ads Engine من ElevenCreative لتوليد نسخ إعلانات Meta في 45 ثانية، مع خفض تكاليف الإبداع بنحو 75%.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "f6dcfa10e659",
@@ -2225,7 +2253,7 @@
    "title": "ElevenLabs and adELA bring free voice restoration to Spain",
    "summary": "ElevenLabs partners with adELA, Spain’s leading ALS association, to restore the voices of patients living with ALS for free.",
    "url": "https://elevenlabs.io/blog/elevenlabs-adela",
-   "image": null,
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/e05hneq0ilu-ElevenLabs-Impact-x-adELA_Anibal_Blog-Cover_1920x1080.webp",
    "published": "2026-10-28T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -2234,7 +2262,8 @@
    "ar_detail": true,
    "ar_title": "ElevenLabs وadELA تتيحان استعادة الصوت مجانًا لمرضى التصلب الجانبي في إسبانيا",
    "ar_summary": "أعلنت ElevenLabs شراكة مع جمعية adELA الإسبانية لتوفير تقنية استعادة الصوت مجانًا لمرضى التصلب الجانبي الضموري.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "9296d1168d38",
@@ -2243,7 +2272,7 @@
    "title": "How your transcript knows where each word is spoken",
    "summary": "Meet Cue, ElevenLabs’ forced alignment model: character-level timestamps, any recording length, and an hour of audio aligned in under a second.",
    "url": "https://elevenlabs.io/blog/cue-aligner",
-   "image": null,
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/2itswrzql8w-Cover-16_9-%E2%80%93-02.webp",
    "published": "2026-10-28T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -2252,7 +2281,8 @@
    "ar_detail": true,
    "ar_title": "Cue: نموذج ElevenLabs لمحاذاة النص مع الصوت بدقة على مستوى الحرف",
    "ar_summary": "كشفت ElevenLabs عن Cue، نموذج محاذاة قسرية يحدد توقيت كل حرف في التسجيل ويعالج ساعة صوت في أقل من ثانية.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "baba7bee56c6",
@@ -2350,7 +2380,7 @@
    "title": "How companies can help their AI agents learn from one another",
    "summary": "The post How companies can help their AI agents learn from one another appeared first on Source .",
    "url": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-   "image": null,
+   "image": "https://www.microsoft.com/en-us/copilot/blog/wp-content/uploads/sites/2/2026/10/Helix-Hero-art-.png",
    "published": "2026-10-27T17:34:05Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -2359,7 +2389,8 @@
    "ar_detail": true,
    "ar_title": "كيف تساعد الشركات وكلاء الذكاء الاصطناعي على التعلم من بعضهم",
    "ar_summary": "بحثت Microsoft مع Keystone أكثر من 200 مؤسسة، ووجدت أن «العمود الفقري المعرفي» المشترك للوكلاء يرتبط بمكاسب أكبر في الهوامش.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "db98bf59a6c7",
@@ -2368,7 +2399,7 @@
    "title": "Build specialized multimodal models with LFM3",
    "summary": "",
    "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-   "image": null,
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/wEKXxH6qGa7vmHjn5KA-W.png",
    "published": "2026-10-27T17:16:52Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -2377,7 +2408,8 @@
    "ar_detail": true,
    "ar_title": "Liquid AI تطلق LFM3: نماذج متعددة الوسائط صغيرة للأجهزة الطرفية",
    "ar_summary": "أطلقت Liquid AI عائلة LFM3 من ستة نماذج بحجم نحو 2 مليار معامل تغطي النص والرؤية والصوت على هيكل واحد.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "8a965d9f9cf7",
@@ -2476,7 +2508,7 @@
    "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
    "summary": "",
    "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
-   "image": null,
+   "image": "https://www.apple.com/newsroom/images/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/tile/Apple-Creator-Studio-hero-261027-lp.jpg.og.jpg?202611032321",
    "published": "2026-10-27T12:58:45Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -2485,7 +2517,8 @@
    "ar_detail": true,
    "ar_title": "Apple Creator Studio تضيف ميزات ذكاء اصطناعي وأدوات إبداعية جديدة",
    "ar_summary": "أعلنت Apple تحديثات لـ Creator Studio تشمل MotionVFX في Final Cut Pro ومساعدًا ذكيًا في Logic Pro وميزات ذكاء جديدة في Keynote وPages وNumbers.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "b459574059fa",
@@ -2521,7 +2554,8 @@
    "ar_detail": true,
    "ar_title": "Siri AI تتوفر بلغات أكثر بدءًا من اليوم",
    "ar_summary": "مع تحديثات 27.2 توسعت Siri AI لتشمل الفرنسية واليابانية والكورية والبرتغالية والإسبانية، بنسخة تجريبية وغير متاحة في الاتحاد الأوروبي.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "84dbedb386be",
@@ -2584,7 +2618,7 @@
    "title": "GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior",
    "summary": "We present GHARP (Real-time Gaussian Head Animation from Large-scale Reconstruction Prior), a method that animates 3D human heads in real time from a few input images of a subject and a driving expression signal. We decouple the problem into an identity stage that builds a representation of the subject’s geometry and appearance offline, and an animation stage that predicts expression-dependent…",
    "url": "https://machinelearning.apple.com/research/gharp-head-animation",
-   "image": null,
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
    "published": "2026-10-26T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
@@ -2593,7 +2627,8 @@
    "ar_detail": true,
    "ar_title": "GHARP: تحريك رؤوس ثلاثية الأبعاد في الزمن الحقيقي",
    "ar_summary": "بحث من Apple يحرّك رؤوس بشرية ثلاثية الأبعاد في الزمن الحقيقي من صور قليلة، بأداء أسرع حتى 13 ضعفًا.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "3c115b0c264d",
@@ -2674,7 +2709,7 @@
    "title": "Does Your Model Run on AWS Trainium? Look It Up",
    "summary": "",
    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-   "image": null,
+   "image": "https://huggingface.co/blog/assets/torch-neuronx-model-support/thumbnail.jpg",
    "published": "2026-10-23T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
@@ -2683,7 +2718,8 @@
    "ar_detail": true,
    "ar_title": "هل يعمل نموذجك على AWS Trainium؟ ابحث عنه",
    "ar_summary": "أطلق Hugging Face مساحة تبين النماذج الشائعة التي تعمل دون تعديل على AWS Trainium عبر torch-neuronx.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "95eb6975ad24",
@@ -2692,7 +2728,7 @@
    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
    "summary": "",
    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-   "image": null,
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png",
    "published": "2026-10-22T22:24:34Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
@@ -2701,7 +2737,8 @@
    "ar_detail": true,
    "ar_title": "تحويل تقييم قواعد البيانات إلى مكافآت تعلم معزز لتدريب الوكلاء عبر ThinkingBox",
    "ar_summary": "تعرض Microsoft وHugging Face كيف يمكن استخدام فحص حالة قاعدة البيانات النهائية كمكافأة لتدريب الوكلاء، مما رفع متوسط نجاح Qwen3.8-27B من 51.70% إلى 60.78%.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "ed34adaea542",
@@ -2728,7 +2765,7 @@
    "title": "The science behind TorchNeuron, Amazon’s new PyTorch backend for AWS Trainium chips",
    "summary": "Runtime optimizations and a thorough evaluation process driven by agentic AI help ensure that models written in PyTorch will execute efficiently and reliably on Trainium systems.",
    "url": "https://www.amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips",
-   "image": null,
+   "image": "https://cdn.amazon.science/dims4/default/c067153/2147483647/strip/true/crop/1230x646+0+23/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fdd%2F4b%2F17bd568747c1b38c39a3729a5194%2Fvertical-integration.png",
    "published": "2026-10-22T19:36:42Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -2737,7 +2774,8 @@
    "ar_detail": true,
    "ar_title": "علم TorchNeuron: واجهة PyTorch الجديدة من Amazon لرقائق AWS Trainium",
    "ar_summary": "تشرح Amazon التحسينات خلف TorchNeuron وطريقة تقييمه بالوكلاء الذكية لضمان تشغيل نماذج PyTorch بكفاءة على Trainium.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "06769efcf6f4",
@@ -2889,7 +2927,7 @@
    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
    "summary": "",
    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-   "image": null,
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/OWGtXjnbBov-7SI_04o4z.png",
    "published": "2026-10-21T17:35:36Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
@@ -2898,7 +2936,8 @@
    "ar_detail": true,
    "ar_title": "كيف يخفض تخصيص مفردات النماذج الصغيرة تكلفة الاستدلال بنسبة 77%",
    "ar_summary": "تعرض Dharma AI طريقة VocabX لإعادة بناء مفردات النموذج حسب تكلفة كل رمز، فخفضت تكلفة الاستدلال 77% دون تغيير النموذج الأساسي.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "2de1f3f85cd4",
@@ -2925,7 +2964,7 @@
    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
    "summary": "",
    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-   "image": null,
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6ac67ea29579ea34f1f7e470/hEodPVvQZI24jETLbPooP.png",
    "published": "2026-10-21T16:04:43Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
@@ -2934,7 +2973,8 @@
    "ar_detail": true,
    "ar_title": "تحليل أداء TorchNeuron (الجزء 1): على AWS Trainium",
    "ar_summary": "دليل عملي لتحليل أداء الاستدلال على Trainium باستخدام torch.profiler وNeuron Explorer.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "1778fb273dbb",
