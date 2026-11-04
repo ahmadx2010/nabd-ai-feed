@@ -1,41 +1,50 @@
 {
- "updated": "2026-11-04T13:23:48Z",
+ "updated": "2026-11-04T13:32:54Z",
  "categories": [
   {
    "key": "big",
-   "name": "الشركات الكبرى"
+   "name": "الشركات الكبرى",
+   "name_en": "Big Tech"
   },
   {
    "key": "chat",
-   "name": "المساعدات والنماذج"
+   "name": "المساعدات والنماذج",
+   "name_en": "Assistants & Models"
   },
   {
    "key": "china",
-   "name": "الشركات الصينية"
+   "name": "الشركات الصينية",
+   "name_en": "Chinese Labs"
   },
   {
    "key": "image",
-   "name": "الصور والتصميم"
+   "name": "الصور والتصميم",
+   "name_en": "Image & Design"
   },
   {
    "key": "video",
-   "name": "الفيديو والأفاتار"
+   "name": "الفيديو والأفاتار",
+   "name_en": "Video & Avatars"
   },
   {
    "key": "audio",
-   "name": "الصوت والموسيقى"
+   "name": "الصوت والموسيقى",
+   "name_en": "Voice & Music"
   },
   {
    "key": "code",
-   "name": "البرمجة"
+   "name": "البرمجة",
+   "name_en": "Coding"
   },
   {
    "key": "tools",
-   "name": "أدوات وإنتاجية"
+   "name": "أدوات وإنتاجية",
+   "name_en": "Tools & Productivity"
   },
   {
    "key": "dev",
-   "name": "المطورين والبنية التحتية"
+   "name": "المطورين والبنية التحتية",
+   "name_en": "Developers & Infra"
   }
  ],
  "companies": {
@@ -2301,7 +2310,9 @@
    "image": null,
    "published": "2026-10-22T22:24:34Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "ed34adaea542",
@@ -2313,7 +2324,9 @@
    "image": "https://cdn.sanity.io/images/bj34pdbp/migration/d5813975d778851053019144628b568b031069d1-1600x900.png",
    "published": "2026-10-22T20:24:13Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "ece244a82d3e",
@@ -2325,7 +2338,9 @@
    "image": null,
    "published": "2026-10-22T19:36:42Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "06769efcf6f4",
@@ -2341,7 +2356,9 @@
    "ar_detail": true,
    "ar_title": "NVIDIA تكشف عن Minerva لمراقبة مصانع الذكاء الاصطناعي",
    "ar_summary": "أطلقت NVIDIA منصة Minerva لعمليات الذكاء الاصطناعي (AIOps) تجمع بيانات القياس من البنية التحتية وأحمال الذكاء الاصطناعي وتحللها بنماذج مخصصة لاكتشاف المشكلات مبكرًا.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "e66e9796ba6b",
@@ -2353,7 +2370,8 @@
    "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo",
    "published": "2026-10-22T14:30:24Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "fetched": true
   },
   {
    "id": "0d155a8c6750",
@@ -2365,7 +2383,9 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Call-Of-Duty-Modern-Warfare-4.jpg",
    "published": "2026-10-22T13:00:20Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "8eb5c126f8cf",
@@ -2377,7 +2397,9 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Financial-Services-NVIDIA-Open-Models.jpg",
    "published": "2026-10-22T05:00:56Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "381130e24d54",
@@ -2389,7 +2411,9 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg",
    "published": "2026-10-22T05:00:27Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "761a1716cf64",
@@ -2401,7 +2425,9 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/dsx-ai-factory-platform.jpg",
    "published": "2026-10-22T05:00:25Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "231615289514",
@@ -2413,7 +2439,9 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-European-Retail.jpg",
    "published": "2026-10-22T05:00:23Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "6d8a31a2427f",
@@ -2425,7 +2453,9 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Earth-2-Open-Models-Climate-Prediction.png",
    "published": "2026-10-22T05:00:19Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "354f89a6c7db",
@@ -2437,7 +2467,9 @@
    "image": null,
    "published": "2026-10-21T17:35:36Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "2de1f3f85cd4",
@@ -2449,7 +2481,9 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/FrontlineMaternalCarewithAI2_ModelOverview.png",
    "published": "2026-10-21T16:23:53Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "f9b499debdda",
@@ -2461,7 +2495,9 @@
    "image": null,
    "published": "2026-10-21T16:04:43Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "1778fb273dbb",
@@ -2473,7 +2509,9 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp",
    "published": "2026-10-21T04:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "a3ad0558b97a",
@@ -2485,7 +2523,9 @@
    "image": null,
    "published": "2026-10-20T17:57:55Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "d3ec3a595c33",
@@ -2497,7 +2537,9 @@
    "image": null,
    "published": "2026-10-20T16:05:03Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "cbc887d67fea",
@@ -2509,7 +2551,9 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp",
    "published": "2026-10-20T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "6d5eddf85402",
@@ -2521,7 +2565,9 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YouTube-Mainstream-Report-Cover.max-600x600.format-webp_9n1FlTM.webp",
    "published": "2026-10-20T11:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "9b2975afbab1",
@@ -2533,7 +2579,9 @@
    "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/19163329/Samsung-Corporate-The-Brief-Global-with-AI-Powered-Home-Appliances_Thumb932-728x410.jpg",
    "published": "2026-10-20T08:00:31Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "84cd8d44e982",
@@ -2545,7 +2593,9 @@
    "image": null,
    "published": "2026-10-20T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "f8471e3dcfd4",
@@ -2557,7 +2607,9 @@
    "image": null,
    "published": "2026-10-20T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "0f3dfef227c0",
@@ -2569,7 +2621,9 @@
    "image": null,
    "published": "2026-10-19T18:47:22Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "7b7535a06a66",
@@ -2581,7 +2635,9 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp",
    "published": "2026-10-19T16:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "23efc0a95fbc",
@@ -2593,7 +2649,9 @@
    "image": "https://assets.aboutamazon.com/dims4/default/f66c60b/2147483647/strip/true/crop/1600x900+0+0/resize/767x431!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F8a%2F19%2F8a5b8b1542a18aea511b89378867%2Faws-torchneuron-terminal-inline.gif",
    "published": "2026-10-19T13:00:10Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "83945f3b589d",
@@ -2605,7 +2663,9 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs_Cover.gif",
    "published": "2026-10-16T18:11:34Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "94224a1993d6",
@@ -2617,7 +2677,9 @@
    "image": "https://cdn.sanity.io/images/bj34pdbp/migration/3e54b7ac2f7528322ea28d1938bfe24e0086ecca-1920x1004.png",
    "published": "2026-10-16T09:30:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "f50edeef798d",
@@ -2629,7 +2691,9 @@
    "image": null,
    "published": "2026-10-16T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "996b33c09ad5",
@@ -2641,7 +2705,9 @@
    "image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo",
    "published": "2026-10-15T16:08:03Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "7c11c79ec35f",
@@ -2653,7 +2719,9 @@
    "image": null,
    "published": "2026-10-15T15:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "18caff74c7f5",
@@ -2665,7 +2733,9 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.max-600x600.format-webp.webp",
    "published": "2026-10-15T13:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "80ed021c396f",
@@ -2677,7 +2747,9 @@
    "image": "https://about.fb.com/wp-content/uploads/2025/05/Economic-and-Workforce-Impacts-of-OS-AI-Linux-Foundation-paper_Thumbnail-1-1.jpg?fit=1440%2C1080",
    "published": "2026-10-15T00:50:50Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "98e6a11f87f3",
@@ -2689,7 +2761,9 @@
    "image": null,
    "published": "2026-10-15T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "1aaf9ecdd8b2",
@@ -2701,7 +2775,9 @@
    "image": null,
    "published": "2026-10-15T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "7f2975ae8e0c",
@@ -2713,7 +2789,9 @@
    "image": null,
    "published": "2026-10-15T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "93dc9e9d57ba",
@@ -2725,7 +2803,9 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/EarthAITechReport1_Overview.gif",
    "published": "2026-10-14T16:14:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "e5f78e0104d8",
@@ -2737,7 +2817,9 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepReview2.jpg",
    "published": "2026-10-14T16:14:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "19f3965005eb",
@@ -2749,7 +2831,9 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/USS0291-Google_Research_Anthem_Film_Thumbnail4_1.jpg",
    "published": "2026-10-14T16:14:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "f7da7d13236f",
@@ -2761,7 +2845,9 @@
    "image": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?fit=3000%2C2000",
    "published": "2026-10-14T16:00:57Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "58e4191fcfe4",
@@ -2773,7 +2859,8 @@
    "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo",
    "published": "2026-10-14T02:00:14Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "fetched": true
   },
   {
    "id": "15a88e7ee914",
