@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:10:06Z",
+ "updated": "2026-11-04T18:17:16Z",
  "categories": [
   {
    "key": "big",
@@ -386,13 +386,28 @@
  },
  "items": [
   {
+   "id": "c4f5d2954769",
+   "company": "google",
+   "kind": "blog",
+   "title": "Agile Deliberation: How AI helps humans define the gray areas",
+   "summary": "Data Mining & Modeling",
+   "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AgileDeliberation1_Thumbnail.png",
+   "published": "2026-11-04T18:07:05Z",
+   "found": "2026-11-04T18:17:16Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "5afc49da7bd4",
    "company": "huggingface",
    "kind": "blog",
    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
    "summary": "",
    "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-   "image": null,
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/c1ik58RednXjcqrx5s2Fo.png",
    "published": "2026-11-04T17:50:10Z",
    "found": "2026-11-04T17:58:41Z",
    "importance": 1,
@@ -401,7 +416,8 @@
    "ar_detail": true,
    "ar_title": "Dharma Field Extractor: نموذج يحوّل أي مستند إلى حقول JSON منظمة",
    "ar_summary": "أطلق فريق Dharma نموذجاً من 2 مليار معامل يستخرج الحقول المطلوبة فقط من أي مستند ويعيدها بصيغة JSON، ويتفوق بحسب الفريق على نماذج LLM الرائدة بتكلفة أقل.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "166d08d878ba",
@@ -428,7 +444,7 @@
    "title": "Start Songs with MIDI",
    "summary": "Create music on Suno using a MIDI file as your starting point",
    "url": "https://suno.com/blog/MIDI-in-create",
-   "image": null,
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
    "published": "2026-11-04T16:45:00Z",
    "found": "2026-11-04T16:54:30Z",
    "importance": 1,
@@ -437,7 +453,8 @@
    "ar_detail": true,
    "ar_title": "Suno تتيح بدء الأغنية من ملف MIDI",
    "ar_summary": "أضافت Suno إمكانية بدء إنشاء أغنية من ملف MIDI عبر سحبه وإفلاته في صفحة Create. يمنح ذلك المستخدم نقطة انطلاق أدق من النص أو الصوت.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "a655af3d86e9",
@@ -472,7 +489,8 @@
    "ar_detail": true,
    "ar_title": "OpenAI تستحوذ على شركة Pierre Computer لتعزيز أدوات Codex",
    "ar_summary": "أعلنت OpenAI عزمها الاستحواذ على شركة Pierre Computer Company لتوسيع أدوات Codex في بناء الشيفرة البرمجية وفهمها ومراجعتها.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "8d682625501f",
@@ -508,7 +526,8 @@
    "ar_detail": true,
    "ar_title": "ElevenAgents يتكامل مع منصات مراكز الاتصال الكبرى",
    "ar_summary": "أعلنت ElevenLabs تكاملاً أصلياً لـ ElevenAgents مع NiCE وGenesys Cloud وAmazon Connect وFive9، ودعم أي منصة أخرى عبر SIP. يتيح ذلك للشركات إضافة وكلاء صوتيين دون تغيير بنيتها الحالية.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "75679f5aa60b",
@@ -525,7 +544,8 @@
    "ar_detail": true,
    "ar_title": "Daybreak Red متاح الآن في AWS GovCloud (US-East)",
    "ar_summary": "يتيح Daybreak Red نموذج GPT-5.6 Cyber للعملاء المعتمدين في AWS GovCloud عبر Amazon Bedrock لأعمال الأمن السيبراني المصرح بها.",
-   "ai": true
+   "ai": true,
+   "img_tried": true
   },
   {
    "id": "0f281cabd4f6",
@@ -534,7 +554,7 @@
    "title": "BYOK and enterprise custom models in the Copilot usage API",
    "summary": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and enterprise custom models in the Copilot usage API appeared first on The GitHub Blog .",
    "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/11/692697342-1fcb18df-03bf-4266-a109-f6f85f5e2427.jpeg",
    "published": "2026-11-04T00:32:19Z",
    "found": "2026-11-04T03:19:31Z",
    "importance": 0,
@@ -542,7 +562,8 @@
    "ar_summary": "تعرض واجهة مقاييس استخدام Copilot الآن استخدام مفاتيح المستخدم الخاصة (BYOK) بشكل منفصل عن النماذج التي تستضيفها GitHub. يساعد ذلك المؤسسات على تتبع التكاليف والاستخدام بدقة أكبر.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "493a258a2758",
@@ -594,7 +615,8 @@
    "ar_title": "LangSmith BYOC يدعم الآن AWS وGoogle Cloud وAzure",
    "ar_summary": "أعلنت LangChain عن توسيع خيار «أحضر سحابتك الخاصة» في LangSmith ليشمل عدة مزودي سحابة.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "1f46abcfa59f",
@@ -610,7 +632,8 @@
    "ar_title": "البصيرة البشرية كميزة استراتيجية في عصر الوكلاء الأذكياء",
    "ar_summary": "مقال من LangChain يناقش دور الخبرة البشرية في بناء وكلاء الذكاء الاصطناعي وتحقيق ميزة تنافسية.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "07cdeba3c4cd",
@@ -670,7 +693,7 @@
    "title": "StateBench: Testing how language models track state changes over long documents",
    "summary": "",
    "url": "https://huggingface.co/blog/allenai/statebench",
-   "image": null,
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/5g9HfQLFFaQE0fslWrxh0.png",
    "published": "2026-11-03T17:15:21Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -679,7 +702,8 @@
    "ai": true,
    "detail": true,
    "fetched": true,
-   "ar_detail": true
+   "ar_detail": true,
+   "img_tried": true
   },
   {
    "id": "7b04a568c5ad",
@@ -739,7 +763,7 @@
    "title": "Palette: teaching a small model to build decks in your design language",
    "summary": "",
    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-   "image": null,
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/63890e3843d8b0797a0ad606/5pHD09UHuAK-6OyKGKimD.png",
    "published": "2026-11-03T16:35:36Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -748,7 +772,8 @@
    "ai": true,
    "detail": true,
    "fetched": true,
-   "ar_detail": true
+   "ar_detail": true,
+   "img_tried": true
   },
   {
    "id": "c90cd6cc0c02",
@@ -775,7 +800,7 @@
    "title": "GitHub Copilot is now available in JetBrains Air",
    "summary": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your… The post GitHub Copilot is now available in JetBrains Air appeared first on The GitHub Blog .",
    "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-   "image": null,
+   "image": "https://github.blog/wp-content/uploads/2026/11/689797142-96dbb0c9-dccb-41f6-8990-acf5c575db04.png",
    "published": "2026-11-03T15:11:46Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -784,7 +809,8 @@
    "ai": true,
    "detail": true,
    "fetched": true,
-   "ar_detail": true
+   "ar_detail": true,
+   "img_tried": true
   },
   {
    "id": "26c6032e1d26",
@@ -801,7 +827,8 @@
    "ar_summary": "تعرض OpenAI كيف يساعد ChatGPT وCodex المهندسين في CAD وتصميم PCB والمحاكاة وغيرها.",
    "ai": true,
    "fetched": true,
-   "ar_detail": true
+   "ar_detail": true,
+   "img_tried": true
   },
   {
    "id": "0e889c44fa0a",
@@ -818,7 +845,8 @@
    "ar_summary": "دليل يشرح كيفية عمل تفريغ المكالمات بالذكاء الاصطناعي ومقارنة أنواع البرامج.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "66a947a7e4a1",
@@ -827,7 +855,7 @@
    "title": "Angle Health’s ElevenAgents pilot handles 90% of provider calls without a transfer",
    "summary": "Angle Health’s voice agents answer provider calls 24/7 with almost no wait, freeing about 9,000 minutes a day for complex escalations.",
    "url": "https://elevenlabs.io/blog/angle-health",
-   "image": null,
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/jp7u3my5fzc-Blog_Angle.webp",
    "published": "2026-11-03T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -835,7 +863,8 @@
    "ar_summary": "تجيب وكلاء الصوت على مكالمات مزودي الرعاية على مدار الساعة، مما يوفر نحو 9000 دقيقة يوميًا.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "08b710f1e780",
@@ -851,7 +880,8 @@
    "ar_title": "Heimstaden تغيّر إدارة العقارات السكنية بالذكاء الاصطناعي",
    "ar_summary": "قصة عميل توضح استخدام Heimstaden لـ ChatGPT Enterprise وCodex لخفض التكاليف وتمكين الموظفين في أوروبا.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "d0cdd7377e6a",
@@ -884,7 +914,8 @@
    "ar_title": "كيف تدافع Cisco بسرعة الآلة باستخدام OpenAI",
    "ar_summary": "تجمع Cisco بين ذكاء الشبكات ونماذج OpenAI لتعزيز أمن المؤسسات وبناء دفاعات أكثر تكيفًا.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "928e7584e6cd",
@@ -911,7 +942,7 @@
    "title": "CWE-bench v2: More coverage, quality, and transparency",
    "summary": "",
    "url": "https://huggingface.co/blog/cwe-bench",
-   "image": null,
+   "image": "https://huggingface.co/blog/assets/cwe-bench/thumbnail.jpg",
    "published": "2026-11-03T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -920,7 +951,8 @@
    "ai": true,
    "detail": true,
    "fetched": true,
-   "ar_detail": true
+   "ar_detail": true,
+   "img_tried": true
   },
   {
    "id": "fec0e46ceba4",
@@ -937,7 +969,8 @@
    "ar_summary": "مقال تقني يعرض مفهوم عقود تكامل النماذج في مكتبة Transformers لتسهيل إضافة النماذج وضمان جودتها.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "3d509e27bae2",
@@ -953,7 +986,8 @@
    "ar_title": "OpenAI تعين جيل هازلبيكر رئيسةً للشؤون المؤسسية",
    "ar_summary": "ستقود هازلبيكر الاتصالات العالمية وتموضع الشركة المؤسسي في OpenAI.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "767025f393c3",
@@ -979,7 +1013,7 @@
    "title": "Nine engineers, 1,211 code updates in a day: Lessons from building Copilot Cowork",
    "summary": "The post Nine engineers, 1,211 code updates in a day: Lessons from building Copilot Cowork appeared first on Source .",
    "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/",
-   "image": null,
+   "image": "https://commandline.microsoft.com/wp-content/uploads/2026/10/nine-engineers-1-211-pull-requests-in-a-day-lessons-from-building-copilot-cowork-card-3.png",
    "published": "2026-11-02T21:48:25Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 1,
@@ -988,7 +1022,8 @@
    "ai": true,
    "detail": true,
    "fetched": true,
-   "ar_detail": true
+   "ar_detail": true,
+   "img_tried": true
   },
   {
    "id": "262cfa35f430",
@@ -1004,7 +1039,8 @@
    "ar_title": "التحضير لسباق أمني جديد لتحصين OpenAI",
    "ar_summary": "تعدّ OpenAI لسباق أمني داخلي مع Cathedral Systems لاختبار دفاعاتها وتقويتها باستخدام الذكاء الاصطناعي.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "6fd6ad7938fa",
@@ -1020,7 +1056,8 @@
    "ar_title": "مكافآت أكبر للمدافعين عبر برنامج مكافآت الثغرات",
    "ar_summary": "ترفع OpenAI مكافآت الثغرات الأمنية وتضيف حوافز لجودة التقارير والولاء والحملات ذات الأولوية للباحثين المستقلين.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "2d062bda8439",
@@ -1037,7 +1074,8 @@
    "ar_summary": "توسّع الشركتان تعاونهما للتسويق المشترك لشبكات المؤسسات الجاهزة للذكاء الاصطناعي.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "b810030289ed",
@@ -1087,7 +1125,8 @@
    "ar_title": "توسيع Git في OpenAI",
    "ar_summary": "تكشف OpenAI عن Pando، وهو خلفية متوافقة مع Git صُمّمت لحجم التطوير الذي يتيحه Codex.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "19244c7aa206",
@@ -1103,7 +1142,8 @@
    "ar_title": "إطلاق برنامج Grid Protectors",
    "ar_summary": "سيعمل البرنامج مع شركات المرافق لجعل مجمّعات الحوسبة المستقبلية تدعم موثوقية الشبكة الكهربائية وتحمي المستهلكين من ارتفاع التكاليف.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "4338b997783e",
@@ -1120,7 +1160,8 @@
    "ar_summary": "شرح لكيفية إنشاء الأصوات الاصطناعية من بيانات الكلام إلى الشبكات العصبية واستنساخ الصوت.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "1b616ac07b1e",
@@ -1129,7 +1170,7 @@
    "title": "How KPN is bringing voice AI to the Netherlands' entrepreneurs with Mobiel AI",
    "summary": "KPN partnered with ElevenLabs to build Mobiel AI, an AI assistant inside KPN's business mobile plans that helps Dutch entrepreneurs manage every call.",
    "url": "https://elevenlabs.io/blog/kpn-mobiel-ai",
-   "image": null,
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/wpymhzrr4w-ElevenLabs%20X%20KPN%20Blog%20Cover.webp",
    "published": "2026-11-02T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -1137,7 +1178,8 @@
    "ar_summary": "بالشراكة مع ElevenLabs أطلقت KPN مساعدًا ذكيًا ضمن باقات الهاتف للأعمال لإدارة المكالمات.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "4d1f48989ead",
@@ -1146,7 +1188,7 @@
    "title": "Introducing SFX v3 for developers",
    "summary": "SFX v3 is our newest sound effects model. Switch with one model_id change for better multi-part prompts, vocals, and fewer clipped high notes.",
    "url": "https://elevenlabs.io/blog/sfx-v3-for-developers",
-   "image": null,
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/5mo6tyh5yio-sfx-v1.webp",
    "published": "2026-11-02T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 1,
@@ -1154,7 +1196,8 @@
    "ar_summary": "نموذج المؤثرات الصوتية الجديد من ElevenLabs يحسن الأوامر متعددة الأجزاء والأصوات ويمكن التبديل إليه بتغيير model_id.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "8e4474f09341",
@@ -1163,7 +1206,7 @@
    "title": "Why voice wins for complex, stressful conversations",
    "summary": "In conversations longer than two minutes, voice succeeded 32% more often than text-based chat. Voice also resolves longer conversations faster.",
    "url": "https://elevenlabs.io/blog/voice-wins-complex-stressful-conversations",
-   "image": null,
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/o6an5k6csfk-Voice-cover.webp",
    "published": "2026-11-02T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -1171,7 +1214,8 @@
    "ar_summary": "في المحادثات الأطول من دقيقتين نجح الصوت أكثر بنسبة 32% من الدردشة النصية.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "ed4b58253682",
@@ -1187,7 +1231,8 @@
    "ar_title": "LifeVal",
    "ar_summary": "معيار جديد يقيس قدرة الذكاء الاصطناعي على مساعدة الناس في مهام الحياة اليومية مثل البحث عن رعاية الأطفال وإدارة الأموال والأوراق الحكومية.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "ff138f709a7e",
@@ -1203,7 +1248,8 @@
    "ar_title": "OpenAI تعيّن Dan Driscoll مستشاراً أول لتحديث الأمن القومي",
    "ar_summary": "سيقدّم المستشار الجديد المشورة حول الذكاء الاصطناعي المسؤول للأمن القومي والمرونة السيبرانية والتعاون مع حلفاء الولايات المتحدة.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "598c6194c0d3",
@@ -1219,7 +1265,8 @@
    "ar_title": "Qodo تبني السياق في مراجعة الأكواد مع Codex",
    "ar_summary": "تجلب Qodo معرفة الشركة ومعايير البرمجة إلى Codex لمساعدة المطورين على اكتشاف المشكلات الحرجة قبل طلب الدمج.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "959f3bc27116",
@@ -1244,7 +1291,7 @@
    "title": "nemotron-halloween",
    "summary": "",
    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-   "image": null,
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2a746c7d0655b3d8dfbb9/fownH6rn05tSp1jDBTz8m.png",
    "published": "2026-10-30T17:57:24Z",
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
@@ -1252,7 +1299,8 @@
    "ar_summary": "منشور من NVIDIA على Hugging Face حول نماذج Nemotron بمناسبة الهالوين.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "59fa43cbb1dd",
@@ -1336,7 +1384,8 @@
    "ar_summary": "يشرح الفرق بين النوعين ومتى يُستخدم كل منهما وكيف تحوّل وكلاء الصوت المكالمات إلى موظف بشري.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "626d6f539a19",
@@ -1345,7 +1394,7 @@
    "title": "TELUS Digital cut early cancellations by more than half with ElevenAgents",
    "summary": "TELUS Digital uses ElevenAgents to call new internet customers in their first 90 days, cutting early cancellations by more than half",
    "url": "https://elevenlabs.io/blog/telus-digital-early-cancellations",
-   "image": null,
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/z3wmynt60ch-Telus-Digital--Square.webp",
    "published": "2026-10-30T12:00:00Z",
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
@@ -1353,7 +1402,8 @@
    "ar_summary": "استخدمت الشركة ElevenAgents للاتصال بالعملاء الجدد خلال أول 90 يومًا فخفضت الإلغاء المبكر بأكثر من النصف.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "25cc4c9bb2e3",
@@ -1369,7 +1419,8 @@
    "ar_title": "تسهيل تعبير المواقع عن تفضيلاتها لتدريب الذكاء الاصطناعي",
    "ar_summary": "ستحترم OpenAI إشارة robots.txt مشتركة تتيح لمشغلي المواقع إبلاغ مزودي الذكاء الاصطناعي المشاركين بتفضيلاتهم بشأن التدريب.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "c7606af40dbb",
@@ -1385,7 +1436,8 @@
    "ar_title": "تقرير سلامة المجتمع وحمايات جديدة للمراهقين",
    "ar_summary": "تعزز OpenAI الوقاية من العنف في ChatGPT بضمانات موسعة وتدخلات أبكر والتزام جديد بتقارير السلامة العامة.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "d2282bcce162",
@@ -1401,7 +1453,8 @@
    "ar_title": "الاستخدام العادل يفيد الجميع",
    "ar_summary": "تنشر OpenAI مقتطفات من مذكرات قضائية لمبدعين وأكاديميين وخبراء قانونيين حول دور الاستخدام العادل في تدريب الذكاء الاصطناعي.",
    "ai": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "237e37ca214f",
@@ -1435,7 +1488,8 @@
    "ar_summary": "شراكة لإيصال فوائد نظارات الذكاء الاصطناعي إلى مزيد من الكنديين المكفوفين أو ضعاف البصر.",
    "ai": true,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "7bf0065ceb16",
