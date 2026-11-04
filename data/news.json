@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T06:41:22Z",
+ "updated": "2026-11-04T13:05:35Z",
  "categories": [
   {
    "key": "big",
@@ -389,7 +389,9 @@
    "importance": 0,
    "ar_title": "دعم BYOK والنماذج المخصصة للمؤسسات في واجهة Copilot لقياس الاستخدام",
    "ar_summary": "تعرض واجهة مقاييس استخدام Copilot الآن استخدام مفاتيح المستخدم الخاصة (BYOK) بشكل منفصل عن النماذج التي تستضيفها GitHub. يساعد ذلك المؤسسات على تتبع التكاليف والاستخدام بدقة أكبر.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "af325869114f",
@@ -404,7 +406,8 @@
    "importance": 0,
    "ar_title": "LangSmith BYOC يدعم الآن AWS وGoogle Cloud وAzure",
    "ar_summary": "أعلنت LangChain عن توسيع خيار «أحضر سحابتك الخاصة» في LangSmith ليشمل عدة مزودي سحابة.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "1f46abcfa59f",
@@ -419,7 +422,8 @@
    "importance": 0,
    "ar_title": "البصيرة البشرية كميزة استراتيجية في عصر الوكلاء الأذكياء",
    "ar_summary": "مقال من LangChain يناقش دور الخبرة البشرية في بناء وكلاء الذكاء الاصطناعي وتحقيق ميزة تنافسية.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "07cdeba3c4cd",
@@ -434,7 +438,8 @@
    "importance": 0,
    "ar_title": "TamaGPT: صناعة الأجهزة مع GPT-6 Astra",
    "ar_summary": "فيديو من OpenAI يوضح كيف يساعد GPT-6 Astra غير المهندسين على تصميم وصنع أجهزة مادية.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "60196b10dd33",
@@ -449,7 +454,9 @@
    "importance": 0,
    "ar_title": "Qodo تدمج سياق الشركة في مراجعة الأكواد عبر Codex",
    "ar_summary": "إضافة Qodo لـ Codex تجلب معايير الشركة وسياق الكود إلى مراجعة مستقلة تكشف الأخطاء عبر المستودعات. في هذا الحوار يناقش مؤسسها كيف يبنون أدواتهم باستخدام GPT-6 Astra.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "d84f2d409b05",
@@ -464,7 +471,9 @@
    "importance": 1,
    "ar_title": "ChatGPT Voice متاح الآن في Finances",
    "ar_summary": "يمكن ربط حساباتك المالية بأمان عبر Finances ثم التحدث صوتياً مع ChatGPT عن اشتراكاتك وما يمكن توفيره بإلغاء بعضها.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "a55665cf4895",
@@ -479,7 +488,9 @@
    "importance": 1,
    "ar_title": "StateBench: اختبار تتبع النماذج اللغوية لتغيّر الحالة في المستندات الطويلة",
    "ar_summary": "مقال بحثي على Hugging Face يقدّم معياراً لقياس قدرة النماذج اللغوية على تتبع تغيّرات الحالة عبر المستندات الطويلة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "7b04a568c5ad",
@@ -494,7 +505,8 @@
    "importance": 1,
    "ar_title": "الكيمياء المعلوماتية الوكيلية مع Google Antigravity",
    "ar_summary": "تشرح DeepMind كيف تسرّع Google Antigravity ومهارات الكيمياء المعلوماتية سير عمل اكتشاف الأدوية والبحث عن المركبات واقتراح حلقات كبيرة جديدة.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "1afe3cf65797",
@@ -509,7 +521,9 @@
    "importance": 0,
    "ar_title": "Glean حول الخصوصية وOpenAI Private Intelligence",
    "ar_summary": "المدير التقني لـ Glean يتحدث عن تحكم العملاء ببياناتهم وعن العمل مع OpenAI في المعاينة الخاصة للمعالجة الآمنة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "2baa2e0273f5",
@@ -524,7 +538,9 @@
    "importance": 0,
    "ar_title": "Glean حول الخصوصية وOpenAI Private Intelligence",
    "ar_summary": "يشرح المدير التقني لـ Glean كيف تعاونت الشركة مع OpenAI لضمان بقاء بيانات العملاء تحت سيطرتهم، ومنها معاينة Private Safety Processing.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "bc4177032a04",
@@ -539,7 +555,9 @@
    "importance": 1,
    "ar_title": "Palette: تعليم نموذج صغير بناء العروض التقديمية بلغة تصميمك",
    "ar_summary": "تعرض IBM Research نموذجاً صغيراً قادراً على إنشاء عروض تقديمية تلتزم بهوية التصميم الخاصة بالمستخدم.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "c90cd6cc0c02",
@@ -554,7 +572,9 @@
    "importance": 1,
    "ar_title": "الذكاء الاصطناعي يغيّر عمل مصانع أشباه الموصلات",
    "ar_summary": "تشرح NVIDIA كيف يساعد الذكاء الاصطناعي المهندسين على فهم تغييرات العمليات وتتبع العيوب إلى أسبابها في ظل تعقيد التصنيع المتزايد.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "9c22661ce9de",
@@ -569,7 +589,9 @@
    "importance": 1,
    "ar_title": "GitHub Copilot متاح الآن في JetBrains Air",
    "ar_summary": "يمكن الآن تفويض مهام البرمجة ومراجعة النتائج عبر Copilot داخل JetBrains Air باستخدام بروتوكول Agent Client Protocol.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "26c6032e1d26",
@@ -584,7 +606,8 @@
    "importance": 1,
    "ar_title": "تسريع الهندسة للعالم المادي",
    "ar_summary": "تستعرض OpenAI كيف يساعد ChatGPT وCodex المهندسين في تصميم CAD وPCB والمحاكاة وغيرها من سير العمل الهندسية.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "0e889c44fa0a",
@@ -599,7 +622,9 @@
    "importance": 0,
    "ar_title": "ما هو تفريغ المكالمات؟ دليل عملي للشركات",
    "ar_summary": "دليل يشرح كيفية عمل تفريغ المكالمات بالذكاء الاصطناعي ومقارنة أنواع البرامج.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "66a947a7e4a1",
@@ -614,7 +639,9 @@
    "importance": 0,
    "ar_title": "Angle Health: وكلاء ElevenAgents يعالجون 90% من مكالمات المزودين دون تحويل",
    "ar_summary": "تجيب وكلاء الصوت على مكالمات مزودي الرعاية على مدار الساعة، مما يوفر نحو 9000 دقيقة يوميًا.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "08b710f1e780",
@@ -629,7 +656,8 @@
    "importance": 0,
    "ar_title": "Heimstaden تغيّر إدارة العقارات السكنية بالذكاء الاصطناعي",
    "ar_summary": "قصة عميل توضح استخدام Heimstaden لـ ChatGPT Enterprise وCodex لخفض التكاليف وتمكين الموظفين في أوروبا.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "d0cdd7377e6a",
@@ -644,7 +672,9 @@
    "importance": 0,
    "ar_title": "فيديو: داخل تقنية تلفزيون Samsung Micro RGB",
    "ar_summary": "نظرة على تلفزيون Micro RGB بمصابيح أصغر من 100 ميكرومتر ومحرك ذكاء اصطناعي لتحسين المحتوى وسطح مضاد للوهج.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "a2357e701f02",
@@ -659,7 +689,8 @@
    "importance": 0,
    "ar_title": "كيف تدافع Cisco بسرعة الآلة باستخدام OpenAI",
    "ar_summary": "تجمع Cisco بين ذكاء الشبكات ونماذج OpenAI لتعزيز أمن المؤسسات وبناء دفاعات أكثر تكيفًا.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "928e7584e6cd",
@@ -674,7 +705,9 @@
    "importance": 1,
    "ar_title": "مدن حول العالم تبني خدمات ذكاء اصطناعي مع NVIDIA",
    "ar_summary": "تستخدم المدن الذكاء الاصطناعي المادي والوكيلي، من التوائم الرقمية إلى وكلاء الخدمات، لتحويل بيانات الكاميرات والمستشعرات إلى إجراءات مفيدة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "20954e3ac0ff",
@@ -689,7 +722,9 @@
    "importance": 1,
    "ar_title": "CWE-bench v2: تغطية وجودة وشفافية أكبر",
    "ar_summary": "إصدار جديد من معيار CWE-bench لتقييم النماذج في اكتشاف الثغرات الأمنية، بتغطية وجودة وشفافية محسّنة.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "fec0e46ceba4",
@@ -704,7 +739,9 @@
    "importance": 0,
    "ar_title": "عقود تكامل النماذج في Transformers",
    "ar_summary": "مقال تقني يعرض مفهوم عقود تكامل النماذج في مكتبة Transformers لتسهيل إضافة النماذج وضمان جودتها.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "3d509e27bae2",
@@ -719,7 +756,8 @@
    "importance": 0,
    "ar_title": "OpenAI تعين جيل هازلبيكر رئيسةً للشؤون المؤسسية",
    "ar_summary": "ستقود هازلبيكر الاتصالات العالمية وتموضع الشركة المؤسسي في OpenAI.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "767025f393c3",
@@ -734,7 +772,9 @@
    "importance": 0,
    "ar_title": "Coinbase حول OpenAI Private Intelligence",
    "ar_summary": "المدير التقني لـ Coinbase يشرح أهمية الأمان وحواجز الحماية وعدم الاحتفاظ بالبيانات عند استخدام OpenAI.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "f9c3fcec5e4f",
@@ -749,7 +789,9 @@
    "importance": 1,
    "ar_title": "تسعة مهندسين و1211 تحديثاً برمجياً في يوم: دروس من بناء Copilot Cowork",
    "ar_summary": "تروي مايكروسوفت تجربة بناء Copilot Cowork والانتقال من Python إلى Rust بفريق صغير وبمساعدة الذكاء الاصطناعي.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "262cfa35f430",
@@ -764,7 +806,8 @@
    "importance": 1,
    "ar_title": "التحضير لسباق أمني جديد لتحصين OpenAI",
    "ar_summary": "تعدّ OpenAI لسباق أمني داخلي مع Cathedral Systems لاختبار دفاعاتها وتقويتها باستخدام الذكاء الاصطناعي.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "6fd6ad7938fa",
@@ -779,7 +822,8 @@
    "importance": 1,
    "ar_title": "مكافآت أكبر للمدافعين عبر برنامج مكافآت الثغرات",
    "ar_summary": "ترفع OpenAI مكافآت الثغرات الأمنية وتضيف حوافز لجودة التقارير والولاء والحملات ذات الأولوية للباحثين المستقلين.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "2d062bda8439",
@@ -794,7 +838,9 @@
    "importance": 0,
    "ar_title": "Lumen ومايكروسوفت توسعان التعاون لبيع شبكات جاهزة للذكاء الاصطناعي",
    "ar_summary": "توسّع الشركتان تعاونهما للتسويق المشترك لشبكات المؤسسات الجاهزة للذكاء الاصطناعي.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "b810030289ed",
@@ -809,7 +855,9 @@
    "importance": 1,
    "ar_title": "أحدث أخبار الذكاء الاصطناعي التي أعلنتها Google في أكتوبر 2026",
    "ar_summary": "ملخص شهري لأبرز إعلانات Google في مجال الذكاء الاصطناعي خلال أكتوبر 2026.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "050eb04e45a8",
@@ -824,7 +872,9 @@
    "importance": 0,
    "ar_title": "Coinbase حول OpenAI Private Intelligence",
    "ar_summary": "يشرح روب ويتوف سبب أهمية الأمان وعدم الاحتفاظ بالبيانات في اعتماد Coinbase على نماذج OpenAI، إذ تمنح Private Intelligence الشركات تحكماً أكبر ببياناتها.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "de4cf53f9db9",
@@ -839,7 +889,8 @@
    "importance": 1,
    "ar_title": "توسيع Git في OpenAI",
    "ar_summary": "تكشف OpenAI عن Pando، وهو خلفية متوافقة مع Git صُمّمت لحجم التطوير الذي يتيحه Codex.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "19244c7aa206",
@@ -854,7 +905,8 @@
    "importance": 1,
    "ar_title": "إطلاق برنامج Grid Protectors",
    "ar_summary": "سيعمل البرنامج مع شركات المرافق لجعل مجمّعات الحوسبة المستقبلية تدعم موثوقية الشبكة الكهربائية وتحمي المستهلكين من ارتفاع التكاليف.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "4338b997783e",
@@ -869,7 +921,9 @@
    "importance": 0,
    "ar_title": "كيف تُنشأ الأصوات الاصطناعية للكلام الطبيعي؟",
    "ar_summary": "شرح لكيفية إنشاء الأصوات الاصطناعية من بيانات الكلام إلى الشبكات العصبية واستنساخ الصوت.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "1b616ac07b1e",
@@ -884,7 +938,9 @@
    "importance": 0,
    "ar_title": "KPN تقدم الذكاء الصوتي لرواد الأعمال الهولنديين عبر Mobiel AI",
    "ar_summary": "بالشراكة مع ElevenLabs أطلقت KPN مساعدًا ذكيًا ضمن باقات الهاتف للأعمال لإدارة المكالمات.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "4d1f48989ead",
@@ -899,7 +955,9 @@
    "importance": 1,
    "ar_title": "تقديم SFX v3 للمطورين",
    "ar_summary": "نموذج المؤثرات الصوتية الجديد من ElevenLabs يحسن الأوامر متعددة الأجزاء والأصوات ويمكن التبديل إليه بتغيير model_id.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "8e4474f09341",
@@ -914,7 +972,9 @@
    "importance": 0,
    "ar_title": "لماذا يتفوق الصوت في المحادثات المعقدة والمجهدة",
    "ar_summary": "في المحادثات الأطول من دقيقتين نجح الصوت أكثر بنسبة 32% من الدردشة النصية.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "ed4b58253682",
@@ -929,7 +989,8 @@
    "importance": 1,
    "ar_title": "LifeVal",
    "ar_summary": "معيار جديد يقيس قدرة الذكاء الاصطناعي على مساعدة الناس في مهام الحياة اليومية مثل البحث عن رعاية الأطفال وإدارة الأموال والأوراق الحكومية.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "ff138f709a7e",
@@ -944,7 +1005,8 @@
    "importance": 1,
    "ar_title": "OpenAI تعيّن Dan Driscoll مستشاراً أول لتحديث الأمن القومي",
    "ar_summary": "سيقدّم المستشار الجديد المشورة حول الذكاء الاصطناعي المسؤول للأمن القومي والمرونة السيبرانية والتعاون مع حلفاء الولايات المتحدة.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "598c6194c0d3",
@@ -959,7 +1021,8 @@
    "importance": 0,
    "ar_title": "Qodo تبني السياق في مراجعة الأكواد مع Codex",
    "ar_summary": "تجلب Qodo معرفة الشركة ومعايير البرمجة إلى Codex لمساعدة المطورين على اكتشاف المشكلات الحرجة قبل طلب الدمج.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "959f3bc27116",
@@ -974,7 +1037,8 @@
    "importance": 0,
    "ar_title": "هناك مستقبلات كثيرة. أيها تريد أن تبني؟",
    "ar_summary": "فيديو ترويجي من OpenAI بلا وصف تفصيلي.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "b2263e9f8412",
