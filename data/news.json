@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:33:15Z",
+ "updated": "2026-11-04T13:42:22Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "8d682625501f",
+   "company": "lovable",
+   "kind": "blog",
+   "title": "How we built Lovable, and why we keep rebuilding it | Lovable",
+   "summary": "Anton Osika shares lessons from building Lovable through 100,000 pull requests, from matching agent freedom to model ability to faster feedback loops and stateful sandboxes.",
+   "url": "https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it",
+   "image": "https://assets.lovable.dev/content/news/covers/how-we-built-lovable-2026-11-02.png",
+   "published": "2026-11-04T13:42:22Z",
+   "found": "2026-11-04T13:42:22Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true
+  },
   {
    "id": "0f281cabd4f6",
    "company": "copilot",
@@ -3488,7 +3502,9 @@
    "ar_detail": true,
    "ar_title": "Suno تطلق Speech (تجريبي)",
    "ar_summary": "تقدّم Suno ميزة Speech التجريبية كطريقة جديدة للتعبير الإبداعي.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "8aa77346da60",
@@ -3500,7 +3516,9 @@
    "image": "https://i1.ytimg.com/vi/HIUzrxQxTtw/hqdefault.jpg",
    "published": "2026-10-01T16:37:46Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "853d99b4e783",
@@ -3512,7 +3530,9 @@
    "image": null,
    "published": "2026-10-01T12:54:31Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "15e70ee5e4a7",
@@ -3528,7 +3548,9 @@
    "ar_detail": true,
    "ar_title": "Gemini 4 Argon: عصر جديد من الذكاء المتقدم",
    "ar_summary": "تعلن Google DeepMind عن Gemini 4 Argon كمرحلة جديدة من الذكاء المتقدم.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "0a622a33b8e3",
@@ -3544,7 +3566,8 @@
    "ar_detail": true,
    "ar_title": "تقديم SynthID Bio",
    "ar_summary": "نموذج أولي لوضع علامة مائية على البروتينات المولدة بالذكاء الاصطناعي مع الحفاظ على وظيفتها البيولوجية.",
-   "ai": true
+   "ai": true,
+   "fetched": true
   },
   {
    "id": "34b6fd4acf3f",
@@ -3556,7 +3579,9 @@
    "image": null,
    "published": "2026-09-29T19:00:20Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "105e76d8cdee",
@@ -3568,7 +3593,9 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
    "published": "2026-09-29T18:38:27Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "1eadd5627184",
@@ -3580,7 +3607,9 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
    "published": "2026-09-28T19:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "dc939076f65e",
@@ -3596,7 +3625,9 @@
    "ar_detail": true,
    "ar_title": "Character.AI تقدم PipSqueak 3 وShortSqueak وخطة (c.ai) lite",
    "ar_summary": "تطلق Character.AI نمطين مجانيين جديدين للمحادثة، PipSqueak 3 للتقمص العام وShortSqueak للمحادثات القصيرة، إضافة إلى خطة اشتراك (c.ai) lite.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "aabbcb7a3a47",
@@ -3608,7 +3639,9 @@
    "image": null,
    "published": "2026-09-25T18:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "4dfafaa726ef",
@@ -3620,7 +3653,9 @@
    "image": "https://cdn.amazon.science/64/06/65de2b8949c5ad6788d04e1cd813/trainium-cover.png",
    "published": "2026-09-25T14:55:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "234391b377f9",
@@ -3632,7 +3667,9 @@
    "image": null,
    "published": "2026-09-24T20:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "da79314d1ca0",
@@ -3644,7 +3681,9 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
    "published": "2026-09-24T19:40:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "87c949c5277f",
@@ -3656,7 +3695,9 @@
    "image": null,
    "published": "2026-09-24T19:36:40Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "5d810621a5e7",
@@ -3668,7 +3709,9 @@
    "image": null,
    "published": "2026-09-24T18:26:12Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "e7107d9a76d9",
@@ -3684,7 +3727,9 @@
    "ar_detail": true,
    "ar_title": "تقديم Gemini 3.8 Live مع Live Avatar",
    "ar_summary": "تعلن Google DeepMind عن Gemini 3.8 Live مع ميزة الصورة الرمزية الحية.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "abbe680279c1",
@@ -3696,7 +3741,9 @@
    "image": null,
    "published": "2026-09-24T01:59:23Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "cb4e42d4d067",
@@ -3708,7 +3755,9 @@
    "image": "https://i1.ytimg.com/vi/DdCEmlAydcw/hqdefault.jpg",
    "published": "2026-09-23T18:01:32Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "8a86c97089bb",
@@ -3720,7 +3769,9 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp",
    "published": "2026-09-23T18:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "4c4abcff4acd",
@@ -3732,7 +3783,8 @@
    "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo",
    "published": "2026-09-23T16:00:57Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 1
+   "importance": 1,
+   "fetched": true
   },
   {
    "id": "8a125b97e524",
@@ -3744,7 +3796,9 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp",
    "published": "2026-09-23T16:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "61c4e542f161",
@@ -3760,7 +3814,9 @@
    "ar_detail": true,
    "ar_title": "أنشئ أصواتك الخاصة بتحويل النص إلى كلام في Gemini 3.8",
    "ar_summary": "يتيح Gemini 3.8 تصميم شخصيات صوتية جديدة بالأوامر النصية أو إعادة إنتاج صوت من عينة مدتها 30 ثانية.",
-   "ai": true
+   "ai": true,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "01251fcfddec",
@@ -3772,7 +3828,8 @@
    "image": null,
    "published": "2026-09-23T14:30:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 1
+   "importance": 1,
+   "fetched": true
   },
   {
    "id": "7c348eedc060",
@@ -3784,7 +3841,9 @@
    "image": "https://assets.aboutamazon.com/dims4/default/83adb37/2147483647/strip/true/crop/1434x1434+243+0/resize/605x605!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Ff2%2F04%2Ffd4576b74c66be6294fc5f69edd1%2Faccelerate-2026-seller-assistant-hero-feature.jpg",
    "published": "2026-09-23T13:00:08Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "089c4ff63dd0",
@@ -3796,7 +3855,9 @@
    "image": null,
    "published": "2026-09-23T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "e8cb7a03edd8",
@@ -3808,7 +3869,9 @@
    "image": "https://assets.aboutamazon.com/dims4/default/994bb0d/2147483647/strip/true/crop/2000x1125+0+0/resize/767x431!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F19%2F3f%2F7f2ad1434a4e80ac0c18d86ce797%2Faiinfrasummit-hero-amazonnews-ck2226-2.png",
    "published": "2026-09-22T18:42:38Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "b94504d94fb1",
@@ -3820,7 +3883,9 @@
    "image": null,
    "published": "2026-09-22T14:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "390b17852f3a",
@@ -3832,7 +3897,9 @@
    "image": null,
    "published": "2026-09-21T17:51:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   }
  ]
 }
