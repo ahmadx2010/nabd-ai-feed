@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T15:52:07Z",
+ "updated": "2026-11-04T16:38:10Z",
  "categories": [
   {
    "key": "big",
@@ -3041,9 +3041,13 @@
    "image": null,
    "published": "2026-10-16T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "وكلاء Cursor السحابيون يبنون لوحات تفاعلية وتحسينات كبيرة للبيئات",
+   "ar_summary": "أصبح بإمكان وكلاء Cursor السحابيين بناء لوحات (Canvases) تفاعلية ومشاركتها، كما أُتيحت واجهة Environments API بنسخة تجريبية. تدعم البيئات الآن حتى 300 مستودع وتُحمَّل البيئات الكبيرة أسرع بخمس مرات.",
+   "ai": true
   },
   {
    "id": "996b33c09ad5",
@@ -3055,9 +3059,13 @@
    "image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo",
    "published": "2026-10-15T16:08:03Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Google Antigravity يسرّع البحث عن ببتيدات مضادة للميكروبات",
+   "ar_summary": "استخدم باحثون منصة Google Antigravity لاكتشاف مرشح ببتيد جديد مضاد للميكروبات يُتوقع أن يعمل ضد مسببات عدوى الجهاز التنفسي. المرشح يخضع الآن للتحقق المخبري.",
+   "ai": true
   },
   {
    "id": "7c11c79ec35f",
@@ -3071,7 +3079,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "السايدتشين: خدعة صوتية قديمة تمنح موسيقاك نبضاً",
+   "ar_summary": "مقال تعليمي من Suno يشرح تقنية الضغط الجانبي (sidechain) وتاريخها واستخدامها في الموسيقى الإلكترونية، ويربطها بأداة الضاغط في Suno Studio.",
+   "ai": true
   },
   {
    "id": "18caff74c7f5",
@@ -3083,9 +3095,13 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.max-600x600.format-webp.webp",
    "published": "2026-10-15T13:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Google تطلق «السلة الشاملة» Universal Cart في الولايات المتحدة",
+   "ar_summary": "أطلقت Google سلة التسوق الذكية Universal Cart في أمريكا عبر البحث وتطبيق Gemini، لتجمع منتجات متاجر متعددة وتتتبع انخفاض الأسعار وتقترح أكواد الخصم وطرق الدفع.",
+   "ai": true
   },
   {
    "id": "80ed021c396f",
@@ -3099,7 +3115,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "دراسة Meta: أكثر من ثلاثة أرباع أصحاب الأعمال الصغيرة يرون أن الذكاء الاصطناعي يزيد إنتاجيتهم",
+   "ar_summary": "كشفت دراسة YouGov بتكليف من Meta شملت نحو 4000 صاحب عمل صغير في تسعة أسواق آسيوية أن 84% يستخدمون الذكاء الاصطناعي، لكن 86% يحتاجون إرشاداً أكثر.",
+   "ai": true
   },
   {
    "id": "98e6a11f87f3",
@@ -3111,9 +3131,13 @@
    "image": null,
    "published": "2026-10-15T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Apple: تشغيل نماذج ضخمة محلياً وموزعاً على Mac Studio عبر MLX وRDMA",
+   "ar_summary": "تشرح Apple كيف يمكن تشغيل نموذج Muse Spark Open بنحو تريليون معامل على أربعة أجهزة Mac Studio بسرعة تتجاوز 36 رمزاً في الثانية، باستخدام أحدث إصدار من MLX.",
+   "ai": true
   },
   {
    "id": "1aaf9ecdd8b2",
@@ -3145,7 +3169,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "هل نخطط أولاً أم نسترجع أولاً؟ دراسة لبنى اكتشاف الأدوات لدى الوكلاء",
+   "ar_summary": "بحث من Apple يقارن بين استرجاع الأدوات ثم التخطيط والتخطيط ثم الاسترجاع. يتفوق الأول في الاستعلامات البسيطة والثاني في الاستعلامات متعددة الأدوات.",
+   "ai": true
   },
   {
    "id": "93dc9e9d57ba",
@@ -3157,9 +3185,13 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/EarthAITechReport1_Overview.gif",
    "published": "2026-10-14T16:14:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Google Earth AI: وكلاء جغرافيون لمواجهة تحديات الكوكب",
+   "ar_summary": "نشرت Google تقريراً تقنياً عن وكيل التفكير الجغرافي المكاني، ووسّعت الوصول التجريبي عبر Ask Google Earth وخدمة A2A للمطورين.",
+   "ai": true
   },
   {
    "id": "e5f78e0104d8",
@@ -3171,9 +3203,13 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepReview2.jpg",
    "published": "2026-10-14T16:14:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Google تطلق Deep Review لمراجعة المستندات التقنية",
+   "ar_summary": "أطلقت Google أداة Deep Review الوكيلية للعموم لتدقيق الأوراق العلمية والمستندات، بعد استخدامها في أكثر من 16 ألف بحث في مؤتمرات كبرى.",
+   "ai": true
   },
   {
    "id": "19f3965005eb",
@@ -3185,9 +3221,13 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/USS0291-Google_Research_Anthem_Film_Thumbnail4_1.jpg",
    "published": "2026-10-14T16:14:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Research@ 2026: عشر طرق يعزز بها Google الإبداع البشري",
+   "ar_summary": "استعرضت Google في فعالية Research@ عشرة إنجازات بحثية، من Earth AI للذكاء الكوكبي إلى سير العمل الطبي.",
+   "ai": true
   },
   {
    "id": "f7da7d13236f",
@@ -3217,8 +3257,12 @@
    "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo",
    "published": "2026-10-14T02:00:14Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "fetched": true
+   "importance": 1,
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "DeepMind وحكومة سنغافورة تبنيان نموذجاً لكشف الاحتيال على الجهاز",
+   "ar_summary": "تعاونت Google DeepMind وGovTech Singapore لاستخدام نماذج Gemma خفيفة على الجهاز لاعتراض الاحتيال في المحادثات الخاصة دون إرسال بيانات إلى السحابة.",
+   "ai": true
   },
   {
    "id": "15a88e7ee914",
@@ -3232,7 +3276,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "كشف التبديل اللغوي في الكلام عبر أبعاد انتقائية للغة",
+   "ar_summary": "بحث من Apple يقترح طريقة خفيفة لاكتشاف التبديل بين لغتين داخل الجملة مباشرة من الكلام باستخدام مشفّر Whisper، بمتوسط F1 يبلغ 0.798.",
+   "ai": true
   },
   {
    "id": "e612dc941250",
@@ -3282,7 +3330,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "كواليس Suno: اصنع ما يحرّكك",
+   "ar_summary": "تحتفي Suno بإطلاق v6 بتصوير مشروعين مع الراقص Braylon Browner والمغنية Banoffee بإخراج Nina McNeely، لكل منهما أسلوبه الإبداعي.",
+   "ai": true
   },
   {
    "id": "3e78d0d4c307",
@@ -3312,9 +3364,13 @@
    "image": null,
    "published": "2026-10-13T17:56:33Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "نموذج GitHub لكشف الأسرار: نتائج أكثر بضجيج أقل",
+   "ar_summary": "طورت GitHub مصنّفاً واعياً بالسياق لاكتشاف الأسرار يرفع القبول الموزون 11.5% ويخفض زمن الفحص 86%.",
+   "ai": true
   },
   {
    "id": "d057f04d0b3c",
@@ -3506,9 +3562,13 @@
    "image": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/2026/10/oct-blog-header.jpg",
    "published": "2026-10-13T03:52:33Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 2,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Character.ai تبدأ إجراءات الإفلاس (الفصل 11) تمهيداً لبيع الشركة",
+   "ar_summary": "أعلنت Character.ai بدء إجراء الفصل 11 الطوعي لبيع الشركة بإشراف المحكمة. المنصة تعمل حالياً، وإن لم يظهر مشترٍ فستُغلق.",
+   "ai": true
   },
   {
    "id": "adadd90b83d7",
@@ -3520,9 +3580,13 @@
    "image": null,
    "published": "2026-10-13T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "اخلط ولا تضبط: التدريب ثنائي اللغة يتفوق على ضبط المعاملات",
+   "ar_summary": "دراسة من Apple باستخدام العربية كلغة هدف والإنجليزية كمساندة تظهر أن خلط بيانات لغة غنية أفضل من ضبط المعاملات عند شح البيانات.",
+   "ai": true
   },
   {
    "id": "b8b5f613d53f",
@@ -3534,9 +3598,13 @@
    "image": null,
    "published": "2026-10-13T00:00:00Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Cursor تفتح سوق تطبيقات Origin للمطورين",
+   "ar_summary": "يتكامل Origin مع أكثر من 20 تطبيقاً للنشر والتكامل المستمر ومراجعة الشيفرة والأمان، وأصبح السوق مفتوحاً لتقديم التطبيقات.",
+   "ai": true
   },
   {
    "id": "d8d241723974",
@@ -3550,7 +3618,11 @@
    "found": "2026-11-03T19:05:44Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "تطبيق GitHub Copilot للمبتدئين: كيف تعلّم Copilot عن شيفرتك",
+   "ar_summary": "دليل يشرح التعليمات المخصصة والمهارات والوكلاء المخصصين وخوادم MCP لتكييف Copilot مع مشروعك.",
+   "ai": true
   },
   {
    "id": "e05f5dfb850c",
@@ -3562,9 +3634,13 @@
    "image": null,
    "published": "2026-10-12T17:36:18Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Amazon: «التهيئة المسبقة» تغيّر بنية النموذج دون إعادة التدريب من الصفر",
+   "ar_summary": "طرحت AWS طريقة priming تعيد استخدام أوزان Transformer لبناء نماذج هجينة بتكلفة أقل من 1% وإنتاجية تصل إلى الضعف.",
+   "ai": true
   },
   {
    "id": "78d6d66a2b4f",
@@ -3578,7 +3654,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "نماذج اللغة في تقييم جودة الترجمة الآلية: البشر والنماذج يواجهون صعوبات",
+   "ar_summary": "دراسة من Apple تقارن اتفاق نماذج LLM مع المقيّمين البشر على 70 زوج لغات، وتجد أن الموثوقية ضعيفة في معظم الحالات.",
+   "ai": true
   },
   {
    "id": "438f8f82161f",
@@ -3592,7 +3672,11 @@
    "found": "2026-11-03T18:30:31Z",
    "importance": 0,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Minions: سحابة GPU موزعة من أجهزة Apple Silicon الخاملة",
+   "ar_summary": "ورقة من Apple تقدم Minions، نظاماً يجمع معالجات الرسوميات الخاملة في أجهزة macOS لتنفيذ استدلال تعلم الآلة.",
+   "ai": true
   },
   {
    "id": "770df069ccb5",
@@ -3604,9 +3688,13 @@
    "image": null,
    "published": "2026-10-12T00:00:00Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "وكلاء لغويون يضغطون سياقهم ذاتياً",
+   "ar_summary": "يقترح بحث Apple إطار SELFCOMPACT الذي يتيح للنموذج تحديد وقت وكيفية تلخيص سياقه، فيخفض التكلفة 30–70% ويحسن النتائج.",
+   "ai": true
   },
   {
    "id": "6d143a9a16cf",
@@ -3618,9 +3706,13 @@
    "image": null,
    "published": "2026-10-08T21:17:13Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "Midjourney تختبر «وضع التفكير» لتوليد الصور",
+   "ar_summary": "تختبر Midjourney وضع Thinking على موقع Alpha لتحسين دقة الالتزام بالوصف والكتابة والترابط.",
+   "ai": true
   },
   {
    "id": "a0c18c3e9abb",
@@ -3632,9 +3724,13 @@
    "image": null,
    "published": "2026-10-08T21:16:55Z",
    "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "سجل تغييرات Midjourney Alpha: مجلدات مشتركة ووضع التفكير",
+   "ar_summary": "أضاف التحديث الأسبوعي المجلدات المشتركة ووضع Thinking لصور الإصدار 8.2 وتحسينات في التنظيم واللوحات.",
+   "ai": true
   },
   {
    "id": "fc6c16485847",
@@ -3646,9 +3742,13 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
    "published": "2026-10-07T20:19:57Z",
    "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
-   "fetched": true
+   "fetched": true,
+   "ar_detail": true,
+   "ar_title": "هل العمل الأفضل يعني عاملين أفضل؟ دراسة Google عن الذكاء الاصطناعي والخبرة",
+   "ar_summary": "تجربة لثلاثة أشهر مع محامي براءات الاختراع بيّنت أن الذكاء الاصطناعي يحسّن جودة العمل، لكن تأثيره في التعلم يختلف بحسب الأقدمية.",
+   "ai": true
   },
   {
    "id": "c13c9140efc7",
