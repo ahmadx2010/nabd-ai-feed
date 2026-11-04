@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T16:38:10Z",
+ "updated": "2026-11-04T16:54:30Z",
  "categories": [
   {
    "key": "big",
@@ -386,6 +386,20 @@
  },
  "items": [
   {
+   "id": "ccf4ad643fca",
+   "company": "suno",
+   "kind": "blog",
+   "title": "Start Songs with MIDI",
+   "summary": "Create music on Suno using a MIDI file as your starting point",
+   "url": "https://suno.com/blog/MIDI-in-create",
+   "image": null,
+   "published": "2026-11-04T16:45:00Z",
+   "found": "2026-11-04T16:54:30Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true
+  },
+  {
    "id": "a655af3d86e9",
    "company": "cohere",
    "kind": "blog",
@@ -437,6 +451,20 @@
    "ar_title": "كيف بنينا Lovable ولماذا نعيد بناءه باستمرار",
    "ar_summary": "يشارك Anton Osika دروسًا من بناء Lovable عبر أكثر من 100 ألف طلب سحب، منها مواءمة حرية الوكيل مع قدرة النموذج.",
    "ai": true
+  },
+  {
+   "id": "e28316334a91",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "ElevenAgents integrates natively with leading contact center platforms to deliver enterprise-ready agents",
+   "summary": "ElevenAgents now integrates natively with NiCE, Genesys Cloud, Amazon Connect, and Five9, and connects to any other platform over SIP.",
+   "url": "https://elevenlabs.io/blog/elevenagents-contact-center-integrations",
+   "image": null,
+   "published": "2026-11-04T12:00:00Z",
+   "found": "2026-11-04T16:54:30Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true
   },
   {
    "id": "75679f5aa60b",
