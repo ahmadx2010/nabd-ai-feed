@@ -31,7 +31,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - run: pip install -q google-auth requests
       - name: Collect every 10 minutes
+        env:
+          FCM_SA: ${{ secrets.FCM_SA }}
         run: |
           git config user.name "nabd-bot"
           git config user.email "nabd-bot@users.noreply.github.com"
@@ -40,6 +43,7 @@ jobs:
             (cd code && git pull -q) || true
             before=$(git rev-parse HEAD)
             python code/collector/collect.py || true
+            python code/collector/push_fcm.py || true
             bash code/collector/push.sh "news $(date -u +%H:%M)" "python code/collector/collect.py" || true
             [ "$(git rev-parse HEAD)" = "$before" ] || gh workflow run pages.yml --repo "$GITHUB_REPOSITORY" || true
             [ "$i" = 6 ] || sleep 540
