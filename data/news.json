@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T10:45:16Z",
+ "updated": "2026-11-05T10:55:09Z",
  "categories": [
   {
    "key": "big",
@@ -416,7 +416,11 @@
    "found": "2026-11-05T10:45:16Z",
    "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تضع معيارًا جديدًا لبنية الذكاء الاصطناعي المسؤولة",
+   "ar_summary": "تعلن OpenAI عن «الميثاق المجتمعي الوطني» و«مخطط سياسة مراكز الحوسبة» لحماية الموارد المحلية وخلق الوظائف وتوجيه تطوير بنية الذكاء الاصطناعي بمسؤولية.",
+   "ai": true
   },
   {
    "id": "89209ab642b1",
@@ -428,10 +432,14 @@
    "image": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png",
    "published": "2026-11-05T00:00:00Z",
    "found": "2026-11-05T10:45:16Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Phonon TTS: نموذج صوتي عالي الجودة يعمل على جهازك مباشرة ويتصدر المقاييس",
+   "ar_summary": "تستعرض Hugging Face تفاصيل إطلاق Phonon، نموذج صغير لتحويل النص إلى كلام يعمل على الجهاز دون خادم أو إنترنت، وتشرح أداءه في لوحة Open TTS Leaderboard.",
+   "ai": true
   },
   {
    "id": "bde8352b29cd",
