@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T00:15:17Z",
+ "updated": "2026-11-05T01:01:02Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://i2.ytimg.com/vi/9ZxCOHkfn_8/hqdefault.jpg",
    "published": "2026-11-04T23:42:40Z",
    "found": "2026-11-05T00:15:00Z",
-   "importance": 0,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "GPT-Image-2.6: توليد صور أسرع مع Flare وSunburst",
+   "ar_summary": "أعلنت OpenAI عن إتاحة GPT-Image-2.6 في Codex وواجهة API، حيث يولّد نموذجا Flare وSunburst الصور بسرعة أكبر بنسبة 50%.",
+   "ai": true
   },
   {
    "id": "56dd15d9b848",
