@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:20:28Z",
+ "updated": "2026-11-05T19:38:16Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "e8690f74b67f",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+   "summary": "",
+   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/677c471f8b4c4e271e57eaa5/rtmGVvFdD6JqkjBc26vsp.png",
+   "published": "2026-11-05T19:35:16Z",
+   "found": "2026-11-05T19:38:16Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "80b8f077bc42",
    "company": "openai",
