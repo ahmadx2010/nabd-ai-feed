@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:11:02Z",
+ "updated": "2026-11-05T17:20:20Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "80b8f077bc42",
+   "company": "openai",
+   "kind": "video",
+   "title": "How Mozilla strengthens Firefox security with GPT-6 Cyber",
+   "summary": "Mozilla used GPT-6 Cyber to uncover previously unknown high-severity vulnerabilities in Firefox and identify architectural improvements. Its team shipped fixes to millions of users, turning findings into protections for the people who depend on the software. Hear Brian Grinstead, Distinguished Engineer for Firefox, share Mozilla’s experience and what stronger AI can mean for software defense.",
+   "url": "https://www.youtube.com/watch?v=pXRZyOxbDL4",
+   "image": "https://i1.ytimg.com/vi/pXRZyOxbDL4/hqdefault.jpg",
+   "published": "2026-11-05T17:14:11Z",
+   "found": "2026-11-05T17:20:20Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "825a50d1c0ad",
    "company": "gemini",
