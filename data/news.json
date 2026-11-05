@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T21:00:38Z",
+ "updated": "2026-11-05T21:18:50Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "cc8a3b50b532",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "AI is speeding up how Windows security flaws are found and fixed",
+   "summary": "The post AI is speeding up how Windows security flaws are found and fixed appeared first on Source .",
+   "url": "https://blogs.windows.com/windowsexperience/2026/11/05/a-new-standard-for-vulnerability-management-in-the-ai-era/",
+   "image": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/tn_a-new-standard.png",
+   "published": "2026-11-05T21:09:30Z",
+   "found": "2026-11-05T21:18:50Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "832fb0e59f71",
    "company": "langchain",
