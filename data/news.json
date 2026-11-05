@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:49:26Z",
+ "updated": "2026-11-05T17:57:49Z",
  "categories": [
   {
    "key": "big",
@@ -5191,25 +5191,6 @@
    "ar_detail": true,
    "ar_title": "ما الذي يفعله الضاغط الصوتي فعلاً؟ سلسلة تعليمية من Suno",
    "ar_summary": "تبدأ Suno سلسلة تشرح أدوات الإنتاج الموسيقي بمقال عن الضغط الصوتي (compression) والديناميكيات.",
-   "ai": true,
-   "img_tried": true
-  },
-  {
-   "id": "390b17852f3a",
-   "company": "amazon",
-   "kind": "blog",
-   "title": "Advancing AI for biology: Teaching models to design and characterize antibodies",
-   "summary": "Three new papers from Amazon Bio Discovery address bottlenecks in AI-driven antibody engineering, from benchmarking binding predictors to experimentally validating de novo design.",
-   "url": "https://www.amazon.science/blog/advancing-ai-for-biology-teaching-models-to-design-and-characterize-antibodies",
-   "image": "https://cdn.amazon.science/dims4/default/cf81c8b/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Ffd%2F70%2F3a65a679455aba2bf7e351dff7aa%2Fbiodiscovery-16x9.png",
-   "published": "2026-09-21T17:51:00Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "الذكاء الاصطناعي في الأحياء: Amazon تعلّم النماذج تصميم الأجسام المضادة",
-   "ar_summary": "نشر فريق Amazon Bio Discovery ثلاث أوراق بحثية تعالج عقبات تصميم الأجسام المضادة بالذكاء الاصطناعي، من التنبؤ بالارتباط إلى التحقق المخبري.",
    "ai": true,
    "img_tried": true
   }
