@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:43:50Z",
+ "updated": "2026-11-05T15:01:29Z",
  "categories": [
   {
    "key": "big",
@@ -440,6 +440,20 @@
    "ar_title": "OpenAI تضع معيارًا جديدًا لبنية الذكاء الاصطناعي المسؤولة",
    "ar_summary": "تعلن OpenAI عن «الميثاق المجتمعي الوطني» و«مخطط سياسة مراكز الحوسبة» لحماية الموارد المحلية وخلق الوظائف وتوجيه تطوير بنية الذكاء الاصطناعي بمسؤولية.",
    "ai": true
+  },
+  {
+   "id": "3a6958fef9c2",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "People first, then technology: Lessons from cities leading on AI",
+   "summary": "The post People first, then technology: Lessons from cities leading on AI appeared first on Source .",
+   "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/2026/11/03/frontier-government-people-first-lessons-from-cities-around-the-world/",
+   "image": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2026/11/AI-momentum-city-governments-2-1024x576.png",
+   "published": "2026-11-05T00:46:00Z",
+   "found": "2026-11-05T15:01:29Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "89209ab642b1",
