@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T03:45:04Z",
+ "updated": "2026-11-05T04:03:57Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تطلق ChatGPT Images 2.6 مع دعم GIF والصور المرجعية",
+   "ar_summary": "أعلنت OpenAI عن ChatGPT Images 2.6 مع إمكانية إنشاء صور GIF واستخدام صور مرجعية. كما سيصل نموذجان جديدان إلى واجهة API بتوليد صور أسرع بنسبة 50%.",
+   "ai": true
   },
   {
    "id": "bde8352b29cd",
@@ -636,7 +640,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تحسّن دقة تحويل الكلام إلى نص عبر سير عمل أذكى",
+   "ar_summary": "دليل من ElevenLabs يشرح أسباب انخفاض دقة تحويل الكلام إلى نص وكيفية معالجتها، من جودة الصوت واللهجات إلى المصطلحات الخاصة وقياس الدقة بمعيار WER.",
+   "ai": true
   },
   {
    "id": "a4f4c423c542",
