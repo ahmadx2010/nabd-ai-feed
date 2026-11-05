@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:52:31Z",
+ "updated": "2026-11-05T19:20:28Z",
  "categories": [
   {
    "key": "big",
@@ -549,7 +549,11 @@
    "found": "2026-11-05T18:52:31Z",
    "importance": 2,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "GPT-6 Cyber: نموذج OpenAI للأمن السيبراني يلتزم بالنطاق المصرّح به",
+   "ar_summary": "قدّمت OpenAI نموذج GPT-6 Cyber المخصص للأمن السيبراني، وهو يكتشف الثغرات القابلة للاستغلال ويطوّر حلولاً لها. وقد دُرّب على البقاء ضمن النطاق المصرّح به.",
+   "ai": true
   },
   {
    "id": "429ff381e1d6",
