@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T01:01:02Z",
+ "updated": "2026-11-05T03:26:53Z",
  "categories": [
   {
    "key": "big",
@@ -607,6 +607,21 @@
    "ar_title": "تسعير وكلاء الصوت بالذكاء الاصطناعي: كم يكلّف عملك؟",
    "ar_summary": "دليل من ElevenLabs يشرح مكوّنات تكلفة وكلاء الصوت (المنصة والنموذج اللغوي والاتصالات) مع أسعار ElevenAgents وطريقة حساب العائد مقارنة بتكلفة الموظفين.",
    "ai": true
+  },
+  {
+   "id": "dfaa3a304111",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Fix speech to text accuracy problems with a smarter workflow",
+   "summary": "Learn why speech to text accuracy drops and how to fix it, from audio quality and accents to keyterm prompting, plus how to measure it with WER.",
+   "url": "https://elevenlabs.io/blog/fix-speech-to-text-accuracy-problems",
+   "image": null,
+   "published": "2026-11-04T12:00:00Z",
+   "found": "2026-11-05T03:26:53Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "a4f4c423c542",
