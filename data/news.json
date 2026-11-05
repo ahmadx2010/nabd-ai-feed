@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:06:34Z",
+ "updated": "2026-11-05T21:00:38Z",
  "categories": [
   {
    "key": "big",
@@ -741,6 +741,21 @@
    "ar_title": "استرجاع أسرع لـ RAG أكثر كفاءة",
    "ar_summary": "بحث من Apple قُدم في ICML 2026 يدرّب شبكات عصبية صغيرة لتوجيه الاستعلامات نحو أفضل تطابق بسرعة أكبر في البحث بالضرب الداخلي الأقصى (MIPS).",
    "ai": true
+  },
+  {
+   "id": "5d176638f112",
+   "company": "cursor",
+   "kind": "blog",
+   "title": "Build Live Apps in Cursor",
+   "summary": "Build and deploy web apps directly in Cursor with cloud agents handling hosting, database, auth, and deployment.",
+   "url": "https://cursor.com/changelog/build-live-apps",
+   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png",
+   "published": "2026-11-05T00:00:00Z",
+   "found": "2026-11-05T21:00:38Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "bde8352b29cd",
