@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T21:37:46Z",
+ "updated": "2026-11-05T21:46:28Z",
  "categories": [
   {
    "key": "big",
@@ -611,6 +611,21 @@
    "ar_title": "لعبة Hogwarts Legacy تحصل على ترقية NVIDIA DLSS 5 على GeForce NOW",
    "ar_summary": "وصلت تقنية DLSS 5 مع العرض العصبي الموجَّه ثلاثي الأبعاد إلى لعبة Hogwarts Legacy على خدمة GeForce NOW، مع إضاءة ومواد أكثر واقعية. كما تنضم لعبة World of Warcraft: Forever إلى الخدمة.",
    "ai": true
+  },
+  {
+   "id": "9a44a8aa72aa",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "SRT file guide: Create, edit, and use subtitles in video",
+   "summary": "Learn what an SRT file is, how the SRT file format works, and how to open, edit, and create SRT files from audio or text. Compare SRT vs WebVTT.",
+   "url": "https://elevenlabs.io/blog/srt-file-guide",
+   "image": null,
+   "published": "2026-11-05T12:00:00Z",
+   "found": "2026-11-05T21:46:28Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "53c56afbaf05",
