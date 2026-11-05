@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:29:38Z",
+ "updated": "2026-11-05T15:47:21Z",
  "categories": [
   {
    "key": "big",
@@ -477,6 +477,21 @@
    "ar_title": "Phonon TTS: نموذج صوتي عالي الجودة يعمل على جهازك مباشرة ويتصدر المقاييس",
    "ar_summary": "تستعرض Hugging Face تفاصيل إطلاق Phonon، نموذج صغير لتحويل النص إلى كلام يعمل على الجهاز دون خادم أو إنترنت، وتشرح أداءه في لوحة Open TTS Leaderboard.",
    "ai": true
+  },
+  {
+   "id": "927cb4004243",
+   "company": "mistral",
+   "kind": "blog",
+   "title": "Build Enterprise Agents, Workflows & Apps in Mistral Studio",
+   "summary": "Build and deploy enterprise agents, workflows and apps faster with Mistral Studio and Le Chonk full control over your models, data and infrastructure.",
+   "url": "https://mistral.ai/news/build-with-studio/",
+   "image": "https://mistral.ai/cms-media/api/media/file/Studio%20V2%20-%20smal%20thumbnail.png",
+   "published": "2026-11-05T00:00:00Z",
+   "found": "2026-11-05T15:47:21Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "bde8352b29cd",
