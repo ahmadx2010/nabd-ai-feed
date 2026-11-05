@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T16:15:15Z",
+ "updated": "2026-11-05T17:02:12Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Hypertension1_Overview.png",
    "published": "2026-11-05T16:01:08Z",
    "found": "2026-11-05T16:05:30Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "غوغل تكشف علامات ارتفاع ضغط الدم باستخدام حساسات الساعات الذكية",
+   "ar_summary": "قدمت Google Research نظام ذكاء اصطناعي باسم AI-PPG-ACC-HTN يكشف علامات ارتفاع ضغط الدم بشكل سلبي من حساسات الساعة الذكية دون معايرة بجهاز قياس بكُمّة. نُشرت الدراسة في Nature وبلغت دقته مستوى قريباً من الطرق التقليدية.",
+   "ai": true
   },
   {
    "id": "9b11b10a55dd",
@@ -410,10 +414,14 @@
    "image": "https://iprsoftwaremedia.com/219/files/202611/8e8eb039e80a44db2a9a03e70d57eb13/6aeca83f3d6332fa74322372_Chris-Alexiuk_portrait-842x450/Chris-Alexiuk_portrait-842x450_thmb.jpg?v=11d542fe-a06c-4daf-823c-46f63808a377",
    "published": "2026-11-05T16:00:05Z",
    "found": "2026-11-05T16:15:15Z",
-   "importance": 1,
+   "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ساحر الأوزان المفتوحة: كريس أليكسيوك يبسّط الذكاء الاصطناعي بالنماذج المفتوحة",
+   "ar_summary": "تسلّط NVIDIA الضوء على كريس أليكسيوك، مهندس أبحاث المنتجات لديها، الذي يعلّم المطورين عبر يوتيوب كيفية بناء نماذج اللغة المفتوحة وتخصيصها ونشرها. ويدعو إلى الانفتاح الكامل في الذكاء الاصطناعي ويدعم عائلة Nemotron.",
+   "ai": true
   },
   {
    "id": "abce147212c4",
@@ -425,10 +433,14 @@
    "image": "https://iprsoftwaremedia.com/219/files/202611/135acc2eca65af91f0417e0aee50a774/6aeca8473d6332fa74322379_memory-codesign-1920x1080-1-842x450/memory-codesign-1920x1080-1-842x450_thmb.jpg?v=1973dd6a-8e38-408b-8592-68b6ba933546",
    "published": "2026-11-05T16:00:00Z",
    "found": "2026-11-05T16:15:15Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "أداء أكبر لكل بايت: كيف يحلّ التصميم المشترك الشامل أزمة الذاكرة في الذكاء الاصطناعي",
+   "ar_summary": "تشرح NVIDIA أن النماذج الأكبر والسياقات الأطول والتطبيقات الوكيلة ترفع الضغط على ذاكرة GPU، وأن الحل هو التصميم المشترك لكل طبقات النظام. وتقول إن سعة HBM لكل معالج ارتفعت نحو 3% فقط من Blackwell Ultra إلى Vera Rubin بينما زاد الإنتاج لكل دولار حتى 30 ضعفاً.",
+   "ai": true
   },
   {
    "id": "d050786c603e",
@@ -533,10 +545,14 @@
    "image": "https://mistral.ai/cms-media/api/media/file/Studio%20V2%20-%20smal%20thumbnail.png",
    "published": "2026-11-05T00:00:00Z",
    "found": "2026-11-05T15:47:21Z",
-   "importance": 0,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Mistral تطلق وكلاء وتطبيقات مُدارة في Mistral Studio لبناء حلول الذكاء الاصطناعي للمؤسسات",
+   "ar_summary": "وسّعت Mistral منصة Mistral Studio بوكلاء وتطبيقات مُدارة وإمكانات جديدة للتدفقات وسياق المؤسسة ومراقبة الوكلاء وتقييمهم. وتعمل المنصة مع Mistral Large 4 ويمكن نشرها في السحابة أو VPC أو داخل المؤسسة.",
+   "ai": true
   },
   {
    "id": "bde8352b29cd",
