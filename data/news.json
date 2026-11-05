@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:06:42Z",
+ "updated": "2026-11-05T14:43:50Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "لعبة Hogwarts Legacy تحصل على ترقية NVIDIA DLSS 5 على GeForce NOW",
+   "ar_summary": "وصلت تقنية DLSS 5 مع العرض العصبي الموجَّه ثلاثي الأبعاد إلى لعبة Hogwarts Legacy على خدمة GeForce NOW، مع إضاءة ومواد أكثر واقعية. كما تنضم لعبة World of Warcraft: Forever إلى الخدمة.",
+   "ai": true
   },
   {
    "id": "429ff381e1d6",
