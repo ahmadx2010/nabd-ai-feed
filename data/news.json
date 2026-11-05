@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T16:05:30Z",
+ "updated": "2026-11-05T16:15:15Z",
  "categories": [
   {
    "key": "big",
@@ -395,6 +395,36 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Hypertension1_Overview.png",
    "published": "2026-11-05T16:01:08Z",
    "found": "2026-11-05T16:05:30Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "9b11b10a55dd",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+   "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
+   "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+   "image": "https://iprsoftwaremedia.com/219/files/202611/8e8eb039e80a44db2a9a03e70d57eb13/6aeca83f3d6332fa74322372_Chris-Alexiuk_portrait-842x450/Chris-Alexiuk_portrait-842x450_thmb.jpg?v=11d542fe-a06c-4daf-823c-46f63808a377",
+   "published": "2026-11-05T16:00:05Z",
+   "found": "2026-11-05T16:15:15Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "abce147212c4",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+   "summary": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. […]",
+   "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+   "image": "https://iprsoftwaremedia.com/219/files/202611/135acc2eca65af91f0417e0aee50a774/6aeca8473d6332fa74322379_memory-codesign-1920x1080-1-842x450/memory-codesign-1920x1080-1-842x450_thmb.jpg?v=1973dd6a-8e38-408b-8592-68b6ba933546",
+   "published": "2026-11-05T16:00:00Z",
+   "found": "2026-11-05T16:15:15Z",
    "importance": 0,
    "detail": true,
    "fetched": true,
