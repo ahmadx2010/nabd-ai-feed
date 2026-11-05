@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T21:18:50Z",
+ "updated": "2026-11-05T21:37:46Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/tn_a-new-standard.png",
    "published": "2026-11-05T21:09:30Z",
    "found": "2026-11-05T21:18:50Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "الذكاء الاصطناعي يسرّع اكتشاف الثغرات الأمنية في Windows وإصلاحها",
+   "ar_summary": "تعلن مايكروسوفت أنها توظف الذكاء الاصطناعي لاكتشاف ثغرات Windows وإصلاحها مبكرًا، مع نشر معلومات الإصلاحات بسرعة وتعزيز أنظمة نشر التحديثات.",
+   "ai": true
   },
   {
    "id": "832fb0e59f71",
@@ -767,10 +771,14 @@
    "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-11-05-26.png",
    "published": "2026-11-05T00:00:00Z",
    "found": "2026-11-05T21:00:38Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Cursor تتيح بناء تطبيقات حية ونشرها مباشرة",
+   "ar_summary": "أطلقت Cursor ميزة لبناء تطبيقات ويب ونشرها من داخل المحرر عبر وكلاء سحابيين يتولون قاعدة البيانات والمصادقة والاستضافة، مع مشاركتها برابط.",
+   "ai": true
   },
   {
    "id": "bde8352b29cd",
