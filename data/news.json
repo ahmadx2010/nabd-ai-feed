@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T03:26:53Z",
+ "updated": "2026-11-05T03:45:04Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "429ff381e1d6",
+   "company": "openai",
+   "kind": "video",
+   "title": "Introducing ChatGPT Images 2.6",
+   "summary": "Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation. Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation. https://openai.com/index/introducing-images-2-6/",
+   "url": "https://www.youtube.com/watch?v=bJldMYfRvMQ",
+   "image": "https://i3.ytimg.com/vi/bJldMYfRvMQ/hqdefault.jpg",
+   "published": "2026-11-05T02:32:21Z",
+   "found": "2026-11-05T03:45:04Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "bde8352b29cd",
    "company": "openai",
