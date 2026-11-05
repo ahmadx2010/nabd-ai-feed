@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:54:25Z",
+ "updated": "2026-11-05T23:55:24Z",
  "categories": [
   {
    "key": "big",
@@ -678,9 +678,13 @@
    "image": null,
    "published": "2026-11-05T08:00:00Z",
    "found": "2026-11-05T23:27:13Z",
-   "importance": 1,
+   "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "شركة Merge تبني أدوات المنتج والأعمال بتقنيات OpenAI",
+   "ar_summary": "تستخدم Merge نموذج GPT-6 Astra وChatGPT وCodex لمراجعة أكواد المنتج ودعم التسويق. كما تعتمد فرقها على الذكاء الاصطناعي لتخطيط عشاءات المسؤولين وإعداد تحديثات المبيعات.",
+   "ai": true
   },
   {
    "id": "429ff381e1d6",
@@ -749,7 +753,11 @@
    "found": "2026-11-05T23:54:25Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Flipsnack تنمّي تسجيلات المنتج عبر تحسين التحويل",
+   "ar_summary": "ركّزت Flipsnack حملاتها في إعلانات ChatGPT على دفع المستخدمين لتجربة المنتج، فزادت التسجيلات وانخفضت تكلفة كل تسجيل.",
+   "ai": true
   },
   {
    "id": "89209ab642b1",
