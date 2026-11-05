@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:09:30Z",
+ "updated": "2026-11-05T23:27:13Z",
  "categories": [
   {
    "key": "big",
@@ -667,6 +667,20 @@
    "ar_title": "GPT-6 Cyber: نموذج OpenAI للأمن السيبراني يلتزم بالنطاق المصرّح به",
    "ar_summary": "قدّمت OpenAI نموذج GPT-6 Cyber المخصص للأمن السيبراني، وهو يكتشف الثغرات القابلة للاستغلال ويطوّر حلولاً لها. وقد دُرّب على البقاء ضمن النطاق المصرّح به.",
    "ai": true
+  },
+  {
+   "id": "300d91101f21",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Merge builds product and business tools with OpenAI technology",
+   "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+   "url": "https://openai.com/index/merge-builds-with-openai",
+   "image": null,
+   "published": "2026-11-05T08:00:00Z",
+   "found": "2026-11-05T23:27:13Z",
+   "importance": 1,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "429ff381e1d6",
