@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T21:46:28Z",
+ "updated": "2026-11-05T22:23:42Z",
  "categories": [
   {
    "key": "big",
@@ -625,7 +625,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "دليل ملفات SRT: إنشاء الترجمات وتحريرها واستخدامها في الفيديو",
+   "ar_summary": "دليل من ElevenLabs يشرح ماهية ملف SRT وطريقة عمله وكيفية فتحه وتحريره وإنشائه من الصوت أو النص، مع مقارنة بينه وبين WebVTT.",
+   "ai": true
   },
   {
    "id": "53c56afbaf05",
