@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:02:12Z",
+ "updated": "2026-11-05T17:11:02Z",
  "categories": [
   {
    "key": "big",
@@ -386,6 +386,51 @@
  },
  "items": [
   {
+   "id": "825a50d1c0ad",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "summary": "",
+   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
+   "published": "2026-11-05T17:05:16Z",
+   "found": "2026-11-05T17:11:02Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "63c3d56bc72b",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
+   "published": "2026-11-05T17:00:00Z",
+   "found": "2026-11-05T17:11:02Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "b0683f2a38d4",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Transform a quick drawing into a live app with Gemini.",
+   "summary": "Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bring_your_paper_sketches_to_li.max-600x600.format-webp.webp",
+   "published": "2026-11-05T17:00:00Z",
+   "found": "2026-11-05T17:11:02Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "25f255575df3",
    "company": "google",
    "kind": "blog",
@@ -553,6 +598,21 @@
    "ar_title": "Mistral تطلق وكلاء وتطبيقات مُدارة في Mistral Studio لبناء حلول الذكاء الاصطناعي للمؤسسات",
    "ar_summary": "وسّعت Mistral منصة Mistral Studio بوكلاء وتطبيقات مُدارة وإمكانات جديدة للتدفقات وسياق المؤسسة ومراقبة الوكلاء وتقييمهم. وتعمل المنصة مع Mistral Large 4 ويمكن نشرها في السحابة أو VPC أو داخل المؤسسة.",
    "ai": true
+  },
+  {
+   "id": "5c37530d0402",
+   "company": "windsurf",
+   "kind": "blog",
+   "title": "Devin Review 2.0 | Devin",
+   "summary": "Since August, we’ve cut the cost of reviewing a PR by 82%. Devin Review is now cheap and effective enough to run on every PR.",
+   "url": "https://windsurf.com/blog/devin-review-2",
+   "image": "https://devin.ai/images/blog/devin-review-2/cover.png",
+   "published": "2026-11-05T00:00:00Z",
+   "found": "2026-11-05T17:11:02Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "bde8352b29cd",
