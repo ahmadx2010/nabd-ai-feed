@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T00:14:33Z",
+ "updated": "2026-11-05T00:15:00Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "bde8352b29cd",
+   "company": "openai",
+   "kind": "video",
+   "title": "GPT-Image-2.6: Faster image generation with Flare and Sunburst",
+   "summary": "We’re bringing GPT-Image-2.6 to Codex and the API. In the API, the 2.6 versions of Flare and Sunburst generate images 50% faster than before. Use Flare for a quick first pass on a poster or product shot. At low image quality, it can generate an image in as little as six seconds. When you need details to stay consistent across edits, use Sunburst at medium or high quality. Try changing a product’s…",
+   "url": "https://www.youtube.com/watch?v=9ZxCOHkfn_8",
+   "image": "https://i2.ytimg.com/vi/9ZxCOHkfn_8/hqdefault.jpg",
+   "published": "2026-11-04T23:42:40Z",
+   "found": "2026-11-05T00:15:00Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "56dd15d9b848",
    "company": "openai",
