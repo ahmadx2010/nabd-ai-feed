@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:27:13Z",
+ "updated": "2026-11-05T23:54:25Z",
  "categories": [
   {
    "key": "big",
@@ -736,6 +736,20 @@
    "ar_title": "الناس أولاً ثم التقنية: دروس من مدن رائدة في الذكاء الاصطناعي",
    "ar_summary": "تنشر مايكروسوفت مقالاً ضمن مدونتها الحكومية يستعرض دروساً من مدن حول العالم تقود تبنّي الذكاء الاصطناعي، مع التأكيد على أن الإنسان يأتي قبل التقنية.",
    "ai": true
+  },
+  {
+   "id": "1f9981de5700",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Flipsnack grows product signups with conversion optimization",
+   "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+   "url": "https://openai.com/ads/customers/flipsnack",
+   "image": null,
+   "published": "2026-11-05T00:45:15Z",
+   "found": "2026-11-05T23:54:25Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "89209ab642b1",
