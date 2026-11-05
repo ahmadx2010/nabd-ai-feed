@@ -558,6 +558,7 @@
  ],
  "https://blog.langchain.com/": [
   "https://blog.langchain.com/blog/agent-traces-ai-search-langsmith",
+  "https://blog.langchain.com/blog/agents-are-going-async",
   "https://blog.langchain.com/blog/browser-use-in-managed-deep-agents",
   "https://blog.langchain.com/blog/building-agent-memory-openwiki-graphs",
   "https://blog.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",

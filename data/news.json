@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:38:16Z",
+ "updated": "2026-11-05T20:05:33Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,35 @@
   }
  },
  "items": [
+  {
+   "id": "832fb0e59f71",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "Agents Are Going Async",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/agents-are-going-async",
+   "image": null,
+   "published": "2026-11-05T20:05:33Z",
+   "found": "2026-11-05T20:05:33Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "e8438a23dbcf",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+   "summary": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
+   "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1.png",
+   "published": "2026-11-05T20:00:41Z",
+   "found": "2026-11-05T20:05:33Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "e8690f74b67f",
    "company": "huggingface",
