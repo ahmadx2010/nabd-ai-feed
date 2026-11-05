@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:38:53Z",
+ "updated": "2026-11-05T17:49:26Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://i1.ytimg.com/vi/pXRZyOxbDL4/hqdefault.jpg",
    "published": "2026-11-05T17:14:11Z",
    "found": "2026-11-05T17:20:20Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تعزز Mozilla أمان Firefox باستخدام GPT-6 Cyber",
+   "ar_summary": "استخدمت Mozilla نموذج GPT-6 Cyber لاكتشاف ثغرات عالية الخطورة غير معروفة سابقًا في Firefox وتحديد تحسينات معمارية، ثم نشرت الإصلاحات لملايين المستخدمين.",
+   "ai": true
   },
   {
    "id": "825a50d1c0ad",
@@ -410,10 +414,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
    "published": "2026-11-05T17:05:16Z",
    "found": "2026-11-05T17:11:02Z",
-   "importance": 0,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini Omni 1.2 Flash: سريع وأقل تكلفة مع مقاطع أطول",
+   "ar_summary": "أطلقت Google DeepMind نموذج Gemini Omni 1.2 Flash لتوليد الفيديو بمقاطع تصل إلى 15 ثانية وتحرير عبر المحادثة وتخفيض للسعر بنسبة 30%.",
+   "ai": true
   },
   {
    "id": "63c3d56bc72b",
@@ -425,10 +433,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
    "published": "2026-11-05T17:00:00Z",
    "found": "2026-11-05T17:11:02Z",
-   "importance": 1,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini Omni 1.2 Flash: سريع وأقل تكلفة مع مقاطع أطول",
+   "ar_summary": "أطلقت Google نموذج Gemini Omni 1.2 Flash لتوليد الفيديو بمقاطع تصل إلى 15 ثانية وتحرير عبر المحادثة وتخفيض للسعر بنسبة 30%. النموذج متاح عبر Gemini API وGoogle Vids وGemini for business.",
+   "ai": true
   },
   {
    "id": "b0683f2a38d4",
@@ -443,7 +455,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "حوّل رسمة سريعة إلى تطبيق حي باستخدام Gemini",
+   "ar_summary": "يمكن رفع صورة لرسم يدوي لتطبيق أو لعبة إلى Gemini واستخدام أداة Canvas لتوليد الكود وتعديله فورًا.",
+   "ai": true
   },
   {
    "id": "25f255575df3",
@@ -624,10 +640,14 @@
    "image": "https://devin.ai/images/blog/devin-review-2/cover.png",
    "published": "2026-11-05T00:00:00Z",
    "found": "2026-11-05T17:11:02Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Devin Review 2.0: مراجعة أرخص بنسبة 82% لكل طلب دمج",
+   "ar_summary": "أطلقت الشركة Devin Review 2.0 وجعلته الأداة الافتراضية لمراجعة PR، بعد خفض تكلفة المراجعة 82% منذ أغسطس لتصبح 0.25-0.75 دولار.",
+   "ai": true
   },
   {
    "id": "7a69c1b89eda",
@@ -639,10 +659,14 @@
    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
    "published": "2026-11-05T00:00:00Z",
    "found": "2026-11-05T17:38:53Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "استرجاع أسرع لـ RAG أكثر كفاءة",
+   "ar_summary": "بحث من Apple قُدم في ICML 2026 يدرّب شبكات عصبية صغيرة لتوجيه الاستعلامات نحو أفضل تطابق بسرعة أكبر في البحث بالضرب الداخلي الأقصى (MIPS).",
+   "ai": true
   },
   {
    "id": "bde8352b29cd",
