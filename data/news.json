@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:23:42Z",
+ "updated": "2026-11-05T23:08:41Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "fdce8dfb6db6",
+   "company": "characterai",
+   "kind": "blog",
+   "title": "Chapter 11 Update and Transaction Notice",
+   "summary": "We wanted to provide an update on the status of the Character’s Chapter 11 case. On November 4, 2026, the Bankruptcy Court entered an order approving bidding procedures to govern Character’s sale process (the “Bidding Procedures Order”). The Bidding Procedures Order also approved",
+   "url": "https://blog.character.ai/chapter-11-update-and-transaction-notice/",
+   "image": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/2026/11/oct-blog-header.jpg",
+   "published": "2026-11-05T22:59:54Z",
+   "found": "2026-11-05T23:08:41Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "cc8a3b50b532",
    "company": "microsoft",
