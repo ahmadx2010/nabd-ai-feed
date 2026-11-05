@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:20:20Z",
+ "updated": "2026-11-05T17:38:53Z",
  "categories": [
   {
    "key": "big",
@@ -624,6 +624,21 @@
    "image": "https://devin.ai/images/blog/devin-review-2/cover.png",
    "published": "2026-11-05T00:00:00Z",
    "found": "2026-11-05T17:11:02Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "7a69c1b89eda",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Faster Retrieval for Better, More Efficient RAG",
+   "summary": "Maximum inner product search (MIPS) sits at the core of recommendation systems, search, and retrieval-augmented generation (RAG). Given a query vector, MIPS systems search within a database of millions of candidate key vectors for the one that best matches the query. The original data point associated with that best-matching key is then used to handle the query: in RAG, the document that is best…",
+   "url": "https://machinelearning.apple.com/research/faster-retrieval",
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+   "published": "2026-11-05T00:00:00Z",
+   "found": "2026-11-05T17:38:53Z",
    "importance": 0,
    "detail": true,
    "fetched": true,
