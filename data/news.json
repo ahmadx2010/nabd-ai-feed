@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:47:21Z",
+ "updated": "2026-11-05T16:05:30Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "25f255575df3",
+   "company": "google",
+   "kind": "blog",
+   "title": "Detecting signs of hypertension using wearable sensors",
+   "summary": "Health & Bioscience",
+   "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Hypertension1_Overview.png",
+   "published": "2026-11-05T16:01:08Z",
+   "found": "2026-11-05T16:05:30Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "d050786c603e",
    "company": "nvidia",
