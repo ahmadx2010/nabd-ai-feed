@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:05:33Z",
+ "updated": "2026-11-05T20:06:34Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-05T20:05:33Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "الوكلاء الذكيون يتجهون نحو العمل غير المتزامن",
+   "ar_summary": "مقال على مدونة LangChain يتناول توجه وكلاء الذكاء الاصطناعي نحو العمل بشكل غير متزامن.",
+   "ai": true
   },
   {
    "id": "e8438a23dbcf",
@@ -409,10 +413,14 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1.png",
    "published": "2026-11-05T20:00:41Z",
    "found": "2026-11-05T20:05:33Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "معالج NVIDIA Vera يجمع أعلى إنتاجية وأسرع أداء للوكلاء الأذكياء",
+   "ar_summary": "تقول NVIDIA إن معالجها Vera يوفر سرعة عالية للوكلاء الأذكياء مع كفاءة أعلى في استهلاك الطاقة مقارنة بمعالجات x86. وتشير إلى بدء شركاء مثل Perplexity استخدامه.",
+   "ai": true
   },
   {
    "id": "e8690f74b67f",
@@ -424,10 +432,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/677c471f8b4c4e271e57eaa5/rtmGVvFdD6JqkjBc26vsp.png",
    "published": "2026-11-05T19:35:16Z",
    "found": "2026-11-05T19:38:16Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "نماذج NVIDIA Cosmos 3 المفتوحة الجديدة لمحاكاة العالم التفاعلية",
+   "ar_summary": "أضافت NVIDIA أربع نقاط تحقق مفتوحة الأوزان إلى عائلة Cosmos 3 لتوليد محاكاة تفاعلية ومشاهد قيادة متعددة الحساسات. تخدم النماذج أبحاث الروبوتات والسيارات ذاتية القيادة.",
+   "ai": true
   },
   {
    "id": "80b8f077bc42",
