@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T00:15:00Z",
+ "updated": "2026-11-05T00:15:17Z",
  "categories": [
   {
    "key": "big",
@@ -725,7 +725,11 @@
    "found": "2026-11-05T00:14:33Z",
    "importance": 2,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تطلق Images 2.6 لتوليد الصور بشكل أسرع وتحرير أدق",
+   "ar_summary": "أعلنت OpenAI عن Images 2.6 الذي يقدّم توليد صور أسرع، وإنشاء صور GIF، وتحريرًا أكثر دقة، مع عناصر تحكم جديدة في واجهة API، ويتوفر في ChatGPT وCodex وAPI.",
+   "ai": true
   },
   {
    "id": "af325869114f",
