@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:50:09Z",
+ "updated": "2026-11-06T08:18:32Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "أفضل 10 أدوات ذكاء اصطناعي لصناعة الألعاب للمبتدئين في 2026",
+   "ar_summary": "مقال من Manus يقارن بين 10 أدوات لصناعة الألعاب بالذكاء الاصطناعي دون الحاجة إلى برمجة، لمساعدة المبتدئين على بناء لعبتهم الأولى.",
+   "ai": true
   },
   {
    "id": "c82cf33cc10c",
@@ -413,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تبني لعبتك الأولى بالذكاء الاصطناعي: دليل خطوة بخطوة",
+   "ar_summary": "دليل من Manus يشرح كيفية صناعة لعبة دون برمجة، مع مقارنة الأدوات وأوامر جاهزة وخطوات البناء والاختبار والنشر.",
+   "ai": true
   },
   {
    "id": "dcf7efe8bcfb",
@@ -466,7 +474,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "أفضل أدوات الذكاء الاصطناعي لتطوير الألعاب في 2026: اختياراتنا العشرة",
+   "ar_summary": "مقال من Manus يستعرض 10 أدوات ذكاء اصطناعي لتطوير الألعاب تشمل البرمجة والرسوميات والرسوم المتحركة والصوت.",
+   "ai": true
   },
   {
    "id": "fdce8dfb6db6",
