@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:43:20Z",
+ "updated": "2026-11-06T19:44:16Z",
  "categories": [
   {
    "key": "big",
@@ -455,7 +455,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "شارك أعمالك من ElevenMusic مباشرة على SoundCloud",
+   "ar_summary": "أطلقت ElevenLabs تكاملًا مع SoundCloud يتيح نشر المقاطع المنشأة في ElevenMusic بخطوات قليلة. ويحصل مشتركو SoundCloud Artist Pro على ثلاثة أشهر مجانية من ElevenMusic.",
+   "ai": true
   },
   {
    "id": "bc8f9eac1966",
@@ -601,7 +605,11 @@
    "found": "2026-11-06T19:16:04Z",
    "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تقيس أداء وكلاء الذكاء الاصطناعي في أعمال المختبرات البيولوجية اليومية",
+   "ar_summary": "قدمت OpenAI معيار BioBasicsBench، وهو اختبار من 100 مهمة يقيس قدرة وكلاء الذكاء الاصطناعي على تفسير البيانات التجريبية الخام والتعامل مع أعمال المختبرات البيولوجية اليومية.",
+   "ai": true
   },
   {
    "id": "fd1a4c4700c8",
@@ -613,10 +621,14 @@
    "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
    "published": "2026-11-06T00:00:00Z",
    "found": "2026-11-06T19:16:04Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Cursor تتيح التحدث صوتيًا مع الوكلاء في مكالمة فورية",
+   "ar_summary": "أضافت Cursor ميزة المحادثة الصوتية الفورية مع الوكلاء على سطح المكتب والويب وiOS، وتعمل بتقنية Grok Voice.",
+   "ai": true
   },
   {
    "id": "fdce8dfb6db6",
