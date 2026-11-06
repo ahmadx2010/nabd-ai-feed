@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:41:15Z",
+ "updated": "2026-11-06T01:07:59Z",
  "categories": [
   {
    "key": "big",
@@ -497,6 +497,20 @@
    "ar_title": "معالج NVIDIA Vera يجمع أعلى إنتاجية وأسرع أداء للوكلاء الأذكياء",
    "ar_summary": "تقول NVIDIA إن معالجها Vera يوفر سرعة عالية للوكلاء الأذكياء مع كفاءة أعلى في استهلاك الطاقة مقارنة بمعالجات x86. وتشير إلى بدء شركاء مثل Perplexity استخدامه.",
    "ai": true
+  },
+  {
+   "id": "c88b52d0b210",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Cult.fit builds operational muscle with Codex",
+   "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+   "url": "https://openai.com/index/cultfit-builds-with-codex",
+   "image": null,
+   "published": "2026-11-05T20:00:00Z",
+   "found": "2026-11-06T01:07:59Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "e8690f74b67f",
