@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:16:04Z",
+ "updated": "2026-11-06T19:43:20Z",
  "categories": [
   {
    "key": "big",
@@ -441,6 +441,21 @@
    "ar_title": "ElevenLabs تضيف مراجعة بشرية من خبراء التوطين إلى Ads Engine",
    "ar_summary": "أضافت ElevenLabs إلى أداة Ads Engine مراجعة بشرية يجريها خبراء توطين ومختصون في الإبداع، لمساعدة الفرق على إطلاق إعلانات موطّنة ومتوافقة مع هوية العلامة في كل سوق.",
    "ai": true
+  },
+  {
+   "id": "12839cc6c88c",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Share your ElevenMusic creations directly to SoundCloud",
+   "summary": "Create a track in ElevenMusic and publish it to SoundCloud in a few clicks. SoundCloud Artist Pro members get 3 months of ElevenMusic free.",
+   "url": "https://elevenlabs.io/blog/soundcloud",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/7755y4l487u-ElevenMusic_SoundCloud_Integration_Blog_Cover_1600x900--3-.webp",
+   "published": "2026-11-06T12:00:00Z",
+   "found": "2026-11-06T19:43:20Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "bc8f9eac1966",
