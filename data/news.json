@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T14:04:41Z",
+ "updated": "2026-11-06T14:23:37Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/OAJMu2jr7i5jVAbmsKdZW.jpeg",
    "published": "2026-11-06T14:00:48Z",
    "found": "2026-11-06T14:04:41Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ToyBlocks: عالم محاكاة مضبوط لتعلّم الروبوتات وتقييمها",
+   "ar_summary": "قدّم معهد Allen AI إطار «FoundationWorlds» لبناء بيئات محاكاة مضبوطة لدراسة تعلّم الروبوتات، وأول عالم فيه هو ToyBlocks: ذراع روبوتية وقطع مكعبات على طاولة. يساعد الباحثين على تتبع أسباب نجاح الروبوت أو فشله.",
+   "ai": true
   },
   {
    "id": "7c2d10fba037",
