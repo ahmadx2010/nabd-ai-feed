@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:58:04Z",
+ "updated": "2026-11-06T19:16:04Z",
  "categories": [
   {
    "key": "big",
@@ -573,6 +573,35 @@
    "ar_title": "اللهجتان المصرية والنيجيرية للإنجليزية تنضمان إلى لوحة Open ASR Leaderboard",
    "ar_summary": "أعلنت Hugging Face عن تعاون مع Liva AI لإضافة بيانات خاصة جديدة بلهجتين إنجليزيتين، المصرية والنيجيرية، إلى لوحة تقييم التعرف على الكلام Open ASR Leaderboard.",
    "ai": true
+  },
+  {
+   "id": "cfd4354afa14",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "image": null,
+   "published": "2026-11-06T00:00:00Z",
+   "found": "2026-11-06T19:16:04Z",
+   "importance": 1,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "fd1a4c4700c8",
+   "company": "cursor",
+   "kind": "blog",
+   "title": "Voice Chat with Agents",
+   "summary": "Talk with your agents in a realtime voice call on desktop, web, and iOS.",
+   "url": "https://cursor.com/changelog/voice-chat",
+   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
+   "published": "2026-11-06T00:00:00Z",
+   "found": "2026-11-06T19:16:04Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "fdce8dfb6db6",
