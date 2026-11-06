@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T10:35:21Z",
+ "updated": "2026-11-06T14:04:41Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "be1ba71e55b7",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+   "summary": "",
+   "url": "https://huggingface.co/blog/allenai/toyblocks",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/OAJMu2jr7i5jVAbmsKdZW.jpeg",
+   "published": "2026-11-06T14:00:48Z",
+   "found": "2026-11-06T14:04:41Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "7c2d10fba037",
    "company": "manus",
@@ -5528,25 +5543,6 @@
    "ar_title": "عقد من تصميم الرقائق في Amazon: كل جيل بُني حول أحمال عمل حقيقية",
    "ar_summary": "في قمة AI Infra شرح بيتر ديسانتيس كيف قادت أحمال عمل العملاء الحقيقية كل جيل من رقائق Amazon من Nitro إلى Trainium.",
    "ai": true
-  },
-  {
-   "id": "b94504d94fb1",
-   "company": "suno",
-   "kind": "blog",
-   "title": "What Does a Compressor Actually Do?",
-   "summary": "We talk compression and dynamics in the first in a series where we explain the tools behind great-sounding music.",
-   "url": "https://suno.com/blog/about-compression",
-   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/7dac0f63a6ef74646a1f035c1fafec010a1faf77-3349x1884.jpg?rect=0,63,3349,1758&w=1200&h=630&fit=crop&auto=format",
-   "published": "2026-09-22T14:00:00Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "ما الذي يفعله الضاغط الصوتي فعلاً؟ سلسلة تعليمية من Suno",
-   "ar_summary": "تبدأ Suno سلسلة تشرح أدوات الإنتاج الموسيقي بمقال عن الضغط الصوتي (compression) والديناميكيات.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
