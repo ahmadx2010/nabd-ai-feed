@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:12:48Z",
+ "updated": "2026-11-06T16:40:51Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-8.30.25-PM-scaled.png",
    "published": "2026-11-06T16:00:35Z",
    "found": "2026-11-06T16:12:48Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تساعد أدوات NVIDIA مفتوحة المصدر الباحثين في بناء شبكات الجيل السادس 6G",
+   "ar_summary": "بعد عام على إتاحة برنامج Aerial اللاسلكي كمصدر مفتوح، تقول NVIDIA إن أدواتها مع Sionna تسرّع أبحاث شبكات 6G وتربط المحاكاة وتدريب الذكاء الاصطناعي بالتجارب الفعلية على الشبكات اللاسلكية.",
+   "ai": true
   },
   {
    "id": "be1ba71e55b7",
