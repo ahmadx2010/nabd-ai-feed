@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:12:30Z",
+ "updated": "2026-11-06T18:21:08Z",
  "categories": [
   {
    "key": "big",
@@ -441,6 +441,20 @@
    "ar_title": "ElevenLabs تضيف مراجعة بشرية من خبراء التوطين إلى Ads Engine",
    "ar_summary": "أضافت ElevenLabs إلى أداة Ads Engine مراجعة بشرية يجريها خبراء توطين ومختصون في الإبداع، لمساعدة الفرق على إطلاق إعلانات موطّنة ومتوافقة مع هوية العلامة في كل سوق.",
    "ai": true
+  },
+  {
+   "id": "bc8f9eac1966",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "image": null,
+   "published": "2026-11-06T08:00:00Z",
+   "found": "2026-11-06T18:21:08Z",
+   "importance": 1,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "7c2d10fba037",
