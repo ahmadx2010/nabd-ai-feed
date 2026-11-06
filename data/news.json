@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T01:17:07Z",
+ "updated": "2026-11-06T01:26:57Z",
  "categories": [
   {
    "key": "big",
@@ -510,7 +510,11 @@
    "found": "2026-11-06T01:07:59Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Cult.fit تعزز كفاءتها التشغيلية باستخدام Codex",
+   "ar_summary": "تستخدم شركة Cult.fit أداة Codex لمساعدة فرقها في مختلف الوظائف على بناء الأدوات وإنجاز العمل بسرعة أكبر وتغيير طريقة العمل.",
+   "ai": true
   },
   {
    "id": "e8690f74b67f",
@@ -918,7 +922,11 @@
    "found": "2026-11-06T01:17:07Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Franklin Templeton تستخدم OpenAI لدعم أبحاث الاستثمار",
+   "ar_summary": "تطوّر Franklin Templeton بدءاً من أبحاث الأسهم مسارات عمل بالذكاء الاصطناعي تساعد مديري المحافظ على مقارنة وجهات النظر البحثية وفحص مخاطر الاستثمار.",
+   "ai": true
   },
   {
    "id": "bde8352b29cd",
