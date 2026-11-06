@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:00:36Z",
+ "updated": "2026-11-06T22:01:18Z",
  "categories": [
   {
    "key": "big",
@@ -493,7 +493,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "البنية التحتية للذكاء الاصطناعي الصوتي: شرح مكوّنات المنظومة في 2026",
+   "ar_summary": "دليل من ElevenLabs يشرح كل طبقات البنية التحتية لوكلاء الصوت، من التعرف على الكلام إلى أدوات الحماية والمراقبة، مع أمثلة من ElevenAgents.",
+   "ai": true
   },
   {
    "id": "bc8f9eac1966",
