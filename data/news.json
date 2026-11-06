@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:47:15Z",
+ "updated": "2026-11-06T23:23:04Z",
  "categories": [
   {
    "key": "big",
@@ -441,6 +441,21 @@
    "ar_title": "LifeVal: قياس تقدم الذكاء الاصطناعي في مهام الحياة اليومية المهمة",
    "ar_summary": "أعلنت OpenAI عن LifeVal، وهو معيار تقييم جديد صُمم بناءً على ملاحظات آلاف مستخدمي ChatGPT حول المهام التي يريدون مساعدة المساعد الشخصي فيها. يقيس المعيار قدرة النماذج على التعامل مع مهام يومية مثل البحث عن رعاية الأطفال والوصول إلى الخدمات الحكومية وإدارة الشؤون المالية.",
    "ai": true
+  },
+  {
+   "id": "5175c20e07f3",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub Copilot weekly releases — November 2",
+   "summary": "This week, Copilot comes to JetBrains Air and Xcode’s coding assistant, with updates to help you manage pull requests, settings, and agent sessions. GitHub Copilot app Set up Agent Merge… The post GitHub Copilot weekly releases — November 2 appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
+   "image": "https://github.blog/wp-content/uploads/2026/11/649772462-cd2b8dcf-4eac-422d-81a2-5e9ef2709240.jpg",
+   "published": "2026-11-06T21:00:26Z",
+   "found": "2026-11-06T23:23:04Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "215687ca939d",
