@@ -52,6 +52,7 @@ jobs:
         if: steps.gate.outputs.skip != '1'
         run: |
           pip install -q pillow arabic-reshaper python-bidi
+          export NABD_APP_VERSION="$(git -C code show origin/apk:version.txt 2>/dev/null)"
           python code/collector/share.py site og-cache
           # Latest APK for the download page (the app build pushes it to the code repo's "apk" branch).
           git -C code show origin/apk:NabdAI.apk > site/NabdAI.apk 2>/dev/null || rm -f site/NabdAI.apk
