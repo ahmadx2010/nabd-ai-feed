@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:18:32Z",
+ "updated": "2026-11-06T09:58:19Z",
  "categories": [
   {
    "key": "big",
@@ -479,6 +479,21 @@
    "ar_title": "أفضل أدوات الذكاء الاصطناعي لتطوير الألعاب في 2026: اختياراتنا العشرة",
    "ar_summary": "مقال من Manus يستعرض 10 أدوات ذكاء اصطناعي لتطوير الألعاب تشمل البرمجة والرسوميات والرسوم المتحركة والصوت.",
    "ai": true
+  },
+  {
+   "id": "82196d4ece0a",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "summary": "",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "image": "https://huggingface.co/blog/assets/open-asr-leaderboard-liva/thumbnail.png",
+   "published": "2026-11-06T00:00:00Z",
+   "found": "2026-11-06T09:58:19Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "fdce8dfb6db6",
