@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:48:23Z",
+ "updated": "2026-11-06T18:58:04Z",
  "categories": [
   {
    "key": "big",
@@ -452,9 +452,13 @@
    "image": null,
    "published": "2026-11-06T08:00:00Z",
    "found": "2026-11-06T18:21:08Z",
-   "importance": 1,
+   "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تتعاون مع Hacktron لاكتشاف الثغرات في أنظمتها",
+   "ar_summary": "أعلنت OpenAI شراكة مع Hacktron لاكتشاف الثغرات الأمنية واختبار الاتصالات مع الخدمات الخارجية وتعزيز الدفاعات باستخدام الذكاء الاصطناعي المتقدم.",
+   "ai": true
   },
   {
    "id": "7c2d10fba037",
