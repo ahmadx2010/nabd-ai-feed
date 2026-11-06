@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:28:16Z",
+ "updated": "2026-11-06T22:47:15Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "لوحة Copilot impact تضيف استخدام الدردشة ووكلاء VS Code",
+   "ar_summary": "أضافت لوحة تأثير Copilot كلاً من Copilot Chat ونافذة وكلاء VS Code إلى مخطط تبنّي الوكلاء، ليصبح المجموع تسع تجارب. كما أُعيدت تسمية فئة «المستخدمون السلبيون» إلى «Chat-first users».",
+   "ai": true
   },
   {
    "id": "5ab88d15c948",
@@ -410,10 +414,14 @@
    "image": null,
    "published": "2026-11-06T22:15:59Z",
    "found": "2026-11-06T22:19:09Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ما بعد توليد الكود: دليل المطوّر للهندسة الوكيلية",
+   "ar_summary": "يشرح مقال GitHub كيف يمكن استخدام Copilot في مراحل التخطيط والبناء والتحقق والمراقبة، بعد أن أصبح كتابة الكود أسرع بينما بقي العمل المحيط به بطيئًا.",
+   "ai": true
   },
   {
    "id": "7baf06e1004e",
