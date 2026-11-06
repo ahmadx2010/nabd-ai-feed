@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:19:09Z",
+ "updated": "2026-11-06T22:28:16Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "df141a94aef9",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Copilot impact dashboard adds chat and VS Code agent usage",
+   "summary": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+   "image": "https://github.blog/wp-content/uploads/2026/11/696879380-eb0b2c93-698d-46a2-a934-02bbf6d7fa36.jpg",
+   "published": "2026-11-06T22:17:28Z",
+   "found": "2026-11-06T22:28:16Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "5ab88d15c948",
    "company": "copilot",
