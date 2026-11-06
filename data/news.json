@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:02:32Z",
+ "updated": "2026-11-06T18:12:30Z",
  "categories": [
   {
    "key": "big",
@@ -433,10 +433,14 @@
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/p1a3efh4o-Cover0.webp",
    "published": "2026-11-06T12:00:00Z",
    "found": "2026-11-06T18:02:32Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تضيف مراجعة بشرية من خبراء التوطين إلى Ads Engine",
+   "ar_summary": "أضافت ElevenLabs إلى أداة Ads Engine مراجعة بشرية يجريها خبراء توطين ومختصون في الإبداع، لمساعدة الفرق على إطلاق إعلانات موطّنة ومتوافقة مع هوية العلامة في كل سوق.",
+   "ai": true
   },
   {
    "id": "7c2d10fba037",
