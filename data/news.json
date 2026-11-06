@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T14:23:37Z",
+ "updated": "2026-11-06T15:36:09Z",
  "categories": [
   {
    "key": "big",
@@ -555,6 +555,21 @@
    "ar_title": "الذكاء الاصطناعي يسرّع اكتشاف الثغرات الأمنية في Windows وإصلاحها",
    "ar_summary": "تعلن مايكروسوفت أنها توظف الذكاء الاصطناعي لاكتشاف ثغرات Windows وإصلاحها مبكرًا، مع نشر معلومات الإصلاحات بسرعة وتعزيز أنظمة نشر التحديثات.",
    "ai": true
+  },
+  {
+   "id": "5d4f7dc67c88",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Give your Unity NPCs a voice with ElevenAgents",
+   "summary": "The ElevenAgents Unity SDK connects your Unity scene to a voice agent. See what it does, where it runs, and how to start.",
+   "url": "https://elevenlabs.io/blog/unity-sdk-release",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hmnalk0cbgt-unity-16-9.webp",
+   "published": "2026-11-05T20:44:00Z",
+   "found": "2026-11-06T15:36:09Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "832fb0e59f71",
