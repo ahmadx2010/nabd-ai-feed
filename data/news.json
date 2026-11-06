@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:40:51Z",
+ "updated": "2026-11-06T18:02:32Z",
  "categories": [
   {
    "key": "big",
@@ -422,6 +422,21 @@
    "ar_title": "ToyBlocks: عالم محاكاة مضبوط لتعلّم الروبوتات وتقييمها",
    "ar_summary": "قدّم معهد Allen AI إطار «FoundationWorlds» لبناء بيئات محاكاة مضبوطة لدراسة تعلّم الروبوتات، وأول عالم فيه هو ToyBlocks: ذراع روبوتية وقطع مكعبات على طاولة. يساعد الباحثين على تتبع أسباب نجاح الروبوت أو فشله.",
    "ai": true
+  },
+  {
+   "id": "f5b8adcdd8f1",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Ads Engine adds human review from localization experts and creative specialists",
+   "summary": "Ads Engine now adds human review from localization experts and creative specialists. Discover how to ship on-brand, localized ads in every market.",
+   "url": "https://elevenlabs.io/blog/ads-engine-human-review",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/p1a3efh4o-Cover0.webp",
+   "published": "2026-11-06T12:00:00Z",
+   "found": "2026-11-06T18:02:32Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "7c2d10fba037",
