@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:15:37Z",
+ "updated": "2026-11-06T22:00:36Z",
  "categories": [
   {
    "key": "big",
@@ -479,6 +479,21 @@
    "ar_title": "شارك أعمالك من ElevenMusic مباشرة على SoundCloud",
    "ar_summary": "أطلقت ElevenLabs تكاملًا مع SoundCloud يتيح نشر المقاطع المنشأة في ElevenMusic بخطوات قليلة. ويحصل مشتركو SoundCloud Artist Pro على ثلاثة أشهر مجانية من ElevenMusic.",
    "ai": true
+  },
+  {
+   "id": "39cf968ded6c",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Voice AI infrastructure: The 2026 stack explained",
+   "summary": "Explore every layer of voice AI infrastructure and AI agent architecture, from speech recognition to guardrails, with ElevenAgents examples.",
+   "url": "https://elevenlabs.io/blog/voice-ai-infrastructure-guide",
+   "image": null,
+   "published": "2026-11-06T12:00:00Z",
+   "found": "2026-11-06T22:00:36Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "bc8f9eac1966",
