@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:22:17Z",
+ "updated": "2026-11-06T00:41:15Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "واجهة مقاييس استخدام Copilot تضيف تفاصيل مراجعة الكود ومعدل المعالجة",
+   "ar_summary": "أصبحت تقارير مقاييس استخدام Copilot على مستوى المستودعات تُظهر ما يحدث لتعليقات مراجعة الكود من Copilot، ومنها معدل التعليقات التي تعامل معها المطورون.",
+   "ai": true
   },
   {
    "id": "b6de41f0f45e",
@@ -413,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "واجهة مقاييس Copilot تكشف فجوات القياس عن بُعد وإصدارات الأدوات",
+   "ar_summary": "تُظهر واجهة مقاييس استخدام Copilot الآن المستخدمين الذين تغيب عنهم بيانات القياس عن بُعد أو يستخدمون إصدارات من المحررات أو الإضافات أقل من الحد الأدنى المطلوب.",
+   "ai": true
   },
   {
    "id": "fdce8dfb6db6",
