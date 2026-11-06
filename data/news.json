@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:13:09Z",
+ "updated": "2026-11-06T00:22:17Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "dcf7efe8bcfb",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Usage metrics API adds code review details and addressed rate",
+   "summary": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+   "image": "https://github.blog/wp-content/uploads/2026/11/696871374-0c1024be-79ea-4fd2-a050-2b8f2df34847.jpeg",
+   "published": "2026-11-06T00:19:07Z",
+   "found": "2026-11-06T00:22:17Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "b6de41f0f45e",
    "company": "copilot",
