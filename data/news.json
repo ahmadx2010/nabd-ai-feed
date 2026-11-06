@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T09:58:19Z",
+ "updated": "2026-11-06T10:35:21Z",
  "categories": [
   {
    "key": "big",
@@ -490,10 +490,14 @@
    "image": "https://huggingface.co/blog/assets/open-asr-leaderboard-liva/thumbnail.png",
    "published": "2026-11-06T00:00:00Z",
    "found": "2026-11-06T09:58:19Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "اللهجتان المصرية والنيجيرية للإنجليزية تنضمان إلى لوحة Open ASR Leaderboard",
+   "ar_summary": "أعلنت Hugging Face عن تعاون مع Liva AI لإضافة بيانات خاصة جديدة بلهجتين إنجليزيتين، المصرية والنيجيرية، إلى لوحة تقييم التعرف على الكلام Open ASR Leaderboard.",
+   "ai": true
   },
   {
    "id": "fdce8dfb6db6",
