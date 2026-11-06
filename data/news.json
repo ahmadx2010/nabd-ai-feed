@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:44:16Z",
+ "updated": "2026-11-06T21:14:50Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "7baf06e1004e",
+   "company": "openai",
+   "kind": "video",
+   "title": "LifeVal: Measuring AI progress on the tasks that matter in everyday life.",
+   "summary": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to accessing government services and managing personal finances. Over the past year, we’ve used LifeVal to measure and…",
+   "url": "https://www.youtube.com/watch?v=hJOwOkLHRN0",
+   "image": "https://i1.ytimg.com/vi/hJOwOkLHRN0/hqdefault.jpg",
+   "published": "2026-11-06T21:11:34Z",
+   "found": "2026-11-06T21:14:50Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "215687ca939d",
    "company": "nvidia",
