@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:36:09Z",
+ "updated": "2026-11-06T15:55:02Z",
  "categories": [
   {
    "key": "big",
@@ -566,10 +566,14 @@
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hmnalk0cbgt-unity-16-9.webp",
    "published": "2026-11-05T20:44:00Z",
    "found": "2026-11-06T15:36:09Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تطلق Unity SDK لمنح شخصيات الألعاب أصواتاً عبر ElevenAgents",
+   "ar_summary": "أطلقت ElevenLabs حزمة ElevenAgents Unity SDK التي تربط مشاهد Unity بوكيل صوتي، ما يتيح للاعبين التحدث مع الشخصيات بصوتهم مباشرة.",
+   "ai": true
   },
   {
    "id": "832fb0e59f71",
