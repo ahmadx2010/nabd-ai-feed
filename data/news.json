@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:21:08Z",
+ "updated": "2026-11-06T18:48:23Z",
  "categories": [
   {
    "key": "big",
@@ -5600,24 +5600,6 @@
    "ar_summary": "أطلقت Cursor بوتين جديدين: Rollouts يراقب صحة كل تغيير أثناء نشره، وSecurity Review يبلغ عن الثغرات القابلة للاستغلال في كل طلب دمج.",
    "ai": true,
    "img_tried": true
-  },
-  {
-   "id": "e8cb7a03edd8",
-   "company": "amazon",
-   "kind": "blog",
-   "title": "Inside a decade of Amazon chip design, built workload by workload",
-   "summary": "At AI Infra Summit, Amazon SVP Peter DeSantis explained how real customer workloads guided every generation of Amazon's chips, from Nitro to Trainium.",
-   "url": "https://www.aboutamazon.com/news/innovation-at-amazon/peter-desantis-amazon-ai-chips-design?utm_source=rss",
-   "image": "https://assets.aboutamazon.com/dims4/default/994bb0d/2147483647/strip/true/crop/2000x1125+0+0/resize/767x431!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F19%2F3f%2F7f2ad1434a4e80ac0c18d86ce797%2Faiinfrasummit-hero-amazonnews-ck2226-2.png",
-   "published": "2026-09-22T18:42:38Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "عقد من تصميم الرقائق في Amazon: كل جيل بُني حول أحمال عمل حقيقية",
-   "ar_summary": "في قمة AI Infra شرح بيتر ديسانتيس كيف قادت أحمال عمل العملاء الحقيقية كل جيل من رقائق Amazon من Nitro إلى Trainium.",
-   "ai": true
   }
  ]
 }
