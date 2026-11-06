@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:14:50Z",
+ "updated": "2026-11-06T21:15:37Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://i1.ytimg.com/vi/hJOwOkLHRN0/hqdefault.jpg",
    "published": "2026-11-06T21:11:34Z",
    "found": "2026-11-06T21:14:50Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "LifeVal: قياس تقدم الذكاء الاصطناعي في مهام الحياة اليومية المهمة",
+   "ar_summary": "أعلنت OpenAI عن LifeVal، وهو معيار تقييم جديد صُمم بناءً على ملاحظات آلاف مستخدمي ChatGPT حول المهام التي يريدون مساعدة المساعد الشخصي فيها. يقيس المعيار قدرة النماذج على التعامل مع مهام يومية مثل البحث عن رعاية الأطفال والوصول إلى الخدمات الحكومية وإدارة الشؤون المالية.",
+   "ai": true
   },
   {
    "id": "215687ca939d",
