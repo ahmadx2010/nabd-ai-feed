@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T01:26:57Z",
+ "updated": "2026-11-06T02:11:53Z",
  "categories": [
   {
    "key": "big",
@@ -610,6 +610,20 @@
    "ar_title": "حوّل رسمة سريعة إلى تطبيق حي باستخدام Gemini",
    "ar_summary": "يمكن رفع صورة لرسم يدوي لتطبيق أو لعبة إلى Gemini واستخدام أداة Canvas لتوليد الكود وتعديله فورًا.",
    "ai": true
+  },
+  {
+   "id": "b58fee4edbbb",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Australian universities are creating AI-native graduates",
+   "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "image": null,
+   "published": "2026-11-05T17:00:00Z",
+   "found": "2026-11-06T02:11:53Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "25f255575df3",
