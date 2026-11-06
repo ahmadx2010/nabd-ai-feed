@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:12:35Z",
+ "updated": "2026-11-06T07:50:09Z",
  "categories": [
   {
    "key": "big",
@@ -386,6 +386,36 @@
  },
  "items": [
   {
+   "id": "7c2d10fba037",
+   "company": "manus",
+   "kind": "blog",
+   "title": "10 Best AI Game Makers for Beginners in 2026 (No Coding Needed)",
+   "summary": "Discover the 10 best AI game makers for beginners in 2026. Compare tools and find the right one to build your first game without coding.",
+   "url": "https://manus.im/blog/best-ai-game-makers-for-beginners",
+   "image": "https://files.manuscdn.com/assets/dashboard/materials/2026/11/05/3e7b8d8795dd7d5e2e09a023c25fb804ad373edfd6403ad0d38af8e5697ab1ef.webp",
+   "published": "2026-11-06T07:50:09Z",
+   "found": "2026-11-06T07:50:09Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "c82cf33cc10c",
+   "company": "manus",
+   "kind": "blog",
+   "title": "How to Build Your First Game with AI: A Step-by-Step Guide",
+   "summary": "Learn how to make your first game without coding. Compare tools, copy starter prompts, and follow a Manus guide to build, test, and publish your game.",
+   "url": "https://manus.im/blog/how-to-build-your-first-game-with-ai",
+   "image": "https://files.manuscdn.com/assets/dashboard/materials/2026/11/06/8aaf268da60fd654ff88b472bf150f1447d410c6a8158ad0616076d28556052b.webp",
+   "published": "2026-11-06T04:00:00Z",
+   "found": "2026-11-06T07:50:09Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "dcf7efe8bcfb",
    "company": "copilot",
    "kind": "blog",
@@ -422,6 +452,21 @@
    "ar_title": "واجهة مقاييس Copilot تكشف فجوات القياس عن بُعد وإصدارات الأدوات",
    "ar_summary": "تُظهر واجهة مقاييس استخدام Copilot الآن المستخدمين الذين تغيب عنهم بيانات القياس عن بُعد أو يستخدمون إصدارات من المحررات أو الإضافات أقل من الحد الأدنى المطلوب.",
    "ai": true
+  },
+  {
+   "id": "c16682570e63",
+   "company": "manus",
+   "kind": "blog",
+   "title": "Best AI Tools for Game Development in 2026: Our Top 10 Picks",
+   "summary": "Discover the 10 best AI tools for game development in 2026. Compare features, pricing, and use cases for coding, game art, animation, and more.",
+   "url": "https://manus.im/blog/best-ai-tools-for-game-development",
+   "image": "https://files.manuscdn.com/assets/dashboard/materials/2026/11/05/d179abc4c89794222e5c4dbe1d799451820825f7c8db0b96cbc7e7775a44451c.webp",
+   "published": "2026-11-06T00:00:00Z",
+   "found": "2026-11-06T07:50:09Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "fdce8dfb6db6",
