@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:55:24Z",
+ "updated": "2026-11-06T00:13:09Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "b6de41f0f45e",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Usage metrics API flags telemetry and version gaps",
+   "summary": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+   "image": "https://github.blog/wp-content/uploads/2026/11/696868472-6c036efb-44d8-4ca7-babf-92362eeca4f2.jpeg",
+   "published": "2026-11-06T00:08:31Z",
+   "found": "2026-11-06T00:13:09Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "fdce8dfb6db6",
    "company": "characterai",
