@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T13:05:02Z",
+ "updated": "2026-11-07T14:36:18Z",
  "categories": [
   {
    "key": "big",
@@ -5738,24 +5738,6 @@
    "ai": true,
    "detail": true,
    "fetched": true
-  },
-  {
-   "id": "01251fcfddec",
-   "company": "google",
-   "kind": "blog",
-   "title": "Innovation for the YouTube Era: What’s new for viewers and creators",
-   "summary": "Discover everything announced at Made On YouTube 2026. Explore new conversational AI tools, Custom Feeds, Live Auto-Dubbing, and updates to the YouTube Era.",
-   "url": "https://blog.youtube/news-and-events/innovation-youtube-era-made-on-viewers-creators/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MOYT_-_YT_posts-5.max-1440x810.png",
-   "published": "2026-09-23T14:30:00Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "ابتكار لعصر YouTube: الجديد للمشاهدين وصنّاع المحتوى",
-   "ar_summary": "كشفت YouTube في Made On YouTube 2026 عن أدوات ذكاء اصطناعي حوارية وخلاصات مخصصة ودبلجة تلقائية للبث المباشر.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
