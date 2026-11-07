@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T14:36:18Z",
+ "updated": "2026-11-07T15:31:06Z",
  "categories": [
   {
    "key": "big",
@@ -5720,24 +5720,6 @@
    "ar_title": "6 أدوات جديدة لـ Google Flow صنعها مبدعون من الصناعة",
    "ar_summary": "أطلقت Google ست أدوات جديدة ضمن Flow Tools صممها مبدعون في العمارة وتصميم الصوت والمحتوى الرقمي، ويمكن بناء أدوات مخصصة بوصف ما تحتاجه.",
    "ai": true
-  },
-  {
-   "id": "61c4e542f161",
-   "company": "gemini",
-   "kind": "video",
-   "title": "Create your own voices with Gemini 3.8 text-to-speech",
-   "summary": "Design entirely new vocal personas from scratch for gaming, immersive audiobooks, or dual-speaker podcasts using natural language prompts - directing every performance line by line with nuanced acting cues, pacing, back channeling, and dialect shifts. Or, recreate consistent adult vocal profiles from just a 30-second audio sample of your voice or a voice you have the rights to use, backed by…",
-   "url": "https://www.youtube.com/watch?v=FL6mI_Br-mc",
-   "image": "https://i3.ytimg.com/vi/FL6mI_Br-mc/hqdefault.jpg",
-   "published": "2026-09-23T15:23:38Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "ar_detail": true,
-   "ar_title": "أنشئ أصواتك الخاصة بتحويل النص إلى كلام في Gemini 3.8",
-   "ar_summary": "يتيح Gemini 3.8 تصميم شخصيات صوتية جديدة بالأوامر النصية أو إعادة إنتاج صوت من عينة مدتها 30 ثانية.",
-   "ai": true,
-   "detail": true,
-   "fetched": true
   }
  ]
 }
