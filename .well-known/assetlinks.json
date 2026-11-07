@@ -1,0 +1,14 @@
+[
+ {
+  "relation": [
+   "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+   "namespace": "android_app",
+   "package_name": "com.ahmadx.nabdai",
+   "sha256_cert_fingerprints": [
+    "0A:3F:C1:DF:07:1A:4E:C8:F8:9D:34:98:B3:64:42:02:30:12:BE:1E:8A:6A:F2:33:23:7C:15:F8:21:A1:A5:99"
+   ]
+  }
+ }
+]
