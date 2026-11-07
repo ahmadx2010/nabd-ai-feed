@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T15:31:06Z",
+ "updated": "2026-11-07T16:07:54Z",
  "categories": [
   {
    "key": "big",
@@ -5684,41 +5684,6 @@
    "ar_detail": true,
    "ar_title": "Google Beam تتوسع بمناطق وشركاء وعملاء جدد",
    "ar_summary": "تتوسع Google Beam إلى ست دول بدعم 18 شريكاً وأجهزة جديدة من HP، مع إتاحة التجربة في مواقع Industrious اعتباراً من أكتوبر.",
-   "ai": true
-  },
-  {
-   "id": "4c4abcff4acd",
-   "company": "deepmind",
-   "kind": "blog",
-   "title": "Advancing Private AI Compute with secure, server-side memory",
-   "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-   "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo",
-   "published": "2026-09-23T16:00:57Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "تطوير Private AI Compute بذاكرة آمنة على الخادم",
-   "ar_summary": "تقدم Google DeepMind ذاكرة خاصة على الخادم ضمن Private AI Compute للذكاء الاصطناعي الشخصي.",
-   "ai": true
-  },
-  {
-   "id": "8a125b97e524",
-   "company": "googlelabs",
-   "kind": "blog",
-   "title": "6 new Google Flow Tools built by industry creatives",
-   "summary": "Colorful, iridescent 3D tiles with embossed symbols on a black background.",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp",
-   "published": "2026-09-23T16:00:00Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "6 أدوات جديدة لـ Google Flow صنعها مبدعون من الصناعة",
-   "ar_summary": "أطلقت Google ست أدوات جديدة ضمن Flow Tools صممها مبدعون في العمارة وتصميم الصوت والمحتوى الرقمي، ويمكن بناء أدوات مخصصة بوصف ما تحتاجه.",
    "ai": true
   }
  ]
