@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:04:29Z",
+ "updated": "2026-11-07T13:05:02Z",
  "categories": [
   {
    "key": "big",
@@ -5756,24 +5756,6 @@
    "ar_summary": "كشفت YouTube في Made On YouTube 2026 عن أدوات ذكاء اصطناعي حوارية وخلاصات مخصصة ودبلجة تلقائية للبث المباشر.",
    "ai": true,
    "img_tried": true
-  },
-  {
-   "id": "7c348eedc060",
-   "company": "amazon",
-   "kind": "blog",
-   "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude",
-   "summary": "Sellers can now automate routine tasks 24/7 with Seller Assistant and bring their Amazon data and Seller Central insights into the AI tools they already use.",
-   "url": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude?utm_source=rss",
-   "image": "https://assets.aboutamazon.com/dims4/default/83adb37/2147483647/strip/true/crop/1434x1434+243+0/resize/605x605!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Ff2%2F04%2Ffd4576b74c66be6294fc5f69edd1%2Faccelerate-2026-seller-assistant-hero-feature.jpg",
-   "published": "2026-09-23T13:00:08Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "Amazon تطوّر Seller Assistant وتطلق إضافة لـ Amazon Quick وClaude من Anthropic",
-   "ar_summary": "أصبح Seller Assistant أكثر ذكاءً بذاكرة دائمة وسير عمل مؤتمت على مدار الساعة، مع إضافة جديدة تنقل بيانات البائعين إلى Amazon Quick وClaude.",
-   "ai": true
   }
  ]
 }
