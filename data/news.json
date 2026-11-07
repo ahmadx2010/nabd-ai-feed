@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T23:32:59Z",
+ "updated": "2026-11-07T00:08:50Z",
  "categories": [
   {
    "key": "big",
@@ -5755,25 +5755,6 @@
    "ar_title": "Amazon تطوّر Seller Assistant وتطلق إضافة لـ Amazon Quick وClaude من Anthropic",
    "ar_summary": "أصبح Seller Assistant أكثر ذكاءً بذاكرة دائمة وسير عمل مؤتمت على مدار الساعة، مع إضافة جديدة تنقل بيانات البائعين إلى Amazon Quick وClaude.",
    "ai": true
-  },
-  {
-   "id": "089c4ff63dd0",
-   "company": "cursor",
-   "kind": "blog",
-   "title": "Rollouts and Security Review",
-   "summary": "Two bots for the last mile of shipping code: Rollouts watches every change as it deploys, and Security Review reports exploitable bugs on every pull request.",
-   "url": "https://cursor.com/changelog/rollouts-and-security-reviewer",
-   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/rollouts-security-reviewer-cl-og-gETNeLXHPfvrWaSPKRE0YbaxpwUHTK.png",
-   "published": "2026-09-23T00:00:00Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "Cursor تطلق Rollouts وSecurity Review لمراقبة النشر وفحص الثغرات",
-   "ar_summary": "أطلقت Cursor بوتين جديدين: Rollouts يراقب صحة كل تغيير أثناء نشره، وSecurity Review يبلغ عن الثغرات القابلة للاستغلال في كل طلب دمج.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
