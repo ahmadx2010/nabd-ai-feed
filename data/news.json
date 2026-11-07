@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T16:07:54Z",
+ "updated": "2026-11-07T18:07:18Z",
  "categories": [
   {
    "key": "big",
@@ -5649,42 +5649,6 @@
    "ar_summary": "دفعة تغييرات على alpha.midjourney.com تشمل معاينات الأنماط وإعدادات افتراضية ومظهراً جديداً للخلاصة.",
    "ai": true,
    "img_tried": true
-  },
-  {
-   "id": "cb4e42d4d067",
-   "company": "anthropic",
-   "kind": "video",
-   "title": "Inside Anthropic's molecular biology lab",
-   "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if Claude can help scientists notice more of them. The team has spent their careers hunting for unusual proteins, from tracing how CRISPR systems evolved to finding new…",
-   "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
-   "image": "https://i1.ytimg.com/vi/DdCEmlAydcw/hqdefault.jpg",
-   "published": "2026-09-23T18:01:32Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "داخل مختبر البيولوجيا الجزيئية في Anthropic",
-   "ar_summary": "تعرض Anthropic مجموعة بحثية ومختبراً جديدين لاختبار قدرة Claude على مساعدة العلماء في اكتشاف بروتينات غير معتادة، وقد اكتشف Claude نظام إنزيم جديداً.",
-   "ai": true
-  },
-  {
-   "id": "8a86c97089bb",
-   "company": "google",
-   "kind": "blog",
-   "title": "Google Beam expands with new regions, partners, and customers",
-   "summary": "Google Beam promotional animation",
-   "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp",
-   "published": "2026-09-23T18:00:00Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "Google Beam تتوسع بمناطق وشركاء وعملاء جدد",
-   "ar_summary": "تتوسع Google Beam إلى ست دول بدعم 18 شريكاً وأجهزة جديدة من HP، مع إتاحة التجربة في مواقع Industrious اعتباراً من أكتوبر.",
-   "ai": true
   }
  ]
 }
