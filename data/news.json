@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:29:32Z",
+ "updated": "2026-11-08T18:28:37Z",
  "categories": [
   {
    "key": "big",
@@ -5590,25 +5590,6 @@
    "ar_detail": true,
    "ar_title": "Midjourney: تحديثات التحرير ومعاينات الأنماط",
    "ar_summary": "حسّنت Midjourney الرسم الداخلي والخارجي بنموذج التحرير، وأضافت معاينات حية للأنماط وتحسيناً لـ --tile.",
-   "ai": true,
-   "img_tried": true
-  },
-  {
-   "id": "5d810621a5e7",
-   "company": "copilot",
-   "kind": "blog",
-   "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-   "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .",
-   "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-   "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-security-invertocat.png",
-   "published": "2026-09-24T18:26:12Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "اختبار Fuzzing مدعوم بالذكاء الاصطناعي عبر وكيل Taskflow من GitHub Security Lab",
-   "ar_summary": "قدم GitHub Security Lab مسار عمل مستقلاً لاختبار Fuzzing على مشاريع C/C++ يكتب الأدوات ويشغل AFL++ ويحلل الأعطال.",
    "ai": true,
    "img_tried": true
   }
