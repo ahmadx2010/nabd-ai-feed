@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T21:12:35Z",
+ "updated": "2026-11-08T21:13:34Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b",
    "published": "2026-11-08T21:02:00Z",
    "found": "2026-11-08T21:12:35Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "رسالة اعتذار من الرئيس التنفيذي لشركة NVIDIA إلى الموظفين والعائلة",
+   "ar_summary": "نشرت NVIDIA رسالة يعتذر فيها رئيسها التنفيذي عن خيانة زوجية، ويؤكد التزامه بالشركة وتعاونه الكامل مع تحقيق مستقل أطلقه مجلس الإدارة بشأن مخاوف تتعلق بالأمن القومي أوردتها تقارير إخبارية.",
+   "ai": true
   },
   {
    "id": "a24fdfddefa6",
