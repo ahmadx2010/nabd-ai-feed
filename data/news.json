@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T19:41:24Z",
+ "updated": "2026-11-08T20:08:55Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "a24fdfddefa6",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "Statement from NVIDIA Board of Directors",
+   "summary": "The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of ...",
+   "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+   "image": null,
+   "published": "2026-11-08T20:00:00Z",
+   "found": "2026-11-08T20:08:55Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "d28d7745dd02",
    "company": "copilot",
@@ -5536,25 +5551,6 @@
    "ar_title": "مسار قائم على النوى لتوليد الفيديو الفوري على Trainium",
    "ar_summary": "تعاون بين Reactor وAWS باستخدام Neuron Kernel Interface لمعالجة تحديات توليد الفيديو الفوري بالانتشار الانحداري الذاتي.",
    "ai": true
-  },
-  {
-   "id": "234391b377f9",
-   "company": "copilot",
-   "kind": "blog",
-   "title": "When chat is the wrong UI",
-   "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog .",
-   "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
-   "image": null,
-   "published": "2026-09-24T20:00:00Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "حين تكون المحادثة واجهة خاطئة",
-   "ar_summary": "مقال من GitHub يرى أن المحادثة ليست دائماً أفضل واجهة للذكاء الاصطناعي، ويقدم canvases في تطبيق Copilot بديلاً.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
