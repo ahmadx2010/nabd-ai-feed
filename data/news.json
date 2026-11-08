@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T18:07:18Z",
+ "updated": "2026-11-08T02:01:59Z",
  "categories": [
   {
    "key": "big",
@@ -5629,25 +5629,6 @@
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
-  },
-  {
-   "id": "abbe680279c1",
-   "company": "midjourney",
-   "kind": "blog",
-   "title": "Alpha Changelog - 9/23/26",
-   "summary": "Hi everyone, here are the latest round of changes on alpha.midjourney.com . Many of these came directly from your feedback in #alpha-ideas-and-bugs . Please keep it coming! STYLE PREVIEWS We're experimenting with fast models in the interface. The Styles sidebar can now preview your current",
-   "url": "https://updates.midjourney.com/alpha-changelog-9-23-26/",
-   "image": null,
-   "published": "2026-09-24T01:59:23Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "سجل تغييرات Midjourney Alpha بتاريخ 23 سبتمبر",
-   "ar_summary": "دفعة تغييرات على alpha.midjourney.com تشمل معاينات الأنماط وإعدادات افتراضية ومظهراً جديداً للخلاصة.",
-   "ai": true,
    "img_tried": true
   }
  ]
