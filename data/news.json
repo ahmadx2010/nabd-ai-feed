@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T02:01:59Z",
+ "updated": "2026-11-08T16:29:32Z",
  "categories": [
   {
    "key": "big",
@@ -5610,25 +5610,6 @@
    "ar_title": "اختبار Fuzzing مدعوم بالذكاء الاصطناعي عبر وكيل Taskflow من GitHub Security Lab",
    "ar_summary": "قدم GitHub Security Lab مسار عمل مستقلاً لاختبار Fuzzing على مشاريع C/C++ يكتب الأدوات ويشغل AFL++ ويحلل الأعطال.",
    "ai": true,
-   "img_tried": true
-  },
-  {
-   "id": "e7107d9a76d9",
-   "company": "gemini",
-   "kind": "blog",
-   "title": "Introducing Gemini 3.8 Live with Live Avatar",
-   "summary": "",
-   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.width-1300.png",
-   "published": "2026-09-24T16:20:39Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "ar_detail": true,
-   "ar_title": "Gemini 3.8 Live مع Live Avatar: حضور مرئي لحظي في المحادثة",
-   "ar_summary": "تقدم ديب مايند Live Avatar، ميزة تضيف شخصية مرئية بفيديو لحظي إلى محادثات Gemini الصوتية، متاحة في Gemini Enterprise.",
-   "ai": true,
-   "detail": true,
-   "fetched": true,
    "img_tried": true
   }
  ]
