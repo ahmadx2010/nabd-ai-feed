@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T20:27:52Z",
+ "updated": "2026-11-08T21:12:35Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "9709ee9b2939",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "A Message to Our Company",
+   "summary": "I owe my family and all of you an apology. I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry. Throughout my life, my ...",
+   "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+   "image": "https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b",
+   "published": "2026-11-08T21:02:00Z",
+   "found": "2026-11-08T21:12:35Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "a24fdfddefa6",
    "company": "nvidia",
