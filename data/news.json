@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:28:37Z",
+ "updated": "2026-11-08T19:41:24Z",
  "categories": [
   {
    "key": "big",
@@ -5553,43 +5553,6 @@
    "ar_detail": true,
    "ar_title": "حين تكون المحادثة واجهة خاطئة",
    "ar_summary": "مقال من GitHub يرى أن المحادثة ليست دائماً أفضل واجهة للذكاء الاصطناعي، ويقدم canvases في تطبيق Copilot بديلاً.",
-   "ai": true,
-   "img_tried": true
-  },
-  {
-   "id": "da79314d1ca0",
-   "company": "google",
-   "kind": "blog",
-   "title": "Automating coherent long-form video generation",
-   "summary": "Generative AI",
-   "url": "https://research.google/blog/coherent-long-form-video-generation/",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
-   "published": "2026-09-24T19:40:00Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "أتمتة توليد الفيديو الطويل المتسق",
-   "ar_summary": "قدمت Google Research إطاراً متعدد الوكلاء يولّد سرداً مرئياً طويلاً متسقاً زمنياً فوق Gemini وVeo.",
-   "ai": true
-  },
-  {
-   "id": "87c949c5277f",
-   "company": "midjourney",
-   "kind": "blog",
-   "title": "Edit updates, thumbnail previews, and more",
-   "summary": "Hi everyone! A few updates to share with you today We're experimenting with fast models in the interface on alpha.midjourney.com . The Styles sidebar can now preview what your latest prompt looks like across styles. Turn on \"Live previews\" and see a preview of your",
-   "url": "https://updates.midjourney.com/edit-updates-thumbnail-previews-and-more/",
-   "image": null,
-   "published": "2026-09-24T19:36:40Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "Midjourney: تحديثات التحرير ومعاينات الأنماط",
-   "ar_summary": "حسّنت Midjourney الرسم الداخلي والخارجي بنموذج التحرير، وأضافت معاينات حية للأنماط وتحسيناً لـ --tile.",
    "ai": true,
    "img_tried": true
   }
