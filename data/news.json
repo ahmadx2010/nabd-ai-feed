@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:12:56Z",
+ "updated": "2026-11-09T22:23:17Z",
  "categories": [
   {
    "key": "big",
@@ -507,9 +507,13 @@
    "image": null,
    "published": "2026-11-09T13:00:00Z",
    "found": "2026-11-09T21:54:44Z",
-   "importance": 2,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تقدم Control Room: تحكم بشري في أحمال عمل الذكاء الاصطناعي",
+   "ar_summary": "تعرض OpenAI نظام Control Room الذي يتتبع أحمال عمل النماذج عبر بنيتها البحثية التحتية ويستطيع إيقافها بسرعة عند ظهور مخاوف تتعلق بالسلامة أو الأمن.",
+   "ai": true
   },
   {
    "id": "f37b680abcf7",
@@ -521,9 +525,13 @@
    "image": null,
    "published": "2026-11-09T13:00:00Z",
    "found": "2026-11-09T22:12:56Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Control Room: نظام مركزي لتتبع وإيقاف أحمال عمل النماذج في بنية OpenAI البحثية",
+   "ar_summary": "تشرح OpenAI كيف يتتبع نظام Control Room أحمال عمل النماذج عبر بنيتها البحثية ويمكنه إيقافها سريعاً عند وجود مخاوف تتعلق بالسلامة أو الأمن.",
+   "ai": true
   },
   {
    "id": "7b1451fc786c",
@@ -709,7 +717,11 @@
    "found": "2026-11-09T21:54:44Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "CodeRabbit توسّع تطوير البرمجيات الوكيلي وتسلّم أكثر بـ20 ضعفاً",
+   "ar_summary": "تستخدم CodeRabbit نماذج OpenAI للتحكم في الشيفرة المولّدة بالذكاء الاصطناعي وبناء الثقة بها، وCodex لشحن برمجيات أكثر بـ20 ضعفاً بنفس فريق الهندسة.",
+   "ai": true
   },
   {
    "id": "dc742b2cbd8f",
