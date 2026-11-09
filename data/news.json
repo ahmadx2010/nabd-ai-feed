@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:30:45Z",
+ "updated": "2026-11-09T16:06:22Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "e5ed1ce8cdd2",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "Northern Trust and Microsoft Frontier Company collaborate to transform client onboarding through AI",
+   "summary": "The post Northern Trust and Microsoft Frontier Company collaborate to transform client onboarding through AI appeared first on Source .",
+   "url": "https://news.microsoft.com/source/2026/11/09/northern-trust-and-microsoft-frontier-company-collaborate-to-transform-client-onboarding-through-ai/",
+   "image": null,
+   "published": "2026-11-09T15:58:45Z",
+   "found": "2026-11-09T16:06:22Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "057e22ab69c0",
    "company": "huggingface",
