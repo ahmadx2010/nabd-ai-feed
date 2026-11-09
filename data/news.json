@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T13:13:01Z",
+ "updated": "2026-11-09T14:07:23Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "97be7dad625b",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+   "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
+   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+   "image": "https://iprsoftwaremedia.com/219/files/202611/1c44cc6b9c3f0190ced9c4c0fee6383d/6af1d1ef3d633225fdf5cf8e_corl-corp-blog-promo-pack-1920x1080-1-842x450/corl-corp-blog-promo-pack-1920x1080-1-842x450_thmb.jpg?v=f267f0d7-026b-453a-a9f9-a4f6f280e2d6",
+   "published": "2026-11-09T14:00:01Z",
+   "found": "2026-11-09T14:07:23Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "7b1451fc786c",
    "company": "huggingface",
