@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:06:22Z",
+ "updated": "2026-11-09T16:16:57Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": null,
    "published": "2026-11-09T15:58:45Z",
    "found": "2026-11-09T16:06:22Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Northern Trust وMicrosoft تتعاونان لتحويل إعداد العملاء عبر الذكاء الاصطناعي",
+   "ar_summary": "أعلنت Northern Trust وMicrosoft تعاونًا موسعًا يبدأ بوكيل ذكاء اصطناعي لإعداد العملاء على منصة Front Office Solutions، ويقلّص وقت تحضير البيانات بنسبة 83%.",
+   "ai": true
   },
   {
    "id": "057e22ab69c0",
@@ -512,6 +516,24 @@
    "ar_detail": true,
    "ar_title": "ElevenLabs تطلق Campaign Manager لإدارة حملات الاتصال الصادر بوكلاء صوتيين",
    "ar_summary": "قدمت ElevenLabs أداة ElevenAgents Campaign Manager التي تدير حملات اتصال صادرة على نطاق واسع، فترفع جهات الاتصال وتحدد النتيجة المطلوبة ويتابع الوكيل كل جهة حتى تحقيقها.",
+   "ai": true
+  },
+  {
+   "id": "02a7f5b336ef",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Introducing Perplexity Frontier Research",
+   "summary": "Perplexity announced Perplexity Frontier Research, an initiative to openly advance algorithms, models and evaluations with the goal of building an automated research scientist.",
+   "url": "https://www.perplexity.ai/hub/blog/introducing-perplexity-frontier-research",
+   "image": null,
+   "published": "2026-11-09T12:00:00Z",
+   "found": "2026-11-09T16:16:57Z",
+   "importance": 1,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity تطلق «Frontier Research» لبناء عالِم أبحاث آلي",
+   "ar_summary": "أعلنت Perplexity عن مبادرة Perplexity Frontier Research لتطوير الخوارزميات والنماذج والتقييمات بشكل مفتوح، بهدف بناء «عالِم أبحاث آلي» قادر على إجراء البحث بنفسه.",
    "ai": true
   },
   {
