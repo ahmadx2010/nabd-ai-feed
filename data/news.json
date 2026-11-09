@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:16:57Z",
+ "updated": "2026-11-09T16:25:09Z",
  "categories": [
   {
    "key": "big",
@@ -386,6 +386,20 @@
  },
  "items": [
   {
+   "id": "9a287df1be89",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "What Is Eval Driven Development",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/what-is-eval-driven-development",
+   "image": null,
+   "published": "2026-11-09T16:25:09Z",
+   "found": "2026-11-09T16:25:09Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "e5ed1ce8cdd2",
    "company": "microsoft",
    "kind": "blog",
@@ -534,7 +548,9 @@
    "ar_detail": true,
    "ar_title": "Perplexity تطلق «Frontier Research» لبناء عالِم أبحاث آلي",
    "ar_summary": "أعلنت Perplexity عن مبادرة Perplexity Frontier Research لتطوير الخوارزميات والنماذج والتقييمات بشكل مفتوح، بهدف بناء «عالِم أبحاث آلي» قادر على إجراء البحث بنفسه.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "44850ac5c455",
