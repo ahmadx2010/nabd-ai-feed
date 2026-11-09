@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:02:16Z",
+ "updated": "2026-11-09T15:11:23Z",
  "categories": [
   {
    "key": "big",
@@ -386,6 +386,21 @@
  },
  "items": [
   {
+   "id": "057e22ab69c0",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "summary": "",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/604ad59e2fad27aca4515dab/-hyd03JaQoRhMbmlw9-uJ.jpeg",
+   "published": "2026-11-09T15:05:57Z",
+   "found": "2026-11-09T15:11:23Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "97be7dad625b",
    "company": "nvidia",
    "kind": "blog",
@@ -460,6 +475,21 @@
    "ar_title": "Meta توسّع حماية حسابات المراهقين عالميًا بتقنية تقدير العمر بالذكاء الاصطناعي",
    "ar_summary": "توسّع Meta تقنية تقدير العمر بالذكاء الاصطناعي عالميًا لوضع ملايين المراهقين الإضافيين على إنستغرام ضمن حماية حسابات المراهقين، حتى لو أدخلوا تاريخ ميلاد لشخص بالغ.",
    "ai": true
+  },
+  {
+   "id": "278448d5d206",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "ElevenAgents Campaign Manager works every contact to an outcome",
+   "summary": "Run outbound voice campaigns at scale with ElevenAgents. Upload contacts, set policies, and track every call, callback, and outcome in one view.",
+   "url": "https://elevenlabs.io/blog/elevenagents-campaign-manager",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/8pcszoncytr-YT-Campaign-Manager.webp",
+   "published": "2026-11-09T12:00:00Z",
+   "found": "2026-11-09T15:11:23Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "44850ac5c455",
