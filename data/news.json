@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:32:18Z",
+ "updated": "2026-11-09T20:51:19Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LanguageExplorer-hero.png",
    "published": "2026-11-09T20:29:39Z",
    "found": "2026-11-09T20:32:18Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "غوغل تطلق «Language Explorer» لاستكشاف التنوع اللغوي في العالم",
+   "ar_summary": "كشفت غوغل عن أداة ويب تفاعلية باسم Language Explorer تتيح للباحثين والمعلمين وعشاق اللغات استكشاف التنوع اللغوي حول العالم عبر الرسوم البيانية والبيانات. الأداة معروضة ضمن معرض في متحف الاتصالات ببرلين.",
+   "ai": true
   },
   {
    "id": "9c331579e229",
