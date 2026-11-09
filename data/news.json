@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T11:49:59Z",
+ "updated": "2026-11-09T12:08:09Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "f149efa902b7",
+   "company": "meta",
+   "kind": "blog",
+   "title": "Expanding Teen Account Protections to Teens Around the World",
+   "summary": "We’re expanding our AI age-estimation technology globally to place millions more teens in Teen Account protections on Instagram. The post Expanding Teen Account Protections to Teens Around the World appeared first on Meta Newsroom .",
+   "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+   "image": "https://about.fb.com/wp-content/uploads/2026/11/01_Teen-Account-Protections.jpg",
+   "published": "2026-11-09T12:00:45Z",
+   "found": "2026-11-09T12:08:09Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "44850ac5c455",
    "company": "lovable",
