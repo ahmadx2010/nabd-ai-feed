@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T14:44:58Z",
+ "updated": "2026-11-09T15:02:16Z",
  "categories": [
   {
    "key": "big",
@@ -5765,24 +5765,6 @@
    "ar_summary": "شرح لكيفية وصف الواجهة المطلوبة بلغة عادية ليبني الوكيل سطحاً حياً يستخدمه الطرفان ويحدّثانه معاً.",
    "ai": true,
    "img_tried": true
-  },
-  {
-   "id": "4dfafaa726ef",
-   "company": "amazon",
-   "kind": "blog",
-   "title": "A kernel-centric path to real-time video generation on Trainium",
-   "summary": "Using the Neuron Kernel Interface, a Reactor–AWS collaboration tackled the dynamic shapes, memory access patterns, and cache management that make real-time autoregressive diffusion hard—building techniques that generalize across models.",
-   "url": "https://www.amazon.science/blog/a-kernel-centric-path-to-real-time-video-generation-on-trainium",
-   "image": "https://cdn.amazon.science/64/06/65de2b8949c5ad6788d04e1cd813/trainium-cover.png",
-   "published": "2026-09-25T14:55:00Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "مسار قائم على النوى لتوليد الفيديو الفوري على Trainium",
-   "ar_summary": "تعاون بين Reactor وAWS باستخدام Neuron Kernel Interface لمعالجة تحديات توليد الفيديو الفوري بالانتشار الانحداري الذاتي.",
-   "ai": true
   }
  ]
 }
