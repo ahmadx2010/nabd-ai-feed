@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T12:08:09Z",
+ "updated": "2026-11-09T12:26:20Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "cf388cc693fb",
+   "company": "lovable",
+   "kind": "blog",
+   "title": "The Radish AI team joins Lovable to scale agentic capabilities for businesses | Lovable",
+   "summary": "Lovable has acquired the team behind Radish AI, an agentic infrastructure platform. Its co-founders join our engineering team in London and Stockholm to build the agent capabilities and infrastructure behind Lovable.",
+   "url": "https://lovable.dev/blog/radish-ai-team-joins-lovable",
+   "image": "https://assets.lovable.dev/content/news/covers/radish-ai-team-joins-lovable.jpg",
+   "published": "2026-11-09T12:26:20Z",
+   "found": "2026-11-09T12:26:20Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "f149efa902b7",
    "company": "meta",
