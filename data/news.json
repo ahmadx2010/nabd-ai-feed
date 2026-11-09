@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T17:11:05Z",
+ "updated": "2026-11-09T17:56:53Z",
  "categories": [
   {
    "key": "big",
@@ -746,6 +746,21 @@
    "ar_title": "مجلس إدارة NVIDIA يفتح تحقيقًا مستقلًا بعد تقارير عن استهداف جنسن هوانغ من جهة استخباراتية أجنبية",
    "ar_summary": "أعلن مجلس إدارة NVIDIA بدء تحقيق مستقل على خلفية تقارير تفيد بأن مؤسس الشركة ورئيسها التنفيذي جنسن هوانغ كان هدفًا لجهد استخباراتي أجنبي. وتشرف على التحقيق لجنة من المديرين المستقلين.",
    "ai": true
+  },
+  {
+   "id": "e7e0099ded0a",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "How catching AI agent mistakes can make them more reliable",
+   "summary": "The post How catching AI agent mistakes can make them more reliable appeared first on Source .",
+   "url": "https://commandline.microsoft.com/thinkingbox-part-two-expanded-model-evals-reinforcement-learning-rewards/",
+   "image": "https://commandline.microsoft.com/wp-content/uploads/2026/11/the-check-that-catches-agent-failures-can-also-train-them-card.png",
+   "published": "2026-11-07T00:35:00Z",
+   "found": "2026-11-09T17:56:53Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "d28d7745dd02",
