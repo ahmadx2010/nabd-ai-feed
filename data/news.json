@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:38:31Z",
+ "updated": "2026-11-09T11:49:59Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "44850ac5c455",
+   "company": "lovable",
+   "kind": "blog",
+   "title": "How we moved our frontend off Firestore and built Lovable Realtime | Lovable",
+   "summary": "How we replaced frontend Firestore listeners with a Go and NATS realtime service, with reactive authorization, server-shaped payloads, and 2.06 million live subscriptions.",
+   "url": "https://lovable.dev/blog/lovable-realtime-service",
+   "image": "https://assets.lovable.dev/content/news/covers/lovable-realtime-2026-v2.png",
+   "published": "2026-11-09T11:49:59Z",
+   "found": "2026-11-09T11:49:59Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "57a8ba0d5522",
    "company": "nvidia",
