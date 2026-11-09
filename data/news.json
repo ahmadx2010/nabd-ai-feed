@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T19:19:09Z",
+ "updated": "2026-11-09T19:20:11Z",
  "categories": [
   {
    "key": "big",
@@ -395,9 +395,13 @@
    "image": null,
    "published": "2026-11-09T19:00:00Z",
    "found": "2026-11-09T19:09:57Z",
-   "importance": 2,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ChatGPT Enterprise متاح الآن عبر AWS Marketplace",
+   "ar_summary": "أصبح ChatGPT Enterprise متاحاً عبر AWS Marketplace، ما يبسّط على المؤسسات عمليات الشراء من خلال علاقات الشراء والفوترة القائمة لديها مع AWS.",
+   "ai": true
   },
   {
    "id": "9a287df1be89",
@@ -640,7 +644,11 @@
    "found": "2026-11-09T19:19:09Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Kuken Industries تبحث في 70 عاماً من الرسومات الهندسية خلال دقائق",
+   "ar_summary": "تستخدم Kuken Industries واجهة OpenAI API للبحث في رسومات أبراج التبريد عبر 70 عاماً، ويجد المهندسون رسم الإصلاح في 4.5 دقيقة بدلاً من قرابة ساعة.",
+   "ai": true
   },
   {
    "id": "dc742b2cbd8f",
@@ -750,7 +758,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Claude Fable 5.2 متاح الآن في Devin ويتصدر اختبار FrontierCode 2.0",
+   "ar_summary": "أصبح Claude Fable 5.2 متاحاً في Devin، وحقق المركز الأول في اختبار FrontierCode 2.0 بنسبة 49.1% مقابل 32.4% لـ Fable 5.1.",
+   "ai": true
   },
   {
    "id": "9709ee9b2939",
