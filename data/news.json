@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T21:13:34Z",
+ "updated": "2026-11-09T05:07:48Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,81 @@
   }
  },
  "items": [
+  {
+   "id": "dc742b2cbd8f",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+   "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung…",
+   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg",
+   "published": "2026-11-09T05:00:40Z",
+   "found": "2026-11-09T05:07:48Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "741e635ddb78",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+   "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
+   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg",
+   "published": "2026-11-09T05:00:39Z",
+   "found": "2026-11-09T05:07:48Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "22dc4f77b8e2",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+   "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
+   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-sovereign-ai-nvlink-fusion.jpg",
+   "published": "2026-11-09T05:00:04Z",
+   "found": "2026-11-09T05:07:48Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "e18a5f64b586",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+   "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
+   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/dynamo-korea-ai-day.jpg",
+   "published": "2026-11-09T05:00:00Z",
+   "found": "2026-11-09T05:07:48Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "5e5a52dee6ef",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
+   "summary": "Korean-Designed AI Processors and Models to Build on NVIDIA NVLink Fusion and MGX Infrastructure for Rack-Scale InferenceNews Summary: Rebellions plans to adopt NVIDIA NVLink Fusion to connect ...",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
+   "image": "https://iprsoftwaremedia.com/219/files/202611/f29a1ebf92c51b88b164a58bae2696d6/6af153993d6332c126d670eb_e8f27268-4031-4122-8504-f4cf3ad6e87/e8f27268-4031-4122-8504-f4cf3ad6e87_thmb.jpg?v=b44504af-0120-4574-9121-437f0a24b62e",
+   "published": "2026-11-09T05:00:00Z",
+   "found": "2026-11-09T05:07:48Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "9709ee9b2939",
    "company": "nvidia",
