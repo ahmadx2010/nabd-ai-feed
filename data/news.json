@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T18:06:04Z",
+ "updated": "2026-11-09T18:34:18Z",
  "categories": [
   {
    "key": "big",
@@ -757,10 +757,14 @@
    "image": "https://commandline.microsoft.com/wp-content/uploads/2026/11/the-check-that-catches-agent-failures-can-also-train-them-card.png",
    "published": "2026-11-07T00:35:00Z",
    "found": "2026-11-09T17:56:53Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مايكروسوفت: كيف يجعل اكتشاف أخطاء وكلاء الذكاء الاصطناعي منهم أكثر موثوقية",
+   "ar_summary": "نشرت مايكروسوفت الجزء الثاني عن ThinkingBox، وهو إطار لتقييم وكلاء الذكاء الاصطناعي عبر فحص السجلات التي يتركونها لا ما يقولونه. وتبيّن أن الفحص نفسه يمكن استخدامه لتدريب الوكيل بالتعلم المعزز فيصبح أكثر التزامًا بالسياسات.",
+   "ai": true
   },
   {
    "id": "d28d7745dd02",
