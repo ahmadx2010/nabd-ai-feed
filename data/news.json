@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T17:56:53Z",
+ "updated": "2026-11-09T18:06:04Z",
  "categories": [
   {
    "key": "big",
@@ -5876,25 +5876,6 @@
    "ai": true,
    "detail": true,
    "fetched": true
-  },
-  {
-   "id": "aabbcb7a3a47",
-   "company": "copilot",
-   "kind": "blog",
-   "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-   "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog .",
-   "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
-   "image": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-3.59.20-PM.png",
-   "published": "2026-09-25T18:00:00Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "تطبيق GitHub Copilot للمبتدئين: بناء سير عمل مخصص بالـ Canvases",
-   "ar_summary": "شرح لكيفية وصف الواجهة المطلوبة بلغة عادية ليبني الوكيل سطحاً حياً يستخدمه الطرفان ويحدّثانه معاً.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
