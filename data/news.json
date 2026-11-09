@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T12:27:51Z",
+ "updated": "2026-11-09T12:35:46Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "7b1451fc786c",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "summary": "",
+   "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png",
+   "published": "2026-11-09T12:34:29Z",
+   "found": "2026-11-09T12:35:46Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "cf388cc693fb",
    "company": "lovable",
