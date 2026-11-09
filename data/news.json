@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T14:07:23Z",
+ "updated": "2026-11-09T14:44:58Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://iprsoftwaremedia.com/219/files/202611/1c44cc6b9c3f0190ced9c4c0fee6383d/6af1d1ef3d633225fdf5cf8e_corl-corp-blog-promo-pack-1920x1080-1-842x450/corl-corp-blog-promo-pack-1920x1080-1-842x450_thmb.jpg?v=f267f0d7-026b-453a-a9f9-a4f6f280e2d6",
    "published": "2026-11-09T14:00:01Z",
    "found": "2026-11-09T14:07:23Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إنفيديا وشركاؤها يكشفون في CoRL كيف تتدرب الروبوتات على المهام الدقيقة داخل المحاكاة",
+   "ar_summary": "تقدّم إنفيديا في مؤتمر تعلّم الروبوتات CoRL تقنيات روبوتات مفتوحة جديدة، منها نموذج GR00T 2 للعمل والعالم وأدوات محاكاة ومقاييس أداء. تساعد هذه التقنيات الروبوتات على تعلّم مهام تتطلب لمسة دقيقة مثل محاذاة التروس وتوصيل الكابلات.",
+   "ai": true
   },
   {
    "id": "7b1451fc786c",
