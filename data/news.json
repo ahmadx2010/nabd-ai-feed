@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:23:17Z",
+ "updated": "2026-11-09T22:40:51Z",
  "categories": [
   {
    "key": "big",
@@ -423,6 +423,21 @@
    "ai": true
   },
   {
+   "id": "8f7afdd6839d",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Claude Fable 5.2 in GitHub Copilot",
+   "summary": "Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable… The post Claude Fable 5.2 in GitHub Copilot appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot",
+   "image": "https://github.blog/wp-content/uploads/2026/11/671582513-5399f19c-5bb5-46bf-b2f5-1c22f1f0741d.png",
+   "published": "2026-11-09T16:46:43Z",
+   "found": "2026-11-09T22:40:51Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "9a287df1be89",
    "company": "langchain",
    "kind": "blog",
@@ -646,6 +661,21 @@
    "ar_title": "Perplexity تشرح ذاكرة الذكاء الاصطناعي: ما هي وكيف تعمل وماذا تخزّن",
    "ar_summary": "دليل من Perplexity يشرح كيف تحفظ المساعدات الذكية معلومات من المحادثات السابقة وتعيد استخدامها، وأنواع الذاكرة ومخاطرها وكيفية التحكم بها.",
    "ai": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "c0887ea342e8",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "What is an API endpoint? A guide to connected software",
+   "summary": "Learn what an API endpoint is, how requests and responses work, common HTTP methods, and how to test and secure endpoints, with ElevenAPI examples.",
+   "url": "https://elevenlabs.io/blog/what-is-an-api-endpoint",
+   "image": null,
+   "published": "2026-11-09T12:00:00Z",
+   "found": "2026-11-09T22:40:51Z",
+   "importance": 0,
+   "detail": true,
    "fetched": true,
    "img_tried": true
   },
