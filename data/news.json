@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T05:07:48Z",
+ "updated": "2026-11-09T05:36:09Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg",
    "published": "2026-11-09T05:00:40Z",
    "found": "2026-11-09T05:07:48Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كوريا تعزز الذكاء الاصطناعي المادي في مختلف الصناعات بالتعاون مع NVIDIA",
+   "ar_summary": "تساعد NVIDIA في دفع منظومة الذكاء الاصطناعي المادي في كوريا، من تصنيع أشباه الموصلات إلى الروبوتات والمركبات ذاتية القيادة، مع أمثلة من سامسونج وKakao Mobility.",
+   "ai": true
   },
   {
    "id": "741e635ddb78",
@@ -410,10 +414,14 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg",
    "published": "2026-11-09T05:00:39Z",
    "found": "2026-11-09T05:07:48Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "منظومة الذكاء الاصطناعي الكورية تطور وتؤمّن الوكلاء الأذكياء مع NVIDIA",
+   "ar_summary": "تستكشف Hyundai Motor Group أدوات NemoClaw وOpenShell من NVIDIA، وتدمج AIM Intelligence منصة Starfort مع OpenShell لتأمين الوكلاء. كما تتيح LG AI Research واجهة API لنموذج K-EXAONE-2.5.",
+   "ai": true
   },
   {
    "id": "22dc4f77b8e2",
@@ -425,10 +433,14 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-sovereign-ai-nvlink-fusion.jpg",
    "published": "2026-11-09T05:00:04Z",
    "found": "2026-11-09T05:07:48Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "من الرقائق إلى المهارات: NVIDIA وكوريا توسعان التعاون في الذكاء الاصطناعي السيادي",
+   "ar_summary": "توسع NVIDIA ووزارة العلوم الكورية تعاونهما ليشمل أشباه الموصلات ومراكز البيانات والمواهب والنماذج والأمان، مع تمهيد لانضمام شركات كورية إلى منظومة NVLink Fusion.",
+   "ai": true
   },
   {
    "id": "e18a5f64b586",
@@ -443,7 +455,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "وصفات NVIDIA Dynamo تجلب النماذج الكورية المفتوحة الرائدة إلى مرحلة الإنتاج",
+   "ar_summary": "أطلقت NVIDIA وصفات نشر محسّنة عبر Dynamo لنماذج كورية مفتوحة هي A.X K2 وK-EXAONE 2.0 وSolar Open 2 وMotif-3. وتعد بأداء يصل إلى ضعف الأداء الافتراضي على وحدات B200.",
+   "ai": true
   },
   {
    "id": "5e5a52dee6ef",
@@ -455,10 +471,14 @@
    "image": "https://iprsoftwaremedia.com/219/files/202611/f29a1ebf92c51b88b164a58bae2696d6/6af153993d6332c126d670eb_e8f27268-4031-4122-8504-f4cf3ad6e87/e8f27268-4031-4122-8504-f4cf3ad6e87_thmb.jpg?v=b44504af-0120-4574-9121-437f0a24b62e",
    "published": "2026-11-09T05:00:00Z",
    "found": "2026-11-09T05:07:48Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA وRebellions وSK Telecom تتعاون لتطوير بنية الذكاء الاصطناعي السيادي في كوريا عبر NVLink Fusion",
+   "ar_summary": "أعلنت NVIDIA وRebellions وSK Telecom تعاوناً لبناء بنية تحتية سيادية للذكاء الاصطناعي في كوريا الجنوبية، بربط معالجات Rebel R200 الكورية بمنصة NVIDIA المفتوحة عبر NVLink Fusion. وتخطط SK Telecom لنشر هذه الأنظمة في مركز بياناتها.",
+   "ai": true
   },
   {
    "id": "9709ee9b2939",
