@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T19:09:57Z",
+ "updated": "2026-11-09T19:19:09Z",
  "categories": [
   {
    "key": "big",
@@ -627,6 +627,20 @@
    "ar_title": "NVIDIA تعلن استثمارات جديدة مخططة في شركات ناشئة كورية خلال منتدى الشراكة مع وزارة العلوم الكورية",
    "ar_summary": "استضافت وزارة العلوم وتكنولوجيا المعلومات الكورية وNVIDIA منتدى للشراكة مع الشركات الناشئة في مجال الذكاء الاصطناعي، وأعلنت NVIDIA استثمارها في شركة Point2 مع استثمارات مخططة في Motif Technologies وRLWRLD وUpstage.",
    "ai": true
+  },
+  {
+   "id": "932fe34bad72",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+   "url": "https://openai.com/index/kuken",
+   "image": null,
+   "published": "2026-11-09T08:00:00Z",
+   "found": "2026-11-09T19:19:09Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "dc742b2cbd8f",
