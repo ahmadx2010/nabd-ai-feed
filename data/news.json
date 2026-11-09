@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T12:35:46Z",
+ "updated": "2026-11-09T13:13:01Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png",
    "published": "2026-11-09T12:34:29Z",
    "found": "2026-11-09T12:35:46Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "HOPE: طريقة جديدة من أمازون لتقليص نماذج مزيج الخبراء بتقليم الخبراء المترابطين معًا",
+   "ar_summary": "قدّم باحثو أمازون طريقة HOPE لتقليم الخبراء في نماذج مزيج الخبراء (MoE) تراعي التفاعل بين أزواج الخبراء بدل تقييم كل خبير على حدة. تحقق الطريقة عند تقليم 50% من الخبراء أفضل متوسط ترتيب بين الطرق المقارنة، مع تفوق يصل إلى 6.1% في مهام البرمجة الوكيلية.",
+   "ai": true
   },
   {
    "id": "cf388cc693fb",
