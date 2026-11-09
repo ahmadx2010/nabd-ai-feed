@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:10:28Z",
+ "updated": "2026-11-09T08:38:31Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-startups-msit-1920x1080-1.jpg",
    "published": "2026-11-09T08:00:53Z",
    "found": "2026-11-09T08:10:28Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA تعلن استثمارات جديدة مخططة في شركات ناشئة كورية خلال منتدى الشراكة مع وزارة العلوم الكورية",
+   "ar_summary": "استضافت وزارة العلوم وتكنولوجيا المعلومات الكورية وNVIDIA منتدى للشراكة مع الشركات الناشئة في مجال الذكاء الاصطناعي، وأعلنت NVIDIA استثمارها في شركة Point2 مع استثمارات مخططة في Motif Technologies وRLWRLD وUpstage.",
+   "ai": true
   },
   {
    "id": "dc742b2cbd8f",
