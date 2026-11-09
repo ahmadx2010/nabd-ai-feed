@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:11:23Z",
+ "updated": "2026-11-09T15:30:45Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/604ad59e2fad27aca4515dab/-hyd03JaQoRhMbmlw9-uJ.jpeg",
    "published": "2026-11-09T15:05:57Z",
    "found": "2026-11-09T15:11:23Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Nemotron-Personas-Finance-Japan: مجموعة بيانات اصطناعية تحاكي التركيبة السكانية والسياق المالي في اليابان",
+   "ar_summary": "أطلقت Elith وNVIDIA مجموعة بيانات مفتوحة من الشخصيات الاصطناعية تعكس التركيبة السكانية اليابانية والسياق المالي للأسر، لمساعدة تطوير الذكاء الاصطناعي في القطاع المالي دون استخدام بيانات عملاء حقيقية.",
+   "ai": true
   },
   {
    "id": "97be7dad625b",
@@ -486,10 +490,14 @@
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/8pcszoncytr-YT-Campaign-Manager.webp",
    "published": "2026-11-09T12:00:00Z",
    "found": "2026-11-09T15:11:23Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تطلق Campaign Manager لإدارة حملات الاتصال الصادر بوكلاء صوتيين",
+   "ar_summary": "قدمت ElevenLabs أداة ElevenAgents Campaign Manager التي تدير حملات اتصال صادرة على نطاق واسع، فترفع جهات الاتصال وتحدد النتيجة المطلوبة ويتابع الوكيل كل جهة حتى تحقيقها.",
+   "ai": true
   },
   {
    "id": "44850ac5c455",
