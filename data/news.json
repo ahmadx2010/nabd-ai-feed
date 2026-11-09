@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:51:19Z",
+ "updated": "2026-11-09T21:54:44Z",
  "categories": [
   {
    "key": "big",
@@ -498,6 +498,20 @@
    "ai": true
   },
   {
+   "id": "5d57e1aa0817",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Introducing Control Room: Human control over AI workloads",
+   "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+   "url": "https://openai.com/index/introducing-control-room",
+   "image": null,
+   "published": "2026-11-09T13:00:00Z",
+   "found": "2026-11-09T21:54:44Z",
+   "importance": 2,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "7b1451fc786c",
    "company": "huggingface",
    "kind": "blog",
@@ -668,6 +682,20 @@
    "ar_title": "Kuken Industries تبحث في 70 عاماً من الرسومات الهندسية خلال دقائق",
    "ar_summary": "تستخدم Kuken Industries واجهة OpenAI API للبحث في رسومات أبراج التبريد عبر 70 عاماً، ويجد المهندسون رسم الإصلاح في 4.5 دقيقة بدلاً من قرابة ساعة.",
    "ai": true
+  },
+  {
+   "id": "23b94c697622",
+   "company": "openai",
+   "kind": "blog",
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "image": null,
+   "published": "2026-11-09T08:00:00Z",
+   "found": "2026-11-09T21:54:44Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "dc742b2cbd8f",
