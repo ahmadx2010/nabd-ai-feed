@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:25:09Z",
+ "updated": "2026-11-09T17:03:02Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-09T16:25:09Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ما هو التطوير القائم على التقييم (Eval Driven Development)؟",
+   "ar_summary": "مقال من LangChain يتناول مفهوم التطوير القائم على التقييم لبناء وكلاء الذكاء الاصطناعي. لم يتوفر نص المقال كاملاً، والعنوان يشير إلى شرح المفهوم وأهميته.",
+   "ai": true
   },
   {
    "id": "e5ed1ce8cdd2",
@@ -551,6 +555,24 @@
    "ai": true,
    "fetched": true,
    "img_tried": true
+  },
+  {
+   "id": "d4c4c889c11b",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "AI memory: what it is, how it works, and what it stores",
+   "summary": "Perplexity explains how AI assistants save and reuse information from past conversations, the types of memory, the risks, and how to control it.",
+   "url": "https://www.perplexity.ai/hub/blog/ai-memory",
+   "image": null,
+   "published": "2026-11-09T12:00:00Z",
+   "found": "2026-11-09T17:03:02Z",
+   "importance": 0,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity تشرح ذاكرة الذكاء الاصطناعي: ما هي وكيف تعمل وماذا تخزّن",
+   "ar_summary": "دليل من Perplexity يشرح كيف تحفظ المساعدات الذكية معلومات من المحادثات السابقة وتعيد استخدامها، وأنواع الذاكرة ومخاطرها وكيفية التحكم بها.",
+   "ai": true
   },
   {
    "id": "44850ac5c455",
