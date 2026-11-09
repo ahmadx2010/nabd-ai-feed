@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T18:34:18Z",
+ "updated": "2026-11-09T19:09:57Z",
  "categories": [
   {
    "key": "big",
@@ -386,6 +386,20 @@
  },
  "items": [
   {
+   "id": "9c331579e229",
+   "company": "openai",
+   "kind": "blog",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "image": null,
+   "published": "2026-11-09T19:00:00Z",
+   "found": "2026-11-09T19:09:57Z",
+   "importance": 2,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "9a287df1be89",
    "company": "langchain",
    "kind": "blog",
@@ -708,6 +722,21 @@
    "ar_title": "NVIDIA وRebellions وSK Telecom تتعاون لتطوير بنية الذكاء الاصطناعي السيادي في كوريا عبر NVLink Fusion",
    "ar_summary": "أعلنت NVIDIA وRebellions وSK Telecom تعاوناً لبناء بنية تحتية سيادية للذكاء الاصطناعي في كوريا الجنوبية، بربط معالجات Rebel R200 الكورية بمنصة NVIDIA المفتوحة عبر NVLink Fusion. وتخطط SK Telecom لنشر هذه الأنظمة في مركز بياناتها.",
    "ai": true
+  },
+  {
+   "id": "715e33f7272a",
+   "company": "windsurf",
+   "kind": "blog",
+   "title": "Claude Fable 5.2 is now available in Devin | Devin",
+   "summary": "Claude Fable 5.2 is now live in Devin. It takes the top spot on FrontierCode 2.0 with a score of 49.1%, up from Fable 5.1's 32.4%.",
+   "url": "https://windsurf.com/blog/claude-fable-5-2",
+   "image": "https://devin.ai/images/blog/claude-fable-5-2/cover.png",
+   "published": "2026-11-09T00:00:00Z",
+   "found": "2026-11-09T19:09:57Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "9709ee9b2939",
