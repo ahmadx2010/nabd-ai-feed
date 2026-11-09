@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T12:26:20Z",
+ "updated": "2026-11-09T12:27:51Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Lovable تستحوذ على فريق Radish AI لتوسيع قدرات الوكلاء للشركات",
+   "ar_summary": "استحوذت Lovable على الفريق المؤسس لمنصة Radish AI المتخصصة في البنية التحتية للوكلاء الذكيين. سينضم المؤسسون إلى فريق الهندسة في لندن وستوكهولم لبناء قدرات الوكلاء في المنصة.",
+   "ai": true
   },
   {
    "id": "f149efa902b7",
@@ -410,10 +414,14 @@
    "image": "https://about.fb.com/wp-content/uploads/2026/11/01_Teen-Account-Protections.jpg",
    "published": "2026-11-09T12:00:45Z",
    "found": "2026-11-09T12:08:09Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Meta توسّع حماية حسابات المراهقين عالميًا بتقنية تقدير العمر بالذكاء الاصطناعي",
+   "ar_summary": "توسّع Meta تقنية تقدير العمر بالذكاء الاصطناعي عالميًا لوضع ملايين المراهقين الإضافيين على إنستغرام ضمن حماية حسابات المراهقين، حتى لو أدخلوا تاريخ ميلاد لشخص بالغ.",
+   "ai": true
   },
   {
    "id": "44850ac5c455",
@@ -428,7 +436,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف نقلت Lovable واجهتها الأمامية من Firestore وبنت خدمة Lovable Realtime",
+   "ar_summary": "شرحت Lovable كيف استبدلت مستمعي Firestore في الواجهة الأمامية بخدمة زمن حقيقي مبنية بلغة Go وNATS، مع تفويض تفاعلي ودعم لأكثر من مليوني اشتراك مباشر.",
+   "ai": true
   },
   {
    "id": "57a8ba0d5522",
