@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T19:20:11Z",
+ "updated": "2026-11-09T20:32:18Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "5f5a5a012b72",
+   "company": "google",
+   "kind": "blog",
+   "title": "Exploring the world's languages with Language Explorer",
+   "summary": "Natural Language Processing",
+   "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LanguageExplorer-hero.png",
+   "published": "2026-11-09T20:29:39Z",
+   "found": "2026-11-09T20:32:18Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "9c331579e229",
    "company": "openai",
