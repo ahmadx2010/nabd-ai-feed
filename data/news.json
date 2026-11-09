@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:40:51Z",
+ "updated": "2026-11-09T23:09:10Z",
  "categories": [
   {
    "key": "big",
@@ -435,7 +435,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Claude Fable 5.2 متاح الآن في GitHub Copilot",
+   "ar_summary": "أعلنت GitHub إتاحة نموذج Claude Fable 5.2 من Anthropic بشكل عام في Copilot للمهام البرمجية المعقدة متعددة الخطوات عبر قواعد الشيفرة الكبيرة. يتطلب النموذج الاحتفاظ بالبيانات افتراضيًا لتشغيل مصنّفات الأمان.",
+   "ai": true
   },
   {
    "id": "9a287df1be89",
@@ -677,7 +681,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ما هي نقطة نهاية API؟ دليل للبرمجيات المتصلة",
+   "ar_summary": "مقال تعليمي من ElevenLabs يشرح مفهوم نقطة نهاية API وكيفية عمل الطلبات والاستجابات وطرق HTTP الشائعة وكيفية اختبارها وتأمينها، مع أمثلة من ElevenAPI.",
+   "ai": true
   },
   {
    "id": "44850ac5c455",
