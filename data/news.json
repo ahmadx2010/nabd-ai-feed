@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T20:02:13Z",
+ "updated": "2026-11-10T20:30:30Z",
  "categories": [
   {
    "key": "big",
@@ -884,10 +884,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/700374691-69ca0c74-ac8e-4638-82f6-46417790e655.png",
    "published": "2026-11-10T02:26:51Z",
    "found": "2026-11-10T20:02:13Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini 4 Carbon متاح الآن لعموم المستخدمين في GitHub Copilot",
+   "ar_summary": "أعلنت GitHub إتاحة Gemini 4 Carbon، أحدث نماذج غوغل، في Copilot. يركز النموذج على البرمجة المعقدة والمهام الوكيلية والاستدلال مع تركيز على توليد الشيفرة الآمنة.",
+   "ai": true
   },
   {
    "id": "85a32fe1244f",
@@ -3253,7 +3257,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "من Attention إلى Mamba: وصفة لتقطير المعرفة بين البنى المختلفة",
+   "ar_summary": "تقدم أبحاث Apple طريقة من مرحلتين لتقطير نموذج Transformer إلى نموذج Mamba دون كتل انتباه، مع الحفاظ على معظم أدائه.",
+   "ai": true
   },
   {
    "id": "767025f393c3",
