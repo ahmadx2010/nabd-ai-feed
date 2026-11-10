@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T14:59:07Z",
+ "updated": "2026-11-10T15:08:17Z",
  "categories": [
   {
    "key": "big",
@@ -535,6 +535,20 @@
    "ai": true
   },
   {
+   "id": "3588ceed4155",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "image": null,
+   "published": "2026-11-10T07:00:00Z",
+   "found": "2026-11-10T15:08:17Z",
+   "importance": 2,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "85a32fe1244f",
    "company": "anthropic",
    "kind": "blog",
@@ -552,6 +566,21 @@
    "ar_title": "Anthropic تطلق جولة الترويج للطرح العام الأولي لأسهمها",
    "ar_summary": "أطلقت Anthropic جولة الترويج لطرحها العام الأولي لأسهم الفئة A، بسعر متوقع بين 70 و78 دولارًا للسهم. تعتزم إدراج أسهمها في ناسداك تحت الرمز ANT.",
    "ai": true
+  },
+  {
+   "id": "3229de0d9192",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Decision Models in Hugging Face",
+   "summary": "",
+   "url": "https://huggingface.co/blog/decision",
+   "image": "https://huggingface.co/blog/assets/decision/thumbnail.png",
+   "published": "2026-11-10T00:00:00Z",
+   "found": "2026-11-10T15:08:17Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "5f5a5a012b72",
