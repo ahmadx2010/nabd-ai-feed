@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:35:57Z",
+ "updated": "2026-11-10T15:54:10Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "fd4a6604dd1f",
+   "company": "amazon",
+   "kind": "blog",
+   "title": "Mitra-v2: Scaling synthetic pretraining for tabular foundation models",
+   "summary": "Expanding the mix of synthetic data used to train a tabular foundation model enables it to adapt to new tables without new models and lead the single-model field on the TabArena benchmark.",
+   "url": "https://www.amazon.science/blog/mitra-v2-scaling-synthetic-pretraining-for-tabular-foundation-models",
+   "image": "https://cdn.amazon.science/dims4/default/5598ffa/2147483647/strip/true/crop/1643x863+0+31/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fdc%2F2d%2Fcdcf03d94ef08edbb58870a7d782%2Fmitra-v2-16x9.png",
+   "published": "2026-11-10T15:37:39Z",
+   "found": "2026-11-10T15:54:10Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "851b22c31c14",
    "company": "openai",
