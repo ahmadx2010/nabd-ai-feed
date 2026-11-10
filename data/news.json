@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:39:45Z",
+ "updated": "2026-11-10T18:58:40Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://devin.ai/images/blog/claude-mythos-5-2-security/cover.png",
    "published": "2026-11-11T00:00:00Z",
    "found": "2026-11-10T18:30:37Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Claude Mythos 5.2 متاح الآن في Devin Security لعملاء المؤسسات المؤهلين",
+   "ar_summary": "أعلنت Devin إتاحة نموذج Claude Mythos 5.2 ضمن خدمة Devin Security للعملاء الذين لديهم وصول إلى نماذج الأمن السيبراني المتقدمة. وسجّل النموذج 73.5 في اختبار داخلي للثغرات مقابل 56.9 للإصدار 5.1.",
+   "ai": true
   },
   {
    "id": "02d71ec8c692",
@@ -768,9 +772,13 @@
    "image": null,
    "published": "2026-11-10T10:00:00Z",
    "found": "2026-11-10T18:39:45Z",
-   "importance": 2,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تقدّم «الأنشطة التجارية» في ChatGPT",
+   "ar_summary": "تتيح الميزة الجديدة للشركات إدارة معلومات نشاطها التجاري ومعرفة كيف يظهر في ChatGPT، وتحويل اهتمام المستخدمين إلى إجراءات فعلية.",
+   "ai": true
   },
   {
    "id": "01a8528fa117",
