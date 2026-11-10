@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:41:48Z",
+ "updated": "2026-11-10T16:49:45Z",
  "categories": [
   {
    "key": "big",
@@ -779,6 +779,21 @@
    "ar_title": "نماذج القرار في Hugging Face",
    "ar_summary": "يشرح Hugging Face فكرة «نماذج القرار»، وهي نماذج لا تولّد نصاً بل تقيّم خيارات محددة مسبقاً وتعيد توزيعاً احتمالياً عليها، وهو مناسب لمهام التصنيف والتوجيه.",
    "ai": true
+  },
+  {
+   "id": "eed92608cfa6",
+   "company": "windsurf",
+   "kind": "blog",
+   "title": "Gemini 4 Carbon is now available in Devin | Devin",
+   "summary": "Gemini 4 Carbon is now live in Devin Desktop and Devin CLI. On FrontierCode 2.0 it scores 40.0%, up from Gemini 4 Argon's 26.3%, at a lower cost per task.",
+   "url": "https://windsurf.com/blog/gemini-4-carbon",
+   "image": "https://devin.ai/images/blog/gemini-4-carbon/cover.png",
+   "published": "2026-11-10T00:00:00Z",
+   "found": "2026-11-10T16:49:45Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "5f5a5a012b72",
