@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T20:30:30Z",
+ "updated": "2026-11-10T21:42:53Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "Claude Mythos 5.2 متاح الآن في Devin Security لعملاء المؤسسات المؤهلين",
    "ar_summary": "أعلنت Devin إتاحة نموذج Claude Mythos 5.2 ضمن خدمة Devin Security للعملاء الذين لديهم وصول إلى نماذج الأمن السيبراني المتقدمة. وسجّل النموذج 73.5 في اختبار داخلي للثغرات مقابل 56.9 للإصدار 5.1.",
    "ai": true
+  },
+  {
+   "id": "d4308adb53b1",
+   "company": "openai",
+   "kind": "video",
+   "title": "Answering your questions about GPT-Live",
+   "summary": "We’re answering the internet’s questions about GPT-Live, starting with how it’s different from earlier voice models and what developers are using it for. Already building with GPT-Live? We’ll share practical tips for customizing your agent’s voice and improving delegation. What else would you like to know about building with GPT-Live? Leave us a question in the comments! Chapters 00:00 Intro…",
+   "url": "https://www.youtube.com/watch?v=5YXlrzC_RYE",
+   "image": "https://i2.ytimg.com/vi/5YXlrzC_RYE/hqdefault.jpg",
+   "published": "2026-11-10T21:10:08Z",
+   "found": "2026-11-10T21:42:53Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f36eb145f3b3",
