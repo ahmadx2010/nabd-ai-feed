@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T14:04:14Z",
+ "updated": "2026-11-10T14:23:37Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Lovable تشرح كيف تحمي تطبيقاتك: اكتشف المشكلة وأصلحها وانشر",
+   "ar_summary": "تستعرض Lovable ما تتولاه تلقائيًا من أمان للتطبيقات وما تنبّه إليه وما تصلحه، مع التأكيد على أن مراجعة نتائج الفحص تبقى مسؤولية المستخدم.",
+   "ai": true
   },
   {
    "id": "c5fffc8a0cbd",
@@ -413,7 +417,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "جوجل وأدوبي توسّعان شراكتهما لدمج أدوات الإبداع والإنتاجية في تطبيقات جوجل",
+   "ar_summary": "أعلنت جوجل خلال مؤتمر Adobe MAX توسيع شراكتها مع أدوبي، لتصل أدوات Acrobat والأدوات الإبداعية إلى Drive وGmail وGemini، وتدخل نماذج جوجل المتقدمة إلى تطبيقات أدوبي.",
+   "ai": true
   },
   {
    "id": "cbd91595681d",
@@ -428,7 +436,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف بنى فريق Manus وكيل بيانات يستخدمه أكثر من 40 شخصًا أسبوعيًا",
+   "ar_summary": "يروي فريق البيانات في Manus المكوّن من أربعة أشخاص كيف بنى وكيل بيانات يساعد الفرق على اتخاذ قرارات أفضل، ويقدّم نصائح لبناء وكيل مشابه.",
+   "ai": true
   },
   {
    "id": "3420a499e770",
