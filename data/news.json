@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:08:17Z",
+ "updated": "2026-11-10T15:09:24Z",
  "categories": [
   {
    "key": "big",
@@ -544,9 +544,13 @@
    "image": null,
    "published": "2026-11-10T07:00:00Z",
    "found": "2026-11-10T15:08:17Z",
-   "importance": 2,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "العمل على الحدود: تأثير الذكاء الاصطناعي على العمل الحر",
+   "ar_summary": "بحث جديد من OpenAI وUpwork يكشف عن تحوّل في الطلب على الأعمال الحرة، وظهور تركيبات مهارات جديدة، وميزانيات وساعات عمل أكبر للمشاريع المرتبطة بالذكاء الاصطناعي.",
+   "ai": true
   },
   {
    "id": "85a32fe1244f",
@@ -577,10 +581,14 @@
    "image": "https://huggingface.co/blog/assets/decision/thumbnail.png",
    "published": "2026-11-10T00:00:00Z",
    "found": "2026-11-10T15:08:17Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "نماذج القرار في Hugging Face",
+   "ar_summary": "يشرح Hugging Face فكرة «نماذج القرار»، وهي نماذج لا تولّد نصاً بل تقيّم خيارات محددة مسبقاً وتعيد توزيعاً احتمالياً عليها، وهو مناسب لمهام التصنيف والتوجيه.",
+   "ai": true
   },
   {
    "id": "5f5a5a012b72",
@@ -611,9 +619,13 @@
    "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
    "published": "2026-11-09T19:51:47Z",
    "found": "2026-11-10T14:59:07Z",
-   "importance": 0,
+   "importance": 2,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini Robotics 2.5 يعزز البراعة العامة للروبوتات في العالم الحقيقي",
+   "ar_summary": "أعلنت Google DeepMind عن Gemini Robotics 2.5، أقوى نموذج رؤية ولغة وفعل لديها، ويحسّن مهارة الروبوتات وموثوقيتها وسلامتها.",
+   "ai": true
   },
   {
    "id": "9c331579e229",
