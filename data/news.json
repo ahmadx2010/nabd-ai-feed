@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:09:24Z",
+ "updated": "2026-11-10T15:35:57Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "851b22c31c14",
+   "company": "openai",
+   "kind": "video",
+   "title": "How CodeRabbit uses OpenAI to review AI-generated code",
+   "summary": "CodeRabbit co-founder and CEO Harjot Gill explains how the team uses OpenAI models to help teams understand, review, and secure code produced by AI agents and decide what’s ready to ship. He also shares how CodeRabbit used Codex to ship 20x more software over 6 months with the same engineering team. Read the story: https://openai.com/index/coderabbit-codex-daybreak/",
+   "url": "https://www.youtube.com/watch?v=ZTxzWJeGFAA",
+   "image": "https://i3.ytimg.com/vi/ZTxzWJeGFAA/hqdefault.jpg",
+   "published": "2026-11-10T15:05:40Z",
+   "found": "2026-11-10T15:35:57Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "27668d0dd263",
    "company": "lovable",
