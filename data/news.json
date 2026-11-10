@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:49:45Z",
+ "updated": "2026-11-10T17:07:57Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "685df558780e",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "C++ language server now auto-configures MSBuild builds",
+   "summary": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a… The post C++ language server now auto-configures MSBuild builds appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+   "published": "2026-11-10T17:04:10Z",
+   "found": "2026-11-10T17:07:57Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "14b8faf6dd2f",
    "company": "openai",
@@ -791,6 +806,21 @@
    "published": "2026-11-10T00:00:00Z",
    "found": "2026-11-10T16:49:45Z",
    "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "724fae925148",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+   "summary": "",
+   "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+   "image": "https://huggingface.co/blog/assets/hub-gcp-marketplace/thumbnail.jpg",
+   "published": "2026-11-10T00:00:00Z",
+   "found": "2026-11-10T17:07:57Z",
+   "importance": 0,
    "detail": true,
    "fetched": true,
    "img_tried": true
