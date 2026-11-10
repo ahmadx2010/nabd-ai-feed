@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:13:08Z",
+ "updated": "2026-11-10T18:30:37Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "9c69d029a1ab",
+   "company": "windsurf",
+   "kind": "blog",
+   "title": "Claude Mythos 5.2 is now available in Devin Security | Devin",
+   "summary": "Claude Mythos 5.2 is now available in Devin Security for customers with frontier cyber model access through Devin.",
+   "url": "https://windsurf.com/blog/claude-mythos-5-2-security",
+   "image": "https://devin.ai/images/blog/claude-mythos-5-2-security/cover.png",
+   "published": "2026-11-11T00:00:00Z",
+   "found": "2026-11-10T18:30:37Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "02d71ec8c692",
    "company": "openai",
