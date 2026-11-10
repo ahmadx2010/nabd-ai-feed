@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T22:46:52Z",
+ "updated": "2026-11-10T22:48:00Z",
  "categories": [
   {
    "key": "big",
@@ -832,7 +832,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "WAV مقابل MP3: كيف تختار صيغة الملف الصوتي المناسبة",
+   "ar_summary": "دليل من ElevenLabs يقارن بين صيغتي WAV وMP3 من حيث الحجم وجودة الصوت والتوافق، ويوضح متى تستخدم كل منهما في التسجيل والتحرير والمشاركة.",
+   "ai": true
   },
   {
    "id": "5ca4dc7b6d88",
@@ -5368,7 +5372,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "من البكسلات إلى الرموز: تعلّم نشط فعّال لتجزئة الصور بميزانية وسوم منخفضة",
+   "ar_summary": "بحث من Apple يقدّم إطار TEAL للتعلّم النشط على مستوى البكسل باستخدام نماذج ViT، ويحقق نتائج قوية بعدد ضئيل جدًا من البكسلات الموسومة.",
+   "ai": true
   },
   {
    "id": "a3ad0558b97a",
