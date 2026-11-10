@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:37:43Z",
+ "updated": "2026-11-10T13:55:04Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "cbd91595681d",
+   "company": "manus",
+   "kind": "blog",
+   "title": "How we built a data agent with Manus to help every team make better decisions",
+   "summary": "Manus's four-person data team built a data agent that more than 40 people use every week. We sat down with Ben Zhong, whose Slack title is \"Data Guy,\" to hear how it came together, and what other teams can take from it.",
+   "url": "https://manus.im/blog/how-we-built-a-data-agent",
+   "image": "https://files.manuscdn.com/assets/dashboard/materials/2026/11/06/ebb8cec6831b899f24c5265a3ca5f33c08e0de10127b062cdaaf6bf6b7734cdd.webp",
+   "published": "2026-11-10T13:55:04Z",
+   "found": "2026-11-10T13:55:04Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "3420a499e770",
    "company": "microsoft",
