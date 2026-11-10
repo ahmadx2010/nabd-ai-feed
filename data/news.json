@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T19:16:25Z",
+ "updated": "2026-11-10T19:44:40Z",
  "categories": [
   {
    "key": "big",
@@ -414,10 +414,14 @@
    "image": "https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b",
    "published": "2026-11-10T19:07:00Z",
    "found": "2026-11-10T19:16:25Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "أعضاء مجلس إدارة NVIDIA المستقلون يكلّفون جون كيم وشركة Wachtell بإجراء تحقيق مستقل",
+   "ar_summary": "أعلن الأعضاء المستقلون في مجلس إدارة NVIDIA أنهم كلّفوا المدعي العام الأمريكي السابق بالإنابة لمنطقة نيويورك الجنوبية جون كيم وشركته Wachtell, Lipton, Rosen & Katz بإجراء تحقيق شامل ومستقل.",
+   "ai": true
   },
   {
    "id": "ac5a661efbfd",
@@ -429,10 +433,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp",
    "published": "2026-11-10T19:00:00Z",
    "found": "2026-11-10T19:07:17Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini Intelligence: ميزات جديدة على مزيد من الأجهزة",
+   "ar_summary": "وسّعت Google نطاق Gemini Intelligence ليصل إلى أجهزة مثل motorola signature 27 وسلسلة Pixel 10، مع ميزات جديدة منها إنشاء ويدجت مخصص بوصف نصي ومساعدة الجهاز.",
+   "ai": true
   },
   {
    "id": "02d71ec8c692",
