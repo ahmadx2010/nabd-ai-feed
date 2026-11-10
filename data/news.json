@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:58:40Z",
+ "updated": "2026-11-10T19:07:17Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "Claude Mythos 5.2 متاح الآن في Devin Security لعملاء المؤسسات المؤهلين",
    "ar_summary": "أعلنت Devin إتاحة نموذج Claude Mythos 5.2 ضمن خدمة Devin Security للعملاء الذين لديهم وصول إلى نماذج الأمن السيبراني المتقدمة. وسجّل النموذج 73.5 في اختبار داخلي للثغرات مقابل 56.9 للإصدار 5.1.",
    "ai": true
+  },
+  {
+   "id": "ac5a661efbfd",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Gemini Intelligence: New features, on more devices",
+   "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+   "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp",
+   "published": "2026-11-10T19:00:00Z",
+   "found": "2026-11-10T19:07:17Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "02d71ec8c692",
