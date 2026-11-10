@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T17:53:49Z",
+ "updated": "2026-11-10T18:12:04Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "02d71ec8c692",
+   "company": "openai",
+   "kind": "video",
+   "title": "Introducing Businesses in ChatGPT in beta",
+   "summary": "Now in beta: Businesses in ChatGPT. Claim your business, manage your information, and get insights on how people engage with you. With Business Hub, verified businesses can update their details and add product feeds with current pricing and availability. They can also see aggregated insights on mentions, website clicks, and common topics in conversations where their business is cited. Eligible…",
+   "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
+   "image": "https://i3.ytimg.com/vi/Z9k5oI3Paoc/hqdefault.jpg",
+   "published": "2026-11-10T18:07:12Z",
+   "found": "2026-11-10T18:12:04Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "685df558780e",
    "company": "copilot",
