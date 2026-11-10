@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:37:41Z",
+ "updated": "2026-11-10T12:04:57Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "428ac4b42c0b",
+   "company": "deepmind",
+   "kind": "blog",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
+   "published": "2026-11-10T12:02:28Z",
+   "found": "2026-11-10T12:04:57Z",
+   "importance": 2,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "01a8528fa117",
    "company": "openai",
