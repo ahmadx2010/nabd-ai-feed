@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T19:44:40Z",
+ "updated": "2026-11-10T20:02:13Z",
  "categories": [
   {
    "key": "big",
@@ -873,6 +873,21 @@
    "ar_title": "العمل على الحدود: تأثير الذكاء الاصطناعي على العمل الحر",
    "ar_summary": "بحث جديد من OpenAI وUpwork يكشف عن تحوّل في الطلب على الأعمال الحرة، وظهور تركيبات مهارات جديدة، وميزانيات وساعات عمل أكبر للمشاريع المرتبطة بالذكاء الاصطناعي.",
    "ai": true
+  },
+  {
+   "id": "00bb77087106",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Gemini 4 Carbon in GitHub Copilot",
+   "summary": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in GitHub Copilot appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
+   "image": "https://github.blog/wp-content/uploads/2026/11/700374691-69ca0c74-ac8e-4638-82f6-46417790e655.png",
+   "published": "2026-11-10T02:26:51Z",
+   "found": "2026-11-10T20:02:13Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "85a32fe1244f",
@@ -3224,6 +3239,21 @@
    "fetched": true,
    "img_tried": true,
    "ar_detail": true
+  },
+  {
+   "id": "f20aa0a9a1f2",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+   "summary": "State Space Models (SSMs) such as Mamba have become a popular alternative to Transformer models, due to their reduced memory consumption and higher throughput at generation compared to their Attention-based counterparts. On the other hand, the community has built up a considerable body of knowledge on how to train Transformers, and many pretrained Transformer models are readily available. To…",
+   "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+   "published": "2026-11-03T00:00:00Z",
+   "found": "2026-11-10T20:02:13Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "767025f393c3",
