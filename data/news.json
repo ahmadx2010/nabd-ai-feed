@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:54:10Z",
+ "updated": "2026-11-10T15:55:37Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://cdn.amazon.science/dims4/default/5598ffa/2147483647/strip/true/crop/1643x863+0+31/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fdc%2F2d%2Fcdcf03d94ef08edbb58870a7d782%2Fmitra-v2-16x9.png",
    "published": "2026-11-10T15:37:39Z",
    "found": "2026-11-10T15:54:10Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Mitra-v2: توسيع التدريب الاصطناعي لنماذج الأساس للبيانات الجدولية",
+   "ar_summary": "أطلقت أمازون Mitra-v2، الجيل الثاني من نموذج أساس للبيانات الجدولية مدرَّب على بيانات اصطناعية، ويتصدر فئة النموذج الواحد في اختبار TabArena. النموذج متاح بترخيص Apache-2.0.",
+   "ai": true
   },
   {
    "id": "851b22c31c14",
@@ -413,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تستخدم CodeRabbit نماذج OpenAI لمراجعة الكود المولَّد بالذكاء الاصطناعي",
+   "ar_summary": "يشرح هارجوت جيل، الشريك المؤسس والرئيس التنفيذي لـCodeRabbit، كيف يستخدم فريقه نماذج OpenAI لمراجعة وتأمين الكود الذي تنتجه وكلاء الذكاء الاصطناعي. ويذكر أن الفريق شحن برمجيات أكثر بـ20 ضعفاً خلال 6 أشهر باستخدام Codex.",
+   "ai": true
   },
   {
    "id": "27668d0dd263",
@@ -562,6 +570,24 @@
    "ar_detail": true,
    "ar_title": "سدّ فجوة الإرشاد في الذكاء الاصطناعي بالتعليم",
    "ar_summary": "تعرض OpenAI دروسًا مستخلصة من شراكاتها التعليمية في أوروبا والشرق الأوسط وأفريقيا، إلى جانب بحث جديد من ThinkYoung. تركّز النتائج على دعم المعلمين وتعزيز الثقافة الرقمية في الذكاء الاصطناعي وتشجيع التعلم المستقل.",
+   "ai": true
+  },
+  {
+   "id": "2d1d2dfcafd9",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "MCP Architecture: Full Technical Breakdown With Diagrams",
+   "summary": "A technical guide to the Model Context Protocol architecture: hosts, clients, servers, data and transport layers, and security risks.",
+   "url": "https://www.perplexity.ai/hub/blog/mcp-architecture",
+   "image": null,
+   "published": "2026-11-10T09:00:00Z",
+   "found": "2026-11-10T15:55:37Z",
+   "importance": 0,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity تشرح بنية MCP بالتفصيل التقني",
+   "ar_summary": "دليل تقني من Perplexity يشرح بنية بروتوكول سياق النموذج MCP، من المضيف والعملاء والخوادم إلى طبقتي البيانات والنقل والمخاطر الأمنية.",
    "ai": true
   },
   {
