@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T21:42:53Z",
+ "updated": "2026-11-10T22:01:55Z",
  "categories": [
   {
    "key": "big",
@@ -417,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "الإجابة عن أسئلتكم حول GPT-Live",
+   "ar_summary": "فيديو من OpenAI يجيب عن أسئلة شائعة حول GPT-Live، وكيف يختلف عن نماذج الصوت السابقة وما يبنيه المطورون به. ويقدم نصائح عملية لتخصيص صوت الوكيل وتحسين التفويض.",
+   "ai": true
   },
   {
    "id": "f36eb145f3b3",
