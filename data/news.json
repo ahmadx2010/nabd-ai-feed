@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T09:03:10Z",
+ "updated": "2026-11-10T11:37:41Z",
  "categories": [
   {
    "key": "big",
@@ -402,6 +402,21 @@
    "ar_title": "سدّ فجوة الإرشاد في الذكاء الاصطناعي بالتعليم",
    "ar_summary": "تعرض OpenAI دروسًا مستخلصة من شراكاتها التعليمية في أوروبا والشرق الأوسط وأفريقيا، إلى جانب بحث جديد من ThinkYoung. تركّز النتائج على دعم المعلمين وتعزيز الثقافة الرقمية في الذكاء الاصطناعي وتشجيع التعلم المستقل.",
    "ai": true
+  },
+  {
+   "id": "85a32fe1244f",
+   "company": "anthropic",
+   "kind": "blog",
+   "title": "Anthropic launches roadshow for proposed initial public offering",
+   "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+   "url": "https://www.anthropic.com/news/roadshow-launch",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "published": "2026-11-10T00:00:00Z",
+   "found": "2026-11-10T11:37:41Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "5f5a5a012b72",
