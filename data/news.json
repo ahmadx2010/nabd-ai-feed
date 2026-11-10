@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:51:42Z",
+ "updated": "2026-11-10T13:09:21Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,36 @@
   }
  },
  "items": [
+  {
+   "id": "3420a499e770",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
+   "summary": "The post IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation appeared first on Source .",
+   "url": "https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation/",
+   "image": "https://news.microsoft.com/source/wp-content/uploads/2026/11/IBM_Microsoft_lockup_v2.png",
+   "published": "2026-11-10T13:00:08Z",
+   "found": "2026-11-10T13:09:21Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "155d33cae726",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp",
+   "published": "2026-11-10T13:00:00Z",
+   "found": "2026-11-10T13:09:21Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "428ac4b42c0b",
    "company": "deepmind",
