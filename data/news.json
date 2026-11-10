@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:09:21Z",
+ "updated": "2026-11-10T13:37:43Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://news.microsoft.com/source/wp-content/uploads/2026/11/IBM_Microsoft_lockup_v2.png",
    "published": "2026-11-10T13:00:08Z",
    "found": "2026-11-10T13:09:21Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "IBM وMicrosoft تعلنان منصة وكلاء ذكاء اصطناعي جديدة للتحول الصناعي المتخصص",
+   "ar_summary": "أعلنت IBM وMicrosoft عن Imagine Enterprise، منصة وكلاء ذكاء اصطناعي تساعد الشركات على بناء الوكلاء وتشغيلهم وحوكمتهم لتنفيذ عمليات خاصة بكل قطاع. تجمع المنصة أكثر من 6,000 وكيل جاهز مع دعم هندسي مباشر من الشركتين.",
+   "ai": true
   },
   {
    "id": "155d33cae726",
@@ -410,10 +414,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp",
    "published": "2026-11-10T13:00:00Z",
    "found": "2026-11-10T13:09:21Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Google Cloud تطلق Gemini for healthcare لقطاع الرعاية الصحية",
+   "ar_summary": "أطلقت Google Cloud حل Gemini for healthcare الذي يوحّد الأنظمة السريرية والإدارية المتفرقة ويؤتمت مهام مثل مراجعة الموافقات المسبقة. يتوفر حالياً بنسخة معاينة مع شركاء مثل HCA Healthcare وHighmark Health وNorthwell Health.",
+   "ai": true
   },
   {
    "id": "428ac4b42c0b",
