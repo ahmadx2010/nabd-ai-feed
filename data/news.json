@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:12:04Z",
+ "updated": "2026-11-10T18:13:08Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://i3.ytimg.com/vi/Z9k5oI3Paoc/hqdefault.jpg",
    "published": "2026-11-10T18:07:12Z",
    "found": "2026-11-10T18:12:04Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تطلق «الأعمال في ChatGPT» بنسخة تجريبية",
+   "ar_summary": "أطلقت OpenAI بنسخة تجريبية ميزة «الأعمال في ChatGPT» التي تتيح للشركات المعتمدة إدارة معلوماتها وإضافة تغذيات المنتجات والاطلاع على إحصاءات التفاعل معها. كما يمكن لشركات التجارة الإلكترونية والخدمات المؤهلة في الولايات المتحدة بناء «وكيل أعمال» للإجابة عن أسئلة العملاء.",
+   "ai": true
   },
   {
    "id": "685df558780e",
@@ -730,10 +734,14 @@
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/62nrpu3ec1u-Cover.webp",
    "published": "2026-11-10T12:00:00Z",
    "found": "2026-11-10T17:53:49Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تطلق Scribe v3 وScribe v3 Live لتحويل الكلام إلى نص",
+   "ar_summary": "أطلقت ElevenLabs نموذجي Scribe v3 وScribe v3 Live لتحويل الكلام إلى نص، بأخطاء أقل بنسبة 27% للتسجيلات و43% للوقت الحقيقي مقارنة بالإصدار السابق. يدعم Scribe v3 اللغات الـ102 مع تحسين تمييز المتحدثين.",
+   "ai": true
   },
   {
    "id": "01a8528fa117",
