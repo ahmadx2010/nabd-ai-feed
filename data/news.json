@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:55:37Z",
+ "updated": "2026-11-10T16:03:46Z",
  "categories": [
   {
    "key": "big",
@@ -386,6 +386,20 @@
  },
  "items": [
   {
+   "id": "c6e7f88a9f5d",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "How Workday Built An Enterprise Scale Ai Agent Platform With Langgraph And Langsmith",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/how-workday-built-an-enterprise-scale-ai-agent-platform-with-langgraph-and-langsmith",
+   "image": null,
+   "published": "2026-11-10T16:03:46Z",
+   "found": "2026-11-10T16:03:46Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "fd4a6604dd1f",
    "company": "amazon",
    "kind": "blog",
@@ -588,7 +602,9 @@
    "ar_detail": true,
    "ar_title": "Perplexity تشرح بنية MCP بالتفصيل التقني",
    "ar_summary": "دليل تقني من Perplexity يشرح بنية بروتوكول سياق النموذج MCP، من المضيف والعملاء والخوادم إلى طبقتي البيانات والنقل والمخاطر الأمنية.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "3588ceed4155",
