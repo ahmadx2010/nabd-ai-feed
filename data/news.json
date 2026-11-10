@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T05:14:54Z",
+ "updated": "2026-11-10T05:23:07Z",
  "categories": [
   {
    "key": "big",
@@ -429,7 +429,7 @@
    "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
    "summary": "Anthropic announced Claude Fable 5.2 and Mythos 5.2, upgraded versions of its most capable models with gains in coding, reasoning and vision, available now on all major platforms.",
    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-   "image": null,
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
    "published": "2026-11-09T17:00:00Z",
    "found": "2026-11-10T05:14:54Z",
    "importance": 2,
@@ -438,7 +438,9 @@
    "ar_detail": true,
    "ar_title": "Anthropic تطلق Claude Fable 5.2 وClaude Mythos 5.2",
    "ar_summary": "أعلنت Anthropic عن Claude Fable 5.2 وMythos 5.2، نسختين مطوّرتين من أقوى نماذجها مع تحسينات في البرمجة والاستدلال والرؤية، وتتوفران عبر المنصات الرئيسية.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "8f7afdd6839d",
