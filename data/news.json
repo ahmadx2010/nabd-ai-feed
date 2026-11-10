@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:30:37Z",
+ "updated": "2026-11-10T18:39:45Z",
  "categories": [
   {
    "key": "big",
@@ -757,6 +757,20 @@
    "ar_title": "ElevenLabs تطلق Scribe v3 وScribe v3 Live لتحويل الكلام إلى نص",
    "ar_summary": "أطلقت ElevenLabs نموذجي Scribe v3 وScribe v3 Live لتحويل الكلام إلى نص، بأخطاء أقل بنسبة 27% للتسجيلات و43% للوقت الحقيقي مقارنة بالإصدار السابق. يدعم Scribe v3 اللغات الـ102 مع تحسين تمييز المتحدثين.",
    "ai": true
+  },
+  {
+   "id": "5ca4dc7b6d88",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Introducing Businesses in ChatGPT",
+   "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "image": null,
+   "published": "2026-11-10T10:00:00Z",
+   "found": "2026-11-10T18:39:45Z",
+   "importance": 2,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "01a8528fa117",
