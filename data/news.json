@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T23:09:10Z",
+ "updated": "2026-11-10T05:14:54Z",
  "categories": [
   {
    "key": "big",
@@ -420,6 +420,24 @@
    "ar_detail": true,
    "ar_title": "ChatGPT Enterprise متاح الآن عبر AWS Marketplace",
    "ar_summary": "أصبح ChatGPT Enterprise متاحاً عبر AWS Marketplace، ما يبسّط على المؤسسات عمليات الشراء من خلال علاقات الشراء والفوترة القائمة لديها مع AWS.",
+   "ai": true
+  },
+  {
+   "id": "796a7f7ee338",
+   "company": "anthropic",
+   "kind": "news",
+   "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+   "summary": "Anthropic announced Claude Fable 5.2 and Mythos 5.2, upgraded versions of its most capable models with gains in coding, reasoning and vision, available now on all major platforms.",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "image": null,
+   "published": "2026-11-09T17:00:00Z",
+   "found": "2026-11-10T05:14:54Z",
+   "importance": 2,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Anthropic تطلق Claude Fable 5.2 وClaude Mythos 5.2",
+   "ar_summary": "أعلنت Anthropic عن Claude Fable 5.2 وMythos 5.2، نسختين مطوّرتين من أقوى نماذجها مع تحسينات في البرمجة والاستدلال والرؤية، وتتوفران عبر المنصات الرئيسية.",
    "ai": true
   },
   {
