@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T19:07:17Z",
+ "updated": "2026-11-10T19:16:25Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "Claude Mythos 5.2 متاح الآن في Devin Security لعملاء المؤسسات المؤهلين",
    "ar_summary": "أعلنت Devin إتاحة نموذج Claude Mythos 5.2 ضمن خدمة Devin Security للعملاء الذين لديهم وصول إلى نماذج الأمن السيبراني المتقدمة. وسجّل النموذج 73.5 في اختبار داخلي للثغرات مقابل 56.9 للإصدار 5.1.",
    "ai": true
+  },
+  {
+   "id": "f36eb145f3b3",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "Statement From the Independent Members of the NVIDIA Board",
+   "summary": "SANTA CLARA, Calif., Nov. 10, 2026 The independent members of the NVIDIA Board have retained former acting U.S. Attorney of the Southern District of New York Joon H. Kim and his firm Wachtell, ...",
+   "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+   "image": "https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b",
+   "published": "2026-11-10T19:07:00Z",
+   "found": "2026-11-10T19:16:25Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "ac5a661efbfd",
