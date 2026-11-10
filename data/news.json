@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T17:07:57Z",
+ "updated": "2026-11-10T17:27:19Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "خادم لغة C++ يضبط بناءات MSBuild تلقائيًا في GitHub Copilot",
+   "ar_summary": "خادم لغة C++ من مايكروسوفت لـ GitHub Copilot CLI يضم الآن أداة استخراج أوامر الترجمة لـ MSBuild ويشغّلها تلقائيًا، دون حاجة لأن يبحث الوكيل عن مهارة إعداد منفصلة.",
+   "ai": true
   },
   {
    "id": "14b8faf6dd2f",
@@ -805,10 +809,14 @@
    "image": "https://devin.ai/images/blog/gemini-4-carbon/cover.png",
    "published": "2026-11-10T00:00:00Z",
    "found": "2026-11-10T16:49:45Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini 4 Carbon متاح الآن في Devin Desktop وDevin CLI",
+   "ar_summary": "أصبح نموذج Gemini 4 Carbon متاحًا في Devin Desktop وDevin CLI. حقق 40.0% في اختبار FrontierCode 2.0 مقابل 26.3% لنموذج Gemini 4 Argon، وبتكلفة أقل لكل مهمة.",
+   "ai": true
   },
   {
    "id": "724fae925148",
@@ -820,10 +828,14 @@
    "image": "https://huggingface.co/blog/assets/hub-gcp-marketplace/thumbnail.jpg",
    "published": "2026-11-10T00:00:00Z",
    "found": "2026-11-10T17:07:57Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ادفع مقابل Hugging Face Hub عبر حسابك في Google Cloud",
+   "ar_summary": "يمكن الآن ربط مؤسستك على Hugging Face بحساب Google Cloud ليظهر استهلاكك ضمن فاتورة Google Cloud بدلًا من بطاقة ائتمان، عبر Google Cloud Marketplace.",
+   "ai": true
   },
   {
    "id": "5f5a5a012b72",
