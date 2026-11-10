@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T22:01:55Z",
+ "updated": "2026-11-10T22:46:52Z",
  "categories": [
   {
    "key": "big",
@@ -818,6 +818,21 @@
    "ar_title": "ElevenLabs تطلق Scribe v3 وScribe v3 Live لتحويل الكلام إلى نص",
    "ar_summary": "أطلقت ElevenLabs نموذجي Scribe v3 وScribe v3 Live لتحويل الكلام إلى نص، بأخطاء أقل بنسبة 27% للتسجيلات و43% للوقت الحقيقي مقارنة بالإصدار السابق. يدعم Scribe v3 اللغات الـ102 مع تحسين تمييز المتحدثين.",
    "ai": true
+  },
+  {
+   "id": "e8fdfdb1c5c8",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "WAV vs MP3: How to choose the right audio file format",
+   "summary": "WAV vs MP3? Compare file size, sound quality, and compatibility, and learn which audio format to use for recording, editing, sharing, and voice cloning",
+   "url": "https://elevenlabs.io/blog/wav-vs-mp3",
+   "image": null,
+   "published": "2026-11-10T12:00:00Z",
+   "found": "2026-11-10T22:46:52Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "5ca4dc7b6d88",
@@ -5339,6 +5354,21 @@
    "ar_title": "اقتصاد جنوب شرق آسيا الرقمي يبلغ 368 مليار دولار",
    "ar_summary": "يتوقع تقرير e-Conomy SEA من Google وTemasek وBain نمو الاقتصاد الرقمي 17% في 2026 مدفوعاً بالذكاء الاصطناعي التوليدي.",
    "ai": true
+  },
+  {
+   "id": "68027f97a084",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation",
+   "summary": "While foundation models and vision transformers (ViTs) have redefined visual representations, current active learning (AL) strategies for these backbones largely operate at the patch or region level, where annotation requirements remain high due to extensive pixel labeling. Extending ViT-based AL to the pixel-level, low-budget regime is uniquely challenging: with as little as one pixel query per…",
+   "url": "https://machinelearning.apple.com/research/pixels-tokens-active-learning",
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+   "published": "2026-10-21T00:00:00Z",
+   "found": "2026-11-10T22:46:52Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "a3ad0558b97a",
