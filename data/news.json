@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:06:03Z",
+ "updated": "2026-11-10T12:41:43Z",
  "categories": [
   {
    "key": "big",
@@ -402,6 +402,20 @@
    "ar_title": "ديب مايند تكشف AlphaProof Code: اختراق في التحقق من البرمجيات المعقدة",
    "ar_summary": "كتبت وكلاء AlphaProof Code ثلاثة ملايين سطر من البراهين بلغة Lean للتحقق من التشفير الأساسي في تطبيق Signal. يمثل ذلك خطوة كبيرة نحو التحقق الرياضي من أمان البرمجيات الحساسة.",
    "ai": true
+  },
+  {
+   "id": "46ecb159c153",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Helping caregivers use AI in everyday life",
+   "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "image": null,
+   "published": "2026-11-10T12:00:00Z",
+   "found": "2026-11-10T12:41:43Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "01a8528fa117",
