@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T05:39:29Z",
+ "updated": "2026-11-11T05:47:37Z",
  "categories": [
   {
    "key": "big",
@@ -402,6 +402,20 @@
    "ar_title": "Gilbert + Tobin تعيد التفكير في أعمال المحاماة بالذكاء الاصطناعي",
    "ar_summary": "حوار مع سام نيكليس، الشريك والرئيس التنفيذي لشركة Gilbert + Tobin، حول استخدام الذكاء الاصطناعي في قطاع المحاماة.",
    "ai": true
+  },
+  {
+   "id": "80b38ea7da37",
+   "company": "openai",
+   "kind": "blog",
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "image": null,
+   "published": "2026-11-11T08:00:00Z",
+   "found": "2026-11-11T05:47:37Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "b22522d14a17",
@@ -1209,6 +1223,20 @@
    "ar_title": "ادفع مقابل Hugging Face Hub عبر حسابك في Google Cloud",
    "ar_summary": "يمكن الآن ربط مؤسستك على Hugging Face بحساب Google Cloud ليظهر استهلاكك ضمن فاتورة Google Cloud بدلًا من بطاقة ائتمان، عبر Google Cloud Marketplace.",
    "ai": true
+  },
+  {
+   "id": "1ff74ee2cb10",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+   "url": "https://openai.com/index/cogent-security",
+   "image": null,
+   "published": "2026-11-10T00:00:00Z",
+   "found": "2026-11-11T05:47:37Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "5f5a5a012b72",
