@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T16:19:31Z",
+ "updated": "2026-11-11T17:04:52Z",
  "categories": [
   {
    "key": "big",
@@ -530,7 +530,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تستخدم كبرى الشركات ذكاء ElevenLabs الصوتي في أعمالها",
+   "ar_summary": "تستعرض ElevenLabs قصص عملاء مثل Yahoo وWestgate وKPN وDoppel وPocket وTwilio الذين يوظفون الذكاء الاصطناعي الصوتي، من وكلاء الاستقبال إلى تخصيص النماذج للهولندية. وتشير الشركة إلى أن المؤسسات تشكّل أكثر من 55% من إيراداتها.",
+   "ai": true
   },
   {
    "id": "a5c3d3213852",
