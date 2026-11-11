@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T00:45:53Z",
+ "updated": "2026-11-11T01:05:02Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-11T00:45:53Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gilbert + Tobin تعيد التفكير في أعمال المحاماة بالذكاء الاصطناعي",
+   "ar_summary": "حوار مع سام نيكليس، الشريك والرئيس التنفيذي لشركة Gilbert + Tobin، حول استخدام الذكاء الاصطناعي في قطاع المحاماة.",
+   "ai": true
   },
   {
    "id": "871ae47d300c",
@@ -412,7 +416,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "دعم تطبيقات GitHub لإدارة مقاعد Copilot على مستوى المؤسسة",
+   "ar_summary": "أصبح بإمكان تطبيقات GitHub الخاصة بالمؤسسات استدعاء واجهات إدارة مقاعد Copilot للتحكم في المستخدمين والفرق الذين يُمنحون المقاعد.",
+   "ai": true
   },
   {
    "id": "9c69d029a1ab",
