@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:36:42Z",
+ "updated": "2026-11-11T18:44:47Z",
  "categories": [
   {
    "key": "big",
@@ -665,7 +665,9 @@
    "ar_detail": true,
    "ar_title": "Perplexity تختبر عزل SPACE: لا نموذج استطاع الهروب من الجهاز الافتراضي",
    "ar_summary": "نشر معهد Perplexity للذكاء الآمن الجزء الثاني من أبحاث اختبار بيئة SPACE التي تشغّل وكلاء Perplexity Computer، ولم ينجح أي نموذج في الهروب إلى الجهاز المضيف.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "7e65614cc89a",
@@ -926,6 +928,20 @@
    "ar_title": "تدريب واعٍ بتجميع الرموز لنماذج التضمين متعددة المتجهات",
    "ar_summary": "يشرح منشور Hugging Face كيف يقلل تجميع الرموز (token pooling) حجم متجهات المستندات في نماذج التضمين متعددة المتجهات، وكيف يحافظ التدريب الواعي بالتجميع على جودة الاسترجاع.",
    "ai": true
+  },
+  {
+   "id": "8c999d6885d2",
+   "company": "openai",
+   "kind": "blog",
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+   "url": "https://openai.com/index/jiostar-vijay-seshadri",
+   "image": null,
+   "published": "2026-11-11T00:00:00Z",
+   "found": "2026-11-11T18:44:47Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "d4308adb53b1",
