@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T17:04:52Z",
+ "updated": "2026-11-11T17:13:19Z",
  "categories": [
   {
    "key": "big",
@@ -421,6 +421,21 @@
    "ar_title": "Runway تطلق Praxis-1 بأوزان مفتوحة لنماذج الروبوتات",
    "ar_summary": "أتاحت Runway نموذج Praxis-1، وهو نموذج «عالم-فعل» للروبوتات، بأوزان مفتوحة وبترخيص Apache 2.0 على Hugging Face وGitHub. يتيح ذلك لمطوري الروبوتات والباحثين تشغيل النموذج وتكييفه على أجهزتهم الخاصة.",
    "ai": true
+  },
+  {
+   "id": "845b2050df4d",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Talk it through with Gemini, now on Apple CarPlay",
+   "summary": "an MP4 video of Gemini in Apple CarPlay",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carplay_hero_image.max-600x600.format-webp.webp",
+   "published": "2026-11-11T17:00:00Z",
+   "found": "2026-11-11T17:13:19Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "97adab01dbf7",
