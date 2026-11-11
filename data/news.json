@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T19:30:34Z",
+ "updated": "2026-11-11T19:57:48Z",
  "categories": [
   {
    "key": "big",
@@ -421,6 +421,21 @@
    "ar_title": "Runway تطلق Praxis-1 بأوزان مفتوحة لنماذج الروبوتات",
    "ar_summary": "أتاحت Runway نموذج Praxis-1، وهو نموذج «عالم-فعل» للروبوتات، بأوزان مفتوحة وبترخيص Apache 2.0 على Hugging Face وGitHub. يتيح ذلك لمطوري الروبوتات والباحثين تشغيل النموذج وتكييفه على أجهزتهم الخاصة.",
    "ai": true
+  },
+  {
+   "id": "9a0e58e782b2",
+   "company": "google",
+   "kind": "blog",
+   "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+   "summary": "Health & Bioscience",
+   "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/CKMHealthHero.png",
+   "published": "2026-11-11T19:54:00Z",
+   "found": "2026-11-11T19:57:48Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "8940bdb94ed4",
