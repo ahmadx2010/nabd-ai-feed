@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T20:07:58Z",
+ "updated": "2026-11-11T21:24:27Z",
  "categories": [
   {
    "key": "big",
@@ -421,6 +421,66 @@
    "ar_title": "Runway تطلق Praxis-1 بأوزان مفتوحة لنماذج الروبوتات",
    "ar_summary": "أتاحت Runway نموذج Praxis-1، وهو نموذج «عالم-فعل» للروبوتات، بأوزان مفتوحة وبترخيص Apache 2.0 على Hugging Face وGitHub. يتيح ذلك لمطوري الروبوتات والباحثين تشغيل النموذج وتكييفه على أجهزتهم الخاصة.",
    "ai": true
+  },
+  {
+   "id": "f66f5f0e819e",
+   "company": "openai",
+   "kind": "video",
+   "title": "How to request and enable Daybreak Blue",
+   "summary": "Learn how to request access to Daybreak Blue and enable it for your workspace and API organization. This walkthrough covers business verification, workspace permissions, role-based access controls, and confirming access in Codex. You’ll also see how to set up a project and API key for automation.",
+   "url": "https://www.youtube.com/watch?v=NS220dAaRMo",
+   "image": "https://i3.ytimg.com/vi/NS220dAaRMo/hqdefault.jpg",
+   "published": "2026-11-11T21:10:28Z",
+   "found": "2026-11-11T21:24:27Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "38fca246c6ca",
+   "company": "openai",
+   "kind": "video",
+   "title": "How to enable PR security reviews with Codex Security",
+   "summary": "Bring security reviews into your pull request workflow with Codex Security. Learn how to check your GitHub connection, request a review, work through a fix, and review the change again. Then configure automatic reviews for your repository, including triggers and severity thresholds.",
+   "url": "https://www.youtube.com/watch?v=vdBDMj2UhDg",
+   "image": "https://i3.ytimg.com/vi/vdBDMj2UhDg/hqdefault.jpg",
+   "published": "2026-11-11T21:10:24Z",
+   "found": "2026-11-11T21:24:27Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "2328aa3d695b",
+   "company": "openai",
+   "kind": "video",
+   "title": "ChatGPT Images: 3 Ways to Get Started",
+   "summary": "ChatGPT Images lets you create new images and edit existing images directly inside ChatGPT. Turn plain-language prompts into original images, explore different visual directions. In this video, learn three ways to get started: creating an image from scratch, refining its look through conversation, and editing a photo you already have. Along the way, see how the details you share help guide the…",
+   "url": "https://www.youtube.com/watch?v=CrrpfvbNyMw",
+   "image": "https://i4.ytimg.com/vi/CrrpfvbNyMw/hqdefault.jpg",
+   "published": "2026-11-11T21:10:10Z",
+   "found": "2026-11-11T21:24:27Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "eeefcc4da998",
+   "company": "openai",
+   "kind": "video",
+   "title": "How to run your first Codex Security scan",
+   "summary": "Get started with Codex Security, from installing the plugin to running your first scan. Learn how to select a repository, add context, review findings, and generate a patch. Then follow the fix into GitHub and see how to use the CLI to bring security scans into your automation workflows.",
+   "url": "https://www.youtube.com/watch?v=hUhr0JiVZZs",
+   "image": "https://i1.ytimg.com/vi/hUhr0JiVZZs/hqdefault.jpg",
+   "published": "2026-11-11T21:10:05Z",
+   "found": "2026-11-11T21:24:27Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "9a0e58e782b2",
