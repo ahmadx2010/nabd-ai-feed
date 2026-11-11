@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T05:01:53Z",
+ "updated": "2026-11-11T05:39:29Z",
  "categories": [
   {
    "key": "big",
@@ -413,10 +413,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
    "published": "2026-11-11T05:01:16Z",
    "found": "2026-11-11T05:01:53Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "BotPsy: مساعد شخصي يعمل على الجهاز بنموذج لغوي وكيلي أقل من مليار معامل",
+   "ar_summary": "قدّم فريق Tether AI Research نموذج BotPsy بحجم 0.8 مليار معامل، مصمم لاستدعاء الدوال وسير العمل الوكيلي، ويعمل مباشرة على الأجهزة مع الحفاظ على خصوصية المستخدم.",
+   "ai": true
   },
   {
    "id": "34dcc0e759ee",
