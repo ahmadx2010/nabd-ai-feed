@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:44:47Z",
+ "updated": "2026-11-11T19:22:04Z",
  "categories": [
   {
    "key": "big",
@@ -941,7 +941,29 @@
    "found": "2026-11-11T18:44:47Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كبير مهندسي JioStar يتحدث عن اكتشاف المحتوى بالذكاء الاصطناعي لـ500 مليون مستخدم",
+   "ar_summary": "يشرح فيجاي سيشادري من JioStar كيف يعمل اكتشاف المحتوى بالذكاء الاصطناعي على نطاق 500 مليون مستخدم، ويشارك دروسه في التقييمات وضوابط الأمان والانتقال إلى الإنتاج.",
+   "ai": true
+  },
+  {
+   "id": "1c558dd3f8aa",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "AI compliance: governing AI systems and using AI for compliance work",
+   "summary": "Perplexity explains AI compliance: making AI systems meet laws and standards, and using AI for routine compliance work.",
+   "url": "https://www.perplexity.ai/hub/blog/ai-compliance",
+   "image": null,
+   "published": "2026-11-11T00:00:00Z",
+   "found": "2026-11-11T19:22:04Z",
+   "importance": 0,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity: دليل الامتثال في الذكاء الاصطناعي — حوكمة الأنظمة واستخدام AI في أعمال الامتثال",
+   "ar_summary": "تشرح Perplexity معنيي الامتثال في الذكاء الاصطناعي: جعل الأنظمة متوافقة مع القوانين والمعايير، واستخدام الذكاء الاصطناعي في مهام الامتثال الروتينية.",
+   "ai": true
   },
   {
    "id": "d4308adb53b1",
