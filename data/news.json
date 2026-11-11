@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:35:15Z",
+ "updated": "2026-11-11T18:36:42Z",
  "categories": [
   {
    "key": "big",
@@ -434,7 +434,11 @@
    "found": "2026-11-11T18:35:15Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "LangChain: وكيل GTM لإنتاج مواد مبيعات عالية الجودة",
+   "ar_summary": "نشرت LangChain مقالاً على مدونتها عن وكيل ذكاء اصطناعي لفريق الذهاب إلى السوق (GTM) يهدف إلى إنتاج مواد مبيعات عالية الجودة.",
+   "ai": true
   },
   {
    "id": "448196bbc491",
@@ -446,10 +450,14 @@
    "image": "https://i2.ytimg.com/vi/uND6iY2qp_c/hqdefault.jpg",
    "published": "2026-11-11T18:00:31Z",
    "found": "2026-11-11T18:17:03Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "AlphaGenome 2: تعليم الذكاء الاصطناعي قراءة الجينوم البشري بالكامل",
+   "ar_summary": "حلقة جديدة من بودكاست Google DeepMind تناقش AlphaGenome 2 وكيف يقرأ الذكاء الاصطناعي الحمض النووي غير المشفّر للبروتينات لتحديد الطفرات المسببة للأمراض.",
+   "ai": true
   },
   {
    "id": "8e4104a923ec",
@@ -461,10 +469,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
    "published": "2026-11-11T18:00:00Z",
    "found": "2026-11-11T18:17:03Z",
-   "importance": 0,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "واجهة Gemini Decisions API: قرارات متعددة الوسائط سريعة ومعايَرة",
+   "ar_summary": "أطلقت Google واجهة Gemini Decisions API المدعومة بنموذج Gemini Decision 1 لاتخاذ قرارات محدودة الخيارات بسرعة عبر النص والصورة والصوت والفيديو وPDF.",
+   "ai": true
   },
   {
    "id": "845b2050df4d",
@@ -635,6 +647,24 @@
    "ar_detail": true,
    "ar_title": "ElevenLabs وNVIDIA توسعان تعاونهما لنشر وكلاء صوتيين للمؤسسات والحكومات",
    "ar_summary": "توسع ElevenLabs وNVIDIA شراكتهما: نموذج Nemotron 3.5 Super VL متاح في ElevenAgents، وإضافة 15 ميغاواط من قدرة الحوسبة، ونشر سيادي لوكيل صوتي لمنصة الصحة الإلكترونية في بولندا.",
+   "ai": true
+  },
+  {
+   "id": "8bc85c9297d3",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Escaping SPACE: Part II",
+   "summary": "Perplexity's Secure Intelligence Institute tested the SPACE sandbox behind Perplexity Computer with newer models; none escaped the guest VM to the host, and two network-bypass flaws found pre-fix were patched.",
+   "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+   "image": null,
+   "published": "2026-11-11T12:00:00Z",
+   "found": "2026-11-11T18:36:42Z",
+   "importance": 1,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity تختبر عزل SPACE: لا نموذج استطاع الهروب من الجهاز الافتراضي",
+   "ar_summary": "نشر معهد Perplexity للذكاء الآمن الجزء الثاني من أبحاث اختبار بيئة SPACE التي تشغّل وكلاء Perplexity Computer، ولم ينجح أي نموذج في الهروب إلى الجهاز المضيف.",
    "ai": true
   },
   {
@@ -1549,7 +1579,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تقييم المقيِّمين: مدى كفاءة نماذج اللغة كحكّام لأسلوب الكتابة المخصص",
+   "ar_summary": "ورقة بحثية من Apple تقيس مدى قدرة نماذج اللغة على الحكم على التزام النصوص بأسلوب كتابة يفضله المستخدم، وتجد أن أقوى النماذج ليست الأكثر توافقاً مع تقييم البشر.",
+   "ai": true
   },
   {
    "id": "2e8bb88bbb7c",
@@ -1564,7 +1598,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "أهمية البوابات: الحفظ مقابل التعلم السياقي في نماذج فضاء الحالة",
+   "ar_summary": "بحث من Apple يفسر سبب تأخر نماذج فضاء الحالة (SSMs) عن Transformers في التعلم السياقي، ويربط ذلك بآلية البوابات.",
+   "ai": true
   },
   {
    "id": "c90609be6e5b",
@@ -1579,7 +1617,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Weighted State Souping: استرجاع أكفأ للسياقات الطويلة",
+   "ar_summary": "ورقة من Apple تقترح طريقة تتعلم أوزاناً تعتمد على الاستعلام لدمج حالات مخزنة في نماذج فضاء الحالة، فتحسّن الأداء في السياقات الطويلة.",
+   "ai": true
   },
   {
    "id": "5f5a5a012b72",
