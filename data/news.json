@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:05:04Z",
+ "updated": "2026-11-11T15:33:20Z",
  "categories": [
   {
    "key": "big",
@@ -416,7 +416,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Runway تطلق Praxis-1 بأوزان مفتوحة لنماذج الروبوتات",
+   "ar_summary": "أتاحت Runway نموذج Praxis-1، وهو نموذج «عالم-فعل» للروبوتات، بأوزان مفتوحة وبترخيص Apache 2.0 على Hugging Face وGitHub. يتيح ذلك لمطوري الروبوتات والباحثين تشغيل النموذج وتكييفه على أجهزتهم الخاصة.",
+   "ai": true
   },
   {
    "id": "5b916f1bea87",
@@ -428,10 +432,14 @@
    "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo",
    "published": "2026-11-11T15:00:15Z",
    "found": "2026-11-11T15:05:04Z",
-   "importance": 0,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "AlphaGenome 2 من DeepMind: فهم كيف تقرأ الخلايا الحمض النووي لدراسة الأمراض",
+   "ar_summary": "أعلنت Google DeepMind عن AlphaGenome 2، نموذج الجيل التالي الذي يتنبأ بتأثير تسلسلات الحمض النووي وتغيراتها على أنواع الخلايا البشرية. يساعد العلماء على كشف المحركات الخلوية للأمراض.",
+   "ai": true
   },
   {
    "id": "7e65614cc89a",
@@ -684,10 +692,14 @@
    "image": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
    "published": "2026-11-11T00:00:00Z",
    "found": "2026-11-11T14:55:54Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تدريب واعٍ بتجميع الرموز لنماذج التضمين متعددة المتجهات",
+   "ar_summary": "يشرح منشور Hugging Face كيف يقلل تجميع الرموز (token pooling) حجم متجهات المستندات في نماذج التضمين متعددة المتجهات، وكيف يحافظ التدريب الواعي بالتجميع على جودة الاسترجاع.",
+   "ai": true
   },
   {
    "id": "d4308adb53b1",
