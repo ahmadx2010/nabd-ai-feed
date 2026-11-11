@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T17:50:29Z",
+ "updated": "2026-11-11T18:17:03Z",
  "categories": [
   {
    "key": "big",
@@ -421,6 +421,36 @@
    "ar_title": "Runway تطلق Praxis-1 بأوزان مفتوحة لنماذج الروبوتات",
    "ar_summary": "أتاحت Runway نموذج Praxis-1، وهو نموذج «عالم-فعل» للروبوتات، بأوزان مفتوحة وبترخيص Apache 2.0 على Hugging Face وGitHub. يتيح ذلك لمطوري الروبوتات والباحثين تشغيل النموذج وتكييفه على أجهزتهم الخاصة.",
    "ai": true
+  },
+  {
+   "id": "448196bbc491",
+   "company": "deepmind",
+   "kind": "video",
+   "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
+   "summary": "98% of human DNA doesn't build proteins—it controls how our cells work, and holds vital clues to why diseases happen and why 90% of new drugs fail in clinical trials. Understanding the genome at the molecular level is the key to deciphering the blueprint of human life. In this episode, Professor Hannah Fry speaks with Google DeepMind's Žiga Avsec and Adam Gayoso about AlphaGenome, the AlphaGenome…",
+   "url": "https://www.youtube.com/watch?v=uND6iY2qp_c",
+   "image": "https://i2.ytimg.com/vi/uND6iY2qp_c/hqdefault.jpg",
+   "published": "2026-11-11T18:00:31Z",
+   "found": "2026-11-11T18:17:03Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "8e4104a923ec",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
+   "published": "2026-11-11T18:00:00Z",
+   "found": "2026-11-11T18:17:03Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "845b2050df4d",
@@ -1491,6 +1521,51 @@
    "ar_title": "Cogent وOpenAI تبنيان «مصانع دفاع سيبراني» للمؤسسات",
    "ar_summary": "تجمع Cogent بين نماذج OpenAI وسياق المؤسسة لمعالجة الثغرات الأمنية تلقائياً باستخدام وكلاء الذكاء الاصطناعي.",
    "ai": true
+  },
+  {
+   "id": "0df0bcd411cf",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Evaluating the Evaluators: Investigating LLM Judges for Personalized Writing Style Assessment",
+   "summary": "This paper was accepted at the Can We Trust AI Evaluation? Workshop at NeurIPS 2026. We evaluate how good large language model (LLM) judges are for personalized writing tasks. This is important when a user’s preferred writing style is known (e.g., “upbeat”) and an LLM judge is used to evaluate whether generated text adheres to this preference. We examine how the writing task, the combination of…",
+   "url": "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges",
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+   "published": "2026-11-10T00:00:00Z",
+   "found": "2026-11-11T18:17:03Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "2e8bb88bbb7c",
+   "company": "apple",
+   "kind": "blog",
+   "title": "On the Importance of Gating: Memorization vs. In-Context Learning in State Space Models",
+   "summary": "State Space Models (SSMs) have emerged as a compelling alternative to Transformers, enabling sequence modeling with constant memory and linear compute. Although SSMs exhibit reasonable performance and favorable computational characteristics, they continue to lag behind Transformers on tasks that require in-context learning and precise retrieval, slowing their adoption for large-scale language…",
+   "url": "https://machinelearning.apple.com/research/gating-memorization-in-context",
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+   "published": "2026-11-10T00:00:00Z",
+   "found": "2026-11-11T18:17:03Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "c90609be6e5b",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Weighted State Souping for Efficient Long-Context Retrieval",
+   "summary": "This paper was accepted at the Workshop on Personalized, Aligned, Long-term Memory for AI Systems (PALM) at NeurIPS 2026. State space models (SSMs) combine fast inference and fixed state size with competitive language-modeling performance. Recently, state souping has been proposed as a procedure whereby an SSM independently encodes chunks of tokens like documents, tool definitions, or memory…",
+   "url": "https://machinelearning.apple.com/research/weighted-state-souping",
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+   "published": "2026-11-10T00:00:00Z",
+   "found": "2026-11-11T18:17:03Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "5f5a5a012b72",
