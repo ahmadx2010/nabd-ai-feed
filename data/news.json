@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T05:47:37Z",
+ "updated": "2026-11-11T06:25:00Z",
  "categories": [
   {
    "key": "big",
@@ -415,7 +415,11 @@
    "found": "2026-11-11T05:47:37Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ChatGPT Plus للمحاربين القدامى وأفراد الخدمة العسكرية",
+   "ar_summary": "حصل أكثر من 20 ألف من المحاربين القدامى والمنتقلين من الخدمة العسكرية على سنة مجانية من ChatGPT Plus. تستعرض OpenAI كيف يستخدمونه للاستعداد لمسيرتهم المهنية المدنية.",
+   "ai": true
   },
   {
    "id": "b22522d14a17",
@@ -1234,9 +1238,13 @@
    "image": null,
    "published": "2026-11-10T00:00:00Z",
    "found": "2026-11-11T05:47:37Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Cogent وOpenAI تبنيان «مصانع دفاع سيبراني» للمؤسسات",
+   "ar_summary": "تجمع Cogent بين نماذج OpenAI وسياق المؤسسة لمعالجة الثغرات الأمنية تلقائياً باستخدام وكلاء الذكاء الاصطناعي.",
+   "ai": true
   },
   {
    "id": "5f5a5a012b72",
