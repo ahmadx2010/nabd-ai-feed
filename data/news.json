@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T17:13:19Z",
+ "updated": "2026-11-11T17:50:29Z",
  "categories": [
   {
    "key": "big",
@@ -432,10 +432,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carplay_hero_image.max-600x600.format-webp.webp",
    "published": "2026-11-11T17:00:00Z",
    "found": "2026-11-11T17:13:19Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini يصل إلى Apple CarPlay: محادثات صوتية بدون استخدام اليدين أثناء القيادة",
+   "ar_summary": "أعلنت Google عن إطلاق تطبيق Gemini مع Gemini Live على Apple CarPlay لإجراء محادثات صوتية طبيعية أثناء القيادة. يمكن للمستخدمين إدارة التقويم وتلخيص البريد والعصف الذهني دون إبعاد أعينهم عن الطريق.",
+   "ai": true
   },
   {
    "id": "97adab01dbf7",
