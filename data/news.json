@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:51:00Z",
+ "updated": "2026-11-11T03:03:05Z",
  "categories": [
   {
    "key": "big",
@@ -402,6 +402,20 @@
    "ar_title": "Gilbert + Tobin تعيد التفكير في أعمال المحاماة بالذكاء الاصطناعي",
    "ar_summary": "حوار مع سام نيكليس، الشريك والرئيس التنفيذي لشركة Gilbert + Tobin، حول استخدام الذكاء الاصطناعي في قطاع المحاماة.",
    "ai": true
+  },
+  {
+   "id": "34dcc0e759ee",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+   "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+   "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png",
+   "published": "2026-11-11T03:00:20Z",
+   "found": "2026-11-11T03:03:05Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "758b324dcdce",
