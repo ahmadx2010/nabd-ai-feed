@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T09:27:57Z",
+ "updated": "2026-11-11T14:55:54Z",
  "categories": [
   {
    "key": "big",
@@ -643,6 +643,21 @@
    "ar_title": "Claude Mythos 5.2 متاح الآن في Devin Security لعملاء المؤسسات المؤهلين",
    "ar_summary": "أعلنت Devin إتاحة نموذج Claude Mythos 5.2 ضمن خدمة Devin Security للعملاء الذين لديهم وصول إلى نماذج الأمن السيبراني المتقدمة. وسجّل النموذج 73.5 في اختبار داخلي للثغرات مقابل 56.9 للإصدار 5.1.",
    "ai": true
+  },
+  {
+   "id": "d2296a64c0dc",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+   "summary": "",
+   "url": "https://huggingface.co/blog/token-pooling",
+   "image": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
+   "published": "2026-11-11T00:00:00Z",
+   "found": "2026-11-11T14:55:54Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "d4308adb53b1",
