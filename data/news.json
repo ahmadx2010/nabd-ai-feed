@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T03:22:10Z",
+ "updated": "2026-11-11T05:01:53Z",
  "categories": [
   {
    "key": "big",
@@ -402,6 +402,21 @@
    "ar_title": "Gilbert + Tobin تعيد التفكير في أعمال المحاماة بالذكاء الاصطناعي",
    "ar_summary": "حوار مع سام نيكليس، الشريك والرئيس التنفيذي لشركة Gilbert + Tobin، حول استخدام الذكاء الاصطناعي في قطاع المحاماة.",
    "ai": true
+  },
+  {
+   "id": "b22522d14a17",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "summary": "",
+   "url": "https://huggingface.co/blog/qvac/botpsy",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
+   "published": "2026-11-11T05:01:16Z",
+   "found": "2026-11-11T05:01:53Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "34dcc0e759ee",
