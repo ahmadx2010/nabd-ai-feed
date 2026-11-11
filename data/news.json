@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T22:48:00Z",
+ "updated": "2026-11-11T00:18:36Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "871ae47d300c",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub App support for Enterprise Copilot seat management",
+   "summary": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible… The post GitHub App support for Enterprise Copilot seat management appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+   "published": "2026-11-11T00:10:31Z",
+   "found": "2026-11-11T00:18:36Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "9c69d029a1ab",
    "company": "windsurf",
