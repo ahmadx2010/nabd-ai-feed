@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T07:10:44Z",
+ "updated": "2026-11-11T09:08:49Z",
  "categories": [
   {
    "key": "big",
@@ -402,6 +402,21 @@
    "ar_title": "Gilbert + Tobin تعيد التفكير في أعمال المحاماة بالذكاء الاصطناعي",
    "ar_summary": "حوار مع سام نيكليس، الشريك والرئيس التنفيذي لشركة Gilbert + Tobin، حول استخدام الذكاء الاصطناعي في قطاع المحاماة.",
    "ai": true
+  },
+  {
+   "id": "7e65614cc89a",
+   "company": "google",
+   "kind": "blog",
+   "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+   "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+   "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
+   "published": "2026-11-11T09:00:00Z",
+   "found": "2026-11-11T09:08:49Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "80b38ea7da37",
