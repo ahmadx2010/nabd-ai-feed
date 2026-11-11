@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:25:00Z",
+ "updated": "2026-11-11T06:51:40Z",
  "categories": [
   {
    "key": "big",
@@ -1112,6 +1112,20 @@
    "ar_title": "Perplexity تشرح بنية MCP بالتفصيل التقني",
    "ar_summary": "دليل تقني من Perplexity يشرح بنية بروتوكول سياق النموذج MCP، من المضيف والعملاء والخوادم إلى طبقتي البيانات والنقل والمخاطر الأمنية.",
    "ai": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "4e3e5904c85a",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+   "url": "https://openai.com/index/singapore-airlines-travel-work",
+   "image": null,
+   "published": "2026-11-10T08:00:00Z",
+   "found": "2026-11-11T06:51:40Z",
+   "importance": 0,
    "fetched": true,
    "img_tried": true
   },
