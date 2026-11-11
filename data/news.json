@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:55:54Z",
+ "updated": "2026-11-11T15:05:04Z",
  "categories": [
   {
    "key": "big",
@@ -402,6 +402,36 @@
    "ar_title": "Gilbert + Tobin تعيد التفكير في أعمال المحاماة بالذكاء الاصطناعي",
    "ar_summary": "حوار مع سام نيكليس، الشريك والرئيس التنفيذي لشركة Gilbert + Tobin، حول استخدام الذكاء الاصطناعي في قطاع المحاماة.",
    "ai": true
+  },
+  {
+   "id": "c7dbc4bf0cc1",
+   "company": "runway",
+   "kind": "blog",
+   "title": "Runway News | Praxis-1 Is Now Available",
+   "summary": "Praxis-1, Runway’s world action model for robotics, is now available with open weights under Apache 2.0. Download it on Hugging Face and GitHub.",
+   "url": "https://runwayml.com/news/company-news/praxis-1-is-now-available",
+   "image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/frame-8-bddb7fbc-4647-44e5-bf65-1fbb7e559b24.png",
+   "published": "2026-11-11T23:25:00Z",
+   "found": "2026-11-11T15:05:04Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "5b916f1bea87",
+   "company": "deepmind",
+   "kind": "blog",
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo",
+   "published": "2026-11-11T15:00:15Z",
+   "found": "2026-11-11T15:05:04Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "7e65614cc89a",
