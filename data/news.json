@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:42:37Z",
+ "updated": "2026-11-11T21:43:49Z",
  "categories": [
   {
    "key": "big",
@@ -432,10 +432,14 @@
    "image": "https://commandline.microsoft.com/wp-content/uploads/2026/11/from-custom-infrastructure-to-hosted-agents-card.png",
    "published": "2026-11-11T21:40:16Z",
    "found": "2026-11-11T21:42:37Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مايكروسوفت ونوفو نورديسك تنقلان وكيل أبحاث سريرية إلى وكلاء مستضافة على Microsoft Foundry",
+   "ar_summary": "شاركت مايكروسوفت تجربة إعادة بناء وكيل ذكاء اصطناعي يحلل بيانات التجارب السريرية لصالح نوفو نورديسك على منصة Microsoft Foundry، مع تشغيل أبسط وعزل أقوى للجلسات.",
+   "ai": true
   },
   {
    "id": "f66f5f0e819e",
@@ -450,7 +454,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI: كيف تطلب وتفعّل Daybreak Blue",
+   "ar_summary": "فيديو تعليمي يشرح طلب الوصول إلى Daybreak Blue وتفعيله لمساحة العمل ومؤسسة API، بما في ذلك التحقق من النشاط التجاري والصلاحيات.",
+   "ai": true
   },
   {
    "id": "38fca246c6ca",
@@ -465,7 +473,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI: تفعيل مراجعات الأمان لطلبات الدمج عبر Codex Security",
+   "ar_summary": "فيديو يشرح إدخال المراجعات الأمنية في سير عمل طلبات السحب باستخدام Codex Security، وإعداد المراجعات التلقائية وحدود الخطورة.",
+   "ai": true
   },
   {
    "id": "2328aa3d695b",
@@ -480,7 +492,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ChatGPT Images: ثلاث طرق للبدء",
+   "ar_summary": "فيديو تعليمي يوضح إنشاء الصور من الصفر في ChatGPT، وتحسينها عبر المحادثة، وتعديل صورة موجودة.",
+   "ai": true
   },
   {
    "id": "eeefcc4da998",
@@ -495,7 +511,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI: كيف تجري أول فحص باستخدام Codex Security",
+   "ar_summary": "فيديو يشرح البدء مع Codex Security من تثبيت الإضافة حتى تشغيل أول فحص ومراجعة النتائج وتوليد التصحيح.",
+   "ai": true
   },
   {
    "id": "9a0e58e782b2",

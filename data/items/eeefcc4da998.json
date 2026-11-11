@@ -1,3 +1,4 @@
 {
- "body": "Get started with Codex Security, from installing the plugin to running your first scan. Learn how to select a repository, add context, review findings, and generate a patch. Then follow the fix into GitHub and see how to use the CLI to bring security scans into your automation workflows."
+ "body": "Get started with Codex Security, from installing the plugin to running your first scan. Learn how to select a repository, add context, review findings, and generate a patch. Then follow the fix into GitHub and see how to use the CLI to bring security scans into your automation workflows.",
+ "ar_body": "نشرت OpenAI فيديو تعليمياً للبدء مع Codex Security.\n\n• تثبيت الإضافة وتشغيل أول فحص.\n• اختيار المستودع وإضافة السياق ومراجعة النتائج.\n• توليد تصحيح ومتابعته في GitHub.\n• استخدام سطر الأوامر لإدخال الفحوص في مسارات الأتمتة."
 }

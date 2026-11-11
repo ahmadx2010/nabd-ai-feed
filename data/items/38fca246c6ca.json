@@ -1,3 +1,4 @@
 {
- "body": "Bring security reviews into your pull request workflow with Codex Security. Learn how to check your GitHub connection, request a review, work through a fix, and review the change again. Then configure automatic reviews for your repository, including triggers and severity thresholds."
+ "body": "Bring security reviews into your pull request workflow with Codex Security. Learn how to check your GitHub connection, request a review, work through a fix, and review the change again. Then configure automatic reviews for your repository, including triggers and severity thresholds.",
+ "ar_body": "نشرت OpenAI فيديو تعليمياً حول دمج مراجعات الأمان في طلبات السحب (Pull Requests) عبر Codex Security.\n\n• التحقق من اتصال GitHub وطلب مراجعة.\n• العمل على إصلاح الثغرة ثم إعادة المراجعة.\n• إعداد المراجعات التلقائية للمستودع، مع المحفزات وحدود الخطورة."
 }
