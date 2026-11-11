@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:24:27Z",
+ "updated": "2026-11-11T21:42:37Z",
  "categories": [
   {
    "key": "big",
@@ -421,6 +421,21 @@
    "ar_title": "Runway تطلق Praxis-1 بأوزان مفتوحة لنماذج الروبوتات",
    "ar_summary": "أتاحت Runway نموذج Praxis-1، وهو نموذج «عالم-فعل» للروبوتات، بأوزان مفتوحة وبترخيص Apache 2.0 على Hugging Face وGitHub. يتيح ذلك لمطوري الروبوتات والباحثين تشغيل النموذج وتكييفه على أجهزتهم الخاصة.",
    "ai": true
+  },
+  {
+   "id": "843a1dfb63d9",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "What it takes to bring an AI research assistant to thousands of medical experts",
+   "summary": "The post What it takes to bring an AI research assistant to thousands of medical experts appeared first on Source .",
+   "url": "https://commandline.microsoft.com/from-custom-infrastructure-to-hosted-agents/",
+   "image": "https://commandline.microsoft.com/wp-content/uploads/2026/11/from-custom-infrastructure-to-hosted-agents-card.png",
+   "published": "2026-11-11T21:40:16Z",
+   "found": "2026-11-11T21:42:37Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f66f5f0e819e",
