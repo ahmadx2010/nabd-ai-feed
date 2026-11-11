@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:33:20Z",
+ "updated": "2026-11-11T15:59:54Z",
  "categories": [
   {
    "key": "big",
@@ -440,6 +440,36 @@
    "ar_title": "AlphaGenome 2 من DeepMind: فهم كيف تقرأ الخلايا الحمض النووي لدراسة الأمراض",
    "ar_summary": "أعلنت Google DeepMind عن AlphaGenome 2، نموذج الجيل التالي الذي يتنبأ بتأثير تسلسلات الحمض النووي وتغيراتها على أنواع الخلايا البشرية. يساعد العلماء على كشف المحركات الخلوية للأمراض.",
    "ai": true
+  },
+  {
+   "id": "8b73b7b93013",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "ElevenLabs expands partner program to help enterprises adopt AI agents faster",
+   "summary": "ElevenLabs launches its Partner Program: more than 550 partners in 44 countries, new certifications, and co-selling to speed enterprise AI adoption.",
+   "url": "https://elevenlabs.io/blog/partner-program",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/ttcswsp2jxa-blog-partner-program-16x9.webp",
+   "published": "2026-11-11T12:00:00Z",
+   "found": "2026-11-11T15:59:54Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "781844fdfff7",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "McKinsey and ElevenLabs collaborate to take natural AI conversations to enterprise scale",
+   "summary": "McKinsey and ElevenLabs announce an alliance to help enterprises prove and scale conversational AI agents, starting with telecom and insurance.",
+   "url": "https://elevenlabs.io/blog/mckinsey",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/xnc1dpl24a-blog-elevenlabs-x-mckinsey-16x9--1-.webp",
+   "published": "2026-11-11T12:00:00Z",
+   "found": "2026-11-11T15:59:54Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "7e65614cc89a",
