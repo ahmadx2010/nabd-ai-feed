@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T00:18:36Z",
+ "updated": "2026-11-11T00:45:53Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "f28f90d2895a",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "image": null,
+   "published": "2026-11-12T00:00:00Z",
+   "found": "2026-11-11T00:45:53Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "871ae47d300c",
    "company": "copilot",
