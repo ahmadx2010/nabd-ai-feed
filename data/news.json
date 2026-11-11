@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:17:03Z",
+ "updated": "2026-11-11T18:35:15Z",
  "categories": [
   {
    "key": "big",
@@ -421,6 +421,20 @@
    "ar_title": "Runway تطلق Praxis-1 بأوزان مفتوحة لنماذج الروبوتات",
    "ar_summary": "أتاحت Runway نموذج Praxis-1، وهو نموذج «عالم-فعل» للروبوتات، بأوزان مفتوحة وبترخيص Apache 2.0 على Hugging Face وGitHub. يتيح ذلك لمطوري الروبوتات والباحثين تشغيل النموذج وتكييفه على أجهزتهم الخاصة.",
    "ai": true
+  },
+  {
+   "id": "8940bdb94ed4",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "Gtm Agent High Quality Sales Artifacts",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/gtm-agent-high-quality-sales-artifacts",
+   "image": null,
+   "published": "2026-11-11T18:35:15Z",
+   "found": "2026-11-11T18:35:15Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "448196bbc491",
