@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T19:57:48Z",
+ "updated": "2026-11-11T20:07:58Z",
  "categories": [
   {
    "key": "big",
@@ -432,10 +432,14 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/CKMHealthHero.png",
    "published": "2026-11-11T19:54:00Z",
    "found": "2026-11-11T19:57:48Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "جوجل تستخدم الأجهزة القابلة للارتداء لتقييم مخاطر أمراض القلب والكلى والتمثيل الغذائي وتقديم تدريب صحي مخصص",
+   "ar_summary": "قدّم باحثو Google Research إطارًا تجريبيًا للتعلم الآلي يحوّل بيانات الأجهزة القابلة للارتداء إلى «عمر صحي قابل للتدريب»، ويحاكي مسارات عادات لمدة 12 أسبوعًا لمعرفة أثر تغيير السلوك اليومي على الصحة.",
+   "ai": true
   },
   {
    "id": "8940bdb94ed4",
