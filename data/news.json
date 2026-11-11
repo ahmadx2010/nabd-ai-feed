@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T22:19:19Z",
+ "updated": "2026-11-11T22:29:33Z",
  "categories": [
   {
    "key": "big",
@@ -796,7 +796,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "استنساخ الصوت لصنّاع المحتوى: وسّع سير عملك بالذكاء الاصطناعي الصوتي",
+   "ar_summary": "دليل من ElevenLabs يشرح كيف يساعد استنساخ الصوت صنّاع المحتوى على تسريع إنتاج البودكاست ومقاطع يوتيوب والدورات الرقمية عبر ElevenCreative.",
+   "ai": true
   },
   {
    "id": "7e65614cc89a",
