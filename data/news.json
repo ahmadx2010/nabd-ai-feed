@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:49:49Z",
+ "updated": "2026-11-11T01:51:00Z",
  "categories": [
   {
    "key": "big",
@@ -413,10 +413,14 @@
    "image": "https://i3.ytimg.com/vi/jDxKzlGLCas/hqdefault.jpg",
    "published": "2026-11-11T01:24:08Z",
    "found": "2026-11-11T01:49:49Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "البناء باستخدام GPT-Live وتوليد الصور | DevDay 2026",
+   "ar_summary": "جلسة من DevDay 2026 تستعرض GPT-Live وهو يتبادل الأفكار ويلعب ويصنع الصور أثناء تنسيق المهام في الخلفية، مع شرح كيفية إضافة الصوت إلى الوكلاء.",
+   "ai": true
   },
   {
    "id": "ea50404243b7",
@@ -428,9 +432,13 @@
    "image": "https://i1.ytimg.com/vi/pIW_8VyvCuQ/hqdefault.jpg",
    "published": "2026-11-11T01:24:08Z",
    "found": "2026-11-11T01:49:49Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ابنِ المستقبل على منصة ChatGPT باستخدام الإضافات | DevDay 2026",
+   "ar_summary": "جلسة تشرح كيف تُدخل أدواتك ومعرفتك وواجهاتك إلى ChatGPT وCodex عبر إضافات Plugins، مع عروض مباشرة للنشر والوصول إلى مستخدمين جدد.",
+   "ai": true
   },
   {
    "id": "ae89cd4186a6",
@@ -442,9 +450,13 @@
    "image": "https://i2.ytimg.com/vi/QRm7VNMnurA/hqdefault.jpg",
    "published": "2026-11-11T01:24:07Z",
    "found": "2026-11-11T01:49:49Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Sites والجيل التالي من تطبيقات الويب | DevDay 2026",
+   "ar_summary": "جلسة تُظهر كيفية تحويل فكرة إلى تجربة ويب تفاعلية باستخدام Astra وChatGPT Sites وWebMCP، وبناء واجهات جديدة مع الزملاء والوكلاء.",
+   "ai": true
   },
   {
    "id": "c6da79e94535",
@@ -456,10 +468,14 @@
    "image": "https://i2.ytimg.com/vi/U1IVZy9FhVQ/hqdefault.jpg",
    "published": "2026-11-11T01:24:07Z",
    "found": "2026-11-11T01:49:49Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ماذا ستبني مع وكلاء برمجة لا يستسلمون؟ | DevDay 2026",
+   "ar_summary": "جلسة تستعرض تشغيل Codex لأكثر من 1000 ساعة للحفاظ على نجاح عمليات البناء والاختبارات، وكيفية اختيار المهام المتكررة وإدارة ميزانية الرموز.",
+   "ai": true
   },
   {
    "id": "31c78b9f6ead",
@@ -471,9 +487,13 @@
    "image": "https://i3.ytimg.com/vi/b7l_Dhe1h8M/hqdefault.jpg",
    "published": "2026-11-11T01:24:07Z",
    "found": "2026-11-11T01:49:49Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Harness-as-a-Service: البناء باستخدام Agents API | DevDay 2026",
+   "ar_summary": "جلسة تشرح البناء على إطار Codex عبر Agents API، وتشغيل الوكلاء في بيئتك واستمرار المهام الطويلة، وما تديره OpenAI من بنية تحتية.",
+   "ai": true
   },
   {
    "id": "7230ce6e002b",
@@ -485,10 +505,14 @@
    "image": "https://i4.ytimg.com/vi/gUQN7juxvVI/hqdefault.jpg",
    "published": "2026-11-11T01:24:07Z",
    "found": "2026-11-11T01:49:49Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Codex Security: من اكتشاف الثغرة إلى إصلاح موثّق | DevDay 2026",
+   "ar_summary": "جلسة عن اكتشاف الثغرات وإصلاحها بنماذج OpenAI السيبرانية وأداة CLI وSDK مفتوحة المصدر، مع فحص قواعد الكود الكبيرة والتحقق من الإصلاحات.",
+   "ai": true
   },
   {
    "id": "154a75fdbc0d",
@@ -500,9 +524,13 @@
    "image": "https://i3.ytimg.com/vi/nAubbmlhPfI/hqdefault.jpg",
    "published": "2026-11-11T01:24:07Z",
    "found": "2026-11-11T01:49:49Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ماذا بعد الحلقات؟ نظرة معمقة على بنية الوكلاء | DevDay 2026",
+   "ar_summary": "جلسة تتتبع تطور الوكلاء من الحلقات البسيطة إلى وكلاء متعاونين، وتستعرض خيارات التصميم وتطورات النماذج وما هو قادم.",
+   "ai": true
   },
   {
    "id": "871ae47d300c",
