@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T16:09:02Z",
+ "updated": "2026-11-11T16:19:31Z",
  "categories": [
   {
    "key": "big",
@@ -432,10 +432,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp",
    "published": "2026-11-11T16:00:00Z",
    "found": "2026-11-11T16:09:02Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "جرّب Tabletop: مساحات تعاونية قابلة للتخصيص للتخطيط واللعب معاً",
+   "ar_summary": "Tabletop تجربة جديدة من Google Labs للتعاون الفوري بين المجموعات، تنشئ برامج رحلات وتصويتات وأدوات تقسيم نفقات وجداول بطولات تفاعلية. تُطرح في الولايات المتحدة لمن تجاوزوا 18 عاماً عبر قائمة انتظار.",
+   "ai": true
   },
   {
    "id": "5b916f1bea87",
@@ -469,7 +473,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs توسع برنامج الشركاء لتسريع تبني وكلاء الذكاء الاصطناعي في المؤسسات",
+   "ar_summary": "أطلقت ElevenLabs برنامج الشركاء بحوافز تجارية وشهادات جديدة ودعم تقني، ويضم أكثر من 550 شريكاً في 44 دولة. يهدف إلى مساعدة الشركات على نشر وكلاء الذكاء الاصطناعي على نطاق واسع.",
+   "ai": true
   },
   {
    "id": "781844fdfff7",
@@ -484,7 +492,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "McKinsey وElevenLabs تتعاونان لنقل المحادثات الذكية الطبيعية إلى مستوى المؤسسات",
+   "ar_summary": "أعلنت McKinsey وElevenLabs تحالفاً لمساعدة المؤسسات على إثبات قيمة وكلاء المحادثة ثم توسيعهم، بدءاً بقطاعي الاتصالات والتأمين. يجمع التحالف خبرة McKinsey وQuantumBlack مع منصة ElevenAgents.",
+   "ai": true
   },
   {
    "id": "98f6e90499a3",
@@ -496,10 +508,14 @@
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/qtgvlrjv5u-blog-marketplace-launch-partners-16x9.webp",
    "published": "2026-11-11T12:00:00Z",
    "found": "2026-11-11T16:09:02Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تطلق Marketplace لتطبيقات الذكاء الاصطناعي الجاهزة للمؤسسات",
+   "ar_summary": "أطلقت ElevenLabs سوقاً (Marketplace) لعرض وكلاء ذكاء اصطناعي متخصصين بقطاعات محددة من شركاء مثل Salesforce وIBM وZendesk وTwilio. يتيح للمؤسسات اكتشاف حلول جاهزة والتواصل مع مطوريها مباشرة.",
+   "ai": true
   },
   {
    "id": "342e94320731",
@@ -529,7 +545,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كل ما أعلنته ElevenLabs في قمة نيويورك: طبقة التفاعل للذكاء الاصطناعي",
+   "ar_summary": "كشفت ElevenLabs في قمتها بنيويورك عن نماذج ووكلاء وخيارات نشر جديدة، منها ضبط النماذج لقطاعات محددة وبرنامج الشركاء وسوق التطبيقات. تهدف الشركة لبناء طبقة تفاعل طبيعية بين البشر والذكاء الاصطناعي.",
+   "ai": true
   },
   {
    "id": "cfb2bce945d5",
@@ -541,10 +561,14 @@
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/dzrt2l99qq7-Blog-Template1920--9-.webp",
    "published": "2026-11-11T12:00:00Z",
    "found": "2026-11-11T16:09:02Z",
-   "importance": 1,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs وNVIDIA توسعان تعاونهما لنشر وكلاء صوتيين للمؤسسات والحكومات",
+   "ar_summary": "توسع ElevenLabs وNVIDIA شراكتهما: نموذج Nemotron 3.5 Super VL متاح في ElevenAgents، وإضافة 15 ميغاواط من قدرة الحوسبة، ونشر سيادي لوكيل صوتي لمنصة الصحة الإلكترونية في بولندا.",
+   "ai": true
   },
   {
    "id": "7e65614cc89a",
