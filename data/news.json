@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:45:36Z",
+ "updated": "2026-11-12T21:22:56Z",
  "categories": [
   {
    "key": "big",
@@ -414,10 +414,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.max-600x600.format-webp.webp",
    "published": "2026-11-12T20:30:00Z",
    "found": "2026-11-12T20:45:36Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "جوجل تطلق 5 أدوات جديدة في Google Flow صممها فنانون بصريون",
+   "ar_summary": "أعلنت جوجل عن خمس أدوات إبداعية جديدة في استوديو Google Flow للذكاء الاصطناعي، صممها فنانون وصنّاع محتوى. تساعد الأدوات على الحفاظ على اتساق الشخصيات، وإضافة أنماط بصرية وتأثيرات إضاءة، وتحسين مقاطع الهاتف.",
+   "ai": true
   },
   {
    "id": "372847c94994",
