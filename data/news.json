@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:10:42Z",
+ "updated": "2026-11-12T14:19:57Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "6578ed46a2a1",
+   "company": "cohere",
+   "kind": "blog",
+   "title": "Welcoming Jaya Baloo as Cohere’s First CISO",
+   "summary": "Jaya Baloo joins Cohere as its first Chief Information Security Officer (CISO), bringing decades of cybersecurity leadership to advance trusted, sovereign AI.",
+   "url": "https://cohere.com/blog/cohere-welcomes-jaya-baloo-as-first-ciso",
+   "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2c5b5cf50ad25cbebcf668c622084c0208f89945-3840x2160.png?rect=0,72,3840,2016&w=1200&h=630&q=80&fit=crop&auto=format",
+   "published": "2026-11-12T14:30:00Z",
+   "found": "2026-11-12T14:19:57Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "42899cb2010a",
    "company": "nvidia",
