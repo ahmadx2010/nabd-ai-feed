@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:19:57Z",
+ "updated": "2026-11-12T14:29:06Z",
  "categories": [
   {
    "key": "big",
@@ -521,6 +521,21 @@
    "ar_title": "OpenAI تدعم الأبحاث حول الذكاء الاصطناعي وسلامة الأطفال",
    "ar_summary": "تلتزم OpenAI بتمويل أبحاث تتعلق بالذكاء الاصطناعي وسلامة الأطفال بمبلغ مليوني دولار. يدعم العمل أدوات مشتركة لقياس المخاطر والفرص للشباب.",
    "ai": true
+  },
+  {
+   "id": "56dac742ff29",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+   "summary": "",
+   "url": "https://huggingface.co/blog/3d-lora-finetuning",
+   "image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif",
+   "published": "2026-11-12T00:00:00Z",
+   "found": "2026-11-12T14:29:06Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "c7dbc4bf0cc1",
