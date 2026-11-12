@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T19:14:08Z",
+ "updated": "2026-11-12T19:51:28Z",
  "categories": [
   {
    "key": "big",
@@ -414,10 +414,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif",
    "published": "2026-11-12T19:07:35Z",
    "found": "2026-11-12T19:14:08Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "IBM تطلق LLMON: لغة ترميز مخصّصة للنماذج اللغوية في Granite 4.1",
+   "ar_summary": "كشفت IBM عن LLMON، لغة ترميز مصممة للنماذج اللغوية توضّح بنية السياق بين التعليمات والبيانات، وأتاحت نسختين تجريبيتين من Granite 4.1 بحجم 3B و8B تدعمانها. تهدف اللغة إلى تقليل هشاشة النماذج الصغيرة ومقاومة هجمات حقن الأوامر.",
+   "ai": true
   },
   {
    "id": "4bad5afe01a1",
