@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T10:31:08Z",
+ "updated": "2026-11-12T10:41:16Z",
  "categories": [
   {
    "key": "big",
@@ -416,7 +416,11 @@
    "found": "2026-11-12T10:31:08Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Holiday Extras تعيد التفكير فيما يمكنها بناؤه باستخدام Codex",
+   "ar_summary": "تستخدم Holiday Extras أداة Codex من OpenAI لتحويل خبرة عملائها إلى تطبيقات أفضل ورفع معدل تحويل الحجوزات وفتح فرص نمو جديدة.",
+   "ai": true
   },
   {
    "id": "cfc794051fa7",
@@ -465,9 +469,13 @@
    "image": null,
    "published": "2026-11-12T00:00:00Z",
    "found": "2026-11-12T10:31:08Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تدعم الأبحاث حول الذكاء الاصطناعي وسلامة الأطفال",
+   "ar_summary": "تلتزم OpenAI بتمويل أبحاث تتعلق بالذكاء الاصطناعي وسلامة الأطفال بمبلغ مليوني دولار. يدعم العمل أدوات مشتركة لقياس المخاطر والفرص للشباب.",
+   "ai": true
   },
   {
    "id": "c7dbc4bf0cc1",
