@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T09:55:13Z",
+ "updated": "2026-11-12T10:31:08Z",
  "categories": [
   {
    "key": "big",
@@ -405,6 +405,20 @@
    "ai": true
   },
   {
+   "id": "0990939c7d6e",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "image": null,
+   "published": "2026-11-12T09:30:00Z",
+   "found": "2026-11-12T10:31:08Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "cfc794051fa7",
    "company": "samsung",
    "kind": "blog",
@@ -440,6 +454,20 @@
    "ar_title": "Gilbert + Tobin تعيد التفكير في أعمال المحاماة بالذكاء الاصطناعي",
    "ar_summary": "حوار مع سام نيكليس، الشريك والرئيس التنفيذي لشركة Gilbert + Tobin، حول استخدام الذكاء الاصطناعي في قطاع المحاماة.",
    "ai": true
+  },
+  {
+   "id": "b06379671ede",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Supporting research on AI and children’s safety",
+   "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+   "url": "https://openai.com/index/children-first-declaration",
+   "image": null,
+   "published": "2026-11-12T00:00:00Z",
+   "found": "2026-11-12T10:31:08Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "c7dbc4bf0cc1",
