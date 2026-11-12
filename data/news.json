@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:46:28Z",
+ "updated": "2026-11-12T19:04:38Z",
  "categories": [
   {
    "key": "big",
@@ -7909,24 +7909,6 @@
    "ar_detail": true,
    "ar_title": "Diffusion Controller يوحّد ويبسّط توليد الصور بالذكاء الاصطناعي",
    "ar_summary": "قدمت Google Research إطار Diffusion Controller، وهو شبكة خفيفة توجّه توليد الصور لتحسين التوافق مع الوصف النصي، ويمكن ربطها حتى بنماذج مغلقة.",
-   "ai": true
-  },
-  {
-   "id": "1eadd5627184",
-   "company": "google",
-   "kind": "blog",
-   "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-   "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
-   "published": "2026-09-28T19:00:00Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "الفيلم الفائز بجائزة Future Vision XPRIZE: «The Gifted»",
-   "ar_summary": "أُعلن المخرج المستقل Jeff Synthesized فائزاً بالجائزة الكبرى عن فيلم The Gifted من بين أكثر من 2,500 مشاركة.",
    "ai": true
   }
  ]
