@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:31:23Z",
+ "updated": "2026-11-12T22:09:02Z",
  "categories": [
   {
    "key": "big",
@@ -849,10 +849,14 @@
    "image": "https://devin.ai/images/blog/devins-new-teams-plan/cover.png",
    "published": "2026-11-12T00:00:00Z",
    "found": "2026-11-12T21:31:23Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Devin يطلق خطة Teams جديدة مع Devin Desktop للجميع وجلسات مجانية بنموذج SWE-2",
+   "ar_summary": "أعلنت Devin ترقية خطة Teams بحيث يحصل كل مستخدم على Devin Desktop وجلسات مجانية مدعومة بنموذج SWE-2، مع إضافة SSO وضوابط للتكلفة واتفاقية BAA قياسية.",
+   "ai": true
   },
   {
    "id": "c7dbc4bf0cc1",
