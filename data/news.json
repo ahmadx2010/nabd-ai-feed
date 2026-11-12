@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T22:09:02Z",
+ "updated": "2026-11-12T23:03:34Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "سامسونج تعلن إطلاق نظاراتها الذكية في ديسمبر مع Gemini المدمج",
    "ar_summary": "أعلنت سامسونج عن إطلاق تشكيلة كاملة من النظارات الذكية في الولايات المتحدة وكوريا الجنوبية يوم 10 ديسمبر، مع بدء الطلبات المسبقة اليوم. تعمل النظارات بمساعد Gemini المدمج وبتصاميم من Gentle Monster وWarby Parker.",
    "ai": true
+  },
+  {
+   "id": "657af3312af0",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Build once, run on any agent: A practical guide to agent skills",
+   "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog .",
+   "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+   "image": "https://github.blog/wp-content/uploads/2026/11/5b5fed0ce69f241f469053d4f178383688adb2fb7ef44dff82c1a2dd6a626fa1-1920x1080-1.png",
+   "published": "2026-11-12T22:54:52Z",
+   "found": "2026-11-12T23:03:34Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "d8a09585fbb8",
