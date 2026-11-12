@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:30:39Z",
+ "updated": "2026-11-12T14:38:36Z",
  "categories": [
   {
    "key": "big",
@@ -441,6 +441,21 @@
    "ar_title": "إنفيديا تعلن تغيير الرئيس التنفيذي: استقالة جنسن هوانغ وكوليت كريس رئيسة تنفيذية مؤقتة",
    "ar_summary": "أعلن مجلس إدارة إنفيديا استقالة جنسن هوانغ من منصب الرئيس والرئيس التنفيذي وعضوية المجلس بأثر فوري، وتعيين المديرة المالية كوليت كريس رئيسة تنفيذية مؤقتة، وهارفي جونز أول رئيس لمجلس الإدارة.",
    "ai": true
+  },
+  {
+   "id": "2315d5b92875",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "ElevenLabs brings free voice restoration to veterans, songwriters, and more patients",
+   "summary": "ElevenLabs launches free ElevenMusic for artists with voice loss, partners with Wounded Warrior Project, and adds NYU Langone to 1 Million Voices.",
+   "url": "https://elevenlabs.io/blog/impact-nyc-summit",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp",
+   "published": "2026-11-12T12:00:00Z",
+   "found": "2026-11-12T14:38:36Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "17c1d391457e",
