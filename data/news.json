@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T19:04:38Z",
+ "updated": "2026-11-12T19:05:47Z",
  "categories": [
   {
    "key": "big",
@@ -1508,10 +1508,14 @@
    "image": "https://devin.ai/images/blog/gemini-4-hydrogen/cover.png",
    "published": "2026-11-11T00:00:00Z",
    "found": "2026-11-12T18:46:28Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini 4 Hydrogen متاح الآن في Devin بتكلفة أقل بنحو 40% من Gemini 4 Carbon",
+   "ar_summary": "أصبح Gemini 4 Hydrogen متاحاً في Devin Desktop وDevin CLI. حقق 38.2% في اختبار FrontierCode 2.0، أي على بعد نقطة واحدة من GPT-6.1 Sol، وبتكلفة أقل بنحو 40% للمهمة مقارنة بـ Gemini 4 Carbon.",
+   "ai": true
   },
   {
    "id": "d4308adb53b1",
