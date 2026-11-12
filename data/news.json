@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T13:52:30Z",
+ "updated": "2026-11-12T14:10:42Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "42899cb2010a",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+   "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales […]",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+   "image": "https://iprsoftwaremedia.com/219/files/202611/cb5b379857fb055399ba19241ee5089f/6af5c6bc3d6332081653aba2_gfn-thursday-11-12-blog-1920x1080-logo-842x450/gfn-thursday-11-12-blog-1920x1080-logo-842x450_thmb.jpg?v=25f4c7b8-a838-40e0-bb4f-acbf9541d4cf",
+   "published": "2026-11-12T14:00:59Z",
+   "found": "2026-11-12T14:10:42Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "b8785a000ca8",
    "company": "nvidia",
