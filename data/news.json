@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:36:05Z",
+ "updated": "2026-11-12T20:37:08Z",
  "categories": [
   {
    "key": "big",
@@ -416,7 +416,11 @@
    "found": "2026-11-12T20:36:05Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تطلق Amplitude تحسينات منتجها خلال يوم إلى يومين باستخدام OpenAI",
+   "ar_summary": "تعتمد Amplitude في وكيل المنتج الاستباقي Wave على نماذج OpenAI لتحديد ما يجب بناؤه، والمساعدة في شحن التغييرات عبر وكلاء البرمجة، ثم قياس أثرها.",
+   "ai": true
   },
   {
    "id": "a88bddb17214",
