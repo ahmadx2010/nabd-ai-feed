@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T22:29:33Z",
+ "updated": "2026-11-12T00:46:14Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "cfc794051fa7",
+   "company": "samsung",
+   "kind": "blog",
+   "title": "Finding the Perfect TV: A Guide to Samsung TVs",
+   "summary": "Choosing the right TV is a long-term decision that involves several factors — including screen size, picture quality, brightness, viewing environment, and preferred content. Advances in TV technology have expanded the options available, from OLED, QLED, and Neo QLED to the latest Micro RGB. AI capabilities now go beyond picture and sound optimization to support […]",
+   "url": "https://news.samsung.com/global/finding-the-perfect-tv-a-guide-to-samsung-tvs",
+   "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/11144613/Samsung-TVs-and-Displays-Finding-the-perfect-TV-A-Guide-Samsung-TVs_Thumb932-728x410.jpg",
+   "published": "2026-11-12T08:00:00Z",
+   "found": "2026-11-12T00:46:14Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "f28f90d2895a",
    "company": "openai",
