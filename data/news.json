@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T17:14:30Z",
+ "updated": "2026-11-12T17:34:19Z",
  "categories": [
   {
    "key": "big",
@@ -417,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إجابات سريعة من Gemini في أي موقع داخل Chrome",
+   "ar_summary": "يتيح Gemini في Chrome لخصاً للمقالات ومقارنة للمنتجات وشرحاً للمواضيع المعقدة من اللوحة الجانبية دون فتح تبويب جديد.",
+   "ai": true
   },
   {
    "id": "17212b6f5a41",
@@ -432,7 +436,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "وكيل Replit يشتري لنشاطك التجاري ويساعدك في الوصول إلى العملاء",
+   "ar_summary": "أضافت Replit مهمتين جديدتين لوكيلها: شراء مستلزمات النشاط التجاري عبر Link وVisa، والترويج للعملاء عبر إعلانات Google، مع بقاء المالك متحكماً بالإنفاق.",
+   "ai": true
   },
   {
    "id": "6578ed46a2a1",
@@ -545,6 +553,24 @@
    "ar_detail": true,
    "ar_title": "Holiday Extras تعيد التفكير فيما يمكنها بناؤه باستخدام Codex",
    "ar_summary": "تستخدم Holiday Extras أداة Codex من OpenAI لتحويل خبرة عملائها إلى تطبيقات أفضل ورفع معدل تحويل الحجوزات وفتح فرص نمو جديدة.",
+   "ai": true
+  },
+  {
+   "id": "def24f1f6d3c",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Context window: what it is and how it affects everyday AI use",
+   "summary": "A Perplexity guide explaining what an AI context window is, what fills it, and habits for using it well.",
+   "url": "https://www.perplexity.ai/hub/blog/context-window",
+   "image": null,
+   "published": "2026-11-12T09:00:00Z",
+   "found": "2026-11-12T17:34:19Z",
+   "importance": 0,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity تشرح نافذة السياق وتأثيرها على استخدام الذكاء الاصطناعي",
+   "ar_summary": "دليل من Perplexity يشرح معنى نافذة السياق في نماذج الذكاء الاصطناعي، وما الذي يملؤها، وعادات عملية للاستفادة منها.",
    "ai": true
   },
   {
@@ -1105,9 +1131,13 @@
    "image": "https://i2.ytimg.com/vi/YsnS2PpTr1w/hqdefault.jpg",
    "published": "2026-11-11T04:51:51Z",
    "found": "2026-11-12T17:14:30Z",
-   "importance": 2,
+   "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "الأمن السيبراني على حدود التقنية: كلمة OpenAI المباشرة",
+   "ar_summary": "بث مباشر لكلمة رئيسية تعرض فيها OpenAI أحدث إعلاناتها في مجال الأمن السيبراني.",
+   "ai": true
   },
   {
    "id": "34dcc0e759ee",
