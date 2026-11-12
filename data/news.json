@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T17:05:22Z",
+ "updated": "2026-11-12T17:14:30Z",
  "categories": [
   {
    "key": "big",
@@ -1094,6 +1094,20 @@
    "ar_title": "BotPsy: مساعد شخصي يعمل على الجهاز بنموذج لغوي وكيلي أقل من مليار معامل",
    "ar_summary": "قدّم فريق Tether AI Research نموذج BotPsy بحجم 0.8 مليار معامل، مصمم لاستدعاء الدوال وسير العمل الوكيلي، ويعمل مباشرة على الأجهزة مع الحفاظ على خصوصية المستخدم.",
    "ai": true
+  },
+  {
+   "id": "756daf93378d",
+   "company": "openai",
+   "kind": "video",
+   "title": "Cyber at the Frontier",
+   "summary": "A live keynote featuring OpenAI's latest cyber announcements.",
+   "url": "https://www.youtube.com/watch?v=YsnS2PpTr1w",
+   "image": "https://i2.ytimg.com/vi/YsnS2PpTr1w/hqdefault.jpg",
+   "published": "2026-11-11T04:51:51Z",
+   "found": "2026-11-12T17:14:30Z",
+   "importance": 2,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "34dcc0e759ee",
