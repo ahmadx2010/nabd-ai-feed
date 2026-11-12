@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:29:06Z",
+ "updated": "2026-11-12T14:30:39Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Cohere تعيّن جايا بالو أول مديرة لأمن المعلومات",
+   "ar_summary": "انضمت جايا بالو، الشريكة المؤسسة لـ AISLE وخبيرة الأمن السيبراني، إلى Cohere بصفتها أول مديرة لأمن المعلومات (CISO) لدعم بناء منصة ذكاء اصطناعي سيادي موثوقة.",
+   "ai": true
   },
   {
    "id": "42899cb2010a",
@@ -413,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Warhammer 40,000: Dawn of War IV قادمة إلى GeForce NOW مع دعم DLSS 5 لألعاب جديدة",
+   "ar_summary": "تعلن إنفيديا وصول Warhammer 40,000: Dawn of War IV إلى GeForce NOW، مع وصول تقنية DLSS 5 إلى War Thunder وWhere Winds Meet، وانضمام 10 ألعاب جديدة للمكتبة هذا الأسبوع.",
+   "ai": true
   },
   {
    "id": "b8785a000ca8",
@@ -428,7 +436,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إنفيديا تعلن تغيير الرئيس التنفيذي: استقالة جنسن هوانغ وكوليت كريس رئيسة تنفيذية مؤقتة",
+   "ar_summary": "أعلن مجلس إدارة إنفيديا استقالة جنسن هوانغ من منصب الرئيس والرئيس التنفيذي وعضوية المجلس بأثر فوري، وتعيين المديرة المالية كوليت كريس رئيسة تنفيذية مؤقتة، وهارفي جونز أول رئيس لمجلس الإدارة.",
+   "ai": true
   },
   {
    "id": "17c1d391457e",
@@ -535,7 +547,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "الدليل الشامل لضبط نماذج توليد المجسمات ثلاثية الأبعاد",
+   "ar_summary": "تقدم Hugging Face نصوصًا برمجية وحاويات لضبط نموذج TRELLIS.2 لتوليد المجسمات ثلاثية الأبعاد باستخدام LoRA، محليًا أو عبر Hugging Face Jobs.",
+   "ai": true
   },
   {
    "id": "c7dbc4bf0cc1",
