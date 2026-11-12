@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T19:05:47Z",
+ "updated": "2026-11-12T19:14:08Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "سامسونج تعلن إطلاق نظاراتها الذكية في ديسمبر مع Gemini المدمج",
    "ar_summary": "أعلنت سامسونج عن إطلاق تشكيلة كاملة من النظارات الذكية في الولايات المتحدة وكوريا الجنوبية يوم 10 ديسمبر، مع بدء الطلبات المسبقة اليوم. تعمل النظارات بمساعد Gemini المدمج وبتصاميم من Gentle Monster وWarby Parker.",
    "ai": true
+  },
+  {
+   "id": "a88bddb17214",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+   "summary": "",
+   "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif",
+   "published": "2026-11-12T19:07:35Z",
+   "found": "2026-11-12T19:14:08Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "4bad5afe01a1",
