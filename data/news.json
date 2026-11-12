@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:00:35Z",
+ "updated": "2026-11-12T18:09:43Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,66 @@
    "ar_title": "سامسونج تعلن إطلاق نظاراتها الذكية في ديسمبر مع Gemini المدمج",
    "ar_summary": "أعلنت سامسونج عن إطلاق تشكيلة كاملة من النظارات الذكية في الولايات المتحدة وكوريا الجنوبية يوم 10 ديسمبر، مع بدء الطلبات المسبقة اليوم. تعمل النظارات بمساعد Gemini المدمج وبتصاميم من Gentle Monster وWarby Parker.",
    "ai": true
+  },
+  {
+   "id": "4bad5afe01a1",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Introducing Gemini 4 Hydrogen",
+   "summary": "",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+   "published": "2026-11-12T18:00:50Z",
+   "found": "2026-11-12T18:09:43Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "459a57b4750a",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+   "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+   "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
+   "published": "2026-11-12T18:00:00Z",
+   "found": "2026-11-12T18:09:43Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "7954dacf43d5",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+   "summary": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp",
+   "published": "2026-11-12T18:00:00Z",
+   "found": "2026-11-12T18:09:43Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "ec9fd4077cce",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Introducing Gemini 4 Hydrogen",
+   "summary": "an image of carbon with the number 4 around it",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp",
+   "published": "2026-11-12T18:00:00Z",
+   "found": "2026-11-12T18:09:43Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "7bc6a3cb1dd3",
