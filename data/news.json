@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:22:56Z",
+ "updated": "2026-11-12T21:31:23Z",
  "categories": [
   {
    "key": "big",
@@ -838,6 +838,21 @@
    "ar_title": "الحدود النظرية لمواءمة نماذج اللغة",
    "ar_summary": "ورقة بحثية من أبل تحدد نظرياً أقصى مكسب في المكافأة ممكن تحت قيد تباعد KL عند مواءمة نماذج اللغة، وتبيّن أن best-of-N قريب من الحد الأمثل بينما PPO وGRPO دون ذلك.",
    "ai": true
+  },
+  {
+   "id": "4275e8c16ec7",
+   "company": "windsurf",
+   "kind": "blog",
+   "title": "Devin's new Teams plan | Devin",
+   "summary": "The Devin Teams plan now includes Devin Desktop for every user, free sessions powered by SWE-2, SSO, cost controls, and a standard BAA for Teams customers.",
+   "url": "https://windsurf.com/blog/devins-new-teams-plan",
+   "image": "https://devin.ai/images/blog/devins-new-teams-plan/cover.png",
+   "published": "2026-11-12T00:00:00Z",
+   "found": "2026-11-12T21:31:23Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "c7dbc4bf0cc1",
