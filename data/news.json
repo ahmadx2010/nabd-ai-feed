@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T23:12:41Z",
+ "updated": "2026-11-12T23:40:46Z",
  "categories": [
   {
    "key": "big",
@@ -414,10 +414,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/5b5fed0ce69f241f469053d4f178383688adb2fb7ef44dff82c1a2dd6a626fa1-1920x1080-1.png",
    "published": "2026-11-12T22:54:52Z",
    "found": "2026-11-12T23:03:34Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ابنِ مرة واحدة وشغّل على أي وكيل: دليل عملي لمهارات الوكلاء",
+   "ar_summary": "تشرح GitHub كيف تتيح مهارات الوكلاء (Agent Skills) تدوين المهام الهندسية المتكررة في ملفات يمكن مراجعتها وإعادة استخدامها، بينما تبقى الأدوات والصلاحيات خاصة بالبيئة التي تشغّلها.",
+   "ai": true
   },
   {
    "id": "d8a09585fbb8",
@@ -697,7 +701,11 @@
    "found": "2026-11-12T23:12:41Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gondola تضاعف إيراداتها مع بناء فريقها المزيد باستخدام Codex",
+   "ar_summary": "تساعد Gondola المبدعين على نيل التقدير والحصول على فرص عمل، وقد رفع Codex إنتاجية مهندسها الرئيسي بنسبة 50% فيما بسّط ChatGPT العمل اليومي.",
+   "ai": true
   },
   {
    "id": "17c1d391457e",
