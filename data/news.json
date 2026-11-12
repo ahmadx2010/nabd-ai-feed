@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:20:30Z",
+ "updated": "2026-11-12T18:28:18Z",
  "categories": [
   {
    "key": "big",
@@ -610,7 +610,9 @@
    "ar_detail": true,
    "ar_title": "بيربلكسيتي تطلق Decider: نماذج تصنيف مفتوحة المصدر",
    "ar_summary": "أطلقت بيربلكسيتي النموذجين Decider v1.3 وDecider Flash v1.3، وهما مصنّفان يعيدان احتمالات الإجابات لمجموعة أسئلة في تمريرة واحدة، ومتاحان برخصة Apache.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "17c1d391457e",
