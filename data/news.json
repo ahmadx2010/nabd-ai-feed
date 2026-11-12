@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T17:42:15Z",
+ "updated": "2026-11-12T18:00:35Z",
  "categories": [
   {
    "key": "big",
@@ -7813,24 +7813,6 @@
    "ar_title": "الفيلم الفائز بجائزة Future Vision XPRIZE: «The Gifted»",
    "ar_summary": "أُعلن المخرج المستقل Jeff Synthesized فائزاً بالجائزة الكبرى عن فيلم The Gifted من بين أكثر من 2,500 مشاركة.",
    "ai": true
-  },
-  {
-   "id": "dc939076f65e",
-   "company": "characterai",
-   "kind": "blog",
-   "title": "introducing PipSqueak 3, ShortSqueak, and (c.ai) lite",
-   "summary": "Two new free Chat Styles are rolling out to everyone on (c.ai): PipSqueak 3 , a big step up for general roleplay, and ShortSqueak , a much requested style for quick, casual chats. Alongside them, we’re launching (c.ai) lite , a new subscription plan that gets you more out",
-   "url": "https://blog.character.ai/new-styles-new-plan/",
-   "image": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/2026/09/Model-Launch.png",
-   "published": "2026-09-28T18:00:30Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "ar_detail": true,
-   "ar_title": "Character.AI تطلق PipSqueak 3 وShortSqueak وخطة lite",
-   "ar_summary": "أسلوبان جديدان مجانيان للمحادثة وخطة اشتراك أرخص باسم (c.ai) lite.",
-   "ai": true,
-   "detail": true,
-   "fetched": true
   }
  ]
 }
