@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T17:34:19Z",
+ "updated": "2026-11-12T17:42:15Z",
  "categories": [
   {
    "key": "big",
@@ -571,7 +571,9 @@
    "ar_detail": true,
    "ar_title": "Perplexity تشرح نافذة السياق وتأثيرها على استخدام الذكاء الاصطناعي",
    "ar_summary": "دليل من Perplexity يشرح معنى نافذة السياق في نماذج الذكاء الاصطناعي، وما الذي يملؤها، وعادات عملية للاستفادة منها.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "cfc794051fa7",
@@ -665,6 +667,21 @@
    "ar_title": "Cognition وماكينزي تتحالفان لمساعدة الشركات على إثبات قيمة الذكاء الاصطناعي في هندسة البرمجيات",
    "ar_summary": "أعلنت Cognition، مطوّرة Devin، تحالفًا مع ماكينزي لربط قدرات الهندسة الإضافية بنتائج أعمال قابلة للقياس. يجمع التحالف بين تنفيذ Devin للمشاريع وخبرة ماكينزي في إعادة تصميم نماذج التشغيل.",
    "ai": true
+  },
+  {
+   "id": "7ca0fec9fce8",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Theoretical Limits of Language Model Alignment",
+   "summary": "Language model (LM) alignment improves model outputs to reflect human preferences while preserving the capabilities of the base model. The most common alignment approaches are (i) reinforcement learning, which maximizes the expected reward under a KL-divergence constraint, and (ii) best-of-NNN alignment, which selects the highest-reward output among NNN independent samples. Despite their…",
+   "url": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+   "published": "2026-11-12T00:00:00Z",
+   "found": "2026-11-12T17:42:15Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "c7dbc4bf0cc1",
