@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:47:45Z",
+ "updated": "2026-11-12T16:56:14Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "سامسونج تعلن إطلاق نظاراتها الذكية في ديسمبر مع Gemini المدمج",
    "ar_summary": "أعلنت سامسونج عن إطلاق تشكيلة كاملة من النظارات الذكية في الولايات المتحدة وكوريا الجنوبية يوم 10 ديسمبر، مع بدء الطلبات المسبقة اليوم. تعمل النظارات بمساعد Gemini المدمج وبتصاميم من Gentle Monster وWarby Parker.",
    "ai": true
+  },
+  {
+   "id": "17212b6f5a41",
+   "company": "replit",
+   "kind": "blog",
+   "title": "Replit Agent can now buy for your business and help you reach customers",
+   "summary": "Today we’re giving Replit Agent two new jobs: buying supplies for your business with Link and Visa, and helping you reach customers with Google Ads. In September 2024, we launched Replit Agent, the first generally available coding agent that enabled anyone to build software by describing it in their own words. That opened the door to a new class of founders: people whose ideas had been held back…",
+   "url": "https://replit.com/blog/replit-agent-ads-commerce",
+   "image": "https://cdn.sanity.io/images/bj34pdbp/migration/50996be87e9d05f6c53a9bbf12578cf1b165d771-2400x1260.png",
+   "published": "2026-11-12T16:45:00Z",
+   "found": "2026-11-12T16:56:14Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "6578ed46a2a1",
