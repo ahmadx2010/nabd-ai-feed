@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T15:15:59Z",
+ "updated": "2026-11-12T15:42:39Z",
  "categories": [
   {
    "key": "big",
@@ -571,6 +571,21 @@
    "ar_title": "الدليل الشامل لضبط نماذج توليد المجسمات ثلاثية الأبعاد",
    "ar_summary": "تقدم Hugging Face نصوصًا برمجية وحاويات لضبط نموذج TRELLIS.2 لتوليد المجسمات ثلاثية الأبعاد باستخدام LoRA، محليًا أو عبر Hugging Face Jobs.",
    "ai": true
+  },
+  {
+   "id": "ec76f0777475",
+   "company": "windsurf",
+   "kind": "blog",
+   "title": "Cognition and McKinsey form an alliance to help enterprises prove the value of AI in software engineering | Devin",
+   "summary": "Cognition and McKinsey & Company are pairing Devin with McKinsey's operating model work so enterprises can tie added engineering capacity to measurable business results.",
+   "url": "https://windsurf.com/blog/cognition-mckinsey-alliance",
+   "image": "https://devin.ai/images/blog/cognition-mckinsey-alliance/cover.png",
+   "published": "2026-11-12T00:00:00Z",
+   "found": "2026-11-12T15:42:39Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "c7dbc4bf0cc1",
