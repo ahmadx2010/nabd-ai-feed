@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T10:41:16Z",
+ "updated": "2026-11-12T13:52:30Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "b8785a000ca8",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "NVIDIA Announces CEO Transition",
+   "summary": "Jensen Huang ResignsColette Kress, Executive Vice President and Chief Financial Officer, Appointed Interim CEOHarvey C. Jones Appointed First-Ever Chair of the Board SANTA CLARA, Calif., Nov. ...",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "image": null,
+   "published": "2026-11-12T13:48:00Z",
+   "found": "2026-11-12T13:52:30Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "17c1d391457e",
    "company": "openai",
