@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:50:27Z",
+ "updated": "2026-11-12T09:54:18Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "17c1d391457e",
+   "company": "openai",
+   "kind": "video",
+   "title": "What Codex Unlocks for Holiday Extras",
+   "summary": "What happens when the people who understand your customers can build the software to help them? At Holiday Extras, Codex is helping turn that ambition into reality—from rebuilding its main app in two weeks to responding faster to customer feedback. Hear how CEO Matthew Pack, David Lee and Liam Thompson are giving colleagues the confidence to build, improving the travel experience and rethinking…",
+   "url": "https://www.youtube.com/watch?v=vu3YlUMkvyg",
+   "image": "https://i3.ytimg.com/vi/vu3YlUMkvyg/hqdefault.jpg",
+   "published": "2026-11-12T09:45:17Z",
+   "found": "2026-11-12T09:54:18Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "cfc794051fa7",
    "company": "samsung",
