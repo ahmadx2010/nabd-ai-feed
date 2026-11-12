@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T15:42:39Z",
+ "updated": "2026-11-12T16:01:21Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "86a8847fe78f",
+   "company": "samsung",
+   "kind": "blog",
+   "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
+   "summary": "Samsung Electronics today announced the upcoming launch of the full lineup of intelligent eyewear, delivering a smarter way to see the world through intuitive, hands-free AI assistance. Set for release in the U.S. and South Korea on Dec. 10 with pre-orders beginning today, the collection combines Samsung’s mobile engineering expertise with 30 distinctive designs from […]",
+   "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+   "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/12154033/Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_Thumb932-728x410.jpg",
+   "published": "2026-11-12T23:00:00Z",
+   "found": "2026-11-12T16:01:21Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "6578ed46a2a1",
    "company": "cohere",
