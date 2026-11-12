@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:28:18Z",
+ "updated": "2026-11-12T18:46:28Z",
  "categories": [
   {
    "key": "big",
@@ -1495,6 +1495,21 @@
    "ar_title": "Perplexity: دليل الامتثال في الذكاء الاصطناعي — حوكمة الأنظمة واستخدام AI في أعمال الامتثال",
    "ar_summary": "تشرح Perplexity معنيي الامتثال في الذكاء الاصطناعي: جعل الأنظمة متوافقة مع القوانين والمعايير، واستخدام الذكاء الاصطناعي في مهام الامتثال الروتينية.",
    "ai": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "8742a1b87c16",
+   "company": "windsurf",
+   "kind": "blog",
+   "title": "Gemini 4 Hydrogen is now available in Devin | Devin",
+   "summary": "Gemini 4 Hydrogen is now live in Devin Desktop and Devin CLI. On FrontierCode 2.0 it scores 38.2%, within a point of GPT-6.1 Sol, at about 40% less per task than Gemini 4 Carbon.",
+   "url": "https://windsurf.com/blog/gemini-4-hydrogen",
+   "image": "https://devin.ai/images/blog/gemini-4-hydrogen/cover.png",
+   "published": "2026-11-11T00:00:00Z",
+   "found": "2026-11-12T18:46:28Z",
+   "importance": 2,
+   "detail": true,
    "fetched": true,
    "img_tried": true
   },
