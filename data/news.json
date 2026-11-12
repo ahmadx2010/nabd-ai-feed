@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:38:36Z",
+ "updated": "2026-11-12T15:15:59Z",
  "categories": [
   {
    "key": "big",
@@ -455,7 +455,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تقدّم استعادة الصوت مجاناً للمحاربين القدامى وكتّاب الأغاني ومرضى آخرين",
+   "ar_summary": "أطلقت ElevenLabs خدمة ElevenMusic مجاناً للفنانين الذين فقدوا أصواتهم، وأعلنت شراكة مع Wounded Warrior Project، وانضمام NYU Langone إلى برنامج 1 Million Voices.",
+   "ai": true
   },
   {
    "id": "17c1d391457e",
