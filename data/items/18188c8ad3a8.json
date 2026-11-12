@@ -1,0 +1,4 @@
+{
+ "body": "Perplexity Research released Decider v1.3 and Decider Flash v1.3. These are classifiers that take an input and a set of questions and return probabilities for each answer in a single forward pass. They support yes/no, multiple-choice and ordinal scoring tasks, and a new locate feature extracts text spans for entity recognition, PII detection and extractive QA. Both models are available under an Apache license on Hugging Face, through OpenRouter, and via the Perplexity Decisions API.",
+ "ar_body": "أصدر فريق Perplexity Research النموذجين Decider v1.3 وDecider Flash v1.3.\n\n• مصنّفان يأخذان مدخلاً ومجموعة أسئلة ويعيدان احتمال كل إجابة في تمريرة واحدة.\n• يدعمان أسئلة نعم/لا والاختيار المتعدد والتقييم الترتيبي، مع ميزة locate لاستخراج مقاطع نصية للتعرف على الكيانات وكشف البيانات الشخصية.\n• متاحان برخصة Apache على Hugging Face وOpenRouter وعبر Perplexity Decisions API.\n\nيفيد ذلك في المهام التي تحتاج قرارات تصنيف سريعة ومنخفضة التكلفة."
+}

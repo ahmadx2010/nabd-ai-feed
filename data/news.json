@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:09:43Z",
+ "updated": "2026-11-12T18:20:30Z",
  "categories": [
   {
    "key": "big",
@@ -417,7 +417,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "جوجل تقدّم Gemini 4 Hydrogen: ذكاء متقدم للجميع",
+   "ar_summary": "أعلنت جوجل عن Gemini 4 Hydrogen، نموذج سريع وفعّال للبرمجة اليومية وسير العمل الوكيلي، ويتوفر لجميع المستخدمين عبر Google AI Studio وتطبيق Gemini وبحث جوجل.",
+   "ai": true
   },
   {
    "id": "459a57b4750a",
@@ -432,7 +436,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "بحث جوجل يحصل على ترقية كبرى مع Gemini 4 Hydrogen",
+   "ar_summary": "تدمج جوجل نموذج Gemini 4 Hydrogen في بحثها عالمياً لإجابات أكثر بديهية وبصرية ودقة، وتصفها بأكبر ترقية نموذج لبحث جوجل حتى الآن.",
+   "ai": true
   },
   {
    "id": "7954dacf43d5",
@@ -447,7 +455,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini 4 Hydrogen للمطورين: برمجة يومية وسير عمل وكيلي",
+   "ar_summary": "بات بإمكان المطورين البناء بنموذج Gemini 4 Hydrogen المصمم للبرمجة وتصحيح الأخطاء بتكلفة فعّالة، عبر Google AI Studio وAndroid Studio.",
+   "ai": true
   },
   {
    "id": "ec9fd4077cce",
@@ -462,7 +474,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تعرّف على Gemini 4 Hydrogen",
+   "ar_summary": "تقدّم جوجل Gemini 4 Hydrogen، نموذجاً سريعاً وفعّالاً للبرمجة وسير العمل الوكيلي، متاحاً لجميع المستخدمين في منتجات جوجل.",
+   "ai": true
   },
   {
    "id": "7bc6a3cb1dd3",
@@ -576,6 +592,24 @@
    "ar_detail": true,
    "ar_title": "ElevenLabs تقدّم استعادة الصوت مجاناً للمحاربين القدامى وكتّاب الأغاني ومرضى آخرين",
    "ar_summary": "أطلقت ElevenLabs خدمة ElevenMusic مجاناً للفنانين الذين فقدوا أصواتهم، وأعلنت شراكة مع Wounded Warrior Project، وانضمام NYU Langone إلى برنامج 1 Million Voices.",
+   "ai": true
+  },
+  {
+   "id": "18188c8ad3a8",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Perplexity Decider",
+   "summary": "Perplexity Research released Decider v1.3 and Decider Flash v1.3, classifier models that return answer probabilities for a set of questions in one forward pass, available under Apache license.",
+   "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+   "image": null,
+   "published": "2026-11-12T12:00:00Z",
+   "found": "2026-11-12T18:20:30Z",
+   "importance": 1,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "بيربلكسيتي تطلق Decider: نماذج تصنيف مفتوحة المصدر",
+   "ar_summary": "أطلقت بيربلكسيتي النموذجين Decider v1.3 وDecider Flash v1.3، وهما مصنّفان يعيدان احتمالات الإجابات لمجموعة أسئلة في تمريرة واحدة، ومتاحان برخصة Apache.",
    "ai": true
   },
   {
@@ -741,7 +775,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "الحدود النظرية لمواءمة نماذج اللغة",
+   "ar_summary": "ورقة بحثية من أبل تحدد نظرياً أقصى مكسب في المكافأة ممكن تحت قيد تباعد KL عند مواءمة نماذج اللغة، وتبيّن أن best-of-N قريب من الحد الأمثل بينما PPO وGRPO دون ذلك.",
+   "ai": true
   },
   {
    "id": "c7dbc4bf0cc1",
