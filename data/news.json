@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T09:54:18Z",
+ "updated": "2026-11-12T09:55:13Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ماذا يتيح Codex لشركة Holiday Extras",
+   "ar_summary": "فيديو من OpenAI يعرض كيف ساعد Codex شركة Holiday Extras على إعادة بناء تطبيقها الرئيسي خلال أسبوعين والاستجابة أسرع لملاحظات العملاء.",
+   "ai": true
   },
   {
    "id": "cfc794051fa7",
