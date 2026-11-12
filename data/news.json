@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:01:21Z",
+ "updated": "2026-11-12T16:02:01Z",
  "categories": [
   {
    "key": "big",
@@ -597,10 +597,14 @@
    "image": "https://devin.ai/images/blog/cognition-mckinsey-alliance/cover.png",
    "published": "2026-11-12T00:00:00Z",
    "found": "2026-11-12T15:42:39Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Cognition وماكينزي تتحالفان لمساعدة الشركات على إثبات قيمة الذكاء الاصطناعي في هندسة البرمجيات",
+   "ar_summary": "أعلنت Cognition، مطوّرة Devin، تحالفًا مع ماكينزي لربط قدرات الهندسة الإضافية بنتائج أعمال قابلة للقياس. يجمع التحالف بين تنفيذ Devin للمشاريع وخبرة ماكينزي في إعادة تصميم نماذج التشغيل.",
+   "ai": true
   },
   {
    "id": "c7dbc4bf0cc1",
