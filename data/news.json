@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T23:40:46Z",
+ "updated": "2026-11-12T23:49:16Z",
  "categories": [
   {
    "key": "big",
@@ -706,6 +706,21 @@
    "ar_title": "Gondola تضاعف إيراداتها مع بناء فريقها المزيد باستخدام Codex",
    "ar_summary": "تساعد Gondola المبدعين على نيل التقدير والحصول على فرص عمل، وقد رفع Codex إنتاجية مهندسها الرئيسي بنسبة 50% فيما بسّط ChatGPT العمل اليومي.",
    "ai": true
+  },
+  {
+   "id": "08bf69a226db",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "7 customer service skills every human and AI agent needs (with examples)",
+   "summary": "Learn the 7 customer service skills every human and AI agent needs, with real examples, a human vs AI comparison, and ways to train and measure them.",
+   "url": "https://elevenlabs.io/blog/customer-service-skills",
+   "image": null,
+   "published": "2026-11-12T12:00:00Z",
+   "found": "2026-11-12T23:49:16Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "17c1d391457e",
