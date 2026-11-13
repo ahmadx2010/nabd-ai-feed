@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T20:35:13Z",
+ "updated": "2026-11-13T20:53:24Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,36 @@
   }
  },
  "items": [
+  {
+   "id": "90d40fe08702",
+   "company": "google",
+   "kind": "blog",
+   "title": "Advancing science & engineering with Antigravity’s /teamwork",
+   "summary": "Education Innovation",
+   "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg",
+   "published": "2026-11-13T20:47:18Z",
+   "found": "2026-11-13T20:53:24Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "bc1ca702be31",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Upcoming deprecation of selected GitHub Copilot models in December",
+   "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in December appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+   "image": "https://github.blog/wp-content/uploads/2026/11/645867806-878ea927-48c9-4765-a896-4a5f3d7b8f2e.jpg",
+   "published": "2026-11-13T20:40:05Z",
+   "found": "2026-11-13T20:53:24Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "18a36c2817e7",
    "company": "copilot",
