@@ -1,0 +1,3 @@
+{
+ "body": "You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This feature was previously an opt-in preview, and is now generally available.\n\nYou’ll need to sign in with a GitHub.com or GHE.com account first. Then, go to Settings > Accounts > Add account and choose GitHub Enterprise Server .\n\nAvailable in GitHub Copilot app 1.2.0 and later. Cloud sessions aren’t available for GHES. Learn more in our Copilot GHES documentation .\n\nThe post GitHub Enterprise Server support in the GitHub Copilot app appeared first on The GitHub Blog ."
+}

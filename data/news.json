@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:08:45Z",
+ "updated": "2026-11-13T18:45:00Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,35 @@
   }
  },
  "items": [
+  {
+   "id": "18a36c2817e7",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+   "summary": "You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This… The post GitHub Enterprise Server support in the GitHub Copilot app appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+   "image": "https://github.blog/wp-content/uploads/2026/11/ghes.jpeg",
+   "published": "2026-11-13T18:27:13Z",
+   "found": "2026-11-13T18:45:00Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "f71f0c8b7eba",
+   "company": "openai",
+   "kind": "video",
+   "title": "6 Underrated Ways to Use ChatGPT",
+   "summary": "We asked 6 people for their most underrated way to use ChatGPT. Their answers covered personal style, everyday logistics, and stopping random subscription charges. What’s yours?",
+   "url": "https://www.youtube.com/shorts/ErOVIC-MGVA",
+   "image": "https://i2.ytimg.com/vi/ErOVIC-MGVA/hqdefault.jpg",
+   "published": "2026-11-13T18:15:41Z",
+   "found": "2026-11-13T18:45:00Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "2427bacb74a9",
    "company": "huggingface",
@@ -8382,24 +8411,6 @@
    "ar_summary": "درس تعليمي من Suno عن المعادِل الصوتي (EQ) وأساسياته ضمن Suno Studio.",
    "ai": true,
    "img_tried": true
-  },
-  {
-   "id": "105e76d8cdee",
-   "company": "google",
-   "kind": "blog",
-   "title": "How Diffusion Controller unifies and simplifies AI image generation",
-   "summary": "Algorithms & Theory",
-   "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
-   "published": "2026-09-29T18:38:27Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "Diffusion Controller يوحّد ويبسّط توليد الصور بالذكاء الاصطناعي",
-   "ar_summary": "قدمت Google Research إطار Diffusion Controller، وهو شبكة خفيفة توجّه توليد الصور لتحسين التوافق مع الوصف النصي، ويمكن ربطها حتى بنماذج مغلقة.",
-   "ai": true
   }
  ]
 }
