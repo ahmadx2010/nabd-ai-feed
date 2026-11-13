@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:12:50Z",
+ "updated": "2026-11-13T19:32:01Z",
  "categories": [
   {
    "key": "big",
@@ -414,10 +414,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/703838156-68e44341-f202-4a1d-8cec-072b5e8d1027.png",
    "published": "2026-11-13T18:23:48Z",
    "found": "2026-11-13T19:12:50Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "نموذج Gemini 4 Hydrogen متاح الآن في GitHub Copilot",
+   "ar_summary": "أعلنت GitHub إتاحة Gemini 4 Hydrogen، أحدث نماذج Flash من Google، بشكل عام في Copilot. صُمم للبرمجة الوكيلية السريعة واستخدام الأدوات وسير العمل متعدد الخطوات مع تحسّن في اتباع التعليمات.",
+   "ai": true
   },
   {
    "id": "f71f0c8b7eba",
