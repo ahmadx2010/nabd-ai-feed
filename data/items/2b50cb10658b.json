@@ -1,0 +1,3 @@
+{
+ "body": "Mozilla is combining decades of security engineering with AI agents to strengthen Firefox’s defenses. Brian Grinstead joins OpenAI’s Clint Gibler to discuss how the team prioritizes investigations, tests and verifies vulnerabilities, finds related bug patterns, and helps engineers develop fixes. They also explore how GPT-6 Cyber revealed that some known bugs could be more serious than initially understood, helping inform which issues need attention first. Across its security workflow, Mozilla saw about an 8× increase in bug discovery and fixes from 2025 to 2026. Brian shares what the team is learning and its ambitions for the future of browser security."
+}

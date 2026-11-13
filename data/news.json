@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:04:02Z",
+ "updated": "2026-11-13T17:13:11Z",
  "categories": [
   {
    "key": "big",
@@ -396,6 +396,36 @@
    "published": "2026-11-13T17:02:35Z",
    "found": "2026-11-13T17:04:02Z",
    "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "12b9210cca15",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Connect Google Wallet to Gemini for personal finance insights",
+   "summary": "Personal Intelligence",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Personal_Intelligence_Wallet_27.max-600x600.format-webp.webp",
+   "published": "2026-11-13T17:00:00Z",
+   "found": "2026-11-13T17:13:11Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "2b50cb10658b",
+   "company": "openai",
+   "kind": "video",
+   "title": "How Mozilla uses GPT-6 Cyber to find and fix Firefox vulnerabilities",
+   "summary": "Mozilla is combining decades of security engineering with AI agents to strengthen Firefox’s defenses. Brian Grinstead joins OpenAI’s Clint Gibler to discuss how the team prioritizes investigations, tests and verifies vulnerabilities, finds related bug patterns, and helps engineers develop fixes. They also explore how GPT-6 Cyber revealed that some known bugs could be more serious than initially…",
+   "url": "https://www.youtube.com/watch?v=PkAmyub12K8",
+   "image": "https://i1.ytimg.com/vi/PkAmyub12K8/hqdefault.jpg",
+   "published": "2026-11-13T16:56:45Z",
+   "found": "2026-11-13T17:13:11Z",
+   "importance": 2,
    "detail": true,
    "fetched": true,
    "img_tried": true
