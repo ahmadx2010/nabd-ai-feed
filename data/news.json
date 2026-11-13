@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T15:04:13Z",
+ "updated": "2026-11-13T15:41:33Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "DeepSeek تتيح تجربة تطبيقها الكاملة عبر واجهة API",
+   "ar_summary": "أعلنت DeepSeek أن إمكانات تطبيقها من بحث وملفات وروابط وفحوص أمان وصوت أصبحت متاحة للمطورين عبر واجهة API، لبناء تطبيقات محادثة أغنى أو إعادة إنشاء التطبيق كاملاً.",
+   "ai": true
   },
   {
    "id": "40e78db6601d",
