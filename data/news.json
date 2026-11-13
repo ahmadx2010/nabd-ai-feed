@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:03:43Z",
+ "updated": "2026-11-13T19:12:50Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "دعم GitHub Enterprise Server في تطبيق GitHub Copilot",
    "ar_summary": "أصبح بإمكان المستخدمين إضافة حساب GitHub Enterprise Server إلى تطبيق GitHub Copilot للعمل مع المستودعات والمشكلات وطلبات الدمج. الميزة كانت تجريبية وأصبحت متاحة للجميع.",
    "ai": true
+  },
+  {
+   "id": "e8c3c469932b",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Gemini 4 Hydrogen in GitHub Copilot",
+   "summary": "Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction… The post Gemini 4 Hydrogen in GitHub Copilot appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+   "image": "https://github.blog/wp-content/uploads/2026/11/703838156-68e44341-f202-4a1d-8cec-072b5e8d1027.png",
+   "published": "2026-11-13T18:23:48Z",
+   "found": "2026-11-13T19:12:50Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f71f0c8b7eba",
