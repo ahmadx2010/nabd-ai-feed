@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:45:00Z",
+ "updated": "2026-11-13T18:45:57Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/ghes.jpeg",
    "published": "2026-11-13T18:27:13Z",
    "found": "2026-11-13T18:45:00Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "دعم GitHub Enterprise Server في تطبيق GitHub Copilot",
+   "ar_summary": "أصبح بإمكان المستخدمين إضافة حساب GitHub Enterprise Server إلى تطبيق GitHub Copilot للعمل مع المستودعات والمشكلات وطلبات الدمج. الميزة كانت تجريبية وأصبحت متاحة للجميع.",
+   "ai": true
   },
   {
    "id": "f71f0c8b7eba",
@@ -412,7 +416,11 @@
    "found": "2026-11-13T18:45:00Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "6 طرق غير مألوفة لاستخدام ChatGPT",
+   "ar_summary": "سألت OpenAI ستة أشخاص عن أكثر استخداماتهم غير المتوقعة لـ ChatGPT، من الأسلوب الشخصي إلى الأمور اليومية وإيقاف الاشتراكات العشوائية.",
+   "ai": true
   },
   {
    "id": "2427bacb74a9",
@@ -427,7 +435,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "بناء محاكاة روبوتية للالتقاط والوضع باستخدام أصول SimReady",
+   "ar_summary": "دليل عملي من NVIDIA على Hugging Face يوضح تركيب مشهد في Isaac Sim باستخدام ذراع UR17G وقابض Robotiq 2F-140 وعلبة مشروب، وتشغيل مهمة التقاط ووضع بأوامر يولّدها وكيل ذكي.",
+   "ai": true
   },
   {
    "id": "8400bdfe1e2a",
