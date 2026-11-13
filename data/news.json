@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:14:30Z",
+ "updated": "2026-11-13T17:22:53Z",
  "categories": [
   {
    "key": "big",
@@ -589,7 +589,24 @@
    "ar_detail": true,
    "ar_title": "أنواع محركات البحث: الزاحفات والبحث الفوقي ومحركات الإجابة بالذكاء الاصطناعي",
    "ar_summary": "دليل تعليمي من Perplexity يشرح الفروق بين محركات البحث القائمة على الزحف ومحركات البحث الفوقي ومحركات الإجابة بالذكاء الاصطناعي.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "610b94d69401",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Oxford spent years studying how women build companies. Now this research can speak.",
+   "summary": "SOFIA for Business, built with Oxford Saïd and ElevenLabs Impact, lets founders talk to and add to research on women founders.",
+   "url": "https://elevenlabs.io/blog/impact-sofia-oxford-said",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/k4ojn877vrg-Screenshot-2026-10-10-at-11.33.41%E2%80%AFam.webp",
+   "published": "2026-11-13T12:00:00Z",
+   "found": "2026-11-13T17:22:53Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "1abe1020ed46",
