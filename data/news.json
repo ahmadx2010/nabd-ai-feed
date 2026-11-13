@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T00:27:05Z",
+ "updated": "2026-11-13T10:10:24Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,51 @@
   }
  },
  "items": [
+  {
+   "id": "1abe1020ed46",
+   "company": "manus",
+   "kind": "blog",
+   "title": "50 Creative Game Ideas to Kickstart Your Next Project",
+   "summary": "Find game ideas you can finish: 50 creative video game ideas by genre and difficulty, each with a starter prompt, plus how to build one without coding.",
+   "url": "https://manus.im/blog/game-ideas",
+   "image": "https://files.manuscdn.com/assets/dashboard/materials/2026/11/13/1b01f2807ee6f1f5555113216b9ee82c315b1ea3c082041046bbb7bd0033889e.webp",
+   "published": "2026-11-13T10:10:24Z",
+   "found": "2026-11-13T10:10:24Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "eceec4ef8674",
+   "company": "manus",
+   "kind": "blog",
+   "title": "How to Make a Mobile Game Without Any Coding",
+   "summary": "Learn how to make a mobile game without coding: choose a no-code tool, design for touch, test on your phone, and publish to the web or app stores.",
+   "url": "https://manus.im/blog/how-to-make-a-mobile-game",
+   "image": "https://files.manuscdn.com/assets/dashboard/materials/2026/11/13/d078527a5634109be97752d1cfb530c2c89224487db4cebe5e38b9c875ae0ee2.webp",
+   "published": "2026-11-13T10:10:24Z",
+   "found": "2026-11-13T10:10:24Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "4a308126c831",
+   "company": "manus",
+   "kind": "blog",
+   "title": "AI Game Maker vs. Game Engine: What to Know Before You Choose",
+   "summary": "Should you use an AI game maker or a game engine? Compare ease of use, creative control, and costs to find the best fit for your skills and game idea.",
+   "url": "https://manus.im/blog/ai-game-maker-vs-game-engine",
+   "image": "https://files.manuscdn.com/assets/dashboard/materials/2026/11/12/0362537c171a63e35074a922964928516016a56d7ec481f4770e5492749c13cd.webp",
+   "published": "2026-11-13T10:10:24Z",
+   "found": "2026-11-13T10:10:24Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "86a8847fe78f",
    "company": "samsung",
