@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:54:44Z",
+ "updated": "2026-11-13T14:55:51Z",
  "categories": [
   {
    "key": "big",
@@ -433,10 +433,14 @@
    "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7a06e826c9fb34189fdd3344a3de747cc99d53a6-7680x4320.png?rect=0,144,7680,4032&w=1200&h=630&q=80&fit=crop&auto=format",
    "published": "2026-11-13T14:00:00Z",
    "found": "2026-11-13T14:27:28Z",
-   "importance": 0,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Cohere توسّع منصتها للذكاء الاصطناعي السيادي بالاستحواذ على AISLE وضم فريق cubic",
+   "ar_summary": "أعلنت Cohere إتمام الاستحواذ على AISLE المتخصصة في اكتشاف الثغرات وإصلاحها آليًا، وانضمام فريق cubic لمراجعة الشيفرة بالذكاء الاصطناعي. وبذلك تصل صفقاتها هذا العام إلى أربع.",
+   "ai": true
   },
   {
    "id": "a326fbf0621f",
@@ -524,10 +528,14 @@
    "image": "https://devin.ai/images/blog/devin-apps/cover.png",
    "published": "2026-11-13T00:00:00Z",
    "found": "2026-11-13T14:54:44Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إطلاق Devin Apps: تطبيقات ويب خاصة تُبنى وتُستضاف مباشرة على سحابة Devin",
+   "ar_summary": "أطلقت Devin ميزة Apps التي تتيح بناء تطبيقات ويب خاصة تعمل على حاسوب Devin السحابي ومشاركتها مع الفريق عبر رابط ثابت. تتصل التطبيقات بأدوات MCP والمستودعات الحالية، وتناسب الأدوات الداخلية ولوحات المتابعة.",
+   "ai": true
   },
   {
    "id": "86a8847fe78f",
