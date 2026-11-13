@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:59:49Z",
+ "updated": "2026-11-13T14:08:56Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "40e78db6601d",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "summary": "",
+   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
+   "published": "2026-11-13T14:05:22Z",
+   "found": "2026-11-13T14:08:56Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "08e508ab77ec",
    "company": "suno",
