@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:00:09Z",
+ "updated": "2026-11-13T18:08:45Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "2427bacb74a9",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "summary": "",
+   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif",
+   "published": "2026-11-13T18:00:39Z",
+   "found": "2026-11-13T18:08:45Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "8400bdfe1e2a",
    "company": "huggingface",
