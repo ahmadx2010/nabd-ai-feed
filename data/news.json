@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:08:56Z",
+ "updated": "2026-11-13T14:09:53Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
    "published": "2026-11-13T14:05:22Z",
    "found": "2026-11-13T14:08:56Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إطلاق llama.cpp v1.0.0: أساس أقوى لمنظومة الذكاء الاصطناعي المحلي",
+   "ar_summary": "أعلن فريق ggml-org إطلاق الإصدار 1.0.0 من مكتبتي llama.cpp وggml، مع التزام بإصدارات دلالية تُظهر أي تغييرات غير متوافقة في الواجهات. الخطوة تمنح المطورين استقرارًا أكبر للبناء على الذكاء الاصطناعي المحلي.",
+   "ai": true
   },
   {
    "id": "08e508ab77ec",
@@ -410,10 +414,14 @@
    "image": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
    "published": "2026-11-13T14:00:00Z",
    "found": "2026-11-13T13:59:49Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Suno تطلق Bridge: تطبيق يدمج توليد الموسيقى بالذكاء الاصطناعي داخل برامج الإنتاج الصوتي",
+   "ar_summary": "أطلقت Suno تطبيق Suno Bridge التجريبي لنظام Mac، ويتيح توليد آلات وأصوات غنائية جديدة تتوافق مع جلسة Ableton Live مباشرة داخل المشروع.",
+   "ai": true
   },
   {
    "id": "a326fbf0621f",
