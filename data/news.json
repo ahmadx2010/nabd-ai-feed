@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T15:59:13Z",
+ "updated": "2026-11-13T16:08:23Z",
  "categories": [
   {
    "key": "big",
@@ -791,6 +791,21 @@
    "ar_title": "وكيل Replit يشتري لنشاطك التجاري ويساعدك في الوصول إلى العملاء",
    "ar_summary": "أضافت Replit مهمتين جديدتين لوكيلها: شراء مستلزمات النشاط التجاري عبر Link وVisa، والترويج للعملاء عبر إعلانات Google، مع بقاء المالك متحكماً بالإنفاق.",
    "ai": true
+  },
+  {
+   "id": "8defbacffd87",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "Nearly 500 AI projects, over 200 customers: Lessons on making AI work for business",
+   "summary": "The post Nearly 500 AI projects, over 200 customers: Lessons on making AI work for business appeared first on Source .",
+   "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+   "image": "https://blogs.microsoft.com/wp-content/uploads/2026/11/OMB-Frontier-Co-Momentum-Hero-1024x576.jpg",
+   "published": "2026-11-12T16:03:18Z",
+   "found": "2026-11-13T16:08:23Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "6578ed46a2a1",
