@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:03:33Z",
+ "updated": "2026-11-13T23:11:29Z",
  "categories": [
   {
    "key": "big",
@@ -857,6 +857,21 @@
    "ar_title": "ابنِ مرة واحدة وشغّل على أي وكيل: دليل عملي لمهارات الوكلاء",
    "ar_summary": "تشرح GitHub كيف تتيح مهارات الوكلاء (Agent Skills) تدوين المهام الهندسية المتكررة في ملفات يمكن مراجعتها وإعادة استخدامها، بينما تبقى الأدوات والصلاحيات خاصة بالبيئة التي تشغّلها.",
    "ai": true
+  },
+  {
+   "id": "b193c7000d21",
+   "company": "openai",
+   "kind": "video",
+   "title": "Cyber at the Frontier: Introducing Daybreak Red Team & Daybreak Defense Factory",
+   "summary": "Greg Brockman, Nancy Wang, Fouad Matin, Clint Gibler, Alexander Thiemann, and Matt Boyle took the stage at Cyber at the Frontier, where OpenAI introduced two cybersecurity products under one unified Codex plugin called Daybreak: Daybreak Defense Factory: builds on Codex Security Cloud to help teams automate the defensive loop to find, validate, and fix vulnerabilities at scale. It gives engineers…",
+   "url": "https://www.youtube.com/watch?v=YmxpxJZvm4M",
+   "image": "https://i2.ytimg.com/vi/YmxpxJZvm4M/hqdefault.jpg",
+   "published": "2026-11-12T22:37:14Z",
+   "found": "2026-11-13T23:11:29Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "d8a09585fbb8",
