@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:55:51Z",
+ "updated": "2026-11-13T15:04:13Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "c1a85d8bd619",
+   "company": "deepseek",
+   "kind": "blog",
+   "title": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+   "summary": "Search, files, links, safety, and voice. The capabilities behind the DeepSeek App are now available through the DeepSeek API.",
+   "url": "https://api-docs.deepseek.com/news/news261113",
+   "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
+   "published": "2026-11-13T15:04:13Z",
+   "found": "2026-11-13T15:04:13Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "40e78db6601d",
    "company": "huggingface",

@@ -28,7 +28,8 @@
   "https://www.anthropic.com/news/singapore-office-opening"
  ],
  "https://api-docs.deepseek.com/news/": [
-  "https://api-docs.deepseek.com/news/news261017"
+  "https://api-docs.deepseek.com/news/news261017",
+  "https://api-docs.deepseek.com/news/news261113"
  ],
  "https://mistral.ai/news": [
   "https://mistral.ai/news/2024-ft-hackathon/",
