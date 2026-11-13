@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:22:53Z",
+ "updated": "2026-11-13T18:00:09Z",
  "categories": [
   {
    "key": "big",
@@ -606,7 +606,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "SOFIA for Business: أبحاث أكسفورد عن رائدات الأعمال تتحول إلى وكيل صوتي",
+   "ar_summary": "أطلقت كلية أكسفورد سعيد للأعمال بالتعاون مع ElevenLabs Impact أداة SOFIA for Business، التي تتيح للمؤسسين التحدث مع أبحاث رائدات الأعمال والمساهمة فيها.",
+   "ai": true
   },
   {
    "id": "1abe1020ed46",
