@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:32:01Z",
+ "updated": "2026-11-13T20:35:13Z",
  "categories": [
   {
    "key": "big",
@@ -686,6 +686,21 @@
    "ar_title": "SOFIA for Business: أبحاث أكسفورد عن رائدات الأعمال تتحول إلى وكيل صوتي",
    "ar_summary": "أطلقت كلية أكسفورد سعيد للأعمال بالتعاون مع ElevenLabs Impact أداة SOFIA for Business، التي تتيح للمؤسسين التحدث مع أبحاث رائدات الأعمال والمساهمة فيها.",
    "ai": true
+  },
+  {
+   "id": "cb5a4d17dfb8",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Introducing Forward Deployed Creatives in ElevenCreative",
+   "summary": "Forward Deployed Creatives build workflows in ElevenCreative alongside your team, or produce finished, on-brand creative for your team to approve.",
+   "url": "https://elevenlabs.io/blog/introducing-forward-deployed-creatives",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/on3hk6ewfg-4x5.webp",
+   "published": "2026-11-13T12:00:00Z",
+   "found": "2026-11-13T20:35:13Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "1abe1020ed46",
