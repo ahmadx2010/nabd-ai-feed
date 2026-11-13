@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T12:37:55Z",
+ "updated": "2026-11-13T13:04:47Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "a326fbf0621f",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+   "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
+   "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+   "image": "https://iprsoftwaremedia.com/219/files/202611/2c608553a3bb66cdeeaa6e6442d32ab8/6af70a433d63327f4c4d6eac_Screenshot-2026-11-12-at-9.25.28-AM-842x450/Screenshot-2026-11-12-at-9.25.28-AM-842x450_thmb.jpg?v=49811220-e02a-4307-8be1-0c4af7e4b03f",
+   "published": "2026-11-13T13:00:42Z",
+   "found": "2026-11-13T13:04:47Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "1abe1020ed46",
    "company": "manus",
