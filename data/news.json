@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:13:11Z",
+ "updated": "2026-11-13T17:14:30Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/aOWdQgZ8ioJcx9Eii4iob.png",
    "published": "2026-11-13T17:02:35Z",
    "found": "2026-11-13T17:04:02Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "XYBench: مساعدة المستخدم على حل المشكلة الكامنة وراء سؤاله",
+   "ar_summary": "أطلق معهد Allen AI مع باحثين من Carnegie Mellon وNVIDIA وJohns Hopkins معيار XYBench الذي يضم أكثر من 8 آلاف سؤال لقياس قدرة المساعدات الذكية على كشف المفاهيم الخاطئة في طلبات المستخدمين. وأظهرت النتائج أن النماذج الخمسة المختبَرة تميل للبقاء ضمن النهج الخاطئ الأصلي.",
+   "ai": true
   },
   {
    "id": "12b9210cca15",
@@ -410,10 +414,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Personal_Intelligence_Wallet_27.max-600x600.format-webp.webp",
    "published": "2026-11-13T17:00:00Z",
    "found": "2026-11-13T17:13:11Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ربط Google Wallet بـ Gemini للحصول على رؤى مالية شخصية",
+   "ar_summary": "أضافت Google خدمة Wallet إلى تطبيقات Personal Intelligence في Gemini، فبات بإمكان جميع مستخدمي تطبيق Gemini في الولايات المتحدة الحصول على إجابات مبنية على عاداتهم الإنفاقية.",
+   "ai": true
   },
   {
    "id": "2b50cb10658b",
@@ -425,10 +433,14 @@
    "image": "https://i1.ytimg.com/vi/PkAmyub12K8/hqdefault.jpg",
    "published": "2026-11-13T16:56:45Z",
    "found": "2026-11-13T17:13:11Z",
-   "importance": 2,
+   "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تستخدم Mozilla نموذج GPT-6 Cyber لاكتشاف ثغرات Firefox وإصلاحها",
+   "ar_summary": "يناقش برايان غرينستيد من Mozilla مع كلينت غيبلر من OpenAI كيف تستخدم الفرق وكلاء الذكاء الاصطناعي لتعزيز أمان Firefox. وتشير Mozilla إلى زيادة تقارب 8 أضعاف في اكتشاف الثغرات وإصلاحها بين 2025 و2026.",
+   "ai": true
   },
   {
    "id": "7434f622c930",
@@ -559,6 +571,24 @@
    "ar_detail": true,
    "ar_title": "كيف يساعد الذكاء الاصطناعي فرق الرعاية الصحية على تقديم الرعاية المناسبة للمرضى في وقت أبكر",
    "ar_summary": "تستخدم المستشفيات والشركات الناشئة الذكاء الاصطناعي لتقليل المهام الروتينية على الأطباء، من مطابقة المرضى مع التجارب السريرية إلى دعم أخصائيي الأشعة. ويبقى الطبيب صاحب القرار النهائي بينما توفر تقنيات NVIDIA القدرة الحاسوبية.",
+   "ai": true
+  },
+  {
+   "id": "292367565055",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Types of search engines: crawlers, meta search, and AI answer engines",
+   "summary": "A Perplexity guide explaining crawler-based, meta search and AI answer engines, plus privacy, vertical and enterprise engines.",
+   "url": "https://www.perplexity.ai/hub/blog/types-of-search-engine",
+   "image": null,
+   "published": "2026-11-13T12:00:00Z",
+   "found": "2026-11-13T17:14:30Z",
+   "importance": 0,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "أنواع محركات البحث: الزاحفات والبحث الفوقي ومحركات الإجابة بالذكاء الاصطناعي",
+   "ar_summary": "دليل تعليمي من Perplexity يشرح الفروق بين محركات البحث القائمة على الزحف ومحركات البحث الفوقي ومحركات الإجابة بالذكاء الاصطناعي.",
    "ai": true
   },
   {
