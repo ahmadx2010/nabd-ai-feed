@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:27:28Z",
+ "updated": "2026-11-13T14:54:44Z",
  "categories": [
   {
    "key": "big",
@@ -513,6 +513,21 @@
    "ar_title": "صانع الألعاب بالذكاء الاصطناعي مقابل محرك الألعاب: ما الذي يجب معرفته قبل الاختيار",
    "ar_summary": "مقارنة من Manus بين أدوات صنع الألعاب بالذكاء الاصطناعي ومحركات الألعاب من حيث سهولة الاستخدام والتحكم الإبداعي والتكلفة.",
    "ai": true
+  },
+  {
+   "id": "119795759f81",
+   "company": "windsurf",
+   "kind": "blog",
+   "title": "Introducing Devin Apps | Devin",
+   "summary": "Devin Apps are live, private web applications hosted directly on Devin's cloud computer. Here is how to create, share, and update one.",
+   "url": "https://windsurf.com/blog/devin-apps",
+   "image": "https://devin.ai/images/blog/devin-apps/cover.png",
+   "published": "2026-11-13T00:00:00Z",
+   "found": "2026-11-13T14:54:44Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "86a8847fe78f",
