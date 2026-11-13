@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T10:10:24Z",
+ "updated": "2026-11-13T10:21:14Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "50 فكرة لعبة مبتكرة لبدء مشروعك القادم",
+   "ar_summary": "تقدم Manus قائمة من 50 فكرة لعبة مقسمة حسب النوع ومستوى الصعوبة، مع طلب مبدئي لكل فكرة، وشرحًا لكيفية بناء لعبة بدون برمجة.",
+   "ai": true
   },
   {
    "id": "eceec4ef8674",
@@ -413,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تصنع لعبة جوال دون أي برمجة",
+   "ar_summary": "دليل من Manus لصنع لعبة جوال بدون برمجة: اختيار أداة بلا كود، التصميم للمس، الاختبار على الهاتف، والنشر على الويب أو متاجر التطبيقات.",
+   "ai": true
   },
   {
    "id": "4a308126c831",
@@ -428,7 +436,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "صانع الألعاب بالذكاء الاصطناعي مقابل محرك الألعاب: ما الذي يجب معرفته قبل الاختيار",
+   "ar_summary": "مقارنة من Manus بين أدوات صنع الألعاب بالذكاء الاصطناعي ومحركات الألعاب من حيث سهولة الاستخدام والتحكم الإبداعي والتكلفة.",
+   "ai": true
   },
   {
    "id": "86a8847fe78f",
