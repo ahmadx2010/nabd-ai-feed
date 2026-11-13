@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T15:41:33Z",
+ "updated": "2026-11-13T15:59:13Z",
  "categories": [
   {
    "key": "big",
@@ -386,6 +386,20 @@
  },
  "items": [
   {
+   "id": "7434f622c930",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "Series C",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/series-c",
+   "image": null,
+   "published": "2026-11-13T15:59:13Z",
+   "found": "2026-11-13T15:59:13Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "c1a85d8bd619",
    "company": "deepseek",
    "kind": "blog",
@@ -403,6 +417,20 @@
    "ar_title": "DeepSeek تتيح تجربة تطبيقها الكاملة عبر واجهة API",
    "ar_summary": "أعلنت DeepSeek أن إمكانات تطبيقها من بحث وملفات وروابط وفحوص أمان وصوت أصبحت متاحة للمطورين عبر واجهة API، لبناء تطبيقات محادثة أغنى أو إعادة إنشاء التطبيق كاملاً.",
    "ai": true
+  },
+  {
+   "id": "5bf4951adbe9",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Introducing ChatGPT Wallet",
+   "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "image": null,
+   "published": "2026-11-13T15:00:00Z",
+   "found": "2026-11-13T15:59:13Z",
+   "importance": 2,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "40e78db6601d",
