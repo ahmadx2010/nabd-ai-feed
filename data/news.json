@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:27:45Z",
+ "updated": "2026-11-13T17:04:02Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "8400bdfe1e2a",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "XYBench: Helping with the problem behind the question",
+   "summary": "",
+   "url": "https://huggingface.co/blog/allenai/xybench",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/aOWdQgZ8ioJcx9Eii4iob.png",
+   "published": "2026-11-13T17:02:35Z",
+   "found": "2026-11-13T17:04:02Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "7434f622c930",
    "company": "langchain",
