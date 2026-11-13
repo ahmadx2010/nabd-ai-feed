@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:21:37Z",
+ "updated": "2026-11-13T23:48:24Z",
  "categories": [
   {
    "key": "big",
@@ -743,6 +743,21 @@
    "ar_title": "ElevenLabs تطلق «المبدعين المدمجين» ضمن ElevenCreative لمساعدة الفرق على إنتاج محتوى بالذكاء الاصطناعي",
    "ar_summary": "أعلنت ElevenLabs عن خدمة Forward Deployed Creatives، وهم مختصون في الإبداع يعملون مع فرق العملاء داخل منصة ElevenCreative، أو ينتجون مواد إبداعية جاهزة تتوافق مع هوية العلامة لتعتمدها الفرق.",
    "ai": true
+  },
+  {
+   "id": "98fa1e92ab08",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Open source TTS vs paid APIs: How to choose wisely",
+   "summary": "Compare open source TTS vs paid APIs on cost, control, licensing, and data residency, and learn how to evaluate models before you commit.",
+   "url": "https://elevenlabs.io/blog/open-source-tts-vs-paid-apis",
+   "image": null,
+   "published": "2026-11-13T12:00:00Z",
+   "found": "2026-11-13T23:48:24Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "1abe1020ed46",
