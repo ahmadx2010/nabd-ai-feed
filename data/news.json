@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:09:53Z",
+ "updated": "2026-11-13T14:27:28Z",
  "categories": [
   {
    "key": "big",
@@ -422,6 +422,21 @@
    "ar_title": "Suno تطلق Bridge: تطبيق يدمج توليد الموسيقى بالذكاء الاصطناعي داخل برامج الإنتاج الصوتي",
    "ar_summary": "أطلقت Suno تطبيق Suno Bridge التجريبي لنظام Mac، ويتيح توليد آلات وأصوات غنائية جديدة تتوافق مع جلسة Ableton Live مباشرة داخل المشروع.",
    "ai": true
+  },
+  {
+   "id": "4df850b22c37",
+   "company": "cohere",
+   "kind": "blog",
+   "title": "Cohere Expands Sovereign AI Platform with AISLE and cubic",
+   "summary": "Cohere expands its sovereign AI platform with AISLE acquisition for cyber defense and cubic integration for secure enterprise AI adoption.",
+   "url": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+   "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7a06e826c9fb34189fdd3344a3de747cc99d53a6-7680x4320.png?rect=0,144,7680,4032&w=1200&h=630&q=80&fit=crop&auto=format",
+   "published": "2026-11-13T14:00:00Z",
+   "found": "2026-11-13T14:27:28Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "a326fbf0621f",
