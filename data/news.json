@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:45:57Z",
+ "updated": "2026-11-13T19:03:43Z",
  "categories": [
   {
    "key": "big",
@@ -8404,25 +8404,6 @@
    "ar_summary": "نموذج أولي لوضع علامة مائية على البروتينات المولدة بالذكاء الاصطناعي مع الحفاظ على وظيفتها البيولوجية.",
    "ai": true,
    "fetched": true
-  },
-  {
-   "id": "34b6fd4acf3f",
-   "company": "suno",
-   "kind": "blog",
-   "title": "Three Must-learn Tips for Using EQ",
-   "summary": "EQ will be one of the first tools to master when you come to Suno Studio. Get started here!",
-   "url": "https://suno.com/blog/about-eq",
-   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/28dab778fb20f14011e20015a6f1666e624ae57c-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
-   "published": "2026-09-29T19:00:20Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "ثلاث نصائح لا غنى عنها لاستخدام EQ في Suno Studio",
-   "ar_summary": "درس تعليمي من Suno عن المعادِل الصوتي (EQ) وأساسياته ضمن Suno Studio.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
