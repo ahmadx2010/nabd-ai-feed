@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T20:53:24Z",
+ "updated": "2026-11-13T21:03:33Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg",
    "published": "2026-11-13T20:47:18Z",
    "found": "2026-11-13T20:53:24Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Google تعرض نتائج ميزة /teamwork في Antigravity لحل مسائل علمية وهندسية مفتوحة",
+   "ar_summary": "كشفت Google Research عن نتائج أنظمة الوكلاء المتعددين في ميزة /teamwork من Antigravity، التي ساهمت بالتعاون مع خبراء بشريين في حل مسائل مفتوحة في الرياضيات والكيمياء وهندسة البرمجيات، وتتيح الأدوات الآن للباحثين.",
+   "ai": true
   },
   {
    "id": "bc1ca702be31",
@@ -413,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "GitHub تعلن إيقاف عدد من النماذج في Copilot يوم 14 ديسمبر",
+   "ar_summary": "ستوقف GitHub نماذج محددة في جميع تجارب Copilot بتاريخ 14 ديسمبر 2026، مع استمرار Claude Haiku 4.5 للمشتركين الأفراد على الخطط السنوية.",
+   "ai": true
   },
   {
    "id": "18a36c2817e7",
@@ -727,10 +735,14 @@
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/on3hk6ewfg-4x5.webp",
    "published": "2026-11-13T12:00:00Z",
    "found": "2026-11-13T20:35:13Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تطلق «المبدعين المدمجين» ضمن ElevenCreative لمساعدة الفرق على إنتاج محتوى بالذكاء الاصطناعي",
+   "ar_summary": "أعلنت ElevenLabs عن خدمة Forward Deployed Creatives، وهم مختصون في الإبداع يعملون مع فرق العملاء داخل منصة ElevenCreative، أو ينتجون مواد إبداعية جاهزة تتوافق مع هوية العلامة لتعتمدها الفرق.",
+   "ai": true
   },
   {
    "id": "1abe1020ed46",
