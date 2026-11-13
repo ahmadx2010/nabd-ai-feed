@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:24:22Z",
+ "updated": "2026-11-13T13:59:49Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "08e508ab77ec",
+   "company": "suno",
+   "kind": "blog",
+   "title": "Suno Bridge: Your DAW, Suno-powered.",
+   "summary": "Get Suno in your session with our new standalone Mac app",
+   "url": "https://suno.com/blog/introducing-bridge",
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
+   "published": "2026-11-13T14:00:00Z",
+   "found": "2026-11-13T13:59:49Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "a326fbf0621f",
    "company": "nvidia",
