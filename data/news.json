@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:08:23Z",
+ "updated": "2026-11-13T16:27:45Z",
  "categories": [
   {
    "key": "big",
@@ -395,9 +395,13 @@
    "image": null,
    "published": "2026-11-13T15:59:13Z",
    "found": "2026-11-13T15:59:13Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "LangChain تعلن عن جولة التمويل Series C",
+   "ar_summary": "نشرت LangChain إعلاناً عن جولة تمويل من الفئة C. لم يتوفر نص المقال لمعرفة التفاصيل.",
+   "ai": true
   },
   {
    "id": "c1a85d8bd619",
@@ -430,7 +434,11 @@
    "found": "2026-11-13T15:59:13Z",
    "importance": 2,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تطلق ChatGPT Wallet لإتمام المشتريات بأمان عبر الوكلاء",
+   "ar_summary": "أعلنت OpenAI عن ChatGPT Wallet، وهي طريقة آمنة تتيح للوكلاء داخل ChatGPT Work وCodex إتمام عمليات الشراء بموافقة المستخدم، مع الاستفادة من حمايات البطاقات الحالية.",
+   "ai": true
   },
   {
    "id": "40e78db6601d",
@@ -802,10 +810,14 @@
    "image": "https://blogs.microsoft.com/wp-content/uploads/2026/11/OMB-Frontier-Co-Momentum-Hero-1024x576.jpg",
    "published": "2026-11-12T16:03:18Z",
    "found": "2026-11-13T16:08:23Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "قرابة 500 مشروع ذكاء اصطناعي ولأكثر من 200 عميل: دروس لإنجاح الذكاء الاصطناعي في الأعمال",
+   "ar_summary": "تقول مايكروسوفت إن برنامج Frontier Company نفّذ قرابة 500 مشروع مع أكثر من 200 عميل في 28 دولة، مع عودة معظم العملاء لمشاريع إضافية.",
+   "ai": true
   },
   {
    "id": "6578ed46a2a1",
