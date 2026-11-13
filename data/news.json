@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T23:49:16Z",
+ "updated": "2026-11-13T00:27:05Z",
  "categories": [
   {
    "key": "big",
@@ -720,7 +720,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "7 مهارات خدمة عملاء يحتاجها كل موظف بشري ووكيل ذكاء اصطناعي",
+   "ar_summary": "دليل من ElevenLabs يشرح سبع مهارات أساسية في خدمة العملاء، مع أمثلة ومقارنة بين الموظف البشري ووكيل الذكاء الاصطناعي وطرق التدريب والقياس.",
+   "ai": true
   },
   {
    "id": "17c1d391457e",
