@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:11:29Z",
+ "updated": "2026-11-13T23:21:37Z",
  "categories": [
   {
    "key": "big",
@@ -868,10 +868,14 @@
    "image": "https://i2.ytimg.com/vi/YmxpxJZvm4M/hqdefault.jpg",
    "published": "2026-11-12T22:37:14Z",
    "found": "2026-11-13T23:11:29Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تطلق Daybreak للأمن السيبراني: فريق أحمر ومصنع دفاعي ضمن إضافة Codex",
+   "ar_summary": "كشفت OpenAI خلال فعالية «Cyber at the Frontier» عن منتجين للأمن السيبراني ضمن إضافة Codex موحدة باسم Daybreak: «Daybreak Defense Factory» لأتمتة اكتشاف الثغرات والتحقق منها وإصلاحها، و«Daybreak Red Team» لاختبار التطبيقات العاملة بوكلاء متعددين.",
+   "ai": true
   },
   {
    "id": "d8a09585fbb8",
