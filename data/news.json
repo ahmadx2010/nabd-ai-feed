@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:48:24Z",
+ "updated": "2026-11-14T00:07:28Z",
  "categories": [
   {
    "key": "big",
@@ -754,10 +754,14 @@
    "image": null,
    "published": "2026-11-13T12:00:00Z",
    "found": "2026-11-13T23:48:24Z",
-   "importance": 2,
+   "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "النماذج المفتوحة المصدر لتحويل النص إلى كلام مقابل الواجهات المدفوعة: كيف تختار؟",
+   "ar_summary": "مقال من ElevenLabs يقارن بين نماذج TTS المفتوحة المصدر وواجهات API المدفوعة من حيث التكلفة والتحكم والترخيص وإقامة البيانات، ويشرح كيفية تقييم النماذج قبل الالتزام بأحدها.",
+   "ai": true
   },
   {
    "id": "1abe1020ed46",
