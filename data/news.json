@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T16:07:46Z",
+ "updated": "2026-11-14T20:04:35Z",
  "categories": [
   {
    "key": "big",
@@ -8537,25 +8537,6 @@
    "ar_title": "ذكاء وكيلي قائم على الرسوم البيانية لتحديد أعطال الشبكات",
    "ar_summary": "تشرح Amazon Science كيف يؤدي دمج الرسم البياني للشبكة مع وكلاء الذكاء الاصطناعي إلى «توأم رقمي» يحدد الأسباب الجذرية للأعطال خلال دقائق.",
    "ai": true,
-   "img_tried": true
-  },
-  {
-   "id": "15e70ee5e4a7",
-   "company": "gemini",
-   "kind": "blog",
-   "title": "Gemini 4 Argon: our next era of frontier intelligence",
-   "summary": "",
-   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
-   "published": "2026-09-30T20:01:45Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 2,
-   "ar_detail": true,
-   "ar_title": "Gemini 4 Argon: حقبتنا التالية من الذكاء المتقدم",
-   "ar_summary": "كشفت Google عن Gemini 4 Argon بنافذة سياق 1M رمز، يُطرح أولاً لمدافعين سيبرانيين موثوقين عبر Fairwind قبل إتاحته للجمهور.",
-   "ai": true,
-   "detail": true,
-   "fetched": true,
    "img_tried": true
   }
  ]
