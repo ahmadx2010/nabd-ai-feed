@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T15:11:46Z",
+ "updated": "2026-11-14T16:06:38Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "c00f1552cb6d",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "Goal Engineering",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/goal-engineering",
+   "image": null,
+   "published": "2026-11-14T16:06:38Z",
+   "found": "2026-11-14T16:06:38Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "0322ae2a5869",
    "company": "luma",
