@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T16:06:38Z",
+ "updated": "2026-11-14T16:07:46Z",
  "categories": [
   {
    "key": "big",
@@ -395,9 +395,13 @@
    "image": null,
    "published": "2026-11-14T16:06:38Z",
    "found": "2026-11-14T16:06:38Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "هندسة الأهداف: كيف نصمم أهداف وكلاء الذكاء الاصطناعي",
+   "ar_summary": "مقال لهاريسون تشيس من LangChain بالتعاون مع Actively AI يرى أن الوكلاء ينتقلون إلى السعي وراء أهداف مفتوحة، وأن تصميم نطاق الهدف بحيث يسهل تقديم الملاحظات هو العنصر الحاسم.",
+   "ai": true
   },
   {
    "id": "0322ae2a5869",
