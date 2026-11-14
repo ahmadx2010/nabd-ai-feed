@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:53:22Z",
+ "updated": "2026-11-14T03:10:24Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,24 @@
   }
  },
  "items": [
+  {
+   "id": "0322ae2a5869",
+   "company": "luma",
+   "kind": "news",
+   "title": "A smart organizer for your Luma canvas",
+   "summary": "Ask the Luma agent to organize a board, a frame or a selection. It can group and label up to 10,000 assets.",
+   "url": "https://lumalabs.ai/news/ai-board-manager",
+   "image": null,
+   "published": "2026-11-14T06:00:00Z",
+   "found": "2026-11-14T03:10:24Z",
+   "importance": 0,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "منظّم ذكي للوحة العمل في Luma",
+   "ar_summary": "يمكن الآن طلب ترتيب لوحة أو إطار أو مجموعة عناصر من وكيل Luma، فيقوم بتجميع الملفات ووسمها، بدعم حتى 10,000 أصل.",
+   "ai": true
+  },
   {
    "id": "90d40fe08702",
    "company": "google",
