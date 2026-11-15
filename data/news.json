@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T20:36:54Z",
+ "updated": "2026-11-15T22:35:16Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,34 @@
   }
  },
  "items": [
+  {
+   "id": "87d7014c15ee",
+   "company": "openai",
+   "kind": "blog",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "image": null,
+   "published": "2026-11-15T22:00:01Z",
+   "found": "2026-11-15T22:35:16Z",
+   "importance": 1,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "4b0fc5b701ff",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Our new blog for science",
+   "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+   "url": "https://openai.com/index/our-new-blog-for-science",
+   "image": null,
+   "published": "2026-11-15T22:00:00Z",
+   "found": "2026-11-15T22:35:16Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "c00f1552cb6d",
    "company": "langchain",
