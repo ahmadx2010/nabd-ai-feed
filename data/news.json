@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:59:26Z",
+ "updated": "2026-11-15T16:39:06Z",
  "categories": [
   {
    "key": "big",
@@ -8501,24 +8501,6 @@
    "detail": true,
    "fetched": true,
    "img_tried": true
-  },
-  {
-   "id": "8aa77346da60",
-   "company": "deepmind",
-   "kind": "video",
-   "title": "From deepfakes to DNA: the science of watermarking AI",
-   "summary": "How do you know if what you're seeing is real? Professor Hannah Fry sits down with Pushmeet Kohli (VP of Science) and Jeremy Ratcliffe (Research Scientist) to break down SynthID, the watermarking technology expanding from text, images, and video straight into biology. Learn how invisible, mathematical watermarks help trace AI provenance, protect against misuse, and safeguard protein sequence…",
-   "url": "https://www.youtube.com/watch?v=HIUzrxQxTtw",
-   "image": "https://i1.ytimg.com/vi/HIUzrxQxTtw/hqdefault.jpg",
-   "published": "2026-10-01T16:37:46Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "من التزييف العميق إلى الحمض النووي: علم وضع العلامات المائية للذكاء الاصطناعي",
-   "ar_summary": "حلقة مع Hannah Fry وPushmeet Kohli وJeremy Ratcliffe تشرح SynthID وتوسعها من النص والصور والفيديو إلى علم الأحياء.",
-   "ai": true
   }
  ]
 }
