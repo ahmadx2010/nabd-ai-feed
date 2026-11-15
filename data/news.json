@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T22:35:16Z",
+ "updated": "2026-11-15T22:36:28Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-15T22:35:16Z",
    "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "خطوة نحو تعريف النموذج القياسي على شبكة: كيف ساعد GPT-6 Astra في إثبات تفصيلي",
+   "ar_summary": "تستعرض OpenAI تعريفاً مقترحاً غير اضطرابي للنموذج القياسي في الفيزياء على شبكة (lattice)، وكيف ساعد نموذج GPT-6 Astra في تحويل الفكرة إلى برهان مفصل.",
+   "ai": true
   },
   {
    "id": "4b0fc5b701ff",
@@ -411,7 +415,11 @@
    "found": "2026-11-15T22:35:16Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تطلق مدونة جديدة مخصصة للعلوم",
+   "ar_summary": "أطلقت OpenAI مدونة علمية تشارك فيها نتائج جديدة وطرقاً عملية وتجارب مباشرة لباحثين يستخدمون الذكاء الاصطناعي لدفع الاكتشافات العلمية.",
+   "ai": true
   },
   {
    "id": "c00f1552cb6d",
