@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T16:39:06Z",
+ "updated": "2026-11-15T20:36:54Z",
  "categories": [
   {
    "key": "big",
@@ -8481,25 +8481,6 @@
    "ar_title": "سجل تغييرات Midjourney Alpha - 1 أكتوبر",
    "ar_summary": "تحديث يركز على إصلاح الأخطاء وتحسين الواجهة في موقع Midjourney Alpha، مع تلميح لأدوات تعاونية جديدة.",
    "ai": true,
-   "img_tried": true
-  },
-  {
-   "id": "9506769ef6ff",
-   "company": "suno",
-   "kind": "blog",
-   "title": "Introducing Speech (beta)",
-   "summary": "A new way to express yourself creatively",
-   "url": "https://suno.com/blog/introducing-speech-beta",
-   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/7980bce19cb4a95a1e332b32be9ab8d2f83dbd6f-1920x1102.jpg?rect=0,47,1920,1008&w=1200&h=630&fit=crop&auto=format",
-   "published": "2026-10-01T20:35:00Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "ar_detail": true,
-   "ar_title": "Suno تطلق Speech: نموذج يولد الصوت المنطوق والموسيقى معًا",
-   "ar_summary": "فتحت Suno النسخة التجريبية من Speech، أول نموذج صوتي يولد الكلام مع موسيقى في مقطع واحد.",
-   "ai": true,
-   "detail": true,
-   "fetched": true,
    "img_tried": true
   }
  ]
