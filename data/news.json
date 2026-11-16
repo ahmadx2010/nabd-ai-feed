@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T16:07:57Z",
+ "updated": "2026-11-16T16:10:30Z",
  "categories": [
   {
    "key": "big",
@@ -417,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Lambda ترفع كفاءة ومرونة مصانع الذكاء الاصطناعي بتقنية NVIDIA Photonics",
+   "ar_summary": "تستخدم Lambda مفاتيح NVIDIA Photonics ذات البصريات المدمجة لربط أنظمة GB300 NVL72 التي تضم أكثر من 10,000 معالج، مع طاقة أقل وموثوقية أعلى.",
+   "ai": true
   },
   {
    "id": "cd6b6d848fb0",
@@ -429,10 +433,14 @@
    "image": "https://iprsoftwaremedia.com/219/files/202611/8b747eead1b8ef6c1dfc3d55377be2b1/6afb28c63d633273ede86c46_quantum-computing-blog-slurm-kv-sc26-1920x1080-5942487-842x450/quantum-computing-blog-slurm-kv-sc26-1920x1080-5942487-842x450_thmb.jpg?v=e31159fd-be06-4464-ab88-7ac22611f8c6",
    "published": "2026-11-16T16:00:47Z",
    "found": "2026-11-16T16:07:57Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA توسّع Slurm لدمج الحوسبة الكمية في الحواسيب الفائقة",
+   "ar_summary": "إصدار جديد من Slurm يتيح لمصنّعي المعالجات الكمية ربط أجهزتهم بمراكز الحوسبة الفائقة عبر واجهة واحدة، ويدعم واجهتي QRMI وQDMI.",
+   "ai": true
   },
   {
    "id": "3197bf91500d",
@@ -447,7 +455,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA تتصدر MLPerf Training وEndpoints مع أول ظهور لمنصة Vera Rubin",
+   "ar_summary": "حققت منصة NVIDIA Vera Rubin في أول مشاركة لها نتائج متصدرة في MLPerf Training v6.1 وأول تقديم لها في MLPerf Endpoints، بتحسن يزيد على 10 أضعاف في الأداء لكل واط للذكاء الاصطناعي الوكيلي.",
+   "ai": true
   },
   {
    "id": "7ffe4f27310f",
@@ -459,10 +471,14 @@
    "image": "https://iprsoftwaremedia.com/219/files/202611/db6e2d286ac92cbf1879180c97d91f05/6afb28d23d633273ede86c54_hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376-842x450/hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376-842x450_thmb.jpg?v=706e42b3-e3a2-4c54-a3ea-db5e60cb72b9",
    "published": "2026-11-16T16:00:16Z",
    "found": "2026-11-16T16:07:57Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مكتبات NVIDIA CUDA-X الجديدة تمنح الوكلاء أدوات لتسريع الاكتشاف العلمي",
+   "ar_summary": "توسعت مكتبات CUDA-X بإضافة cuPhoton وcuPotential وcuSpa، لتسريع أبحاث الفلك وعلوم المواد وبيولوجيا الخلية الواحدة وتوفير أدوات للوكلاء.",
+   "ai": true
   },
   {
    "id": "ed06a68081ab",
@@ -477,7 +493,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "CUDA في عامها العشرين: كيف غيّرت المنصة الحوسبة العلمية",
+   "ar_summary": "تحتفل NVIDIA في SC26 بمرور عقدين على CUDA وتكرّم الباحثين والمطورين الذين جعلوا حوسبة المعالجات الرسومية أساساً للعلم والذكاء الاصطناعي الحديث.",
+   "ai": true
   },
   {
    "id": "13aacf9f27d8",
@@ -492,7 +512,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA تعلن عن Rubin HPC: معالج رسومي جديد لتسريع الوكلاء في العلوم والهندسة والتحليلات",
+   "ar_summary": "كشفت NVIDIA في مؤتمر SC26 عن Rubin HPC، وهو معالج رسومي جديد ضمن منصة Vera Rubin مصمم لتسريع المحاكاة ومعالجة البيانات في العلوم والهندسة والتحليلات.",
+   "ai": true
   },
   {
    "id": "6f916eab7b0f",
@@ -504,10 +528,14 @@
    "image": "https://iprsoftwaremedia.com/219/files/202611/0fc96b845afdacf341433c2e07bbc743/6afb28ff3d633274ba9a0854_76b16e61-2ca4-41f9-9c44-f68760521d8/76b16e61-2ca4-41f9-9c44-f68760521d8_thmb.jpg?v=67078793-fffc-41bb-acb9-05cad6d34edc",
    "published": "2026-11-16T16:00:00Z",
    "found": "2026-11-16T16:07:57Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA توسّع منصة Vera CPU لتسريع الاكتشاف العلمي",
+   "ar_summary": "أعلنت NVIDIA منصة Vera CPU على مستوى الحامل للحوسبة عالية الأداء، بكفاءة طاقة أعلى بمرتين من معالجات x86، وقد اختارها مركز DKRZ لحاسوبه الفائق HLRE-5 لعلوم المناخ.",
+   "ai": true
   },
   {
    "id": "4cd283f18910",
@@ -519,10 +547,14 @@
    "image": "https://iprsoftwaremedia.com/219/files/202611/d0ed5e8b50ea2ba9274ebd0468836eb3/6afb29043d633274ba9a085d_d53cd8d8-0dec-4949-8fc0-2813db89a91/d53cd8d8-0dec-4949-8fc0-2813db89a91_thmb.jpg?v=5eeb559b-2509-4523-8f4a-8e230f9b4f24",
    "published": "2026-11-16T16:00:00Z",
    "found": "2026-11-16T16:07:57Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA تطلق Nemotron for Science لتسريع الاكتشافات العلمية بالوكلاء",
+   "ar_summary": "قدمت NVIDIA حزمة Nemotron for Science التي تجمع نموذج Nemotron 3.5 Super VL ومجموعة بيانات كيمياء مفتوحة ووصفات تدريب لمساعدة الباحثين على بناء وكلاء علميين متخصصين.",
+   "ai": true
   },
   {
    "id": "9c6843d7356c",
@@ -537,7 +569,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA تتعاون مع IBM وFermilab لمنصة تصميم مشترك كمي-كلاسيكي وخوارزمية أسرع 13,000 مرة",
+   "ar_summary": "أعلنت NVIDIA تعاوناً مع IBM ومختبر Fermilab لإطلاق منصة تصميم مشترك للحوسبة الكمية، إضافة إلى خوارزمية فك ترميز جديدة في CUDA-Q أسرع حتى 13,000 مرة لتصحيح أخطاء الحوسبة الكمية.",
+   "ai": true
   },
   {
    "id": "074991d4c711",
