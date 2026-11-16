@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T13:05:31Z",
+ "updated": "2026-11-16T14:08:43Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "كيف أعادت PostNord بناء خدمة عملائها الهاتفية على منصة ElevenAgents",
    "ar_summary": "استبدلت PostNord، أكبر مشغّل بريد في دول الشمال الأوروبي، نظام الرد الآلي الهاتفي في السويد بنظام جديد من ElevenLabs، ما رفع نسبة إتمام المهام من 45% إلى 60%.",
    "ai": true
+  },
+  {
+   "id": "717626b76ea0",
+   "company": "google",
+   "kind": "blog",
+   "title": "New Ask Maps features to help with holiday travel and prep",
+   "summary": "tbd",
+   "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp",
+   "published": "2026-11-16T14:00:00Z",
+   "found": "2026-11-16T14:08:43Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "91e58e2ea930",
