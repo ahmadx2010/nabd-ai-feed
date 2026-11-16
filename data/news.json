@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:30:47Z",
+ "updated": "2026-11-16T17:40:51Z",
  "categories": [
   {
    "key": "big",
@@ -416,7 +416,11 @@
    "found": "2026-11-16T17:30:47Z",
    "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "توسيع الوصول إلى الذكاء الاصطناعي للعلماء",
+   "ar_summary": "توسّع OpenAI برنامج ChatGPT للباحثين الأكاديميين ليمنح 200 ألف باحث حول العالم وصولًا مجانيًا إلى نماذجها المتقدمة.",
+   "ai": true
   },
   {
    "id": "b1c71d07875a",
@@ -428,9 +432,13 @@
    "image": null,
    "published": "2026-11-16T17:00:00Z",
    "found": "2026-11-16T17:30:47Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تعزيز مكافحة الاستغلال الجنسي للأطفال عبر الإنترنت بأدوات ودعم جديدين",
+   "ar_summary": "تعلن OpenAI عن أدوات وإرشادات عملية وشراكات جديدة للمساعدة في منع الاستغلال الجنسي للأطفال عبر الإنترنت واكتشافه والاستجابة له.",
+   "ai": true
   },
   {
    "id": "5d66058a8485",
@@ -445,7 +453,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تسرّع Check Point أبحاث الثغرات باستخدام Daybreak من OpenAI",
+   "ar_summary": "يشرح المدير التقني لـ Check Point كيف يستخدم فريقه OpenAI Daybreak لتحليل الثغرات وتحويلها إلى حمايات للعملاء، إذ أصبح عمل كان يستغرق ساعات يُنجز في دقائق.",
+   "ai": true
   },
   {
    "id": "f149dc1a48ff",
@@ -704,9 +716,13 @@
    "image": null,
    "published": "2026-11-16T12:00:00Z",
    "found": "2026-11-16T17:30:47Z",
-   "importance": 2,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "العلم في الطليعة: كيف يستخدم العلماء ChatGPT",
+   "ar_summary": "تستعرض OpenAI نتائج دراسة شملت أكثر من 1800 عالم يستخدمون ChatGPT في أبحاثهم، وتشمل سير العمل اليومي والإنتاجية المُبلَّغ عنها وتوقعاتهم للاكتشافات العلمية.",
+   "ai": true
   },
   {
    "id": "91e58e2ea930",
@@ -884,10 +900,14 @@
    "image": "https://huggingface.co/blog/assets/openrouter/thumbnail.jpg",
    "published": "2026-11-16T00:00:00Z",
    "found": "2026-11-16T17:03:29Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Hugging Face وOpenRouter تتعاونان لتسهيل تشغيل النماذج مفتوحة الأوزان",
+   "ar_summary": "تحوّلت خدمة Inference Providers في Hugging Face إلى موجّه OpenRouter، ما يتيح استدعاء أي نموذج مفتوح الأوزان على المنصة برمز Hugging Face نفسه وعبر واجهة واحدة، مع اختيار أفضل مزود لكل طلب.",
+   "ai": true
   },
   {
    "id": "87d7014c15ee",
@@ -1426,9 +1446,13 @@
    "image": null,
    "published": "2026-11-13T08:00:00Z",
    "found": "2026-11-16T17:03:29Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "المرحلة الأولى من التقييمات المدمجة في OpenAI",
+   "ar_summary": "تبدأ OpenAI تقييمات مدمجة مع Apollo Research وMETR وTransluce وGoodfire لتقييم توافق النماذج وإجراءات الحماية وأنظمة المراقبة بشكل مستقل.",
+   "ai": true
   },
   {
    "id": "119795759f81",
