@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:07:14Z",
+ "updated": "2026-11-16T20:34:27Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "كيف أعادت PostNord بناء خدمة عملائها الهاتفية على منصة ElevenAgents",
    "ar_summary": "استبدلت PostNord، أكبر مشغّل بريد في دول الشمال الأوروبي، نظام الرد الآلي الهاتفي في السويد بنظام جديد من ElevenLabs، ما رفع نسبة إتمام المهام من 45% إلى 60%.",
    "ai": true
+  },
+  {
+   "id": "f9ace2a74e66",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub Copilot models deprecated on November 16, 2026",
+   "summary": "As of today, November 16, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note… The post GitHub Copilot models deprecated on November 16, 2026 appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+   "image": "https://github.blog/wp-content/uploads/2026/11/708090845-dba83c99-f90a-44f8-b5dc-ea4d634a8dee.jpg",
+   "published": "2026-11-16T20:25:20Z",
+   "found": "2026-11-16T20:34:27Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "66395cf5113b",
