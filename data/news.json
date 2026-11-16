@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T14:54:41Z",
+ "updated": "2026-11-16T15:03:49Z",
  "categories": [
   {
    "key": "big",
@@ -8636,61 +8636,6 @@
    "ar_summary": "أطلقت GitHub معيار ReviewBench لتقييم وكلاء مراجعة الكود على طلبات سحب حقيقية وبمقاييس قريبة من الإنتاج.",
    "ai": true,
    "img_tried": true
-  },
-  {
-   "id": "1122627a66df",
-   "company": "google",
-   "kind": "blog",
-   "title": "The latest AI news we announced in September 2026",
-   "summary": "A video showing the September AI updates",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
-   "published": "2026-10-02T15:00:00Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "ar_detail": true,
-   "ar_title": "أبرز أخبار Google للذكاء الاصطناعي في سبتمبر 2026",
-   "ar_summary": "ملخص شهري يضم Gemini 4 Argon وتطبيقات متصلة في Gemini وWeatherNext 3 وGemini لنظام Windows وGooglebook.",
-   "ai": true,
-   "detail": true,
-   "fetched": true
-  },
-  {
-   "id": "5afa66c19841",
-   "company": "copilot",
-   "kind": "blog",
-   "title": "AI is changing developer work. Here are three skills to strengthen.",
-   "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog .",
-   "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-   "image": "https://github.blog/wp-content/uploads/2026/03/branchingout.png",
-   "published": "2026-10-02T15:00:00Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "الذكاء الاصطناعي يغيّر عمل المطورين: ثلاث مهارات تستحق التعزيز",
-   "ar_summary": "ينصح GitHub المطورين بتعلم توجيه وكلاء الذكاء الاصطناعي ومراجعة مخرجاتهم بنقد وإبقاء الحكم التقني في صلب عملهم.",
-   "ai": true,
-   "img_tried": true
-  },
-  {
-   "id": "b9b18411de99",
-   "company": "google",
-   "kind": "blog",
-   "title": "Toward provably private learning from federated data",
-   "summary": "Mobile Systems",
-   "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
-   "published": "2026-10-02T14:57:41Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "نحو تعلّم خاص يمكن إثباته من البيانات الموزعة",
-   "ar_summary": "أعلنت Google الجيل الجديد من نظام التعلم الاتحادي المعتمد على بيئات التنفيذ الموثوقة، ويوفر ضمانات خصوصية قابلة للتحقق خارجياً مع تحسين السرعة والدقة.",
-   "ai": true
   }
  ]
 }
