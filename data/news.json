@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:03:29Z",
+ "updated": "2026-11-16T17:12:37Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "كيف أعادت PostNord بناء خدمة عملائها الهاتفية على منصة ElevenAgents",
    "ar_summary": "استبدلت PostNord، أكبر مشغّل بريد في دول الشمال الأوروبي، نظام الرد الآلي الهاتفي في السويد بنظام جديد من ElevenLabs، ما رفع نسبة إتمام المهام من 45% إلى 60%.",
    "ai": true
+  },
+  {
+   "id": "5d66058a8485",
+   "company": "openai",
+   "kind": "video",
+   "title": "How Check Point speeds up vulnerability research with Daybreak | OpenAI for Cybersecurity",
+   "summary": "Check Point CTO Jonathan Zanger explains how his team uses OpenAI Daybreak to analyze vulnerabilities and turn findings into protections for customers. A vulnerability research workflow that once took hours can now be completed in minutes, according to Zanger. Read the full customer story: https://openai.com/index/check-point-daybreak/",
+   "url": "https://www.youtube.com/watch?v=vVVdxMwPBuA",
+   "image": "https://i3.ytimg.com/vi/vVVdxMwPBuA/hqdefault.jpg",
+   "published": "2026-11-16T16:55:56Z",
+   "found": "2026-11-16T17:12:37Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f149dc1a48ff",
