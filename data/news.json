@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:34:27Z",
+ "updated": "2026-11-16T20:44:30Z",
  "categories": [
   {
    "key": "big",
@@ -414,10 +414,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/708090845-dba83c99-f90a-44f8-b5dc-ea4d634a8dee.jpg",
    "published": "2026-11-16T20:25:20Z",
    "found": "2026-11-16T20:34:27Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "GitHub Copilot تُنهي دعم عدد من النماذج اعتبارًا من 16 نوفمبر 2026",
+   "ar_summary": "أعلنت GitHub إيقاف عدد من النماذج في معظم تجارب Copilot اعتبارًا من اليوم، وسيجري تفعيل بدائل مقترحة تلقائيًا لعملاء Business وEnterprise.",
+   "ai": true
   },
   {
    "id": "66395cf5113b",
@@ -429,10 +433,14 @@
    "image": "https://iprsoftwaremedia.com/219/files/202611/e70fe99dd0851d7a72d32513653816ef/6afb61043d6332c39bac9ed1_IMG_9825-1-842x450/IMG_9825-1-842x450_thmb.jpg?v=ac76e83d-8708-4732-accd-c17f33cdb0ea",
    "published": "2026-11-16T20:00:37Z",
    "found": "2026-11-16T20:07:14Z",
-   "importance": 1,
+   "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تصنع سلسلة توريد NVIDIA أكثر بنى الذكاء الاصطناعي تقدمًا",
+   "ar_summary": "تتحدث NVIDIA عن ديب شوكويست، المسؤولة عن العمليات وسلسلة التوريد والتصنيع خلف منصاتها. وتعتمد الشركة على شبكة عالمية من الشركاء المصنّعين لإطلاق تقنيات جديدة على مدار العام.",
+   "ai": true
   },
   {
    "id": "c94138999000",
@@ -842,7 +850,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تستحوذ على Kotoba، مختبر الذكاء الاصطناعي الصوتي الياباني",
+   "ar_summary": "أعلنت ElevenLabs استحواذها على Kotoba، المختبر الياباني الرائد في الذكاء الاصطناعي الصوتي، لتقديم وكلاء وواجهات صوتية طبيعية ومتوافقة ثقافيًا في اليابان.",
+   "ai": true
   },
   {
    "id": "91e58e2ea930",
