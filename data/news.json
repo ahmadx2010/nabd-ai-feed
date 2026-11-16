@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:12:59Z",
+ "updated": "2026-11-16T15:23:12Z",
  "categories": [
   {
    "key": "big",
@@ -414,10 +414,14 @@
    "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/11af2766b29ecda62856d776df612dc7bf49e79a-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&q=80&fit=crop&auto=format",
    "published": "2026-11-16T15:32:57Z",
    "found": "2026-11-16T14:45:32Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Cohere تطلق «Video Intelligence» في Compass للبحث داخل الفيديو",
+   "ar_summary": "أعلنت Cohere ميزة Video Intelligence ضمن منصة Compass بنسخة معاينة خاصة، وتتيح البحث في تسجيلات الاجتماعات والفيديوهات التدريبية وأرشيفات الوسائط واستخراج اللحظة المطلوبة مع مقطع مؤقّت ونص ووصف مرئي.",
+   "ai": true
   },
   {
    "id": "717626b76ea0",
@@ -451,7 +455,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تطلق مسابقة «Year of More» بجوائز 200 ألف دولار",
+   "ar_summary": "أطلقت ElevenLabs مسابقة ElevenCreative بجوائز إجمالية 200 ألف دولار تكافئ أعمالًا تجمع الصوت والصورة والفيديو، وتُعلن الجائزة الكبرى 50 ألف دولار في 1 ديسمبر 2026.",
+   "ai": true
   },
   {
    "id": "91e58e2ea930",
@@ -500,9 +508,13 @@
    "image": null,
    "published": "2026-11-16T06:00:00Z",
    "found": "2026-11-16T14:54:41Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تطوير وكلاء استخدام الحاسوب لفرق الرعاية الصحية من OpenAI",
+   "ar_summary": "تعرض OpenAI تطوير وكلاء الذكاء الاصطناعي الذين يستخدمون الحاسوب لمساعدة الفرق الصحية في أعمالها اليومية.",
+   "ai": true
   },
   {
    "id": "cfcc7acb02e9",
@@ -516,7 +528,11 @@
    "found": "2026-11-16T14:54:41Z",
    "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI توسّع ChatGPT for Healthcare بوكلاء استخدام الحاسوب وإضافات جديدة",
+   "ar_summary": "تقدّم OpenAI لـ ChatGPT for Healthcare وكلاء يستخدمون الحاسوب، وإجابات سريرية محسّنة، وإضافات جديدة تعمل عبر برمجيات الرعاية الصحية لإنجاز المهام الفعلية.",
+   "ai": true
   },
   {
    "id": "724333834a57",
