@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T16:44:48Z",
+ "updated": "2026-11-16T16:54:57Z",
  "categories": [
   {
    "key": "big",
@@ -645,7 +645,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Autotorino تؤتمت مكالمات وكالات السيارات باستخدام ElevenAgents",
+   "ar_summary": "اعتمدت مجموعة Autotorino الإيطالية لوكالات السيارات على وكيل صوتي مبني على ElevenAgents من ElevenLabs، فضاعفت أكثر من مرة قدرة شبكتها على استيعاب المكالمات.",
+   "ai": true
   },
   {
    "id": "91e58e2ea930",
@@ -804,10 +808,14 @@
    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6afa9c16b3022b51465a4929_how-we-make-it-easy-for-agents-to-use-together-ai.png",
    "published": "2026-11-16T00:00:00Z",
    "found": "2026-11-16T16:44:48Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف جعلت Together AI منصتها أسهل في الاستخدام لوكلاء البرمجة",
+   "ar_summary": "بنت Together AI اختبارات تقيس مدى كفاءة وكلاء البرمجة في استخدام منصتها، وبتعديلات صغيرة على الوثائق والمهارات ورسائل الأخطاء ارتفع معدل إنجاز المهام من 75% إلى 97%.",
+   "ai": true
   },
   {
    "id": "87d7014c15ee",
