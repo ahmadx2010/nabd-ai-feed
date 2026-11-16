@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:01:54Z",
+ "updated": "2026-11-16T01:29:08Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "03fbc9c3fea2",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Apple launches research study to explore the use of AI for health",
+   "summary": "",
+   "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+   "image": "https://www.apple.com/newsroom/images/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/tile/Apple-Health-AI-Usage-Study-hero-lp.jpg.og.jpg?202611160118",
+   "published": "2026-11-16T01:18:33Z",
+   "found": "2026-11-16T01:29:08Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "0ea5fbe79c2f",
    "company": "nvidia",
