@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T19:02:18Z",
+ "updated": "2026-11-16T19:12:44Z",
  "categories": [
   {
    "key": "big",
@@ -416,7 +416,11 @@
    "found": "2026-11-16T18:53:10Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "LangChain: من المهام إلى الأهداف",
+   "ar_summary": "مقالة جديدة على مدونة LangChain بعنوان «من المهام إلى الأهداف» تتناول التحول في بناء الوكلاء الأذكياء.",
+   "ai": true
   },
   {
    "id": "c7c8448629a5",
@@ -428,10 +432,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp",
    "published": "2026-11-16T18:45:00Z",
    "found": "2026-11-16T19:02:18Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "أصوات إقليمية جديدة تصل إلى تطبيق Gemini",
+   "ar_summary": "يطرح Gemini 66 صوتًا إقليميًا جديدًا على أندرويد وiOS، بلهجات محلية طبيعية يختارها المستخدم لتفاعلاته مع التطبيق.",
+   "ai": true
   },
   {
    "id": "acb010d74852",
@@ -443,9 +451,13 @@
    "image": null,
    "published": "2026-11-16T18:34:53Z",
    "found": "2026-11-16T18:34:53Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "LangChain تعيد بناء LangSmith حول الوكيل",
+   "ar_summary": "تعلن LangChain في مقالة جديدة عن إعادة بناء منصة LangSmith لتتمحور حول الوكلاء الأذكياء.",
+   "ai": true
   },
   {
    "id": "f26f2a4dfd6b",
@@ -765,6 +777,24 @@
    "ar_detail": true,
    "ar_title": "العلم في الطليعة: كيف يستخدم العلماء ChatGPT",
    "ar_summary": "تستعرض OpenAI نتائج دراسة شملت أكثر من 1800 عالم يستخدمون ChatGPT في أبحاثهم، وتشمل سير العمل اليومي والإنتاجية المُبلَّغ عنها وتوقعاتهم للاكتشافات العلمية.",
+   "ai": true
+  },
+  {
+   "id": "35f68b36f748",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Introducing Perplexity's Monitor API",
+   "summary": "Perplexity's Monitor API lets developers track web developments at scale with plain-language monitors that send relevant updates to a webhook.",
+   "url": "https://www.perplexity.ai/hub/blog/introducing-perplexitys-monitor-api",
+   "image": null,
+   "published": "2026-11-16T12:00:00Z",
+   "found": "2026-11-16T19:12:44Z",
+   "importance": 1,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity تطلق Monitor API لمراقبة الويب تلقائيًا",
+   "ar_summary": "أطلقت Perplexity واجهة Monitor API التي تتيح للمطورين تتبع مستجدات الويب عبر مراقبات تُعرَّف بلغة طبيعية وترسل التحديثات المهمة إلى webhook.",
    "ai": true
   },
   {
@@ -3544,7 +3574,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "فهم خوارزمية Private Evolution بوصفها تجميعًا معززًا بالتعلم",
+   "ar_summary": "ورقة بحثية من Apple تعيد تفسير خوارزمية Private Evolution لتوليد بيانات اصطناعية خاصة تفاضليًا، وتقترح نسخة جديدة مع ضمانات تقارب.",
+   "ai": true
   },
   {
    "id": "f59968fc4546",
@@ -3559,7 +3593,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "نحو نظرية لقابلية التقييم",
+   "ar_summary": "ورقة بحثية من Apple تدرس إمكانية تقييم النماذج الصندوق الأسود عندما قد تكون عينات الاختبار استُخدمت في التدريب.",
+   "ai": true
   },
   {
    "id": "5f5a5a012b72",
