@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:39:03Z",
+ "updated": "2026-11-16T06:49:12Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "d1b03aef750d",
+   "company": "meta",
+   "kind": "blog",
+   "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+   "summary": "More than 180 small businesses, heartland merchants and creator-entrepreneurs joined Meta Upskill Day 2026 in Singapore, part of Meta's Small Business Growth Academy, with Senior Minister of State Low Yen Ling attending as Guest of Honour. The post 94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed appeared first on Meta Newsroom .",
+   "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/",
+   "image": "https://about.fb.com/wp-content/uploads/2026/11/WOL_1057.jpg?w=960",
+   "published": "2026-11-16T06:25:27Z",
+   "found": "2026-11-16T06:49:12Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "03fbc9c3fea2",
    "company": "apple",
