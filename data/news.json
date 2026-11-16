@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:12:37Z",
+ "updated": "2026-11-16T17:30:47Z",
  "categories": [
   {
    "key": "big",
@@ -405,6 +405,34 @@
    "ai": true
   },
   {
+   "id": "f26f2a4dfd6b",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Broadening access to AI for scientists",
+   "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "image": null,
+   "published": "2026-11-16T17:00:00Z",
+   "found": "2026-11-16T17:30:47Z",
+   "importance": 1,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "b1c71d07875a",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+   "url": "https://openai.com/index/strengthening-online-child-safety",
+   "image": null,
+   "published": "2026-11-16T17:00:00Z",
+   "found": "2026-11-16T17:30:47Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "5d66058a8485",
    "company": "openai",
    "kind": "video",
@@ -665,6 +693,20 @@
    "ar_title": "Autotorino تؤتمت مكالمات وكالات السيارات باستخدام ElevenAgents",
    "ar_summary": "اعتمدت مجموعة Autotorino الإيطالية لوكالات السيارات على وكيل صوتي مبني على ElevenAgents من ElevenLabs، فضاعفت أكثر من مرة قدرة شبكتها على استيعاب المكالمات.",
    "ai": true
+  },
+  {
+   "id": "f891bd93f3d2",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Science at the Frontier: How scientists use ChatGPT",
+   "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+   "url": "https://openai.com/index/science-at-the-frontier",
+   "image": null,
+   "published": "2026-11-16T12:00:00Z",
+   "found": "2026-11-16T17:30:47Z",
+   "importance": 2,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "91e58e2ea930",
