@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:03:49Z",
+ "updated": "2026-11-16T15:12:59Z",
  "categories": [
   {
    "key": "big",
@@ -437,6 +437,21 @@
    "ar_title": "ميزات جديدة في «اسأل خرائط» من Google لتسهيل السفر والتحضير للعطلات",
    "ar_summary": "أطلقت Google ميزات جديدة في Ask Maps على Google Maps تتيح إنشاء مسارات رحلات مفصلة، والبحث عن مواعيد خدمات محلية، والبحث في القوائم المحفوظة. تتوفر الميزات اليوم على أندرويد وiOS في أكثر من 200 منطقة.",
    "ai": true
+  },
+  {
+   "id": "d1737df71af8",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "The Year of More: $200,000 for what you create next",
+   "summary": "The new ElevenCreative competition rewards work that brings voice, sound, image, and video together.",
+   "url": "https://elevenlabs.io/blog/the-year-of-more",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/k31pmekoew-Minimal-Chair-%E2%80%94-1_1--feed---in-app-notification--1080x1080.webp",
+   "published": "2026-11-16T12:00:00Z",
+   "found": "2026-11-16T15:12:59Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "91e58e2ea930",
