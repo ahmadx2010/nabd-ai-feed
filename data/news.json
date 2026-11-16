@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T14:08:43Z",
+ "updated": "2026-11-16T14:36:50Z",
  "categories": [
   {
    "key": "big",
@@ -414,10 +414,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp",
    "published": "2026-11-16T14:00:00Z",
    "found": "2026-11-16T14:08:43Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ميزات جديدة في «اسأل خرائط» من Google لتسهيل السفر والتحضير للعطلات",
+   "ar_summary": "أطلقت Google ميزات جديدة في Ask Maps على Google Maps تتيح إنشاء مسارات رحلات مفصلة، والبحث عن مواعيد خدمات محلية، والبحث في القوائم المحفوظة. تتوفر الميزات اليوم على أندرويد وiOS في أكثر من 200 منطقة.",
+   "ai": true
   },
   {
    "id": "91e58e2ea930",
