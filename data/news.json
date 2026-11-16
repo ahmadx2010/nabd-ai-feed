@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T21:29:22Z",
+ "updated": "2026-11-16T21:30:30Z",
  "categories": [
   {
    "key": "big",
@@ -1051,9 +1051,13 @@
    "image": null,
    "published": "2026-11-16T00:00:00Z",
    "found": "2026-11-16T21:20:13Z",
-   "importance": 1,
+   "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "في Holiday Extras: «dots» تبدأ العمل قبل أن يطلب أحد",
+   "ar_summary": "تعرض OpenAI قصة عميل شركة Holiday Extras التي تستخدم وكلاء «dots» لإرسال تقارير الإطلاق تلقائياً وتنبيه الفريق إلى المشكلات التي قد تفوته، وحتى مناقشة الاجتماعات القادمة أثناء التنقل إلى العمل.",
+   "ai": true
   },
   {
    "id": "b9d21ce5fcc5",
@@ -1065,10 +1069,14 @@
    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6afb73b8a39af48261a07796_Making%20open%20models-OG.png",
    "published": "2026-11-16T00:00:00Z",
    "found": "2026-11-16T21:29:22Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تعمل النماذج المفتوحة بكفاءة في مهام الوكلاء الطويلة",
+   "ar_summary": "تشرح Together AI وOllama كيف يمكن حماية ذاكرة التخزين المؤقت للبادئة (prefix cache) في تطبيقات الوكلاء، بدءاً من أداة الوكيل وصولاً إلى وحدة GPU، لتقليل التكلفة والزمن في الجلسات الطويلة.",
+   "ai": true
   },
   {
    "id": "87d7014c15ee",
