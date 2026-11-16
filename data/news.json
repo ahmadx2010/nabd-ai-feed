@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T21:20:13Z",
+ "updated": "2026-11-16T21:29:22Z",
  "categories": [
   {
    "key": "big",
@@ -1052,6 +1052,21 @@
    "published": "2026-11-16T00:00:00Z",
    "found": "2026-11-16T21:20:13Z",
    "importance": 1,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "b9d21ce5fcc5",
+   "company": "together",
+   "kind": "blog",
+   "title": "Making open models work for long-horizon agentic workloads",
+   "summary": "Every agent turn resends the full session. Together AI and Ollama break down how to protect the prefix cache, from the harness to the GPU.",
+   "url": "https://www.together.ai/blog/making-open-models-work-for-long-horizon-agentic-workloads",
+   "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6afb73b8a39af48261a07796_Making%20open%20models-OG.png",
+   "published": "2026-11-16T00:00:00Z",
+   "found": "2026-11-16T21:29:22Z",
+   "importance": 0,
+   "detail": true,
    "fetched": true,
    "img_tried": true
   },
