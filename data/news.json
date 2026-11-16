@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T18:44:02Z",
+ "updated": "2026-11-16T18:53:10Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,20 @@
    "ar_title": "كيف أعادت PostNord بناء خدمة عملائها الهاتفية على منصة ElevenAgents",
    "ar_summary": "استبدلت PostNord، أكبر مشغّل بريد في دول الشمال الأوروبي، نظام الرد الآلي الهاتفي في السويد بنظام جديد من ElevenLabs، ما رفع نسبة إتمام المهام من 45% إلى 60%.",
    "ai": true
+  },
+  {
+   "id": "c94138999000",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "From Tasks To Goals",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/from-tasks-to-goals",
+   "image": null,
+   "published": "2026-11-16T18:53:10Z",
+   "found": "2026-11-16T18:53:10Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "acb010d74852",
