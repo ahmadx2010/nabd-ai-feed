@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T00:08:25Z",
+ "updated": "2026-11-16T01:01:54Z",
  "categories": [
   {
    "key": "big",
@@ -8518,25 +8518,6 @@
    "ar_title": "نحو تعلّم خاص يمكن إثباته من البيانات الموزعة",
    "ar_summary": "أعلنت Google الجيل الجديد من نظام التعلم الاتحادي المعتمد على بيئات التنفيذ الموثوقة، ويوفر ضمانات خصوصية قابلة للتحقق خارجياً مع تحسين السرعة والدقة.",
    "ai": true
-  },
-  {
-   "id": "2b4cb4b013a5",
-   "company": "midjourney",
-   "kind": "blog",
-   "title": "Alpha Changelog - 10/1/26",
-   "summary": "ICYMI – last week, we launched a few features on alpha.midjourney.com that we're really excited about: style previews in the sidebar so you can see what you’ll get before you generate, larger images in create, and setting default parameters in a folder. Mostly focused",
-   "url": "https://updates.midjourney.com/alpha-changelog-10-1-26/",
-   "image": null,
-   "published": "2026-10-02T00:57:01Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "سجل تغييرات Midjourney Alpha - 1 أكتوبر",
-   "ar_summary": "تحديث يركز على إصلاح الأخطاء وتحسين الواجهة في موقع Midjourney Alpha، مع تلميح لأدوات تعاونية جديدة.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
