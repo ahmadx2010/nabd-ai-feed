@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:16:00Z",
+ "updated": "2026-11-16T22:43:02Z",
  "categories": [
   {
    "key": "big",
@@ -1096,6 +1096,21 @@
    "ar_title": "كيف تعمل النماذج المفتوحة بكفاءة في مهام الوكلاء الطويلة",
    "ar_summary": "تشرح Together AI وOllama كيف يمكن حماية ذاكرة التخزين المؤقت للبادئة (prefix cache) في تطبيقات الوكلاء، بدءاً من أداة الوكيل وصولاً إلى وحدة GPU، لتقليل التكلفة والزمن في الجلسات الطويلة.",
    "ai": true
+  },
+  {
+   "id": "39e8cf496071",
+   "company": "together",
+   "kind": "blog",
+   "title": "Last year we built megakernels. This year we deleted them: The road to Together Compiler",
+   "summary": "Together Compiler uses AI agents to rewrite and fuse the GPU kernels in a model’s forward pass. It beats hand-written megakernels by 28% on B200 (2,118 vs 1,649 tokens/s on Llama 3.2 1B). This is how we got from one to the other.",
+   "url": "https://www.together.ai/blog/road-to-together-compiler",
+   "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6afb721eef8b1179af9627f6_og-image-1200x630.webp",
+   "published": "2026-11-16T00:00:00Z",
+   "found": "2026-11-16T22:43:02Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "87d7014c15ee",
