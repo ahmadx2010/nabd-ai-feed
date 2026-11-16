@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:01:18Z",
+ "updated": "2026-11-16T23:02:27Z",
  "categories": [
   {
    "key": "big",
@@ -888,7 +888,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs: ما هو النموذج اللغوي الكبير؟ دليل عملي",
+   "ar_summary": "دليل تعليمي من ElevenLabs يشرح ماهية النماذج اللغوية الكبيرة (LLM) وكيف تعمل وتُدرَّب وبنيتها وأمثلة واقعية وحدودها.",
+   "ai": true
   },
   {
    "id": "91e58e2ea930",
@@ -1125,7 +1129,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Together AI تكشف Together Compiler: وكلاء ذكاء اصطناعي يعيدون كتابة نوى GPU ويتفوقون على الـ megakernels",
+   "ar_summary": "تعرض Together AI مسار تطوير Together Compiler، وهو إطار يستخدم وكلاء الذكاء الاصطناعي لإعادة كتابة ودمج نوى GPU في تمرير النموذج الأمامي. يتفوق الإطار بنسبة 28% على الـ megakernels المكتوبة يدويًا على B200 (2,118 مقابل 1,649 رمزًا في الثانية على Llama 3.2 1B).",
+   "ai": true
   },
   {
    "id": "87d7014c15ee",
