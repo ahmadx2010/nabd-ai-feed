@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T10:01:13Z",
+ "updated": "2026-11-16T10:02:18Z",
  "categories": [
   {
    "key": "big",
@@ -395,9 +395,13 @@
    "image": null,
    "published": "2026-11-16T09:00:00Z",
    "found": "2026-11-16T10:01:13Z",
-   "importance": 2,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "قسم الإعلام في LVMH يعلن شراكة استراتيجية مع OpenAI",
+   "ar_summary": "أعلن قسم الإعلام في مجموعة LVMH وشركة OpenAI عن شراكة لدعم الصحافة باستخدام الذكاء الاصطناعي، وجعل منشورات القسم أكثر سهولة في الوصول عبر ChatGPT.",
+   "ai": true
   },
   {
    "id": "d1b03aef750d",
