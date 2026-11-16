@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:29:08Z",
+ "updated": "2026-11-16T01:39:03Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://www.apple.com/newsroom/images/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/tile/Apple-Health-AI-Usage-Study-hero-lp.jpg.og.jpg?202611160118",
    "published": "2026-11-16T01:18:33Z",
    "found": "2026-11-16T01:29:08Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "آبل تطلق دراسة بحثية لاستكشاف استخدام الذكاء الاصطناعي في الصحة",
+   "ar_summary": "أعلنت آبل إطلاق «دراسة آبل لاستخدام الذكاء الاصطناعي الصحي» في الولايات المتحدة بالتعاون مع OpenEvidence، لفهم كيف يتفاعل الناس مع أدوات الذكاء الاصطناعي الصحية المحادثية ومدى ثقتهم بها.",
+   "ai": true
   },
   {
    "id": "0ea5fbe79c2f",
