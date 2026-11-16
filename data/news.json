@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:44:30Z",
+ "updated": "2026-11-16T21:20:13Z",
  "categories": [
   {
    "key": "big",
@@ -1040,6 +1040,20 @@
    "ar_title": "Hugging Face وOpenRouter تتعاونان لتسهيل تشغيل النماذج مفتوحة الأوزان",
    "ar_summary": "تحوّلت خدمة Inference Providers في Hugging Face إلى موجّه OpenRouter، ما يتيح استدعاء أي نموذج مفتوح الأوزان على المنصة برمز Hugging Face نفسه وعبر واجهة واحدة، مع اختيار أفضل مزود لكل طلب.",
    "ai": true
+  },
+  {
+   "id": "3899b6e8ee3c",
+   "company": "openai",
+   "kind": "blog",
+   "title": "At Holiday Extras, dots get to work before anyone asks",
+   "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+   "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+   "image": null,
+   "published": "2026-11-16T00:00:00Z",
+   "found": "2026-11-16T21:20:13Z",
+   "importance": 1,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "87d7014c15ee",
