@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:40:51Z",
+ "updated": "2026-11-16T18:34:53Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,20 @@
    "ar_title": "كيف أعادت PostNord بناء خدمة عملائها الهاتفية على منصة ElevenAgents",
    "ar_summary": "استبدلت PostNord، أكبر مشغّل بريد في دول الشمال الأوروبي، نظام الرد الآلي الهاتفي في السويد بنظام جديد من ElevenLabs، ما رفع نسبة إتمام المهام من 45% إلى 60%.",
    "ai": true
+  },
+  {
+   "id": "acb010d74852",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "We Rebuilt Langsmith Around The Agent",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/we-rebuilt-langsmith-around-the-agent",
+   "image": null,
+   "published": "2026-11-16T18:34:53Z",
+   "found": "2026-11-16T18:34:53Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f26f2a4dfd6b",
