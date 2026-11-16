@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T19:20:56Z",
+ "updated": "2026-11-16T20:07:14Z",
  "categories": [
   {
    "key": "big",
@@ -405,6 +405,21 @@
    "ai": true
   },
   {
+   "id": "66395cf5113b",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+   "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
+   "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+   "image": "https://iprsoftwaremedia.com/219/files/202611/e70fe99dd0851d7a72d32513653816ef/6afb61043d6332c39bac9ed1_IMG_9825-1-842x450/IMG_9825-1-842x450_thmb.jpg?v=ac76e83d-8708-4732-accd-c17f33cdb0ea",
+   "published": "2026-11-16T20:00:37Z",
+   "found": "2026-11-16T20:07:14Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "c94138999000",
    "company": "langchain",
    "kind": "blog",
@@ -796,6 +811,21 @@
    "ar_title": "Perplexity تطلق Monitor API لمراقبة الويب تلقائيًا",
    "ar_summary": "أطلقت Perplexity واجهة Monitor API التي تتيح للمطورين تتبع مستجدات الويب عبر مراقبات تُعرَّف بلغة طبيعية وترسل التحديثات المهمة إلى webhook.",
    "ai": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "8b70d99b098d",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Kotoba is joining ElevenLabs",
+   "summary": "ElevenLabs is acquiring Kotoba, the leading Japanese voice AI lab, to bring natural, culturally fluent AI agents and voice interfaces to Japan.",
+   "url": "https://elevenlabs.io/blog/kotoba",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/7bmftwo9yq5-Kotoba-and-ElevenLabs-2.webp",
+   "published": "2026-11-16T12:00:00Z",
+   "found": "2026-11-16T20:07:14Z",
+   "importance": 1,
+   "detail": true,
    "fetched": true,
    "img_tried": true
   },
