@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T22:36:28Z",
+ "updated": "2026-11-16T00:06:33Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "0ea5fbe79c2f",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+   "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
+   "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+   "image": "https://iprsoftwaremedia.com/219/files/202611/94e4d8e35e46dc78f8b79cb27f0462be/6afa47d13d63322ca4bea3e8_ai-day-seoul-wrapup-1920x1080-1-842x450/ai-day-seoul-wrapup-1920x1080-1-842x450_thmb.jpg?v=26a11e93-65b4-450d-b0ef-9f5089ac6f01",
+   "published": "2026-11-16T00:00:28Z",
+   "found": "2026-11-16T00:06:33Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "87d7014c15ee",
    "company": "openai",
