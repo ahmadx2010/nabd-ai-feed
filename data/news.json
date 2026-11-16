@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T21:30:30Z",
+ "updated": "2026-11-16T21:47:57Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "كيف أعادت PostNord بناء خدمة عملائها الهاتفية على منصة ElevenAgents",
    "ar_summary": "استبدلت PostNord، أكبر مشغّل بريد في دول الشمال الأوروبي، نظام الرد الآلي الهاتفي في السويد بنظام جديد من ElevenLabs، ما رفع نسبة إتمام المهام من 45% إلى 60%.",
    "ai": true
+  },
+  {
+   "id": "11d51b8e09bb",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "GitHub Copilot weekly releases — November 9",
+   "summary": "This week, bring GitHub Enterprise Server repositories into the Copilot app and see which agent sessions need you first in VS Code. You can also try two new models, Claude… The post GitHub Copilot weekly releases — November 9 appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+   "image": "https://github.blog/wp-content/uploads/2026/11/704388312-a81cb7a4-689b-4708-8038-6441ed0b733c.jpg",
+   "published": "2026-11-16T21:34:53Z",
+   "found": "2026-11-16T21:47:57Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f9ace2a74e66",
