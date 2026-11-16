@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:10:50Z",
+ "updated": "2026-11-16T23:48:10Z",
  "categories": [
   {
    "key": "big",
@@ -417,7 +417,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA تكشف عن عدة DGX Spark للحوسبة العالية الأداء: مختبر حوسبة فائقة على المكتب",
+   "ar_summary": "أعلنت NVIDIA في مؤتمر SC26 عن «DGX Spark HPC Developer Kit»، وهو عنقود من أربعة أجهزة DGX Spark مترابطة مباشرة، يتيح للباحثين والمطورين تشغيل أحمال علمية ونماذج ذكاء اصطناعي ووكلاء على مكاتبهم دون انتظار عنقود مشترك.",
+   "ai": true
   },
   {
    "id": "11d51b8e09bb",
