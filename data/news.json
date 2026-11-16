@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:43:02Z",
+ "updated": "2026-11-16T23:01:18Z",
  "categories": [
   {
    "key": "big",
@@ -874,6 +874,21 @@
    "ar_title": "ElevenLabs تستحوذ على Kotoba، مختبر الذكاء الاصطناعي الصوتي الياباني",
    "ar_summary": "أعلنت ElevenLabs استحواذها على Kotoba، المختبر الياباني الرائد في الذكاء الاصطناعي الصوتي، لتقديم وكلاء وواجهات صوتية طبيعية ومتوافقة ثقافيًا في اليابان.",
    "ai": true
+  },
+  {
+   "id": "587e227a3e26",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "What is an LLM? A practical guide to language models",
+   "summary": "Learn what a large language model (LLM) is, how LLMs work, how they are trained, the main architectures, real examples, and their limitations.",
+   "url": "https://elevenlabs.io/blog/what-is-an-llm",
+   "image": null,
+   "published": "2026-11-16T12:00:00Z",
+   "found": "2026-11-16T23:01:18Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "91e58e2ea930",
