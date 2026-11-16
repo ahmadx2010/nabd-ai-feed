@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T10:02:18Z",
+ "updated": "2026-11-16T12:00:24Z",
  "categories": [
   {
    "key": "big",
@@ -477,6 +477,20 @@
    "ar_title": "قمة AI Day Seoul من NVIDIA تجمع قادة الصناعة والشركات الناشئة والمطورين في كوريا",
    "ar_summary": "اختتمت NVIDIA فعاليات AI Day Seoul في مركز COEX بحضور أكثر من 2000 مشارك، وركزت على الذكاء الاصطناعي الفيزيائي ووكلاء الذكاء الاصطناعي. شاركت فيها شركات كورية كبرى وناشئة تستخدم منصات NVIDIA.",
    "ai": true
+  },
+  {
+   "id": "e3915f7e4cf0",
+   "company": "openai",
+   "kind": "blog",
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+   "url": "https://openai.com/index/the-kings-trust-and-openai",
+   "image": null,
+   "published": "2026-11-16T00:00:00Z",
+   "found": "2026-11-16T12:00:24Z",
+   "importance": 2,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "87d7014c15ee",
