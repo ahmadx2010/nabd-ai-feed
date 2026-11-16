@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T12:00:24Z",
+ "updated": "2026-11-16T12:19:30Z",
  "categories": [
   {
    "key": "big",
@@ -488,9 +488,13 @@
    "image": null,
    "published": "2026-11-16T00:00:00Z",
    "found": "2026-11-16T12:00:24Z",
-   "importance": 2,
+   "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "شراكة بقيمة مليون جنيه بين The King's Trust وOpenAI لتعليم الشباب مهارات الذكاء الاصطناعي",
+   "ar_summary": "أطلقت The King's Trust وOpenAI شراكة بقيمة مليون جنيه إسترليني لمساعدة ما يصل إلى 25 ألف شاب في المملكة المتحدة على اكتساب مهارات عملية في الذكاء الاصطناعي للعمل.",
+   "ai": true
   },
   {
    "id": "87d7014c15ee",
