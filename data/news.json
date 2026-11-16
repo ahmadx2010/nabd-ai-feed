@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T16:10:30Z",
+ "updated": "2026-11-16T16:44:48Z",
  "categories": [
   {
    "key": "big",
@@ -633,6 +633,21 @@
    "ai": true
   },
   {
+   "id": "acd9d81f8120",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Autotorino automates dealership calls with ElevenAgents",
+   "summary": "Automated call handling more than doubled call volume capacity across the dealer network by using ElevenLabs.",
+   "url": "https://elevenlabs.io/blog/autotorino-agents",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/m67i5st2gwp-Autotorino--1-.webp",
+   "published": "2026-11-16T12:00:00Z",
+   "found": "2026-11-16T16:44:48Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "91e58e2ea930",
    "company": "openai",
    "kind": "blog",
@@ -778,6 +793,21 @@
    "ar_title": "شراكة بقيمة مليون جنيه بين The King's Trust وOpenAI لتعليم الشباب مهارات الذكاء الاصطناعي",
    "ar_summary": "أطلقت The King's Trust وOpenAI شراكة بقيمة مليون جنيه إسترليني لمساعدة ما يصل إلى 25 ألف شاب في المملكة المتحدة على اكتساب مهارات عملية في الذكاء الاصطناعي للعمل.",
    "ai": true
+  },
+  {
+   "id": "30fd866bdc3e",
+   "company": "together",
+   "kind": "blog",
+   "title": "How we make Together AI easy for coding agents to use",
+   "summary": "We built agent evals to test how effective coding agents are at using Together AI. Small fixes to our docs, skills, and API errors lifted task completion rate from 75% to 97%.",
+   "url": "https://www.together.ai/blog/how-we-make-it-easy-for-agents-to-use-together-ai",
+   "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6afa9c16b3022b51465a4929_how-we-make-it-easy-for-agents-to-use-together-ai.png",
+   "published": "2026-11-16T00:00:00Z",
+   "found": "2026-11-16T16:44:48Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "87d7014c15ee",
