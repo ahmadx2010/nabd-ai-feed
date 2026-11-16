@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T19:12:44Z",
+ "updated": "2026-11-16T19:20:56Z",
  "categories": [
   {
    "key": "big",
@@ -795,7 +795,9 @@
    "ar_detail": true,
    "ar_title": "Perplexity تطلق Monitor API لمراقبة الويب تلقائيًا",
    "ar_summary": "أطلقت Perplexity واجهة Monitor API التي تتيح للمطورين تتبع مستجدات الويب عبر مراقبات تُعرَّف بلغة طبيعية وترسل التحديثات المهمة إلى webhook.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "91e58e2ea930",
