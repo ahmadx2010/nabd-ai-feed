@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T14:45:32Z",
+ "updated": "2026-11-16T14:54:41Z",
  "categories": [
   {
    "key": "big",
@@ -474,6 +474,34 @@
    "ar_title": "ميتا: 94% من أصحاب الأعمال الصغيرة في سنغافورة يحتاجون إلى مزيد من الإرشاد حول الذكاء الاصطناعي",
    "ar_summary": "نظّمت ميتا «يوم المهارات 2026» في سنغافورة بمشاركة أكثر من 180 شركة صغيرة ورائد أعمال، ضمن أكاديمية نمو الأعمال الصغيرة. وأظهر استطلاع لـ YouGov أن 94% من أصحاب الأعمال يرون حاجتهم إلى إرشاد أكبر للاستفادة من الذكاء الاصطناعي.",
    "ai": true
+  },
+  {
+   "id": "b0ded74e06b0",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "summary": "",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "image": null,
+   "published": "2026-11-16T06:00:00Z",
+   "found": "2026-11-16T14:54:41Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "cfcc7acb02e9",
+   "company": "openai",
+   "kind": "blog",
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "image": null,
+   "published": "2026-11-16T06:00:00Z",
+   "found": "2026-11-16T14:54:41Z",
+   "importance": 1,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "724333834a57",
