@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T18:34:53Z",
+ "updated": "2026-11-16T18:44:02Z",
  "categories": [
   {
    "key": "big",
@@ -3501,6 +3501,36 @@
    "ar_title": "Weighted State Souping: استرجاع أكفأ للسياقات الطويلة",
    "ar_summary": "ورقة من Apple تقترح طريقة تتعلم أوزاناً تعتمد على الاستعلام لدمج حالات مخزنة في نماذج فضاء الحالة، فتحسّن الأداء في السياقات الطويلة.",
    "ai": true
+  },
+  {
+   "id": "547dfd38cf27",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Understanding Private Evolution as Learning-Augmented Clustering",
+   "summary": "Private Evolution (PE) is a differentially private algorithm for synthetic data generation. While it can be viewed as a Wasserstein learning algorithm, it performs much better in practice than worst-case Wasserstein analyses would predict. We recast PE as generative model-augmented Wasserstein learning. We show theoretically that when we take into account the use of a generative model that is…",
+   "url": "https://machinelearning.apple.com/research/private-evolution-clustering",
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+   "published": "2026-11-10T00:00:00Z",
+   "found": "2026-11-16T18:44:02Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "f59968fc4546",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Toward a Theory of Evaluability",
+   "summary": "Machine learning models, particularly large foundation models, are increasingly evaluated along multiple axes that are relevant for their usage. In addition to accuracy measures appropriate for the specific task of interest, measures capturing safety, calibration and fairness properties are often of interest. The classical approach to these problems assumes that the test set has been held out…",
+   "url": "https://machinelearning.apple.com/research/theory-evaluability",
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+   "published": "2026-11-10T00:00:00Z",
+   "found": "2026-11-16T18:44:02Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "5f5a5a012b72",
