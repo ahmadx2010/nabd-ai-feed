@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:02:31Z",
+ "updated": "2026-11-16T08:30:32Z",
  "categories": [
   {
    "key": "big",
@@ -416,7 +416,11 @@
    "found": "2026-11-16T08:02:31Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "La Cousinade: موقع لتجمّع 63 من أبناء العمومة صُنع بواسطة ChatGPT",
+   "ar_summary": "فيديو من OpenAI يروي قصة تجمّع عائلي ضم 63 من أبناء العمومة، تم إنشاء موقع الفعالية فيه باستخدام ChatGPT.",
+   "ai": true
   },
   {
    "id": "03fbc9c3fea2",
