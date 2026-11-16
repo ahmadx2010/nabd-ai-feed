@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T14:36:50Z",
+ "updated": "2026-11-16T14:45:32Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "كيف أعادت PostNord بناء خدمة عملائها الهاتفية على منصة ElevenAgents",
    "ar_summary": "استبدلت PostNord، أكبر مشغّل بريد في دول الشمال الأوروبي، نظام الرد الآلي الهاتفي في السويد بنظام جديد من ElevenLabs، ما رفع نسبة إتمام المهام من 45% إلى 60%.",
    "ai": true
+  },
+  {
+   "id": "074991d4c711",
+   "company": "cohere",
+   "kind": "blog",
+   "title": "Introducing Video Intelligence in Compass | Cohere",
+   "summary": "Make recorded meetings, training videos, and media archives searchable with Video Intelligence in Compass, now available in Private Preview.",
+   "url": "https://cohere.com/blog/video-intelligence-preview",
+   "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/11af2766b29ecda62856d776df612dc7bf49e79a-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&q=80&fit=crop&auto=format",
+   "published": "2026-11-16T15:32:57Z",
+   "found": "2026-11-16T14:45:32Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "717626b76ea0",
