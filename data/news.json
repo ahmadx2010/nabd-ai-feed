@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T12:19:30Z",
+ "updated": "2026-11-16T12:37:00Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "2bd9a2245c49",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "How the Nordics' leading postal operator rebuilt its customer support on ElevenAgents",
+   "summary": "Yahoo used the ElevenAgents platform to add conversational voice to its new Yahoo Scout AI answer tool, going from kickoff to production in 6 weeks.",
+   "url": "https://elevenlabs.io/blog/postnord",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/w7xjkvb77xo-Postnord.webp",
+   "published": "2026-11-17T12:00:00Z",
+   "found": "2026-11-16T12:37:00Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "91e58e2ea930",
    "company": "openai",
