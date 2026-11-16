@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T21:47:57Z",
+ "updated": "2026-11-16T22:16:00Z",
  "categories": [
   {
    "key": "big",
@@ -414,10 +414,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/704388312-a81cb7a4-689b-4708-8038-6441ed0b733c.jpg",
    "published": "2026-11-16T21:34:53Z",
    "found": "2026-11-16T21:47:57Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إصدارات GitHub Copilot الأسبوعية: دعم GitHub Enterprise Server ونموذجان جديدان",
+   "ar_summary": "أعلنت GitHub عن تحديثات الأسبوع لـ Copilot، منها إتاحة مستودعات GitHub Enterprise Server في تطبيق Copilot، وإضافة نموذجي Claude Fable 5.2 وGemini 4 Carbon، وميزات جديدة في VS Code لإدارة جلسات الوكلاء.",
+   "ai": true
   },
   {
    "id": "f9ace2a74e66",
