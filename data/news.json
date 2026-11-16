@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T18:53:10Z",
+ "updated": "2026-11-16T19:02:18Z",
  "categories": [
   {
    "key": "big",
@@ -415,6 +415,21 @@
    "published": "2026-11-16T18:53:10Z",
    "found": "2026-11-16T18:53:10Z",
    "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "c7c8448629a5",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Regional voices are rolling out in the Gemini app.",
+   "summary": "Gemini now offers 66 regional voices on Android and iOS. Choose a natural, local dialect for your app interactions. Pick your favorite voice today.",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp",
+   "published": "2026-11-16T18:45:00Z",
+   "found": "2026-11-16T19:02:18Z",
+   "importance": 0,
+   "detail": true,
    "fetched": true,
    "img_tried": true
   },
