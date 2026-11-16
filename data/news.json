@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T00:06:33Z",
+ "updated": "2026-11-16T00:08:25Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "قمة AI Day Seoul من NVIDIA تجمع قادة الصناعة والشركات الناشئة والمطورين في كوريا",
+   "ar_summary": "اختتمت NVIDIA فعاليات AI Day Seoul في مركز COEX بحضور أكثر من 2000 مشارك، وركزت على الذكاء الاصطناعي الفيزيائي ووكلاء الذكاء الاصطناعي. شاركت فيها شركات كورية كبرى وناشئة تستخدم منصات NVIDIA.",
+   "ai": true
   },
   {
    "id": "87d7014c15ee",
