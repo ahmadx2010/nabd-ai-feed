@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T16:54:57Z",
+ "updated": "2026-11-16T17:03:29Z",
  "categories": [
   {
    "key": "big",
@@ -818,6 +818,21 @@
    "ai": true
   },
   {
+   "id": "853b24ff0d6e",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+   "summary": "",
+   "url": "https://huggingface.co/blog/openrouter",
+   "image": "https://huggingface.co/blog/assets/openrouter/thumbnail.jpg",
+   "published": "2026-11-16T00:00:00Z",
+   "found": "2026-11-16T17:03:29Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "87d7014c15ee",
    "company": "openai",
    "kind": "blog",
@@ -1343,6 +1358,20 @@
    "ar_title": "Shield تستعين بـ OpenAI لتسليم أعمال البوابات القديمة لوكلاء ذكيين",
    "ar_summary": "تستخدم شركة Shield تقنيات OpenAI لمساعدة فنيي تقنية المعلومات على تفويض العمل في البوابات القديمة. يتنقل وكلاء Forge داخل هذه الأنظمة ليتفرغ الفنيون للمشكلات التي تتطلب حكمهم الشخصي.",
    "ai": true
+  },
+  {
+   "id": "ebd9eb949639",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Our first phase of embedded assessments",
+   "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "image": null,
+   "published": "2026-11-13T08:00:00Z",
+   "found": "2026-11-16T17:03:29Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "119795759f81",
