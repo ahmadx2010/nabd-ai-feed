@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:28:48Z",
+ "updated": "2026-11-17T02:05:59Z",
  "categories": [
   {
    "key": "big",
@@ -490,10 +490,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/703138145-4a20e6e7-211d-42bb-a45e-6a08d2ea3895.jpeg",
    "published": "2026-11-16T19:48:33Z",
    "found": "2026-11-17T01:19:40Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "GitHub Copilot: التحكم في مصدر التخصيصات عبر الإضافات والإعدادات المُدارة",
+   "ar_summary": "بات بإمكان مسؤولي المؤسسات اشتراط أن تأتي تخصيصات GitHub Copilot المحددة من الإضافات (plugins) أو الإعدادات المُدارة بدل الإعدادات المستقلة للمستخدم أو المشروع. ويتيح ذلك توزيع الأدوات المعتمدة دون تعطيلها بالكامل.",
+   "ai": true
   },
   {
    "id": "f7b1ad47e7a9",
