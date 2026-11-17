@@ -1,3 +1,4 @@
 {
- "body": "Dmitry Pitik thought he’d need a team of developers to build Revolut’s internal code review service. In this film, the Senior Platform Engineer explains how he broke the design into tasks, assigned them to Codex agents working in parallel and reviewed the code himself. That gave him more time for the engineering decisions he wanted to get right. Read the full story: https://openai.com/business/customer-stories/revolut/"
+ "body": "Dmitry Pitik thought he’d need a team of developers to build Revolut’s internal code review service. In this film, the Senior Platform Engineer explains how he broke the design into tasks, assigned them to Codex agents working in parallel and reviewed the code himself. That gave him more time for the engineering decisions he wanted to get right. Read the full story: https://openai.com/business/customer-stories/revolut/",
+ "ar_body": "ظن Dmitry Pitik أنه يحتاج فريق مطورين لبناء خدمة مراجعة الشيفرة الداخلية في Revolut.\n\n• قسّم التصميم إلى مهام.\n• أسندها إلى وكلاء Codex يعملون بالتوازي.\n• راجع الشيفرة بنفسه، فبقي لديه وقت أكبر للقرارات الهندسية المهمة."
 }

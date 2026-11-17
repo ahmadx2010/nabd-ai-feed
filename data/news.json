@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:10:10Z",
+ "updated": "2026-11-17T10:29:29Z",
  "categories": [
   {
    "key": "big",
@@ -417,7 +417,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مجلس إدارة NVIDIA يُنشئ لجنة للأمن القومي والرقابة على الصادرات",
+   "ar_summary": "أعلنت NVIDIA تشكيل لجنة دائمة جديدة في مجلس الإدارة للإشراف على سياسات الأمن القومي والامتثال لضوابط التصدير وإدارة مخاطر التجارة العالمية.",
+   "ai": true
   },
   {
    "id": "7b86eb7de593",
@@ -432,7 +436,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تواجه فرق Revolut الصغيرة تحديات أكبر مع OpenAI",
+   "ar_summary": "فيديو عن استخدام Revolut لـ Codex لبناء خدمة داخلية لمراجعة الشيفرة وتحويل توثيق التصميم إلى صيغة مقروءة للذكاء الاصطناعي، إضافة إلى تسريع التحقيق في الدفعات المشبوهة.",
+   "ai": true
   },
   {
    "id": "3a38c568df3f",
@@ -447,7 +455,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف بنى مهندس واحد خدمة مراجعة شيفرة باستخدام Codex",
+   "ar_summary": "يشرح Dmitry Pitik من Revolut كيف قسّم التصميم إلى مهام ووزعها على وكلاء Codex يعملون بالتوازي، ثم راجع الشيفرة بنفسه.",
+   "ai": true
   },
   {
    "id": "da9f25e04c88",
@@ -462,7 +474,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تسويق محلي في 40 سوقاً مع Revolut",
+   "ar_summary": "تشرح Kim Maniovich كيف يستخدم فريقها الذكاء الاصطناعي لفهم الفروق المحلية وتخصيص الحملات بسرعة أكبر.",
+   "ai": true
   },
   {
    "id": "5ef1b55f8518",
@@ -477,7 +493,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "استجابة أسرع للاحتيال لتسوّق أكثر أماناً مع Revolut",
+   "ar_summary": "يتحدث David Abitbol عن اختبار أنظمة الذكاء الاصطناعي قبل تشغيلها ودورها في التحقيق بالدفعات المشبوهة.",
+   "ai": true
   },
   {
    "id": "9c409e1fafef",
@@ -492,7 +512,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "جعل سبع سنوات من توثيق التصميم مقروءة للذكاء الاصطناعي في يوم",
+   "ar_summary": "استخدم فريق التصميم في Revolut أداة Codex لتحويل توثيق نظام التصميم إلى صيغة يقرؤها الذكاء الاصطناعي خلال يوم واحد.",
+   "ai": true
   },
   {
    "id": "590cb0b9c5dd",
