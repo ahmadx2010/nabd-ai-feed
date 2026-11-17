@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T16:25:24Z",
+ "updated": "2026-11-17T16:35:34Z",
  "categories": [
   {
    "key": "big",
@@ -433,10 +433,14 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-scaled.jpeg",
    "published": "2026-11-17T14:00:10Z",
    "found": "2026-11-17T16:25:24Z",
-   "importance": 1,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إيان باك يفتتح أسبوع NVIDIA في SC26: العلم يدخل عصر الوكلاء الأذكياء",
+   "ar_summary": "افتتح إيان باك من NVIDIA فعاليات SC26 في شيكاغو بإعلان أدوات جديدة لوكلاء الذكاء الاصطناعي العلميين، منها Nemotron for Science ومعالج Rubin HPC ومنصة Vera CPU الموسّعة، إضافة إلى تعاون كمي مع IBM وFermilab.",
+   "ai": true
   },
   {
    "id": "2bd9a2245c49",
