@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:52:17Z",
+ "updated": "2026-11-17T18:52:46Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "Cohere تضيف موصّل Crunchbase إلى منصة North لوكلاء الذكاء الاصطناعي",
    "ar_summary": "أطلقت Cohere موصّل Crunchbase داخل منصة North، ما يتيح لوكلاء المؤسسات الوصول إلى بيانات أكثر من 5 ملايين شركة وتاريخ التمويل والمؤشرات التنبؤية.",
    "ai": true
+  },
+  {
+   "id": "bd91f8351850",
+   "company": "openai",
+   "kind": "video",
+   "title": "Building 3D video sets with GPT-6.2 Astra",
+   "summary": "GPT-6.2 Astra is our new flagship model, delivering a step up in capability with cleaner code, better frontends and 3D models, and more efficient tool use. Recreate a room from just two video frames with GPT-6.2 Astra in Codex. See how it builds the set in Blender, changes the decor and lighting, and turns the scene into an interactive space and a virtual webcam background.",
+   "url": "https://www.youtube.com/watch?v=tKoDPOrLMX0",
+   "image": "https://i1.ytimg.com/vi/tKoDPOrLMX0/hqdefault.jpg",
+   "published": "2026-11-17T18:41:32Z",
+   "found": "2026-11-17T18:52:46Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "24090026a0c1",
