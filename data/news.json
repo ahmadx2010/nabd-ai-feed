@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:24:52Z",
+ "updated": "2026-11-17T18:33:59Z",
  "categories": [
   {
    "key": "big",
@@ -481,6 +481,21 @@
    "ar_title": "LangSmith تضيف ضوابط جديدة لحماية البيانات الحساسة في سجلات التتبع",
    "ar_summary": "أعلنت LangChain عن ضوابط جديدة في LangSmith تساعد الفرق على حماية البيانات الحساسة الموجودة في سجلات تتبع الوكلاء.",
    "ai": true
+  },
+  {
+   "id": "9ab9f5272f52",
+   "company": "meta",
+   "kind": "blog",
+   "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+   "summary": "Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively. The post Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .",
+   "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+   "image": "https://about.fb.com/wp-content/uploads/2026/11/AU_Jolly_Surfer_Horizontal.png?fit=3840%2C2160",
+   "published": "2026-11-17T18:00:31Z",
+   "found": "2026-11-17T18:33:59Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "4b296014d1aa",
