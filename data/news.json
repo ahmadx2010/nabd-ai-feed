@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T15:04:09Z",
+ "updated": "2026-11-17T16:25:24Z",
  "categories": [
   {
    "key": "big",
@@ -422,6 +422,21 @@
    "ar_title": "Suno تطلق «Visuals»: حوّل أغانيك إلى فيديوهات وصور",
    "ar_summary": "أطلقت Suno أداة Visuals الجديدة التي تحوّل أغانيك إلى مقاطع فيديو وفيديوهات كلمات وعوالم بصرية جاهزة للمشاركة. الأداة متاحة اليوم على الويب.",
    "ai": true
+  },
+  {
+   "id": "b198e88d7ab7",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+   "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
+   "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-scaled.jpeg",
+   "published": "2026-11-17T14:00:10Z",
+   "found": "2026-11-17T16:25:24Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "2bd9a2245c49",
