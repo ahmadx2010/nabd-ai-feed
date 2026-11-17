@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:28:15Z",
+ "updated": "2026-11-17T21:56:28Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA تعلن نتائج الربع الثالث من العام المالي 2027: إيرادات 115.8 مليار دولار",
+   "ar_summary": "سجلت NVIDIA إيرادات قياسية بلغت 115.8 مليار دولار في الربع الثالث، بارتفاع 103% عن العام الماضي، مدفوعة بمبيعات مراكز البيانات وبدء شحن منصة Vera Rubin NVL72.",
+   "ai": true
   },
   {
    "id": "cdc7326c2991",
@@ -1283,7 +1287,11 @@
    "found": "2026-11-17T21:19:08Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ما الذي يحدد تكلفة الذكاء الاصطناعي في العمل؟",
+   "ar_summary": "مقال من Microsoft يتناول العوامل التي تحدد تكلفة استخدام الذكاء الاصطناعي في بيئة العمل.",
+   "ai": true
   },
   {
    "id": "f9ace2a74e66",
