@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T16:53:03Z",
+ "updated": "2026-11-17T17:02:11Z",
  "categories": [
   {
    "key": "big",
@@ -405,6 +405,21 @@
    "ai": true
   },
   {
+   "id": "357d085ae06f",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Put Gemini to work for you",
+   "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp",
+   "published": "2026-11-17T17:00:00Z",
+   "found": "2026-11-17T17:02:11Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "23e4df7857b7",
    "company": "langchain",
    "kind": "blog",
@@ -624,6 +639,21 @@
    "ar_title": "OpenAI تطلق مبادرة «OpenAI for Chile» بالشراكة مع حكومة تشيلي",
    "ar_summary": "أعلنت OpenAI شراكة مع حكومة تشيلي لدعم التبني المسؤول للذكاء الاصطناعي وبناء مهارات القطاع العام ومساعدة الشركات الناشئة المحلية على تطوير تطبيقات الذكاء الاصطناعي.",
    "ai": true
+  },
+  {
+   "id": "a3ff2bdd6392",
+   "company": "windsurf",
+   "kind": "blog",
+   "title": "Introducing Devin Bots: from tasks to outcomes | Devin",
+   "summary": "Introducing Devin Bots: engineering teammates that own your goals and lead teams of Devins to deliver them.",
+   "url": "https://windsurf.com/blog/introducing-devin-bots",
+   "image": "https://devin.ai/images/blog/introducing-devin-bots/cover.jpg",
+   "published": "2026-11-17T00:00:00Z",
+   "found": "2026-11-17T17:02:11Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "23e0c35a1797",
