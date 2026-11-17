@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:23:56Z",
+ "updated": "2026-11-17T20:24:53Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/705556470-c62acaf4-8d04-4aff-903d-124415fd7422.png",
    "published": "2026-11-17T20:20:29Z",
    "found": "2026-11-17T20:23:56Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "نموذجا GPT-6.2 Astra وGPT-6.2 Sol من OpenAI متاحان الآن في GitHub Copilot",
+   "ar_summary": "أعلنت GitHub إتاحة نموذجي GPT-6.2 Astra وGPT-6.2 Sol من OpenAI بشكل عام في Copilot. صُمم النموذجان للبرمجة الوكيلية ومراجعة الشيفرة، وأظهرا في الاختبارات المبكرة اكتشافًا أكبر للمشكلات الحقيقية مع استهلاك رموز أقل.",
+   "ai": true
   },
   {
    "id": "cd5eb780fba4",
