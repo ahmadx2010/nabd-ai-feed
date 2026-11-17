@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:19:40Z",
+ "updated": "2026-11-17T01:20:29Z",
  "categories": [
   {
    "key": "big",
@@ -505,10 +505,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/704252268-e600c177-84f0-438a-adfa-2b71cd22ea43.png",
    "published": "2026-11-16T19:22:56Z",
    "found": "2026-11-17T01:19:08Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "VS Code يتقاعد من «Local harness» في فبراير 2027 لصالح Copilot harness",
+   "ar_summary": "أعلن إصدار VS Code 1.146 إيقاف Local harness، البرنامج القديم الذي ينسّق النموذج والسياق والأدوات في جلسات وكيل GitHub Copilot، على أن تتم إزالته في فبراير 2027. البديل هو Copilot harness المدمج في المحرر.",
+   "ai": true
   },
   {
    "id": "c94138999000",
@@ -941,6 +945,42 @@
    "ar_detail": true,
    "ar_title": "ElevenLabs: ما هو النموذج اللغوي الكبير؟ دليل عملي",
    "ar_summary": "دليل تعليمي من ElevenLabs يشرح ماهية النماذج اللغوية الكبيرة (LLM) وكيف تعمل وتُدرَّب وبنيتها وأمثلة واقعية وحدودها.",
+   "ai": true
+  },
+  {
+   "id": "f3cd84cefecd",
+   "company": "luma",
+   "kind": "news",
+   "title": "Building canvas-native agents: lessons from Laya",
+   "summary": "Luma describes how it built Laya, a canvas-organization subagent that Orca, its main agent, delegates to for reading and arranging creative boards.",
+   "url": "https://lumalabs.ai/news/building-canvas-native-agents",
+   "image": null,
+   "published": "2026-11-16T12:00:00Z",
+   "found": "2026-11-17T01:20:29Z",
+   "importance": 0,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Luma تشرح كيف بنت وكلاء أذكياء يفهمون لوحة العمل الإبداعية",
+   "ar_summary": "تستعرض Luma تجربتها في بناء Laya، وكيل فرعي ينظّم لوحات العمل الإبداعية ويفوّضه إليه الوكيل الرئيسي Orca.",
+   "ai": true
+  },
+  {
+   "id": "f2c132e5ccc1",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "AGI vs. AI: Key differences and how to evaluate AGI claims",
+   "summary": "Perplexity explains the difference between AI and AGI and how to scrutinize AGI claims.",
+   "url": "https://www.perplexity.ai/hub/blog/agi-vs-ai",
+   "image": null,
+   "published": "2026-11-16T12:00:00Z",
+   "found": "2026-11-17T01:20:29Z",
+   "importance": 0,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity: الفرق بين الذكاء الاصطناعي وAGI وكيف نقيّم ادعاءاته",
+   "ar_summary": "تشرح Perplexity الفرق بين الذكاء الاصطناعي العام AGI والذكاء الاصطناعي الحالي، وتقدم معايير لتقييم الادعاءات المتعلقة به.",
    "ai": true
   },
   {
