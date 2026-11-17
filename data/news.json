@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:56:28Z",
+ "updated": "2026-11-17T22:32:12Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "e65aea8e9b4d",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
+   "summary": "News Summary: New agreements with Kinsus and Samsung Electro-Mechanics support additional substrate capacity and expanded production capabilities at existing factories. NVIDIA's work with ...",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+   "image": "https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95",
+   "published": "2026-11-17T22:18:00Z",
+   "found": "2026-11-17T22:32:12Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "4faa980a3027",
    "company": "nvidia",
