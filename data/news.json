@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:09:08Z",
+ "updated": "2026-11-17T23:28:28Z",
  "categories": [
   {
    "key": "big",
@@ -1082,7 +1082,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ما هو WebRTC؟ دليل للتواصل الفوري عبر الويب",
+   "ar_summary": "مقال تعليمي من ElevenLabs يشرح تقنية WebRTC وآلية عملها ودور خوادم STUN وTURN، ويقارنها بـ WebSocket.",
+   "ai": true
   },
   {
    "id": "350fb3acef43",
@@ -1208,9 +1212,13 @@
    "image": null,
    "published": "2026-11-17T08:00:00Z",
    "found": "2026-11-17T22:50:49Z",
-   "importance": 2,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تطلق ChatGPT for Sales لدعم فرق المبيعات",
+   "ar_summary": "أعلنت OpenAI عن إضافة Sales الجديدة في ChatGPT مع أكثر من 30 إضافة جديدة وموسّعة من الشركاء. تساعد الأدوات على دراسة العملاء المحتملين وتحضير العروض وتحديث أنظمة CRM ودفع الصفقات للأمام.",
+   "ai": true
   },
   {
    "id": "590cb0b9c5dd",
@@ -2159,10 +2167,14 @@
    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
    "published": "2026-11-16T00:00:00Z",
    "found": "2026-11-17T23:09:08Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "أبحاث Apple: تمثيلات ثلاثية الأبعاد بتقنية التقسيم والتوسيع",
+   "ar_summary": "ورقة بحثية من Apple تقدم طريقة split-and-scale لزيادة سعة التمثيلات الكامنة ثلاثية الأبعاد أثناء الاستدلال دون رفع تكلفة التدريب، لالتقاط تفاصيل أدق للأجسام.",
+   "ai": true
   },
   {
    "id": "87d7014c15ee",
@@ -3324,10 +3336,14 @@
    "image": "https://cdn.pika.art/v2/creation/cms/notion/86dcf5afb50f94b386bc5d2c1f936f1b.jpg",
    "published": "2026-11-12T00:00:00Z",
    "found": "2026-11-17T22:59:56Z",
-   "importance": 1,
+   "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Pika مقابل Runway: مقارنة الأسعار",
+   "ar_summary": "مقارنة من Pika لأسعار خدمتها وخدمة Runway لتوليد الفيديو، تشمل الخطط وتكلفة مقطع مدته 5 ثوانٍ. تبدأ خطط Pika من 10 دولارات شهريًا وتتضمن نموذج Seedance 2.5.",
+   "ai": true
   },
   {
    "id": "c7dbc4bf0cc1",
