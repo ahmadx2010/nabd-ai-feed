@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T17:11:23Z",
+ "updated": "2026-11-17T17:21:38Z",
  "categories": [
   {
    "key": "big",
@@ -417,7 +417,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Replit تطلق «Missions»: أسراب وكلاء ذكيين لإنجاز أهداف معقدة",
+   "ar_summary": "أطلقت Replit ميزة Missions التي تتيح لك تحديد الهدف لينسّق سرب من الوكلاء عملية التخطيط والبناء والاختبار والتحسين ضمن ميزانية وحدود تضعها أنت. وتستهدف الفرق التي تفتقر إلى الوقت أو الطاقة للأعمال المعقدة.",
+   "ai": true
   },
   {
    "id": "357d085ae06f",
@@ -429,10 +433,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp",
    "published": "2026-11-17T17:00:00Z",
    "found": "2026-11-17T17:02:11Z",
-   "importance": 0,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "جوجل تطلق وضع «المهام» في Gemini لإنجاز أعمالك اليومية",
+   "ar_summary": "يتيح تحديث Gemini الجديد تنفيذ مهام معقدة مثل حجز المواعيد وإدارة الفواتير وطلب البقالة عبر الاتصال بالبريد والتقويم وطرق الدفع، ضمن بيئات معزولة آمنة، وبدأ طرحه مجاناً في عدة دول.",
+   "ai": true
   },
   {
    "id": "23e4df7857b7",
@@ -446,7 +454,11 @@
    "found": "2026-11-17T16:53:03Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "LangChain: ما تعلمناه من بناء وكلاء استباقيين",
+   "ar_summary": "نشرت LangChain مقالاً عن دروسها المستفادة من بناء وكلاء ذكاء اصطناعي استباقيين. لم يتوفر نص المقال في المصدر.",
+   "ai": true
   },
   {
    "id": "53dff2f089e7",
@@ -668,7 +680,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Devin Bots: زملاء هندسة يمتلكون الأهداف ويقودون فرقاً من Devin",
+   "ar_summary": "قدّمت Devin «Bots»، وكلاء دائمون بذاكرة وأدوات خاصة يقودون عدة نسخ من Devin بالتوازي لتحقيق أهداف كبيرة أو مستمرة، ولا يعرضون عليك إلا القرارات التي تحتاج حكمك.",
+   "ai": true
   },
   {
    "id": "23e0c35a1797",
