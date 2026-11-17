@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:48:10Z",
+ "updated": "2026-11-17T01:19:08Z",
  "categories": [
   {
    "key": "big",
@@ -479,6 +479,21 @@
    "ar_title": "كيف تصنع سلسلة توريد NVIDIA أكثر بنى الذكاء الاصطناعي تقدمًا",
    "ar_summary": "تتحدث NVIDIA عن ديب شوكويست، المسؤولة عن العمليات وسلسلة التوريد والتصنيع خلف منصاتها. وتعتمد الشركة على شبكة عالمية من الشركاء المصنّعين لإطلاق تقنيات جديدة على مدار العام.",
    "ai": true
+  },
+  {
+   "id": "f7b1ad47e7a9",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "VS Code retires the Local harness in February 2027",
+   "summary": "Visual Studio Code 1.146 deprecates the Local harness, the older software that coordinates the model, context, and tools for GitHub Copilot agent sessions in the editor. The Local harness will… The post VS Code retires the Local harness in February 2027 appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+   "image": "https://github.blog/wp-content/uploads/2026/11/704252268-e600c177-84f0-438a-adfa-2b71cd22ea43.png",
+   "published": "2026-11-16T19:22:56Z",
+   "found": "2026-11-17T01:19:08Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "c94138999000",
