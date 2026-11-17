@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T17:02:11Z",
+ "updated": "2026-11-17T17:11:23Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "Cohere تضيف موصّل Crunchbase إلى منصة North لوكلاء الذكاء الاصطناعي",
    "ar_summary": "أطلقت Cohere موصّل Crunchbase داخل منصة North، ما يتيح لوكلاء المؤسسات الوصول إلى بيانات أكثر من 5 ملايين شركة وتاريخ التمويل والمؤشرات التنبؤية.",
    "ai": true
+  },
+  {
+   "id": "4b296014d1aa",
+   "company": "replit",
+   "kind": "blog",
+   "title": "Introducing Replit Missions",
+   "summary": "Today, we’re launching Replit Missions to help your teams take on the complex work they haven't had time or capacity for: winning more enterprise customers, improving product performance, or replacing legacy software. You define the outcome, and Replit coordinates a swarm of agents to plan, build, test, and iterate toward it within the budget and boundaries you set. At Replit, we wanted to…",
+   "url": "https://replit.com/blog/introducing-replit-missions",
+   "image": "https://cdn.sanity.io/images/bj34pdbp/migration/3aa673405983a5f4d54bfdfbb901981f1ab32d0f-1280x720.gif",
+   "published": "2026-11-17T18:00:00Z",
+   "found": "2026-11-17T17:11:23Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "357d085ae06f",
