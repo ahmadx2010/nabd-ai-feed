@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T16:35:34Z",
+ "updated": "2026-11-17T16:53:03Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,20 @@
    "ar_title": "Cohere تضيف موصّل Crunchbase إلى منصة North لوكلاء الذكاء الاصطناعي",
    "ar_summary": "أطلقت Cohere موصّل Crunchbase داخل منصة North، ما يتيح لوكلاء المؤسسات الوصول إلى بيانات أكثر من 5 ملايين شركة وتاريخ التمويل والمؤشرات التنبؤية.",
    "ai": true
+  },
+  {
+   "id": "23e4df7857b7",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "What Weve Learned Building Proactive Agents",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/what-weve-learned-building-proactive-agents",
+   "image": null,
+   "published": "2026-11-17T16:53:03Z",
+   "found": "2026-11-17T16:53:03Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "53dff2f089e7",
