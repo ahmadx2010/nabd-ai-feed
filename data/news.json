@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:42:11Z",
+ "updated": "2026-11-17T22:50:49Z",
  "categories": [
   {
    "key": "big",
@@ -1182,6 +1182,20 @@
    "ar_title": "جعل سبع سنوات من توثيق التصميم مقروءة للذكاء الاصطناعي في يوم",
    "ar_summary": "استخدم فريق التصميم في Revolut أداة Codex لتحويل توثيق نظام التصميم إلى صيغة يقرؤها الذكاء الاصطناعي خلال يوم واحد.",
    "ai": true
+  },
+  {
+   "id": "c6c361c53bc4",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Introducing ChatGPT for Sales",
+   "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "image": null,
+   "published": "2026-11-17T08:00:00Z",
+   "found": "2026-11-17T22:50:49Z",
+   "importance": 2,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "590cb0b9c5dd",
