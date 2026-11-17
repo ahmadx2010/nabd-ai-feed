@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:19:08Z",
+ "updated": "2026-11-17T01:19:40Z",
  "categories": [
   {
    "key": "big",
@@ -479,6 +479,21 @@
    "ar_title": "كيف تصنع سلسلة توريد NVIDIA أكثر بنى الذكاء الاصطناعي تقدمًا",
    "ar_summary": "تتحدث NVIDIA عن ديب شوكويست، المسؤولة عن العمليات وسلسلة التوريد والتصنيع خلف منصاتها. وتعتمد الشركة على شبكة عالمية من الشركاء المصنّعين لإطلاق تقنيات جديدة على مدار العام.",
    "ai": true
+  },
+  {
+   "id": "4b8c3044ce82",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Control where GitHub Copilot customizations come from",
+   "summary": "As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace restrictions,… The post Control where GitHub Copilot customizations come from appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+   "image": "https://github.blog/wp-content/uploads/2026/11/703138145-4a20e6e7-211d-42bb-a45e-6a08d2ea3895.jpeg",
+   "published": "2026-11-16T19:48:33Z",
+   "found": "2026-11-17T01:19:40Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f7b1ad47e7a9",
