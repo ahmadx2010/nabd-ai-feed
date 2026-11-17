@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:20:29Z",
+ "updated": "2026-11-17T01:28:48Z",
  "categories": [
   {
    "key": "big",
@@ -954,7 +954,7 @@
    "title": "Building canvas-native agents: lessons from Laya",
    "summary": "Luma describes how it built Laya, a canvas-organization subagent that Orca, its main agent, delegates to for reading and arranging creative boards.",
    "url": "https://lumalabs.ai/news/building-canvas-native-agents",
-   "image": null,
+   "image": "https://cdn.sanity.io/images/2ylxvaa2/production/a36120c0ca4be2c23210b748919d8cf2dae7cb16-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
    "published": "2026-11-16T12:00:00Z",
    "found": "2026-11-17T01:20:29Z",
    "importance": 0,
@@ -963,7 +963,9 @@
    "ar_detail": true,
    "ar_title": "Luma تشرح كيف بنت وكلاء أذكياء يفهمون لوحة العمل الإبداعية",
    "ar_summary": "تستعرض Luma تجربتها في بناء Laya، وكيل فرعي ينظّم لوحات العمل الإبداعية ويفوّضه إليه الوكيل الرئيسي Orca.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f2c132e5ccc1",
@@ -981,7 +983,9 @@
    "ar_detail": true,
    "ar_title": "Perplexity: الفرق بين الذكاء الاصطناعي وAGI وكيف نقيّم ادعاءاته",
    "ar_summary": "تشرح Perplexity الفرق بين الذكاء الاصطناعي العام AGI والذكاء الاصطناعي الحالي، وتقدم معايير لتقييم الادعاءات المتعلقة به.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "91e58e2ea930",
