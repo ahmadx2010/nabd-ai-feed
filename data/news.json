@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T02:05:59Z",
+ "updated": "2026-11-17T06:30:46Z",
  "categories": [
   {
    "key": "big",
@@ -988,6 +988,20 @@
    "ar_title": "Perplexity: الفرق بين الذكاء الاصطناعي وAGI وكيف نقيّم ادعاءاته",
    "ar_summary": "تشرح Perplexity الفرق بين الذكاء الاصطناعي العام AGI والذكاء الاصطناعي الحالي، وتقدم معايير لتقييم الادعاءات المتعلقة به.",
    "ai": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "f054a54f8228",
+   "company": "openai",
+   "kind": "blog",
+   "title": "How Revolut raises ambition without lowering the bar",
+   "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+   "url": "https://openai.com/business/customer-stories/revolut",
+   "image": null,
+   "published": "2026-11-16T09:30:00Z",
+   "found": "2026-11-17T06:30:46Z",
+   "importance": 0,
    "fetched": true,
    "img_tried": true
   },
