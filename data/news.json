@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:09:37Z",
+ "updated": "2026-11-17T21:10:32Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_buildersGemini_4_Carbon_hero.max-600x600.format-webp.webp",
    "published": "2026-11-17T21:00:00Z",
    "found": "2026-11-17T21:09:37Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "اطّلع على ما يبنيه 5 مطوّرين باستخدام Gemini 4 Carbon",
+   "ar_summary": "تستعرض غوغل خمسة مشاريع واقعية بناها مطورون بنموذج Gemini 4 Carbon، من محاكاة الفيزياء الحية إلى تحويل صورة مرجعية واحدة إلى تصميم ثلاثي الأبعاد.",
+   "ai": true
   },
   {
    "id": "96ff71f54c6e",
@@ -1021,7 +1025,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مساعد التجزئة بالذكاء الاصطناعي: من سؤال العميل إلى إتمام الصفقة",
+   "ar_summary": "ملخص ندوة من ElevenLabs حول بناء وكيل صوتي بمنصة ElevenAgents يتولى محادثات الحجز كاملةً من البداية إلى النهاية.",
+   "ai": true
   },
   {
    "id": "350fb3acef43",
