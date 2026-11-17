@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:50:49Z",
+ "updated": "2026-11-17T22:59:56Z",
  "categories": [
   {
    "key": "big",
@@ -3283,6 +3283,21 @@
    "ar_title": "Devin يطلق خطة Teams جديدة مع Devin Desktop للجميع وجلسات مجانية بنموذج SWE-2",
    "ar_summary": "أعلنت Devin ترقية خطة Teams بحيث يحصل كل مستخدم على Devin Desktop وجلسات مجانية مدعومة بنموذج SWE-2، مع إضافة SSO وضوابط للتكلفة واتفاقية BAA قياسية.",
    "ai": true
+  },
+  {
+   "id": "de2aab827d5a",
+   "company": "pika",
+   "kind": "blog",
+   "title": "Pika vs Runway: pricing compared",
+   "summary": "Seedance 2.5, Kling 4.0 and Veo 3.1 from $10/month on Pika. What a 5-second clip costs on Pika and Runway, entry plan and top plan, checked November 12, 2026.",
+   "url": "https://pika.art/blog/pika-vs-runway",
+   "image": "https://cdn.pika.art/v2/creation/cms/notion/86dcf5afb50f94b386bc5d2c1f936f1b.jpg",
+   "published": "2026-11-12T00:00:00Z",
+   "found": "2026-11-17T22:59:56Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "c7dbc4bf0cc1",
