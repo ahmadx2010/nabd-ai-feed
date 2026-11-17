@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:06:10Z",
+ "updated": "2026-11-17T18:07:38Z",
  "categories": [
   {
    "key": "big",
@@ -416,7 +416,11 @@
    "found": "2026-11-17T18:06:10Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "LangSmith تضيف ضوابط جديدة لحماية البيانات الحساسة في سجلات التتبع",
+   "ar_summary": "أعلنت LangChain عن ضوابط جديدة في LangSmith تساعد الفرق على حماية البيانات الحساسة الموجودة في سجلات تتبع الوكلاء.",
+   "ai": true
   },
   {
    "id": "4b296014d1aa",
@@ -541,10 +545,50 @@
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/r79y1odp3ia-Scribe-v3-Live-Medical-Cover.webp",
    "published": "2026-11-17T12:00:00Z",
    "found": "2026-11-17T18:06:10Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تطلق Scribe v3 Live Medical للتفريغ الصوتي الطبي في المكالمات المباشرة",
+   "ar_summary": "أطلقت ElevenLabs نموذج Scribe v3 Live Medical الذي يلتقط أسماء الأدوية والمصطلحات السريرية بدقة أثناء المكالمات المباشرة، وهو متاح الآن في ElevenAgents.",
+   "ai": true
+  },
+  {
+   "id": "d8da04244f6b",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Introducing Multiagent for the most complex work",
+   "summary": "Perplexity Computer gets a new Multiagent effort level in which a lead agent coordinates up to 16 agents running different frontier models in parallel. Available to Max subscribers on the web.",
+   "url": "https://www.perplexity.ai/hub/blog/introducing-computer-multiagent",
+   "image": null,
+   "published": "2026-11-17T12:00:00Z",
+   "found": "2026-11-17T18:07:38Z",
+   "importance": 2,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity تطلق «Multiagent» لتنسيق فريق وكلاء ذكاء اصطناعي في المهام المعقدة",
+   "ar_summary": "أضافت Perplexity مستوى جهد جديدًا باسم Multiagent إلى Computer، يقوده وكيل رئيسي ينسّق حتى 16 وكيلًا يعملون بالتوازي بنماذج رائدة مختلفة. الميزة متاحة لمشتركي Max على الويب.",
+   "ai": true
+  },
+  {
+   "id": "213370c9979c",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Introducing Orchestrator: One API for frontier and open-weight models",
+   "summary": "Perplexity launches the Orchestrator API giving access to 85+ frontier and open-weight models through one API with unified billing and automatic failover.",
+   "url": "https://www.perplexity.ai/hub/blog/introducing-orchestrator",
+   "image": null,
+   "published": "2026-11-17T12:00:00Z",
+   "found": "2026-11-17T18:07:38Z",
+   "importance": 2,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity تطلق Orchestrator: واجهة API واحدة للنماذج الرائدة ومفتوحة الأوزان",
+   "ar_summary": "أطلقت Perplexity واجهة Orchestrator التي تتيح الوصول إلى أكثر من 85 نموذجًا من عدة مزودين عبر API واحدة، مع فوترة موحدة وتبديل تلقائي عند الأعطال.",
+   "ai": true
   },
   {
    "id": "350fb3acef43",
