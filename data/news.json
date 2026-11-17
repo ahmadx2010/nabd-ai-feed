@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:15:43Z",
+ "updated": "2026-11-17T18:24:52Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,36 @@
    "ar_title": "Cohere تضيف موصّل Crunchbase إلى منصة North لوكلاء الذكاء الاصطناعي",
    "ar_summary": "أطلقت Cohere موصّل Crunchbase داخل منصة North، ما يتيح لوكلاء المؤسسات الوصول إلى بيانات أكثر من 5 ملايين شركة وتاريخ التمويل والمؤشرات التنبؤية.",
    "ai": true
+  },
+  {
+   "id": "24090026a0c1",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents",
+   "summary": "The post Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents appeared first on Source .",
+   "url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents/",
+   "image": null,
+   "published": "2026-11-17T18:20:14Z",
+   "found": "2026-11-17T18:24:52Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "32a8bc53e2b0",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "Windows security at Ignite 2026: Start secure, protect what matters, prepare for AI",
+   "summary": "AI is changing the threat landscape as fast as it is changing the way we work. Attackers are using AI to find vulnerabilities, build exploits and scale their campaigns faster than ever, shrinking the time between a weakness being dis The post Windows security at Ignite 2026: Start secure, protect what matters, prepare for AI appeared first on Windows Blog .",
+   "url": "https://blogs.windows.com/windowsexperience/2026/11/17/windows-security-at-ignite-2026-start-secure-protect-what-matters-prepare-for-ai/",
+   "image": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Windows-FY25-COMMR-LENOVO-TEAM-02-330-RGB.jpg",
+   "published": "2026-11-17T18:15:58Z",
+   "found": "2026-11-17T18:24:52Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "5ada6de585c7",
