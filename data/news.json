@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T19:01:54Z",
+ "updated": "2026-11-17T19:39:10Z",
  "categories": [
   {
    "key": "big",
@@ -414,10 +414,14 @@
    "image": "https://i1.ytimg.com/vi/tKoDPOrLMX0/hqdefault.jpg",
    "published": "2026-11-17T18:41:32Z",
    "found": "2026-11-17T18:52:46Z",
-   "importance": 2,
+   "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "بناء مواقع تصوير ثلاثية الأبعاد باستخدام GPT-6.2 Astra",
+   "ar_summary": "تعرض OpenAI في فيديو جديد كيف يعيد نموذج GPT-6.2 Astra الرائد بناء غرفة كاملة انطلاقاً من إطارين فقط من فيديو، عبر Codex وBlender. يوضح الفيديو تغيير الديكور والإضاءة وتحويل المشهد إلى مساحة تفاعلية.",
+   "ai": true
   },
   {
    "id": "24090026a0c1",
