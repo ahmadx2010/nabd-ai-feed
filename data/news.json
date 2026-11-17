@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T17:21:38Z",
+ "updated": "2026-11-17T18:06:10Z",
  "categories": [
   {
    "key": "big",
@@ -405,6 +405,20 @@
    "ai": true
   },
   {
+   "id": "d931638318d8",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "Protect Sensitive Data In Your Traces New Controls In Langsmith",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith",
+   "image": null,
+   "published": "2026-11-17T18:06:10Z",
+   "found": "2026-11-17T18:06:10Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "4b296014d1aa",
    "company": "replit",
    "kind": "blog",
@@ -516,6 +530,21 @@
    "ar_title": "كيف أعادت PostNord بناء خدمة عملائها الهاتفية على منصة ElevenAgents",
    "ar_summary": "استبدلت PostNord، أكبر مشغّل بريد في دول الشمال الأوروبي، نظام الرد الآلي الهاتفي في السويد بنظام جديد من ElevenLabs، ما رفع نسبة إتمام المهام من 45% إلى 60%.",
    "ai": true
+  },
+  {
+   "id": "b22006398e4d",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Scribe v3 Live Medical helps conversational agents get clinical details right",
+   "summary": "Scribe v3 Live Medical helps agents catch drug names and clinical terms on live calls, with the lowest WER of the medical models we tested.",
+   "url": "https://elevenlabs.io/blog/scribe-v3-live-medical",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/r79y1odp3ia-Scribe-v3-Live-Medical-Cover.webp",
+   "published": "2026-11-17T12:00:00Z",
+   "found": "2026-11-17T18:06:10Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "350fb3acef43",
