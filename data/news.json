@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T15:03:04Z",
+ "updated": "2026-11-17T15:04:09Z",
  "categories": [
   {
    "key": "big",
@@ -414,10 +414,14 @@
    "image": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
    "published": "2026-11-17T15:00:11Z",
    "found": "2026-11-17T15:03:04Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Suno تطلق «Visuals»: حوّل أغانيك إلى فيديوهات وصور",
+   "ar_summary": "أطلقت Suno أداة Visuals الجديدة التي تحوّل أغانيك إلى مقاطع فيديو وفيديوهات كلمات وعوالم بصرية جاهزة للمشاركة. الأداة متاحة اليوم على الويب.",
+   "ai": true
   },
   {
    "id": "2bd9a2245c49",
@@ -2390,7 +2394,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تحدّث أدوات الكتب الصوتية في ElevenCreative",
+   "ar_summary": "أضافت ElevenCreative إلى Studio شريطًا جانبيًا لقاموس النطق، ودعم المؤثرات الصوتية والموسيقى على الخط الزمني، وتشغيلًا فوريًا أثناء التوليد.",
+   "ai": true
   },
   {
    "id": "17c1d391457e",
