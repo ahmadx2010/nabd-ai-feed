@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:52:46Z",
+ "updated": "2026-11-17T18:54:28Z",
  "categories": [
   {
    "key": "big",
@@ -429,10 +429,14 @@
    "image": null,
    "published": "2026-11-17T18:20:14Z",
    "found": "2026-11-17T18:24:52Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مايكروسوفت وشركاء من قطاعات مختلفة يطلقون «مبادرة شفافية الذكاء الاصطناعي» لتعزيز ثقة المؤسسات",
+   "ar_summary": "أعلن ساتيا ناديلا خلال Microsoft Ignite مبادرة شفافية الذكاء الاصطناعي، وهي جهد تعاوني لوضع نهج مفتوح ومشترك للأمان والحوكمة عبر النماذج والمزوّدين.",
+   "ai": true
   },
   {
    "id": "32a8bc53e2b0",
@@ -447,7 +451,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "أمن ويندوز في Ignite 2026: البدء بأمان وحماية الأهم والاستعداد للذكاء الاصطناعي",
+   "ar_summary": "تستعرض مايكروسوفت تحديثات أمن ويندوز في ظل استخدام المهاجمين الذكاء الاصطناعي، مع التركيز على إدارة الوكلاء بأمان.",
+   "ai": true
   },
   {
    "id": "5ada6de585c7",
@@ -462,7 +470,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "نشر وكلاء الذكاء الاصطناعي المحكومين في ويندوز للمؤسسات",
+   "ar_summary": "تشرح مايكروسوفت كيفية حوكمة وكلاء الذكاء الاصطناعي على ويندوز عبر الهوية والاحتواء والإدارة باستخدام Entra وIntune وDefender.",
+   "ai": true
   },
   {
    "id": "6776907116d8",
@@ -474,10 +486,14 @@
    "image": "https://news.microsoft.com/source/wp-content/uploads/2026/11/Microsoft_salesforce_grey.png",
    "published": "2026-11-17T18:10:16Z",
    "found": "2026-11-17T18:15:43Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مايكروسوفت وSalesforce تعلنان Copilotforce لدمج سياق العملاء في تجارب Copilot",
+   "ar_summary": "أعلنت الشركتان شراكة جديدة تدمج بيانات Salesforce وإجراءاتها داخل Microsoft Copilot وTeams وFabric مع الحفاظ على الأذونات الأمنية الحالية.",
+   "ai": true
   },
   {
    "id": "d931638318d8",
@@ -507,10 +523,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/707030498-32736842-e930-46d7-b653-5841bc626d76.png",
    "published": "2026-11-17T18:04:48Z",
    "found": "2026-11-17T18:43:06Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تحديثات Copilot Fusion: توفر أوسع ونتائج اختبارات ونماذج جديدة",
+   "ar_summary": "يتوسع Copilot Fusion إلى الويب والجوال وVisual Studio، ويحقق 71.2% على Terminal-Bench 4.1 مع إضافة نماذج جديدة.",
+   "ai": true
   },
   {
    "id": "0fb6d41b1c23",
@@ -522,10 +542,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/708079533-a11f9e38-ea9f-4f23-b5be-c392daacaf7e.jpg",
    "published": "2026-11-17T18:03:42Z",
    "found": "2026-11-17T18:43:06Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تطبيق GitHub Copilot يدعم Azure DevOps والمتصفح وGitHub Enterprise Server",
+   "ar_summary": "توسّع GitHub تطبيق Copilot ليدعم مستودعات Azure DevOps (معاينة عامة) وميزة استخدام المتصفح، وأصبح دعم GitHub Enterprise Server متاحاً للجميع.",
+   "ai": true
   },
   {
    "id": "d463ce808607",
@@ -537,10 +561,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/708276078-755fdd57-5343-48b5-a592-ecf652d88e0a.jpg",
    "published": "2026-11-17T18:02:05Z",
    "found": "2026-11-17T18:43:06Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مراجعة الكود في Copilot: جهد تكيفي وكشف الأسرار وسياق عبر المستودعات",
+   "ar_summary": "تضيف مراجعة الكود في Copilot وضع Adaptive لاختيار عمق المراجعة، وكشف الأسرار المكشوفة، وسياقاً من مستودعات مرتبطة.",
+   "ai": true
   },
   {
    "id": "1fae7e83ee21",
@@ -552,10 +580,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/708477214-1cb51fc6-9621-41e7-b5bb-ae9007edc021.png",
    "published": "2026-11-17T18:01:45Z",
    "found": "2026-11-17T18:43:06Z",
-   "importance": 1,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "نموذجا MAI Code 2 وMAI Code 2 Flash من مايكروسوفت يصلان إلى GitHub Copilot",
+   "ar_summary": "وصل الجيل الجديد من نماذج البرمجة MAI Code 2 وMAI Code 2 Flash إلى GitHub Copilot للبرمجة الوكيلية.",
+   "ai": true
   },
   {
    "id": "16585d72ac90",
@@ -567,10 +599,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/681948821-44afde3e-3c49-4c63-987d-71f01130280d_f9c37f.png",
    "published": "2026-11-17T18:00:59Z",
    "found": "2026-11-17T18:43:06Z",
-   "importance": 2,
+   "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "GitHub Copilot في JetBrains: وصول عن بُعد وإملاء صوتي واستخدام المتصفح",
+   "ar_summary": "يجلب التحديث إلى JetBrains ميزات الوصول عن بُعد وصندوق الرمل السحابي والإملاء الصوتي على الجهاز واستخدام المتصفح بمعاينة عامة.",
+   "ai": true
   },
   {
    "id": "f7d1e15580c3",
@@ -585,7 +621,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مراقبة نشاط GitHub Copilot عبر Microsoft Agent 365",
+   "ar_summary": "يمكن للمؤسسات بث نشاط وكلاء Copilot إلى Microsoft Agent 365 لمراجعته مع أحمال الذكاء الاصطناعي الأخرى.",
+   "ai": true
   },
   {
    "id": "2217122441a2",
@@ -600,7 +640,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "GitHub Copilot CLI يضيف تسجيل الدخول عبر Microsoft Entra",
+   "ar_summary": "يدعم Copilot CLI مصادقة Microsoft Entra بمعاينة عامة لحسابات EMU أو ترخيص Microsoft 365 Copilot.",
+   "ai": true
   },
   {
    "id": "3549b02ad48b",
@@ -615,7 +659,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تتبّع نتائج مراجعة كود Copilot في Repository insights",
+   "ar_summary": "صفحة جديدة تعرض مدى الاستجابة لتعليقات مراجعة Copilot في كل مستودع.",
+   "ai": true
   },
   {
    "id": "2b90807377a9",
@@ -627,10 +675,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/708227288-e807f2f1-a3ba-420e-9ce4-fe51b3053550.png",
    "published": "2026-11-17T18:00:33Z",
    "found": "2026-11-17T18:43:06Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "GitHub Copilot Evals بمعاينة عامة",
+   "ar_summary": "أداة تتيح إنشاء اختبارات متكررة لقياس أداء المهارات والوكلاء وأدوات MCP في إعداد Copilot.",
+   "ai": true
   },
   {
    "id": "9ab9f5272f52",
@@ -642,10 +694,14 @@
    "image": "https://about.fb.com/wp-content/uploads/2026/11/AU_Jolly_Surfer_Horizontal.png?fit=3840%2C2160",
    "published": "2026-11-17T18:00:31Z",
    "found": "2026-11-17T18:33:59Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Muse، وكيل الذكاء الاصطناعي الشخصي من Meta، يصل إلى أستراليا",
+   "ar_summary": "أعلنت Meta توفر Muse في أستراليا مع موصّلات محلية للتسوق والعقارات واللياقة والترفيه تُطرح تدريجياً.",
+   "ai": true
   },
   {
    "id": "58cb20e7f3ed",
@@ -657,10 +713,14 @@
    "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-new-releases.jpg",
    "published": "2026-11-17T18:00:30Z",
    "found": "2026-11-17T18:52:17Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "فحص الأسرار عند الطلب للمطورين والوكلاء في Copilot",
+   "ar_summary": "أصبح مختص مراجعة الأمان في Copilot يشغّل فحص الأسرار من GitHub لاكتشاف الأسرار قبل الدمج.",
+   "ai": true
   },
   {
    "id": "87dfb7832f01",
@@ -675,7 +735,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "موقع GitHub Copilot للمعايير يضيف مقارنات بين الأطر",
+   "ar_summary": "أضاف الموقع Terminal-Bench-Science 0.1 وعرضاً يقارن Copilot CLI مع Claude Code وCodex CLI بالنموذج نفسه.",
+   "ai": true
   },
   {
    "id": "4b296014d1aa",
@@ -706,10 +770,14 @@
    "image": "https://i4.ytimg.com/vi/C1zYX5jwqq4/hqdefault.jpg",
    "published": "2026-11-17T17:55:40Z",
    "found": "2026-11-17T18:15:43Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "فيديو: GPT-6.2 Astra وGPT-6.2 Sol — نماذج مبنية للعالم الحقيقي",
+   "ar_summary": "فيديو من OpenAI يقدّم GPT-6.2 Astra للمهام الصعبة وGPT-6.2 Sol الأكثر كفاءة للاستخدام اليومي، وهما متاحان في ChatGPT وCodex وواجهة API.",
+   "ai": true
   },
   {
    "id": "549a77347d5e",
@@ -723,7 +791,11 @@
    "found": "2026-11-17T18:15:43Z",
    "importance": 2,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تطلق GPT-6.2 Astra وSol",
+   "ar_summary": "تقدّم OpenAI نموذجي GPT-6.2 Astra وSol بمخرجات مهنية أفضل وبرمجة واستخدام حاسوب أكفأ وبتكلفة أقل عبر ChatGPT Work وCodex وAPI.",
+   "ai": true
   },
   {
    "id": "357d085ae06f",
@@ -877,6 +949,24 @@
    "ai": true,
    "fetched": true,
    "img_tried": true
+  },
+  {
+   "id": "c8d72fca3027",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Orchestrator: One API for reliable inference",
+   "summary": "Perplexity's Orchestrator gives access to open-weight and proprietary models through one API with unified billing, automatic provider failover and preview automatic routing.",
+   "url": "https://www.perplexity.ai/hub/blog/orchestrator-one-api-for-reliable-inference",
+   "image": null,
+   "published": "2026-11-17T12:00:00Z",
+   "found": "2026-11-17T18:54:28Z",
+   "importance": 1,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity تطلق Orchestrator: واجهة API واحدة لاستدلال موثوق عبر نماذج متعددة",
+   "ar_summary": "تتيح خدمة Orchestrator من Perplexity الوصول إلى نماذج مفتوحة ونماذج مغلقة من مزوّدين آخرين عبر واجهة API واحدة وفوترة موحدة، مع تحويل تلقائي عند فشل المزوّد وتوجيه تلقائي تجريبي.",
+   "ai": true
   },
   {
    "id": "350fb3acef43",
@@ -1059,7 +1149,11 @@
    "found": "2026-11-17T18:15:43Z",
    "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Astra for Law يتصدر الذكاء القانوني",
+   "ar_summary": "احتل Astra for Law المركز الأول في تقييم إطلاق شمل 24 مجالاً قانونياً، ويمكن لعملاء ChatGPT Enterprise طلب الوصول.",
+   "ai": true
   },
   {
    "id": "23e0c35a1797",
