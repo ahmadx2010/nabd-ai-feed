@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:08:05Z",
+ "updated": "2026-11-17T14:18:23Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/dd6f09e12e0c0a4d3b76043b893998f2470aac8c-3840x2160.png?rect=0,72,3840,2016&w=1200&h=630&q=80&fit=crop&auto=format",
    "published": "2026-11-17T19:06:00Z",
    "found": "2026-11-17T14:08:05Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Cohere تضيف موصّل Crunchbase إلى منصة North لوكلاء الذكاء الاصطناعي",
+   "ar_summary": "أطلقت Cohere موصّل Crunchbase داخل منصة North، ما يتيح لوكلاء المؤسسات الوصول إلى بيانات أكثر من 5 ملايين شركة وتاريخ التمويل والمؤشرات التنبؤية.",
+   "ai": true
   },
   {
    "id": "2bd9a2245c49",
@@ -561,9 +565,13 @@
    "image": null,
    "published": "2026-11-17T00:00:00Z",
    "found": "2026-11-17T13:58:58Z",
-   "importance": 2,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تطلق مبادرة «OpenAI for Chile» بالشراكة مع حكومة تشيلي",
+   "ar_summary": "أعلنت OpenAI شراكة مع حكومة تشيلي لدعم التبني المسؤول للذكاء الاصطناعي وبناء مهارات القطاع العام ومساعدة الشركات الناشئة المحلية على تطوير تطبيقات الذكاء الاصطناعي.",
+   "ai": true
   },
   {
    "id": "23e0c35a1797",
