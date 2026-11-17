@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T06:40:35Z",
+ "updated": "2026-11-17T07:25:26Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,20 @@
    "ar_title": "كيف أعادت PostNord بناء خدمة عملائها الهاتفية على منصة ElevenAgents",
    "ar_summary": "استبدلت PostNord، أكبر مشغّل بريد في دول الشمال الأوروبي، نظام الرد الآلي الهاتفي في السويد بنظام جديد من ElevenLabs، ما رفع نسبة إتمام المهام من 45% إلى 60%.",
    "ai": true
+  },
+  {
+   "id": "590cb0b9c5dd",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "image": null,
+   "published": "2026-11-17T00:00:00Z",
+   "found": "2026-11-17T07:25:26Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "23e0c35a1797",
