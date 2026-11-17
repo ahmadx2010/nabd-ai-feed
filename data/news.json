@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:53:54Z",
+ "updated": "2026-11-17T15:03:04Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "Cohere تضيف موصّل Crunchbase إلى منصة North لوكلاء الذكاء الاصطناعي",
    "ar_summary": "أطلقت Cohere موصّل Crunchbase داخل منصة North، ما يتيح لوكلاء المؤسسات الوصول إلى بيانات أكثر من 5 ملايين شركة وتاريخ التمويل والمؤشرات التنبؤية.",
    "ai": true
+  },
+  {
+   "id": "53dff2f089e7",
+   "company": "suno",
+   "kind": "blog",
+   "title": "Introducing Visuals on Suno",
+   "summary": "Turn your Suno songs into a video clip, a lyrics video or a whole world for your music that’s ready to share.",
+   "url": "https://suno.com/blog/introducing-visuals",
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+   "published": "2026-11-17T15:00:11Z",
+   "found": "2026-11-17T15:03:04Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "2bd9a2245c49",
