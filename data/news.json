@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T07:26:19Z",
+ "updated": "2026-11-17T10:01:04Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,81 @@
    "ar_title": "كيف أعادت PostNord بناء خدمة عملائها الهاتفية على منصة ElevenAgents",
    "ar_summary": "استبدلت PostNord، أكبر مشغّل بريد في دول الشمال الأوروبي، نظام الرد الآلي الهاتفي في السويد بنظام جديد من ElevenLabs، ما رفع نسبة إتمام المهام من 45% إلى 60%.",
    "ai": true
+  },
+  {
+   "id": "7b86eb7de593",
+   "company": "openai",
+   "kind": "video",
+   "title": "How Revolut’s lean teams take on bigger challenges with OpenAI",
+   "summary": "What can one engineer build when a project looks like it needs a whole team? At Revolut, an engineer used Codex to build an internal code review service himself. Its designers used Codex to turn seven years of design documentation into a format AI could read in a single day. OpenAI also helps Revolut’s financial crime team investigate flagged payments and respond faster to make shopping safer.…",
+   "url": "https://www.youtube.com/watch?v=ZIpm-0RczCk",
+   "image": "https://i3.ytimg.com/vi/ZIpm-0RczCk/hqdefault.jpg",
+   "published": "2026-11-17T09:45:35Z",
+   "found": "2026-11-17T10:01:04Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "3a38c568df3f",
+   "company": "openai",
+   "kind": "video",
+   "title": "How one engineer built a code review service with Codex | Revolut’s Dmitry Pitik",
+   "summary": "Dmitry Pitik thought he’d need a team of developers to build Revolut’s internal code review service. In this film, the Senior Platform Engineer explains how he broke the design into tasks, assigned them to Codex agents working in parallel and reviewed the code himself. That gave him more time for the engineering decisions he wanted to get right. Read the full story:…",
+   "url": "https://www.youtube.com/watch?v=R_sl8zEp9ng",
+   "image": "https://i3.ytimg.com/vi/R_sl8zEp9ng/hqdefault.jpg",
+   "published": "2026-11-17T09:45:34Z",
+   "found": "2026-11-17T10:01:04Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "da9f25e04c88",
+   "company": "openai",
+   "kind": "video",
+   "title": "Making marketing feel local across 40 markets | Revolut’s Kim Maniovich",
+   "summary": "A campaign that works in one market can need a different approach in the next. Kim Maniovich, Global Head of Business Marketing at Revolut, shares how her team uses AI to understand local differences and tailor campaigns faster. She also explains why she asks her team to challenge an answer even when it sounds convincing. Read the full story: https://openai.com/business/customer-stories/revolut/",
+   "url": "https://www.youtube.com/watch?v=xkeXefmxArU",
+   "image": "https://i1.ytimg.com/vi/xkeXefmxArU/hqdefault.jpg",
+   "published": "2026-11-17T09:45:31Z",
+   "found": "2026-11-17T10:01:04Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "5ef1b55f8518",
+   "company": "openai",
+   "kind": "video",
+   "title": "Faster fraud response for safer shopping | Revolut’s David Abitbol",
+   "summary": "OpenAI helps Revolut’s financial crime team investigate flagged payments and respond faster to make shopping safer. David Abitbol, AI Lead at Revolut, explains how his team tests AI systems before putting them to work. He also shares how Codex gives engineers more time to weigh up different designs and decide what to build. Read the full story: https://openai.com/business/customer-stories/revolut/",
+   "url": "https://www.youtube.com/watch?v=-O0tMcyH4Wo",
+   "image": "https://i2.ytimg.com/vi/-O0tMcyH4Wo/hqdefault.jpg",
+   "published": "2026-11-17T09:45:26Z",
+   "found": "2026-11-17T10:01:04Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "9c409e1fafef",
+   "company": "openai",
+   "kind": "video",
+   "title": "Making seven years of design documentation AI-readable in a day | Revolut’s Dmytro Pavlov",
+   "summary": "Revolut’s designers had spent seven years documenting how their design system works. Senior Designer Dmytro Pavlov shares how his team used Codex to turn that material into a format AI could read in a single day. Along the way, they spotted gaps in their templates and made the guidance clearer for the designers who use it. Read the full story: https://openai.com/business/customer-stories/revolut/",
+   "url": "https://www.youtube.com/watch?v=hAASMPKkaXA",
+   "image": "https://i1.ytimg.com/vi/hAASMPKkaXA/hqdefault.jpg",
+   "published": "2026-11-17T09:45:10Z",
+   "found": "2026-11-17T10:01:04Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "590cb0b9c5dd",
