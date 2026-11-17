@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:58:58Z",
+ "updated": "2026-11-17T14:08:05Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "cd5eb780fba4",
+   "company": "cohere",
+   "kind": "blog",
+   "title": "Crunchbase in North | Cohere",
+   "summary": "Equip your AI agents with Crunchbase data. Access 5M+ company profiles, funding histories, and predictive signals — right inside North.",
+   "url": "https://cohere.com/blog/crunchbase-in-north",
+   "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/dd6f09e12e0c0a4d3b76043b893998f2470aac8c-3840x2160.png?rect=0,72,3840,2016&w=1200&h=630&q=80&fit=crop&auto=format",
+   "published": "2026-11-17T19:06:00Z",
+   "found": "2026-11-17T14:08:05Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "2bd9a2245c49",
    "company": "elevenlabs",
