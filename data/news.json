@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:19:08Z",
+ "updated": "2026-11-17T21:28:15Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "4faa980a3027",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+   "summary": "Revenue of $115.8 billion, up 103% from a year agoData Center revenue of $107.6 billion, up 110% from a year agoVera Rubin NVL72, the most versatile and advanced computing platform ever built, ...",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+   "image": "https://iprsoftwaremedia.com/219/files/202609/808e2a365dfc634a953afe10755a5580/6aba49193d63324837dde89f_39454f98-f1a6-4f6a-b3ab-43fe63dad6e/39454f98-f1a6-4f6a-b3ab-43fe63dad6e_thmb.jpg?v=2b3fbe3e-f530-4ae8-9266-5c51bd3e83c5",
+   "published": "2026-11-17T21:20:00Z",
+   "found": "2026-11-17T21:28:15Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "cdc7326c2991",
    "company": "gemini",
