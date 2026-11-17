@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T07:25:26Z",
+ "updated": "2026-11-17T07:26:19Z",
  "categories": [
   {
    "key": "big",
@@ -414,9 +414,13 @@
    "image": null,
    "published": "2026-11-17T00:00:00Z",
    "found": "2026-11-17T07:25:26Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تعزز الدفاعات السيبرانية لحلف الناتو والحلفاء بالذكاء الاصطناعي",
+   "ar_summary": "تعمل OpenAI مع الناتو والوكالات السيبرانية الحليفة لمساعدة المدافعين الموثوقين على اكتشاف الثغرات واختبار الإصلاحات وحماية الأنظمة الحيوية.",
+   "ai": true
   },
   {
    "id": "23e0c35a1797",
