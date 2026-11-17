@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:24:53Z",
+ "updated": "2026-11-17T21:09:37Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "cdc7326c2991",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "See what 5 builders are making with Gemini 4 Carbon",
+   "summary": "Collage of different projects made with Gemini 4 Carbon",
+   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_buildersGemini_4_Carbon_hero.max-600x600.format-webp.webp",
+   "published": "2026-11-17T21:00:00Z",
+   "found": "2026-11-17T21:09:37Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "96ff71f54c6e",
    "company": "copilot",
@@ -990,6 +1005,21 @@
    "ar_title": "Perplexity تطلق Orchestrator: واجهة API واحدة لاستدلال موثوق عبر نماذج متعددة",
    "ar_summary": "تتيح خدمة Orchestrator من Perplexity الوصول إلى نماذج مفتوحة ونماذج مغلقة من مزوّدين آخرين عبر واجهة API واحدة وفوترة موحدة، مع تحويل تلقائي عند فشل المزوّد وتوجيه تلقائي تجريبي.",
    "ai": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "9729e350f38f",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "The AI retail assistant: from customer question to completed transaction",
+   "summary": "Learn how to build an AI agent to handle customer booking conversations from start to finish with ElevenAgents",
+   "url": "https://elevenlabs.io/blog/retail-ai-assistant-webinar-recap",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/jxghfr45t4m-elevenbooking-from-customer-question-to-completed-transactio-landscape.webp",
+   "published": "2026-11-17T12:00:00Z",
+   "found": "2026-11-17T21:09:37Z",
+   "importance": 0,
+   "detail": true,
    "fetched": true,
    "img_tried": true
   },
