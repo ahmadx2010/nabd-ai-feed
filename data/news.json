@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:43:06Z",
+ "updated": "2026-11-17T18:52:17Z",
  "categories": [
   {
    "key": "big",
@@ -628,6 +628,21 @@
    "published": "2026-11-17T18:00:31Z",
    "found": "2026-11-17T18:33:59Z",
    "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "58cb20e7f3ed",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Secret scanning on demand for developers and agents",
+   "summary": "Copilot's security review specialist now runs GitHub secret scanning, so developers and agents can catch secrets in code changes before they're merged. The post Secret scanning on demand for developers and agents appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-17-secret-scanning-on-demand-for-developers-and-agents",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-new-releases.jpg",
+   "published": "2026-11-17T18:00:30Z",
+   "found": "2026-11-17T18:52:17Z",
+   "importance": 0,
    "detail": true,
    "fetched": true,
    "img_tried": true
