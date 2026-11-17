@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:10:32Z",
+ "updated": "2026-11-17T21:19:08Z",
  "categories": [
   {
    "key": "big",
@@ -1255,6 +1255,20 @@
    "ar_title": "إصدارات GitHub Copilot الأسبوعية: دعم GitHub Enterprise Server ونموذجان جديدان",
    "ar_summary": "أعلنت GitHub عن تحديثات الأسبوع لـ Copilot، منها إتاحة مستودعات GitHub Enterprise Server في تطبيق Copilot، وإضافة نموذجي Claude Fable 5.2 وGemini 4 Carbon، وميزات جديدة في VS Code لإدارة جلسات الوكلاء.",
    "ai": true
+  },
+  {
+   "id": "ed812786f009",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "What drives the cost of AI at work",
+   "summary": "The post What drives the cost of AI at work appeared first on Source .",
+   "url": "https://news.microsoft.com/source/2026/11/16/what-ai-at-work-really-costs/",
+   "image": "https://news.microsoft.com/source/wp-content/uploads/2026/11/TCO-Report_Blog_Header-Updated_1920.webp",
+   "published": "2026-11-16T21:06:29Z",
+   "found": "2026-11-17T21:19:08Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f9ace2a74e66",
