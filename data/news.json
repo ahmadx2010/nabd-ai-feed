@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:59:56Z",
+ "updated": "2026-11-17T23:09:08Z",
  "categories": [
   {
    "key": "big",
@@ -1070,6 +1070,21 @@
    "ai": true
   },
   {
+   "id": "b9fccc282f81",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "What is WebRTC? A guide to real-time web communication",
+   "summary": "Learn what WebRTC is, how it works, and how STUN, TURN, and media servers fit in. Compare WebRTC vs WebSocket and see use cases and limitations.",
+   "url": "https://elevenlabs.io/blog/what-is-webrtc",
+   "image": null,
+   "published": "2026-11-17T12:00:00Z",
+   "found": "2026-11-17T23:09:08Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "350fb3acef43",
    "company": "nvidia",
    "kind": "blog",
@@ -2133,6 +2148,21 @@
    "ar_title": "Together AI تكشف Together Compiler: وكلاء ذكاء اصطناعي يعيدون كتابة نوى GPU ويتفوقون على الـ megakernels",
    "ar_summary": "تعرض Together AI مسار تطوير Together Compiler، وهو إطار يستخدم وكلاء الذكاء الاصطناعي لإعادة كتابة ودمج نوى GPU في تمرير النموذج الأمامي. يتفوق الإطار بنسبة 28% على الـ megakernels المكتوبة يدويًا على B200 (2,118 مقابل 1,649 رمزًا في الثانية على Llama 3.2 1B).",
    "ai": true
+  },
+  {
+   "id": "24e843e375a7",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Split-and-Scale Latent 3D Representations",
+   "summary": "Latent 3D representations have significantly expanded the capabilities of modern shape modeling, enabling compact encoding of 3D scenes and supporting powerful 3D generative models. Despite this progress, current representations struggle to capture the fine details of complex objects, fundamentally limited by the capacity of their latents. However, scaling latent capacity at training time is…",
+   "url": "https://machinelearning.apple.com/research/split-scale-latent-3d",
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+   "published": "2026-11-16T00:00:00Z",
+   "found": "2026-11-17T23:09:08Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "87d7014c15ee",
