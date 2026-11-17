@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:29:29Z",
+ "updated": "2026-11-17T13:58:58Z",
  "categories": [
   {
    "key": "big",
@@ -535,6 +535,20 @@
    "ar_title": "OpenAI تعزز الدفاعات السيبرانية لحلف الناتو والحلفاء بالذكاء الاصطناعي",
    "ar_summary": "تعمل OpenAI مع الناتو والوكالات السيبرانية الحليفة لمساعدة المدافعين الموثوقين على اكتشاف الثغرات واختبار الإصلاحات وحماية الأنظمة الحيوية.",
    "ai": true
+  },
+  {
+   "id": "58da9c66b145",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Introducing OpenAI for Chile",
+   "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+   "url": "https://openai.com/index/introducing-openai-for-chile",
+   "image": null,
+   "published": "2026-11-17T00:00:00Z",
+   "found": "2026-11-17T13:58:58Z",
+   "importance": 2,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "23e0c35a1797",
