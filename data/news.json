@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:07:38Z",
+ "updated": "2026-11-17T18:15:43Z",
  "categories": [
   {
    "key": "big",
@@ -405,6 +405,36 @@
    "ai": true
   },
   {
+   "id": "5ada6de585c7",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "Enterprise Deployment of Governed Agents on Windows",
+   "summary": "As AI agents become more capable, they promise substantial productivity gains across enterprise workflows. At the same time, they can collapse familiar execution boundaries and introduce new risk paths—from agent to human, agent to agent, agent to The post Enterprise Deployment of Governed Agents on Windows appeared first on Windows Blog .",
+   "url": "https://blogs.windows.com/windowsdeveloper/2026/11/17/enterprise-deployment-of-governed-agents-on-windows/",
+   "image": null,
+   "published": "2026-11-17T18:15:01Z",
+   "found": "2026-11-17T18:15:43Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "6776907116d8",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences",
+   "summary": "The post Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences appeared first on Source .",
+   "url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences/",
+   "image": "https://news.microsoft.com/source/wp-content/uploads/2026/11/Microsoft_salesforce_grey.png",
+   "published": "2026-11-17T18:10:16Z",
+   "found": "2026-11-17T18:15:43Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "d931638318d8",
    "company": "langchain",
    "kind": "blog",
@@ -440,6 +470,35 @@
    "ar_title": "Replit تطلق «Missions»: أسراب وكلاء ذكيين لإنجاز أهداف معقدة",
    "ar_summary": "أطلقت Replit ميزة Missions التي تتيح لك تحديد الهدف لينسّق سرب من الوكلاء عملية التخطيط والبناء والاختبار والتحسين ضمن ميزانية وحدود تضعها أنت. وتستهدف الفرق التي تفتقر إلى الوقت أو الطاقة للأعمال المعقدة.",
    "ai": true
+  },
+  {
+   "id": "51e5a7d67945",
+   "company": "openai",
+   "kind": "video",
+   "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
+   "summary": "We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. Both models deliver better results on demanding tasks with fewer output tokens, so you can get more done within your usage limits. For businesses and developers, that means frontier performance at costs that make sense at scale. GPT‑6.2 Astra sets a…",
+   "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
+   "image": "https://i4.ytimg.com/vi/C1zYX5jwqq4/hqdefault.jpg",
+   "published": "2026-11-17T17:55:40Z",
+   "found": "2026-11-17T18:15:43Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "549a77347d5e",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "image": null,
+   "published": "2026-11-17T17:45:00Z",
+   "found": "2026-11-17T18:15:43Z",
+   "importance": 2,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "357d085ae06f",
@@ -570,7 +629,9 @@
    "ar_detail": true,
    "ar_title": "Perplexity تطلق «Multiagent» لتنسيق فريق وكلاء ذكاء اصطناعي في المهام المعقدة",
    "ar_summary": "أضافت Perplexity مستوى جهد جديدًا باسم Multiagent إلى Computer، يقوده وكيل رئيسي ينسّق حتى 16 وكيلًا يعملون بالتوازي بنماذج رائدة مختلفة. الميزة متاحة لمشتركي Max على الويب.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "213370c9979c",
@@ -588,7 +649,9 @@
    "ar_detail": true,
    "ar_title": "Perplexity تطلق Orchestrator: واجهة API واحدة للنماذج الرائدة ومفتوحة الأوزان",
    "ar_summary": "أطلقت Perplexity واجهة Orchestrator التي تتيح الوصول إلى أكثر من 85 نموذجًا من عدة مزودين عبر API واحدة، مع فوترة موحدة وتبديل تلقائي عند الأعطال.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "350fb3acef43",
@@ -758,6 +821,20 @@
    "ar_title": "Devin Bots: زملاء هندسة يمتلكون الأهداف ويقودون فرقاً من Devin",
    "ar_summary": "قدّمت Devin «Bots»، وكلاء دائمون بذاكرة وأدوات خاصة يقودون عدة نسخ من Devin بالتوازي لتحقيق أهداف كبيرة أو مستمرة، ولا يعرضون عليك إلا القرارات التي تحتاج حكمك.",
    "ai": true
+  },
+  {
+   "id": "0604bc2b50fc",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Astra for Law leads in legal intelligence",
+   "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+   "url": "https://openai.com/index/astra-law-6-2",
+   "image": null,
+   "published": "2026-11-17T00:00:00Z",
+   "found": "2026-11-17T18:15:43Z",
+   "importance": 1,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "23e0c35a1797",
