@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:32:12Z",
+ "updated": "2026-11-17T22:42:11Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95",
    "published": "2026-11-17T22:18:00Z",
    "found": "2026-11-17T22:32:12Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA توسّع التزاماتها مع شركاء سلسلة التوريد لدعم بناء البنية التحتية للذكاء الاصطناعي",
+   "ar_summary": "أعلنت NVIDIA اتفاقيات جديدة مع Kinsus وSamsung Electro-Mechanics وAmkor وSPIL وFoxconn وTSMC لزيادة الطاقة الإنتاجية في الركائز والتغليف المتقدم والتصنيع. تهدف الخطوة إلى مواكبة الطلب على منصات الحوسبة المتسارعة.",
+   "ai": true
   },
   {
    "id": "4faa980a3027",
