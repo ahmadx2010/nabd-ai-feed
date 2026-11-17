@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:54:28Z",
+ "updated": "2026-11-17T19:01:54Z",
  "categories": [
   {
    "key": "big",
@@ -966,7 +966,9 @@
    "ar_detail": true,
    "ar_title": "Perplexity تطلق Orchestrator: واجهة API واحدة لاستدلال موثوق عبر نماذج متعددة",
    "ar_summary": "تتيح خدمة Orchestrator من Perplexity الوصول إلى نماذج مفتوحة ونماذج مغلقة من مزوّدين آخرين عبر واجهة API واحدة وفوترة موحدة، مع تحويل تلقائي عند فشل المزوّد وتوجيه تلقائي تجريبي.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "350fb3acef43",
