@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:18:23Z",
+ "updated": "2026-11-17T14:53:54Z",
  "categories": [
   {
    "key": "big",
@@ -2361,6 +2361,21 @@
    "ar_title": "7 مهارات خدمة عملاء يحتاجها كل موظف بشري ووكيل ذكاء اصطناعي",
    "ar_summary": "دليل من ElevenLabs يشرح سبع مهارات أساسية في خدمة العملاء، مع أمثلة ومقارنة بين الموظف البشري ووكيل الذكاء الاصطناعي وطرق التدريب والقياس.",
    "ai": true
+  },
+  {
+   "id": "f0feeb5635af",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "What's new in Audiobooks in ElevenCreative",
+   "summary": "What's new in Audiobooks",
+   "url": "https://elevenlabs.io/blog/whatsnewinaudiobooks",
+   "image": null,
+   "published": "2026-11-12T12:00:00Z",
+   "found": "2026-11-17T14:53:54Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "17c1d391457e",
