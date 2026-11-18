@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:01:29Z",
+ "updated": "2026-11-18T17:09:47Z",
  "categories": [
   {
    "key": "big",
@@ -395,6 +395,21 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
    "published": "2026-11-18T17:00:00Z",
    "found": "2026-11-18T17:00:38Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "6ca988ce6eed",
+   "company": "googlelabs",
+   "kind": "blog",
+   "title": "Introducing Stitch Loop: A new way to build and evolve products",
+   "summary": "Arrow, reload, and message icons. At the bottom are the text \"Security\", \"Latency\", \"Accessibility\", \"Stitch Loop\"",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.max-600x600.format-webp.webp",
+   "published": "2026-11-18T17:00:00Z",
+   "found": "2026-11-18T17:09:47Z",
    "importance": 2,
    "detail": true,
    "fetched": true,
