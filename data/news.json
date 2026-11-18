@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:22:54Z",
+ "updated": "2026-11-18T18:33:22Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Genie 4 متاح الآن عبر Project Genie",
+   "ar_summary": "أطلقت Google DeepMind نموذج Genie 4 لمشتركي Google AI Ultra المؤهلين، مع وكيل Project Genie ومعرض مجتمعي لمشاركة العوالم التفاعلية. يتيح النموذج تعديل البيئات لحظياً بالأوامر النصية مع صوت أصلي.",
+   "ai": true
   },
   {
    "id": "265a9d6476f1",
@@ -413,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كواليس Genie 4: نموذج العوالم الأكثر واقعية وتفاعلاً",
+   "ar_summary": "فيديو من Google DeepMind يستعرض كواليس فيلم Genie 4، حيث يحاكي النموذج عوالم ديناميكية لحظياً بدل توليد فيديو ثابت.",
+   "ai": true
   },
   {
    "id": "b53b872a0923",
@@ -425,10 +433,14 @@
    "image": "https://i2.ytimg.com/vi/EDp4IoAUsXY/hqdefault.jpg",
    "published": "2026-11-18T18:12:21Z",
    "found": "2026-11-18T18:22:54Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Project Genie: أنشئ واستكشف عوالم تفاعلية بفضل Genie 4",
+   "ar_summary": "فيديو تعريفي بتجربة Project Genie الجديدة المعتمدة على Genie 4 مع Gemini، لإنشاء عوالم قابلة للاستكشاف والمشاركة من المتصفح.",
+   "ai": true
   },
   {
    "id": "bb5459d8891c",
@@ -443,7 +455,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Genie 4 متاح الآن في Project Genie",
+   "ar_summary": "تطرح Google تجربة Project Genie جديدة لمشتركي AI Ultra تشمل Genie 4 ووكيلاً إبداعياً ومعرضاً مجتمعياً لمشاركة العوالم التفاعلية وإعادة مزجها.",
+   "ai": true
   },
   {
    "id": "03ca256a4adf",
@@ -540,6 +556,24 @@
    "ai": true
   },
   {
+   "id": "2c87e235cd46",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Context rot in AI agents: why long tasks lose accuracy and how to prevent it",
+   "summary": "Perplexity explains context rot, the gradual drop in AI agent accuracy as working context grows, and how to mitigate it.",
+   "url": "https://www.perplexity.ai/hub/blog/context-rot",
+   "image": null,
+   "published": "2026-11-18T12:00:00Z",
+   "found": "2026-11-18T18:33:22Z",
+   "importance": 0,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity تشرح «تعفّن السياق» في وكلاء الذكاء الاصطناعي وكيفية تفاديه",
+   "ar_summary": "تشرح Perplexity ظاهرة تراجع دقة وكلاء الذكاء الاصطناعي تدريجياً مع تضخم السياق في المهام الطويلة، وتقدم طرقاً للحد منها.",
+   "ai": true
+  },
+  {
    "id": "26cc43aabbbf",
    "company": "lovable",
    "kind": "blog",
@@ -568,9 +602,13 @@
    "image": null,
    "published": "2026-11-18T08:00:00Z",
    "found": "2026-11-18T18:13:46Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "داخل بيئة العزل في Codex",
+   "ar_summary": "تشرح OpenAI كيف ينفّذ Codex الأوامر على جهازك مع فرض حدود نظام الملفات والشبكة التي تتحكم بها، على macOS وLinux وWindows.",
+   "ai": true
   },
   {
    "id": "24b4bcbf0693",
@@ -714,7 +752,11 @@
    "found": "2026-11-18T18:13:46Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "«الإجماع الصامت»: كيف يحافظ الناس على السيطرة على مؤسساتهم",
+   "ar_summary": "يتناول دين بول، رئيس المستقبليات الاستراتيجية في OpenAI، كيف قد يعيد الذكاء الاصطناعي الأكثر قدرة تشكيل المجتمع وكيف يمكن للناس الاحتفاظ بالسيطرة على مؤسساتهم.",
+   "ai": true
   },
   {
    "id": "e65aea8e9b4d",
