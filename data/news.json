@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:26:35Z",
+ "updated": "2026-11-18T21:36:08Z",
  "categories": [
   {
    "key": "big",
@@ -386,6 +386,21 @@
  },
  "items": [
   {
+   "id": "0c3c8b23c6ca",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Introducing Gemini 4 Neon",
+   "summary": "",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
+   "published": "2026-11-18T21:35:43Z",
+   "found": "2026-11-18T21:36:08Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "8ed788e42054",
    "company": "openai",
    "kind": "video",
@@ -395,6 +410,21 @@
    "image": "https://i2.ytimg.com/vi/AhmCKHNqhB8/hqdefault.jpg",
    "published": "2026-11-18T21:01:26Z",
    "found": "2026-11-18T21:26:35Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "e2b6407cfa68",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Introducing Gemini 4 Neon",
+   "summary": "hero image for Gemini 4 Neon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.max-600x600.format-webp.webp",
+   "published": "2026-11-18T21:00:00Z",
+   "found": "2026-11-18T21:36:08Z",
    "importance": 2,
    "detail": true,
    "fetched": true,
