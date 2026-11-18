@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:00:38Z",
+ "updated": "2026-11-18T17:01:29Z",
  "categories": [
   {
    "key": "big",
@@ -412,7 +412,11 @@
    "found": "2026-11-18T16:23:39Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "LangSmith: كيف تقيس العائد على الاستثمار من وكلاء البرمجة",
+   "ar_summary": "تنشر LangChain مقالة جديدة على مدونتها حول استخدام LangSmith لقياس العائد على الاستثمار من وكلاء البرمجة.",
+   "ai": true
   },
   {
    "id": "bf1424b145e4",
@@ -574,10 +578,14 @@
    "image": "https://huggingface.co/blog/assets/moe-expert-streaming/thumbnail.png",
    "published": "2026-11-18T00:00:00Z",
    "found": "2026-11-18T17:00:03Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "نموذج بـ180 مليار معامل على 32GB من الذاكرة: دفع استدلال MoE إلى أقصى حد مع Transformers",
+   "ar_summary": "تشرح Hugging Face كيف يمكن بث خبراء نماذج MoE مباشرة من SSD لتشغيل نماذج ضخمة على ذاكرة محدودة، مع أداء قريب من محرك Strata في توليد الرموز.",
+   "ai": true
   },
   {
    "id": "e65aea8e9b4d",
@@ -3098,7 +3106,11 @@
    "found": "2026-11-18T17:00:03Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Replit في Microsoft Ignite: بناء البرمجيات حيث تعمل شركتك",
+   "ar_summary": "تعرض Replit كيف يمنح الذكاء الاصطناعي الموظفين القدرة على تحويل معرفتهم بمشكلات العمل إلى برمجيات عاملة، عبر ربطه بالبيانات والأدوات والأنظمة التي يستخدمونها.",
+   "ai": true
   },
   {
    "id": "4bad5afe01a1",
