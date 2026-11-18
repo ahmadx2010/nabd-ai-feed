@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:49:44Z",
+ "updated": "2026-11-18T20:51:06Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مايكروسوفت تكشف عن 7 نماذج ذكاء اصطناعي للبرمجة وتحرير الصور والصوت وغيرها",
+   "ar_summary": "أعلنت مايكروسوفت عن عائلة من سبعة نماذج جديدة من MAI تركّز على الأداء العالي بسعر منخفض، تشمل نماذج للأمن السيبراني والبرمجة والصور والصوت والنسخ الصوتي، إضافة إلى شريحة Maia 200.",
+   "ai": true
   },
   {
    "id": "f689168723dc",
@@ -648,6 +652,24 @@
    "img_tried": true
   },
   {
+   "id": "d245b3c10c40",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Self-improving skills",
+   "summary": "Perplexity extends Brain, its personalization system, to automatically create and update agent skills from each user's session history; personal skill improvement is available to US Max subscribers.",
+   "url": "https://www.perplexity.ai/hub/blog/self-improving-skills",
+   "image": null,
+   "published": "2026-11-18T12:00:00Z",
+   "found": "2026-11-18T20:51:06Z",
+   "importance": 1,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "بيربليكسيتي تطلق «المهارات ذاتية التحسّن» لوكلائها الذكيين",
+   "ar_summary": "وسّعت Perplexity نظام Brain للتخصيص ليُنشئ مهارات الوكلاء ويحدّثها تلقائياً اعتماداً على سجل جلسات كل مستخدم. الميزة متاحة لمشتركي Max في الولايات المتحدة.",
+   "ai": true
+  },
+  {
    "id": "26cc43aabbbf",
    "company": "lovable",
    "kind": "blog",
@@ -694,9 +716,13 @@
    "image": null,
    "published": "2026-11-18T06:00:00Z",
    "found": "2026-11-18T20:31:32Z",
-   "importance": 2,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إدارة مخاطر الذكاء الاصطناعي المتقدم: من التدريب إلى النشر",
+   "ar_summary": "تشرح OpenAI كيف تدير مخاطر نماذج الذكاء الاصطناعي المتقدمة منذ التدريب حتى النشر عبر مواءمة النماذج والعزل ومنع الاستخدام الضار والمراقبة.",
+   "ai": true
   },
   {
    "id": "24b4bcbf0693",
