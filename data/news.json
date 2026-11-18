@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:28:28Z",
+ "updated": "2026-11-18T00:12:57Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "373a6b7477c9",
+   "company": "openai",
+   "kind": "video",
+   "title": "An underrated way to use ChatGPT: Life admin",
+   "summary": "Even ChatGPT researchers need a little help with life admin. Isa F. shares an underrated way she uses ChatGPT: keeping track of the details and making time for her next haircut.",
+   "url": "https://www.youtube.com/shorts/2pdF52EVlbM",
+   "image": "https://i3.ytimg.com/vi/2pdF52EVlbM/hqdefault.jpg",
+   "published": "2026-11-18T00:06:39Z",
+   "found": "2026-11-18T00:12:57Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "e65aea8e9b4d",
    "company": "nvidia",
