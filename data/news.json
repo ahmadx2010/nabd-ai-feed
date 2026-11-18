@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:42:59Z",
+ "updated": "2026-11-18T15:00:44Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "bf1424b145e4",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+   "summary": "",
+   "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif",
+   "published": "2026-11-18T15:00:23Z",
+   "found": "2026-11-18T15:00:44Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "2f5d6d63b059",
    "company": "nvidia",
