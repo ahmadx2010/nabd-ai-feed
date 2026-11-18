@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T00:12:57Z",
+ "updated": "2026-11-18T00:14:02Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-18T00:12:57Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "استخدام غير متوقع لـ ChatGPT: تنظيم شؤون الحياة اليومية",
+   "ar_summary": "فيديو قصير من OpenAI تشارك فيه الباحثة Isa F. طريقتها في استخدام ChatGPT لتتبع تفاصيل المهام اليومية وحجز وقت لموعد الحلاقة القادم.",
+   "ai": true
   },
   {
    "id": "e65aea8e9b4d",
