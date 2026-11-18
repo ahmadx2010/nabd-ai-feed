@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:47:33Z",
+ "updated": "2026-11-18T18:13:46Z",
  "categories": [
   {
    "key": "big",
@@ -386,6 +386,36 @@
  },
  "items": [
   {
+   "id": "652211f5c064",
+   "company": "deepmind",
+   "kind": "blog",
+   "title": "Genie 4 is now available",
+   "summary": "",
+   "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
+   "published": "2026-11-18T18:13:42Z",
+   "found": "2026-11-18T18:13:46Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "bb5459d8891c",
+   "company": "googlelabs",
+   "kind": "blog",
+   "title": "Genie 4 is now available",
+   "summary": "Introduction to Genie 4",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_.max-600x600.format-webp.webp",
+   "published": "2026-11-18T18:00:00Z",
+   "found": "2026-11-18T18:13:46Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "03ca256a4adf",
    "company": "gemini",
    "kind": "blog",
@@ -497,6 +527,20 @@
    "ar_title": "عامان على Lovable: 70 مليون مشروع وخطط للمرحلة القادمة",
    "ar_summary": "احتفلت Lovable بمرور عامين على إطلاقها، معلنة أن مستخدميها أنشأوا 70 مليون مشروع. ونشرت أبحاثًا جديدة وقصص عملاء ورسالة من مديرها التنفيذي حول مستقبل المنتج.",
    "ai": true
+  },
+  {
+   "id": "53f2a14376dd",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Inside the Codex sandbox",
+   "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+   "url": "https://openai.com/index/inside-the-codex-sandbox",
+   "image": null,
+   "published": "2026-11-18T08:00:00Z",
+   "found": "2026-11-18T18:13:46Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "24b4bcbf0693",
@@ -627,6 +671,20 @@
    "ar_title": "OpenAI تستخدم نماذجها لتطوير تصميم الرقائق",
    "ar_summary": "أفادت OpenAI بأن نماذجها حسّنت دوائر مستخدمة في رقاقة Jalapeño وطوّرت تصاميم أنوية RISC-V، ما يُظهر تقدمًا في تصميم الرقائق بمساعدة الذكاء الاصطناعي عبر GPT-6 Astra.",
    "ai": true
+  },
+  {
+   "id": "e683d40fba10",
+   "company": "openai",
+   "kind": "blog",
+   "title": "The Silent Consensus",
+   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+   "url": "https://openai.com/index/the-silent-consensus",
+   "image": null,
+   "published": "2026-11-18T00:00:00Z",
+   "found": "2026-11-18T18:13:46Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "e65aea8e9b4d",
