@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:59:30Z",
+ "updated": "2026-11-18T09:21:30Z",
  "categories": [
   {
    "key": "big",
@@ -421,6 +421,20 @@
    "ar_title": "استخدام غير متوقع لـ ChatGPT: تنظيم شؤون الحياة اليومية",
    "ar_summary": "فيديو قصير من OpenAI تشارك فيه الباحثة Isa F. طريقتها في استخدام ChatGPT لتتبع تفاصيل المهام اليومية وحجز وقت لموعد الحلاقة القادم.",
    "ai": true
+  },
+  {
+   "id": "6cab9c8cd383",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "image": null,
+   "published": "2026-11-18T00:00:00Z",
+   "found": "2026-11-18T09:21:30Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "e65aea8e9b4d",
