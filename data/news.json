@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:23:39Z",
+ "updated": "2026-11-18T17:00:03Z",
  "categories": [
   {
    "key": "big",
@@ -548,6 +548,21 @@
    "ar_title": "Rumble-2-Flash: نموذج مفتوح بحجم 0.5B للتعرف على الكلام بأكثر من 40 لغة",
    "ar_summary": "أتاحت Hugging Face نموذج Rumble-2-Flash مفتوح المصدر بترخيص Apache 2.0 للتعرف على الكلام بأكثر من 40 لغة، وبحجم 0.5 مليار معامل فقط، مع أداء ينافس نماذج أكبر منه بـ3 إلى 60 مرة.",
    "ai": true
+  },
+  {
+   "id": "af1852b4c46d",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+   "summary": "",
+   "url": "https://huggingface.co/blog/moe-expert-streaming",
+   "image": "https://huggingface.co/blog/assets/moe-expert-streaming/thumbnail.png",
+   "published": "2026-11-18T00:00:00Z",
+   "found": "2026-11-18T17:00:03Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "e65aea8e9b4d",
@@ -3055,6 +3070,20 @@
    "ar_title": "IBM تطلق LLMON: لغة ترميز مخصّصة للنماذج اللغوية في Granite 4.1",
    "ar_summary": "كشفت IBM عن LLMON، لغة ترميز مصممة للنماذج اللغوية توضّح بنية السياق بين التعليمات والبيانات، وأتاحت نسختين تجريبيتين من Granite 4.1 بحجم 3B و8B تدعمانها. تهدف اللغة إلى تقليل هشاشة النماذج الصغيرة ومقاومة هجمات حقن الأوامر.",
    "ai": true
+  },
+  {
+   "id": "6850eb9ed704",
+   "company": "replit",
+   "kind": "blog",
+   "title": "Build where your business works: Replit at Microsoft Ignite",
+   "summary": "The people closest to a business problem often know what needs to change, but haven’t always had the tools to change it themselves. AI is giving more of them the ability to turn that knowledge into working software, shortening the distance between identifying a problem and solving it. Making that possible across a company means connecting AI to the data, tools, and systems people already use. In…",
+   "url": "https://replit.com/blog/build-where-your-business-works-replit-at-microsoft-ignite",
+   "image": "https://cdn.sanity.io/images/bj34pdbp/migration/c4917c950201122d51637bac4f106f5d726086d0-3840x2008.webp",
+   "published": "2026-11-12T18:41:29Z",
+   "found": "2026-11-18T17:00:03Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "4bad5afe01a1",
