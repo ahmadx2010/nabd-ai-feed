@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:03:47Z",
+ "updated": "2026-11-18T20:04:40Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/6aeabf9f2efd990530425e58/faP4Su889q_DIgN3wmU9M.png",
    "published": "2026-11-18T19:54:56Z",
    "found": "2026-11-18T20:03:47Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "RadixArk تطلق DaisyRose-27B: نموذج مفتوح يرفع كفاءة التدريب اللاحق",
+   "ar_summary": "أعلنت RadixArk عن أول نماذجها DaisyRose-27B المبني على Qwen3.8-27B والمدرَّب بالتعلم المعزز على مهام وكلاء طويلة الأمد. ارتفعت نتيجته في Terminal-Bench 4.1 من 5.6% إلى 12.0% باستخدام 1,200 مهمة فقط.",
+   "ai": true
   },
   {
    "id": "75623b38e68b",
