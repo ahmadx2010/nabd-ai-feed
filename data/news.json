@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:59:46Z",
+ "updated": "2026-11-18T19:08:54Z",
  "categories": [
   {
    "key": "big",
@@ -531,6 +531,21 @@
    "ar_title": "LangSmith: كيف تقيس العائد على الاستثمار من وكلاء البرمجة",
    "ar_summary": "تنشر LangChain مقالة جديدة على مدونتها حول استخدام LangSmith لقياس العائد على الاستثمار من وكلاء البرمجة.",
    "ai": true
+  },
+  {
+   "id": "f9b17ed5db16",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Customize GitHub Copilot for your team",
+   "summary": "You can now share the GitHub Copilot plugins your team relies on without asking every member to repeat the same setup. Team customizations are generally available for organization teams. Team… The post Customize GitHub Copilot for your team appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
+   "image": "https://github.blog/wp-content/uploads/2026/11/682125868-f1b8f266-b7af-45d3-9337-bee8b85ea55a.png",
+   "published": "2026-11-18T16:00:13Z",
+   "found": "2026-11-18T19:08:54Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "bf1424b145e4",
