@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:16:50Z",
+ "updated": "2026-11-18T06:36:59Z",
  "categories": [
   {
    "key": "big",
@@ -1329,6 +1329,21 @@
    "ar_title": "Astra for Law يتصدر الذكاء القانوني",
    "ar_summary": "احتل Astra for Law المركز الأول في تقييم إطلاق شمل 24 مجالاً قانونياً، ويمكن لعملاء ChatGPT Enterprise طلب الوصول.",
    "ai": true
+  },
+  {
+   "id": "6a368ee4771c",
+   "company": "pika",
+   "kind": "blog",
+   "title": "Research Preview: Pika Enact",
+   "summary": "Pika Enact is a research preview of live staging, actor direction, and camera control, built on Pika H3 Flex to generate scenes that respond as they play.",
+   "url": "https://pika.art/blog/pika-enact",
+   "image": "https://cdn.pika.art/v2/creation/cms/notion/3d4def814b639f561d66a26a482e3b70.webp",
+   "published": "2026-11-17T00:00:00Z",
+   "found": "2026-11-18T06:36:59Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "23e0c35a1797",
