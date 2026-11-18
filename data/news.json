@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:05:15Z",
+ "updated": "2026-11-18T07:51:08Z",
  "categories": [
   {
    "key": "big",
@@ -1123,6 +1123,24 @@
    "ar_detail": true,
    "ar_title": "ما هو WebRTC؟ دليل للتواصل الفوري عبر الويب",
    "ar_summary": "مقال تعليمي من ElevenLabs يشرح تقنية WebRTC وآلية عملها ودور خوادم STUN وTURN، ويقارنها بـ WebSocket.",
+   "ai": true
+  },
+  {
+   "id": "475734ff75ca",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Context API extracts full context from any web page",
+   "summary": "Perplexity launched the Context API, which returns clean markdown, HTML, links and query-relevant snippets for up to 10 URLs per request. Pricing is $1 per 1,000 URLs.",
+   "url": "https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page",
+   "image": null,
+   "published": "2026-11-17T12:00:00Z",
+   "found": "2026-11-18T07:51:08Z",
+   "importance": 1,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity تطلق Context API لاستخراج المحتوى الكامل من أي صفحة ويب",
+   "ar_summary": "أطلقت Perplexity واجهة Context API التي تعيد للوكلاء الذكيين محتوى نظيفاً من حتى 10 روابط في الطلب الواحد، بسعر 1 دولار لكل 1000 رابط.",
    "ai": true
   },
   {
