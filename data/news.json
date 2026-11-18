@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:41:50Z",
+ "updated": "2026-11-18T14:42:59Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb",
    "published": "2026-11-18T14:00:31Z",
    "found": "2026-11-18T14:05:30Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "حواسيب NVIDIA RTX Spark المكتبية المدمجة متاحة الآن للذكاء الاصطناعي المحلي",
+   "ar_summary": "أعلنت NVIDIA توفر حواسيب RTX Spark المكتبية المدمجة من ASUS وDell وMSI، وهي تتيح تشغيل وكلاء الذكاء الاصطناعي وتوليد الصور والفيديو وضبط النماذج محليًا على جهاز Windows مخصص بذاكرة موحدة تصل إلى 128GB.",
+   "ai": true
   },
   {
    "id": "26cc43aabbbf",
@@ -484,10 +488,14 @@
    "image": "https://huggingface.co/blog/assets/rumble-2-flash/thumbnail.png",
    "published": "2026-11-18T00:00:00Z",
    "found": "2026-11-18T14:41:50Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Rumble-2-Flash: نموذج مفتوح بحجم 0.5B للتعرف على الكلام بأكثر من 40 لغة",
+   "ar_summary": "أتاحت Hugging Face نموذج Rumble-2-Flash مفتوح المصدر بترخيص Apache 2.0 للتعرف على الكلام بأكثر من 40 لغة، وبحجم 0.5 مليار معامل فقط، مع أداء ينافس نماذج أكبر منه بـ3 إلى 60 مرة.",
+   "ai": true
   },
   {
    "id": "e65aea8e9b4d",
