@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:09:47Z",
+ "updated": "2026-11-18T17:18:55Z",
  "categories": [
   {
    "key": "big",
@@ -601,6 +601,20 @@
    "ar_title": "نموذج بـ180 مليار معامل على 32GB من الذاكرة: دفع استدلال MoE إلى أقصى حد مع Transformers",
    "ar_summary": "تشرح Hugging Face كيف يمكن بث خبراء نماذج MoE مباشرة من SSD لتشغيل نماذج ضخمة على ذاكرة محدودة، مع أداء قريب من محرك Strata في توليد الرموز.",
    "ai": true
+  },
+  {
+   "id": "c7d3ecb00643",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Advancing chip design with OpenAI models",
+   "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+   "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+   "image": null,
+   "published": "2026-11-18T00:00:00Z",
+   "found": "2026-11-18T17:18:55Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "e65aea8e9b4d",
