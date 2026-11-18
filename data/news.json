@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:22:45Z",
+ "updated": "2026-11-18T22:31:03Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,36 @@
   }
  },
  "items": [
+  {
+   "id": "335c8fb068c7",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Connect Supabase, Box, Calendly, and more to Copilot",
+   "summary": "You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview. New services you can connect Box: Search and manage content, and… The post Connect Supabase, Box, Calendly, and more to Copilot appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-18-connect-supabase-clickup-buildkite-and-more-to-copilot",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+   "published": "2026-11-18T22:04:50Z",
+   "found": "2026-11-18T22:31:03Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "f6cf8ded0e75",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "Gemini 4 Neon in GitHub Copilot",
+   "summary": "Gemini 4 Neon is now generally available in GitHub Copilot. It is designed for agentic coding, multistep tool use, and knowledge work. According to Google, Gemini 4 Neon delivers quality… The post Gemini 4 Neon in GitHub Copilot appeared first on The GitHub Blog .",
+   "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+   "image": "https://github.blog/wp-content/uploads/2026/11/710810976-7eb80d08-78b7-4fbe-b584-0995e1de504f.png",
+   "published": "2026-11-18T21:49:21Z",
+   "found": "2026-11-18T22:31:03Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "0c3c8b23c6ca",
    "company": "gemini",
