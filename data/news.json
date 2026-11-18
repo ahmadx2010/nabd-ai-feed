@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:36:08Z",
+ "updated": "2026-11-18T21:36:55Z",
  "categories": [
   {
    "key": "big",
@@ -410,10 +410,14 @@
    "image": "https://i2.ytimg.com/vi/AhmCKHNqhB8/hqdefault.jpg",
    "published": "2026-11-18T21:01:26Z",
    "found": "2026-11-18T21:26:35Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تطلق ChatGPT للمحاسبة",
+   "ar_summary": "قدمت OpenAI إضافة ChatGPT للمحاسبة التي تخفف أعباء إقفال الشهر المالي، فتجد الأعمال المنجزة في البريد وتصيغ فواتير QuickBooks للمراجعة وتنبّه إلى أي بند غير واضح.",
+   "ai": true
   },
   {
    "id": "e2b6407cfa68",
@@ -726,10 +730,14 @@
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/4i33poppacg-Scribe-v3-Live-Medical-Cover.webp",
    "published": "2026-11-18T12:00:00Z",
    "found": "2026-11-18T21:08:24Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تطلق ElevenAgents للرعاية الصحية: وكلاء صوتيون يثق بهم المرضى",
+   "ar_summary": "أطلقت ElevenLabs حلّ ElevenAgents للرعاية الصحية مع Scribe v3 Live Medical للنسخ الطبي الفوري، وتكاملات مع السجلات الصحية الإلكترونية وضوابط مخصصة ونشر متوافق مع HIPAA.",
+   "ai": true
   },
   {
    "id": "26cc43aabbbf",
