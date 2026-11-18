@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:31:32Z",
+ "updated": "2026-11-18T20:49:44Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "208b7ebb3cea",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "Microsoft unveils 7 AI models for coding, image editing, voice and more",
+   "summary": "The post Microsoft unveils 7 AI models for coding, image editing, voice and more appeared first on Source .",
+   "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+   "image": "https://microsoft.ai/wp-content/uploads/2026/11/All-Up-Blog.jpg",
+   "published": "2026-11-18T20:47:44Z",
+   "found": "2026-11-18T20:49:44Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "f689168723dc",
    "company": "huggingface",
