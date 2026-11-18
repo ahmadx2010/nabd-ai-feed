@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:25:55Z",
+ "updated": "2026-11-18T23:35:01Z",
  "categories": [
   {
    "key": "big",
@@ -1016,6 +1016,21 @@
    "ar_title": "«الإجماع الصامت»: كيف يحافظ الناس على السيطرة على مؤسساتهم",
    "ar_summary": "يتناول دين بول، رئيس المستقبليات الاستراتيجية في OpenAI، كيف قد يعيد الذكاء الاصطناعي الأكثر قدرة تشكيل المجتمع وكيف يمكن للناس الاحتفاظ بالسيطرة على مؤسساتهم.",
    "ai": true
+  },
+  {
+   "id": "909b75797cd1",
+   "company": "anthropic",
+   "kind": "blog",
+   "title": "Anthropic prices initial public offering",
+   "summary": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
+   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
+   "published": "2026-11-18T00:00:00Z",
+   "found": "2026-11-18T23:35:01Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "e65aea8e9b4d",
