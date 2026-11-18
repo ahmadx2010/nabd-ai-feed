@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T06:36:59Z",
+ "updated": "2026-11-18T07:05:15Z",
  "categories": [
   {
    "key": "big",
@@ -1340,10 +1340,14 @@
    "image": "https://cdn.pika.art/v2/creation/cms/notion/3d4def814b639f561d66a26a482e3b70.webp",
    "published": "2026-11-17T00:00:00Z",
    "found": "2026-11-18T06:36:59Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Pika Enact: معاينة بحثية لإخراج مشاهد الفيديو مباشرةً وهي تُعرض",
+   "ar_summary": "أطلقت Pika معاينة بحثية لـ Pika Enact، وهي بيئة بث مباشر مبنية على Pika H3 Flex تتيح التحكم بالتموضع وتوجيه الممثلين والكاميرا أثناء توليد المشهد. تولّد الأداة الفيديو والصوت في مقاطع لا تتجاوز أجزاء من الثانية وتستجيب للتوجيهات فورًا.",
+   "ai": true
   },
   {
    "id": "23e0c35a1797",
