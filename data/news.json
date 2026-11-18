@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:53:12Z",
+ "updated": "2026-11-18T23:54:21Z",
  "categories": [
   {
    "key": "big",
@@ -798,7 +798,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ما هي قاعدة البيانات المتجهية؟ كيف يجد البحث بالذكاء الاصطناعي المعنى",
+   "ar_summary": "دليل من ElevenLabs يشرح قواعد البيانات المتجهية وطريقة عملها واستخداماتها وأنواعها ومقارنتها بقواعد البيانات العلائقية وقواعد بيانات الرسم البياني.",
+   "ai": true
   },
   {
    "id": "26cc43aabbbf",
@@ -847,9 +851,13 @@
    "image": null,
    "published": "2026-11-18T08:00:00Z",
    "found": "2026-11-18T23:25:55Z",
-   "importance": 2,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تسريع البحث العلمي: «الحدود المتعرجة» لوكلاء البرمجة",
+   "ar_summary": "تقيس OpenAI مدى تسريع وكلاء البرمجة لأبحاث الذكاء الاصطناعي، وأين يبقى أداؤهم غير متكافئ، وما تعنيه النتائج بشأن التحسين الذاتي المتكرر.",
+   "ai": true
   },
   {
    "id": "b527b6f0ddce",
@@ -863,7 +871,11 @@
    "found": "2026-11-18T23:53:12Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف ساعد قادة «سوميتومو لايف» فرقهم على تبني ChatGPT Enterprise",
+   "ar_summary": "تستخدم شركة سوميتومو لايف ChatGPT Enterprise لبحث شركات التأمين وإعداد العروض وكتابة شيفرات لتحليل الاستثمار، وقد ساهم الاستخدام المبكر من التنفيذيين في دفع التبني.",
+   "ai": true
   },
   {
    "id": "8b6ac2940fdc",
@@ -1041,10 +1053,14 @@
    "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
    "published": "2026-11-18T00:00:00Z",
    "found": "2026-11-18T23:35:01Z",
-   "importance": 0,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Anthropic تحدد سعر طرحها العام الأولي عند 83 دولارًا للسهم",
+   "ar_summary": "أعلنت Anthropic تسعير طرحها العام الأولي لأسهم الفئة A بسعر 83 دولارًا للسهم، على أن يبدأ التداول في ناسداك في 19 نوفمبر 2026 تحت الرمز ANT.",
+   "ai": true
   },
   {
    "id": "e65aea8e9b4d",
