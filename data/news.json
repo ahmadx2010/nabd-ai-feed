@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T02:39:32Z",
+ "updated": "2026-11-18T03:16:50Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://files.manuscdn.com/assets/dashboard/materials/2026/11/17/757de752f8a9ddec5fd8cbdc29566209ab31dc56ef3f119857fceae7e47cd5e9.webp",
    "published": "2026-11-18T02:39:32Z",
    "found": "2026-11-18T02:39:32Z",
-   "importance": 1,
+   "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Manus تنضم إلى مؤسسة Godot كراعٍ بلاتيني",
+   "ar_summary": "أعلنت Manus انضمامها إلى مؤسسة Godot كراعٍ بلاتيني لدعم محرك الألعاب المفتوح المصدر ثنائي وثلاثي الأبعاد.",
+   "ai": true
   },
   {
    "id": "373a6b7477c9",
