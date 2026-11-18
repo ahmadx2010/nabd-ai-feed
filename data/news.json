@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T19:18:57Z",
+ "updated": "2026-11-18T20:03:47Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "f689168723dc",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+   "summary": "",
+   "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6aeabf9f2efd990530425e58/faP4Su889q_DIgN3wmU9M.png",
+   "published": "2026-11-18T19:54:56Z",
+   "found": "2026-11-18T20:03:47Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "75623b38e68b",
    "company": "huggingface",
