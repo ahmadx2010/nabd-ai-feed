@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:46:38Z",
+ "updated": "2026-11-18T16:14:51Z",
  "categories": [
   {
    "key": "big",
@@ -452,10 +452,14 @@
    "image": "https://dms.licdn.com/playlist/vid/v2/D5605AQG8LuExN8tn9Q/thumbnail-with-play-button-overlay-high/B56aHsgYFUKMC4-/0/1794969288534?e=2147483647&v=beta&t=QFwaRAfQJCw2dyVA_8EY0YA7mzKPLRDLq6cJfODG2kc",
    "published": "2026-11-18T03:39:00Z",
    "found": "2026-11-18T15:46:38Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ساتيا ناديلا يستعرض رؤية مايكروسوفت لـ«منظومة الذكاء الاصطناعي الرائدة» في افتتاح Ignite",
+   "ar_summary": "شارك الرئيس التنفيذي لمايكروسوفت أبرز ما قاله في كلمته الافتتاحية لمؤتمر Ignite حول بناء منظومة متكاملة تحوّل تقدم الذكاء الاصطناعي إلى أثر عملي. وتشير التعليقات إلى وصول GPT-6.2 ونماذج Meta إلى Foundry.",
+   "ai": true
   },
   {
    "id": "206027184563",
