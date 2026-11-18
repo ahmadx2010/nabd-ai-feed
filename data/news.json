@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:31:03Z",
+ "updated": "2026-11-18T23:08:24Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
    "published": "2026-11-18T22:04:50Z",
    "found": "2026-11-18T22:31:03Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ربط Supabase وBox وCalendly وخدمات أخرى بـ Copilot",
+   "ar_summary": "أضافت GitHub ثماني خدمات جديدة يمكن ربطها بـ Copilot عبر خوادم MCP موثّقة من GitHub، في معاينة عامة.",
+   "ai": true
   },
   {
    "id": "f6cf8ded0e75",
@@ -410,10 +414,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/710810976-7eb80d08-78b7-4fbe-b584-0995e1de504f.png",
    "published": "2026-11-18T21:49:21Z",
    "found": "2026-11-18T22:31:03Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini 4 Neon متاح الآن في GitHub Copilot",
+   "ar_summary": "أعلنت GitHub إتاحة نموذج Gemini 4 Neon بشكل عام في Copilot، وهو مصمم للبرمجة الوكيلية واستخدام الأدوات متعددة الخطوات. بحسب Google يقدم جودة قريبة من Gemini 4 Carbon بتكلفة أقل.",
+   "ai": true
   },
   {
    "id": "0c3c8b23c6ca",
