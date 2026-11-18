@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:36:55Z",
+ "updated": "2026-11-18T22:22:45Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إطلاق Gemini 4 Neon: ذكاء متقدم وإنجاز سريع للمهام المعقدة",
+   "ar_summary": "أعلنت Google DeepMind عن نموذج Gemini 4 Neon الذي يجمع بين ذكاء متقدم وسرعة في إنجاز مهام هندسة البرمجيات وأعمال المعرفة والعلوم. يتوفر النموذج بدءًا من اليوم عبر Gemini API وتطبيق Gemini لمشتركي Pro وUltra.",
+   "ai": true
   },
   {
    "id": "8ed788e42054",
@@ -432,7 +436,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Google تطلق Gemini 4 Neon: ذكاء متقدم وإنجاز سريع للمهام",
+   "ar_summary": "قدمت Google نموذج Gemini 4 Neon الذي يجمع بين ذكاء متقدم وسرعة في المهام البرمجية والمعرفية والعلمية. يبدأ طرحه اليوم في Gemini API وتطبيق Gemini لمشتركي Pro وUltra.",
+   "ai": true
   },
   {
    "id": "208b7ebb3cea",
