@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:05:30Z",
+ "updated": "2026-11-18T14:41:50Z",
  "categories": [
   {
    "key": "big",
@@ -473,6 +473,21 @@
    "ar_title": "شراكة بين مجموعة لوفيغارو وOpenAI لعرض صحافة «لوفيغارو» داخل ChatGPT",
    "ar_summary": "أعلنت مجموعة لوفيغارو وOpenAI شراكة تتيح عرض محتوى «لوفيغارو» الصحفي في ChatGPT عبر ملخصات ومقتطفات مع روابط إلى المقالات الأصلية.",
    "ai": true
+  },
+  {
+   "id": "679cee5ea146",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+   "summary": "",
+   "url": "https://huggingface.co/blog/rumble-2-flash",
+   "image": "https://huggingface.co/blog/assets/rumble-2-flash/thumbnail.png",
+   "published": "2026-11-18T00:00:00Z",
+   "found": "2026-11-18T14:41:50Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "e65aea8e9b4d",
