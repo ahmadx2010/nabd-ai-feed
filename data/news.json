@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:33:22Z",
+ "updated": "2026-11-18T18:41:33Z",
  "categories": [
   {
    "key": "big",
@@ -571,7 +571,9 @@
    "ar_detail": true,
    "ar_title": "Perplexity تشرح «تعفّن السياق» في وكلاء الذكاء الاصطناعي وكيفية تفاديه",
    "ar_summary": "تشرح Perplexity ظاهرة تراجع دقة وكلاء الذكاء الاصطناعي تدريجياً مع تضخم السياق في المهام الطويلة، وتقدم طرقاً للحد منها.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "26cc43aabbbf",
