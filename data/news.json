@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:00:03Z",
+ "updated": "2026-11-18T17:00:38Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "03ca256a4adf",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "The Gemini app is now available on lower-memory Android devices.",
+   "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
+   "published": "2026-11-18T17:00:00Z",
+   "found": "2026-11-18T17:00:38Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "2fb1a32b0a32",
    "company": "langchain",
