@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:14:51Z",
+ "updated": "2026-11-18T16:23:39Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "2fb1a32b0a32",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "Langsmith Coding Agents Roi",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/langsmith-coding-agents-roi",
+   "image": null,
+   "published": "2026-11-18T16:23:39Z",
+   "found": "2026-11-18T16:23:39Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "bf1424b145e4",
    "company": "huggingface",
