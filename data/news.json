@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:13:46Z",
+ "updated": "2026-11-18T18:22:54Z",
  "categories": [
   {
    "key": "big",
@@ -396,6 +396,36 @@
    "published": "2026-11-18T18:13:42Z",
    "found": "2026-11-18T18:13:46Z",
    "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "265a9d6476f1",
+   "company": "deepmind",
+   "kind": "video",
+   "title": "Behind the scenes with Genie 4",
+   "summary": "Go behind the scenes of our recent Genie 4 film as we explore our most realistic and interactive world model yet. Instead of generating static video, Genie 4 simulates dynamic worlds in real time. Watch how our team used Genie 4 and Project Genie to turn text prompts into explorable environments in seconds, navigate scenes with keyboard controls, and direct action on the fly with live prompts.…",
+   "url": "https://www.youtube.com/watch?v=pVc6KkjeCfU",
+   "image": "https://i1.ytimg.com/vi/pVc6KkjeCfU/hqdefault.jpg",
+   "published": "2026-11-18T18:12:24Z",
+   "found": "2026-11-18T18:22:54Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "b53b872a0923",
+   "company": "deepmind",
+   "kind": "video",
+   "title": "Project Genie: Create and explore interactive worlds with Genie 4",
+   "summary": "Step inside your imagination with Project Genie, now powered by Google DeepMind’s most realistic and interactive world model yet, Genie 4. Project Genie brings our most advanced world and multimodal models together with Gemini so you can turn ideas into explorable, shareable worlds right in your browser: • Shape worlds in real time with Genie 4: Trigger dynamic events using natural language—like…",
+   "url": "https://www.youtube.com/watch?v=EDp4IoAUsXY",
+   "image": "https://i2.ytimg.com/vi/EDp4IoAUsXY/hqdefault.jpg",
+   "published": "2026-11-18T18:12:21Z",
+   "found": "2026-11-18T18:22:54Z",
+   "importance": 0,
    "detail": true,
    "fetched": true,
    "img_tried": true
