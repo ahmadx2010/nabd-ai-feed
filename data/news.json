@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:21:30Z",
+ "updated": "2026-11-18T09:22:26Z",
  "categories": [
   {
    "key": "big",
@@ -434,7 +434,11 @@
    "found": "2026-11-18T09:21:30Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "شراكة بين مجموعة لوفيغارو وOpenAI لعرض صحافة «لوفيغارو» داخل ChatGPT",
+   "ar_summary": "أعلنت مجموعة لوفيغارو وOpenAI شراكة تتيح عرض محتوى «لوفيغارو» الصحفي في ChatGPT عبر ملخصات ومقتطفات مع روابط إلى المقالات الأصلية.",
+   "ai": true
   },
   {
    "id": "e65aea8e9b4d",
