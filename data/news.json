@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:00:44Z",
+ "updated": "2026-11-18T15:29:11Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif",
    "published": "2026-11-18T15:00:23Z",
    "found": "2026-11-18T15:00:44Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "نماذج السلاسل الزمنية من IBM تعمل الآن داخل Confluent لتحليل البيانات المتدفقة",
+   "ar_summary": "أعلنت IBM وConfluent أن نماذج السلاسل الزمنية الأساسية من IBM، التي تجاوزت 50 مليون تنزيل، صارت متاحة كدوال مدمجة في Confluent لإجراء التنبؤ وكشف الشذوذ على البيانات المتدفقة باستخدام SQL.",
+   "ai": true
   },
   {
    "id": "2f5d6d63b059",
