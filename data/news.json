@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:51:08Z",
+ "updated": "2026-11-18T07:59:30Z",
  "categories": [
   {
    "key": "big",
@@ -1141,7 +1141,9 @@
    "ar_detail": true,
    "ar_title": "Perplexity تطلق Context API لاستخراج المحتوى الكامل من أي صفحة ويب",
    "ar_summary": "أطلقت Perplexity واجهة Context API التي تعيد للوكلاء الذكيين محتوى نظيفاً من حتى 10 روابط في الطلب الواحد، بسعر 1 دولار لكل 1000 رابط.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "350fb3acef43",
