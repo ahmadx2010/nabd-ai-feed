@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:41:33Z",
+ "updated": "2026-11-18T18:59:46Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "75623b38e68b",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Why your fine-tuning job takes longer than the FLOPs say",
+   "summary": "",
+   "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/J6DIf4Len_31Tj-CQlQXY.png",
+   "published": "2026-11-18T18:53:43Z",
+   "found": "2026-11-18T18:59:46Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "652211f5c064",
    "company": "deepmind",
