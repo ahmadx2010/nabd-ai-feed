@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:22:26Z",
+ "updated": "2026-11-18T10:16:44Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "26cc43aabbbf",
+   "company": "lovable",
+   "kind": "blog",
+   "title": "Two years of Lovable: more people with ideas, more power to act on them | Lovable",
+   "summary": "New research, customer stories, and perspectives on how people are creating businesses, changing companies, and shaping the future with Lovable.",
+   "url": "https://lovable.dev/blog/two-years-of-lovable",
+   "image": "https://assets.lovable.dev/content/news/covers/two-years-of-lovable.jpg",
+   "published": "2026-11-18T10:00:00Z",
+   "found": "2026-11-18T10:16:44Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "206027184563",
    "company": "manus",
