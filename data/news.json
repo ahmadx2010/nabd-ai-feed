@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T00:14:02Z",
+ "updated": "2026-11-18T02:39:32Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "206027184563",
+   "company": "manus",
+   "kind": "blog",
+   "title": "Manus Joins the Godot Foundation as a Platinum Sponsor",
+   "summary": "Manus is joining the Godot Foundation as a Platinum Sponsor to help fund Godot, the free, open-source engine for making 2D and 3D games.",
+   "url": "https://manus.im/blog/manus-joins-godot-foundation",
+   "image": "https://files.manuscdn.com/assets/dashboard/materials/2026/11/17/757de752f8a9ddec5fd8cbdc29566209ab31dc56ef3f119857fceae7e47cd5e9.webp",
+   "published": "2026-11-18T02:39:32Z",
+   "found": "2026-11-18T02:39:32Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "373a6b7477c9",
    "company": "openai",
