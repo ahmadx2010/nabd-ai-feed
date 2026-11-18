@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:29:11Z",
+ "updated": "2026-11-18T15:46:38Z",
  "categories": [
   {
    "key": "big",
@@ -441,6 +441,21 @@
    "ar_title": "عامان على Lovable: 70 مليون مشروع وخطط للمرحلة القادمة",
    "ar_summary": "احتفلت Lovable بمرور عامين على إطلاقها، معلنة أن مستخدميها أنشأوا 70 مليون مشروع. ونشرت أبحاثًا جديدة وقصص عملاء ورسالة من مديرها التنفيذي حول مستقبل المنتج.",
    "ai": true
+  },
+  {
+   "id": "24b4bcbf0693",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "Highlights from my opening of the Ignite keynote this morning on how we’re building a frontier ecosystem to turn advances in AI into real-world impact.",
+   "summary": "The post Highlights from my opening of the Ignite keynote this morning on how we’re building a frontier ecosystem to turn advances in AI into real-world impact. appeared first on Source .",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7528647007431720960/",
+   "image": "https://dms.licdn.com/playlist/vid/v2/D5605AQG8LuExN8tn9Q/thumbnail-with-play-button-overlay-high/B56aHsgYFUKMC4-/0/1794969288534?e=2147483647&v=beta&t=QFwaRAfQJCw2dyVA_8EY0YA7mzKPLRDLq6cJfODG2kc",
+   "published": "2026-11-18T03:39:00Z",
+   "found": "2026-11-18T15:46:38Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "206027184563",
