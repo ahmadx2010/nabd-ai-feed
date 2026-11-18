@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:18:55Z",
+ "updated": "2026-11-18T17:47:33Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
    "published": "2026-11-18T17:00:00Z",
    "found": "2026-11-18T17:00:38Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تطبيق Gemini متاح الآن على أجهزة أندرويد منخفضة الذاكرة",
+   "ar_summary": "أعلنت جوجل عن إتاحة تطبيق Gemini على أجهزة أندرويد (إصدار Go) ذات الذاكرة المحدودة، مع Gemini Live وإنشاء الصور المخصصة. يوسّع ذلك الوصول إلى المساعد الذكي لمئات الملايين من المستخدمين.",
+   "ai": true
   },
   {
    "id": "6ca988ce6eed",
@@ -410,10 +414,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.max-600x600.format-webp.webp",
    "published": "2026-11-18T17:00:00Z",
    "found": "2026-11-18T17:09:47Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "جوجل تطلق Stitch Loop: وكيل منتجات يحسّن برمجياتك باستمرار",
+   "ar_summary": "قدّمت Google Labs تجربة Stitch Loop، وهي وكيل طويل الأمد يرتبط بالشيفرة والمقاييس الحية لاكتشاف المشكلات واقتراح إصلاحات وفتح طلبات دمج. التسجيل في قائمة الانتظار متاح الآن.",
+   "ai": true
   },
   {
    "id": "2fb1a32b0a32",
@@ -612,9 +620,13 @@
    "image": null,
    "published": "2026-11-18T00:00:00Z",
    "found": "2026-11-18T17:18:55Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تستخدم نماذجها لتطوير تصميم الرقائق",
+   "ar_summary": "أفادت OpenAI بأن نماذجها حسّنت دوائر مستخدمة في رقاقة Jalapeño وطوّرت تصاميم أنوية RISC-V، ما يُظهر تقدمًا في تصميم الرقائق بمساعدة الذكاء الاصطناعي عبر GPT-6 Astra.",
+   "ai": true
   },
   {
    "id": "e65aea8e9b4d",
