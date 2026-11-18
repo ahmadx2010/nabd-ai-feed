@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:53:55Z",
+ "updated": "2026-11-18T14:05:30Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "2f5d6d63b059",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+   "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
+   "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+   "image": "https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb",
+   "published": "2026-11-18T14:00:31Z",
+   "found": "2026-11-18T14:05:30Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "26cc43aabbbf",
    "company": "lovable",
