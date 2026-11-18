@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T19:08:54Z",
+ "updated": "2026-11-18T19:18:57Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/J6DIf4Len_31Tj-CQlQXY.png",
    "published": "2026-11-18T18:53:43Z",
    "found": "2026-11-18T18:59:46Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "لماذا يستغرق ضبط النموذج وقتاً أطول مما تقوله حسابات FLOPs؟",
+   "ar_summary": "تعرض مدونة Dharma-AI على Hugging Face دراسة على 272 مهمة ضبط دقيق حقيقية على معالجات NVIDIA H200، وتبيّن أن التقدير التقليدي المعتمد على FLOPs ضعيف الدقة، بينما يتنبأ نموذج CatBoost بزمن التنفيذ بدقة أعلى بكثير.",
+   "ai": true
   },
   {
    "id": "652211f5c064",
@@ -542,10 +546,14 @@
    "image": "https://github.blog/wp-content/uploads/2026/11/682125868-f1b8f266-b7af-45d3-9337-bee8b85ea55a.png",
    "published": "2026-11-18T16:00:13Z",
    "found": "2026-11-18T19:08:54Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تخصيص GitHub Copilot للفرق: الإضافات المشتركة متاحة للجميع",
+   "ar_summary": "أعلنت GitHub إتاحة «تخصيصات الفريق» لفرق المؤسسات، بحيث يختار المشرفون إضافات Copilot المعتمدة كإعدادات افتراضية للفريق دون أن يكرر كل عضو الإعداد نفسه.",
+   "ai": true
   },
   {
    "id": "bf1424b145e4",
