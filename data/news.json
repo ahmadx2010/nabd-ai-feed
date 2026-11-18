@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:59:15Z",
+ "updated": "2026-11-18T21:08:24Z",
  "categories": [
   {
    "key": "big",
@@ -668,6 +668,21 @@
    "ar_title": "بيربليكسيتي تطلق «المهارات ذاتية التحسّن» لوكلائها الذكيين",
    "ar_summary": "وسّعت Perplexity نظام Brain للتخصيص ليُنشئ مهارات الوكلاء ويحدّثها تلقائياً اعتماداً على سجل جلسات كل مستخدم. الميزة متاحة لمشتركي Max في الولايات المتحدة.",
    "ai": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "f3cfa8572ac8",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "ElevenAgents for Healthcare: agents patients and medical teams trust in clinical settings",
+   "summary": "Build healthcare voice agents that patients trust, with Scribe v3 Live Medical, EHR integrations, custom guardrails, and HIPAA-eligible deployments.",
+   "url": "https://elevenlabs.io/blog/elevenagents-for-healthcare",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/4i33poppacg-Scribe-v3-Live-Medical-Cover.webp",
+   "published": "2026-11-18T12:00:00Z",
+   "found": "2026-11-18T21:08:24Z",
+   "importance": 0,
+   "detail": true,
    "fetched": true,
    "img_tried": true
   },
