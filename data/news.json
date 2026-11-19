@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:29:32Z",
+ "updated": "2026-11-19T20:47:06Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "63715c934641",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+   "summary": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transfer_socialshare.max-600x600.format-webp.webp",
+   "published": "2026-11-19T20:30:00Z",
+   "found": "2026-11-19T20:47:06Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "a3b183c1cf42",
    "company": "google",
