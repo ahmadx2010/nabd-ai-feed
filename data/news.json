@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:09:16Z",
+ "updated": "2026-11-19T15:26:46Z",
  "categories": [
   {
    "key": "big",
@@ -402,6 +402,21 @@
    "ar_title": "LangChain تطلق LangSmith Tool Gateway",
    "ar_summary": "أعلنت LangChain عن أداة جديدة باسم LangSmith Tool Gateway ضمن منصة LangSmith، وهي بوابة مخصصة لإدارة الأدوات التي تستخدمها وكلاء الذكاء الاصطناعي.",
    "ai": true
+  },
+  {
+   "id": "f9730375d00b",
+   "company": "anthropic",
+   "kind": "video",
+   "title": "What we make of this moment, will make this moment.",
+   "summary": "What we* make of this moment, will make this moment. *a food bank in Texas, a PhD student in Tokyo with a floating cuttlefish robot, a first-time builder mapping 800 years of Indian history, a developer tracking potholes in Slovenia, and millions more.",
+   "url": "https://www.youtube.com/watch?v=JDsFHmq9hlA",
+   "image": "https://i3.ytimg.com/vi/JDsFHmq9hlA/hqdefault.jpg",
+   "published": "2026-11-19T15:02:49Z",
+   "found": "2026-11-19T15:26:46Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "b6fd64654869",
