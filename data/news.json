@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:48:05Z",
+ "updated": "2026-11-19T18:57:12Z",
  "categories": [
   {
    "key": "big",
@@ -11263,25 +11263,6 @@
    "ar_title": "مشكلات مفتوحة في خصوصية وأمان الوكلاء الذكيين من منظور السياق",
    "ar_summary": "نشرت Google Research تقرير ورشة عمل شارك فيها أكثر من 50 خبيراً يحدد اتجاهات بحثية لجعل وكلاء الذكاء الاصطناعي ملتزمين بالأعراف السلوكية السياقية.",
    "ai": true
-  },
-  {
-   "id": "c33acdf7bc8b",
-   "company": "suno",
-   "kind": "blog",
-   "title": "5 Albums You Can't Miss",
-   "summary": "Discover some of the first albums on Suno.",
-   "url": "https://suno.com/blog/albums-to-discover",
-   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/5c4ceca97a157bfd08a546b52029541517b9ff40-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
-   "published": "2026-10-05T18:53:00Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "خمسة ألبومات لا تفوتها على Suno",
-   "ar_summary": "تستعرض Suno مجموعة من أوائل الألبومات المنشأة على منصتها بعد إطلاق ميزة Albums.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
