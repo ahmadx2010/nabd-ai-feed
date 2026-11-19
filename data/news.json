@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:58:15Z",
+ "updated": "2026-11-19T20:10:23Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,36 @@
   }
  },
  "items": [
+  {
+   "id": "a3b183c1cf42",
+   "company": "google",
+   "kind": "blog",
+   "title": "A game you cannot win unless you have a quantum computer",
+   "summary": "Quantum",
+   "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/QuantumContextuality1-MagicSquareGame.png",
+   "published": "2026-11-19T20:03:00Z",
+   "found": "2026-11-19T20:10:23Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "0befceefd071",
+   "company": "gemini",
+   "kind": "video",
+   "title": "Gemini and the path to AGI with Koray Kavukcuoglu",
+   "summary": "Seven years after their last conversation at Google DeepMind’s London office, Professor Hannah Fry reunites with Koray Kavukcuoglu, SVP at Google DeepMind and Chief AI Architect at Google. Back then, DeepMind was focused on specialized breakthroughs; today, Koray is leading the charge toward general-purpose intelligence with Gemini. In this episode, they discuss why real-world products are…",
+   "url": "https://www.youtube.com/watch?v=FORdPIWOH5k",
+   "image": "https://i3.ytimg.com/vi/FORdPIWOH5k/hqdefault.jpg",
+   "published": "2026-11-19T19:58:06Z",
+   "found": "2026-11-19T20:10:23Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "57728669e048",
    "company": "gemini",
