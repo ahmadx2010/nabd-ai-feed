@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:04:03Z",
+ "updated": "2026-11-19T14:23:05Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "عروض الجمعة السوداء على GeForce NOW وإطلاق الخدمة على أجهزة Fire TV Stick",
+   "ar_summary": "أطلقت NVIDIA عروض الجمعة السوداء على GeForce NOW بخصم 30% على أول ستة أشهر من اشتراكي Performance وUltimate، كما وصلت الخدمة إلى أجهزة Amazon Fire TV Stick العاملة بنظام Vega OS.",
+   "ai": true
   },
   {
    "id": "5712ac5365ff",
