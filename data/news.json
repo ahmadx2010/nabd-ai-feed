@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:16:31Z",
+ "updated": "2026-11-19T17:26:33Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp",
    "published": "2026-11-19T17:00:00Z",
    "found": "2026-11-19T17:16:31Z",
-   "importance": 0,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini على Mac ينجز مهامك المتكررة بنفسه عبر «استخدام الحاسوب»",
+   "ar_summary": "أطلقت Google ميزة «استخدام الحاسوب» في تطبيق Gemini لنظام Mac، وهي تتنقل بين التطبيقات والمواقع والملفات المحلية لإنجاز مهام متعددة الخطوات في نافذة معزولة مع بقاء المستخدم متحكماً بالأذونات والموافقات.",
+   "ai": true
   },
   {
    "id": "c3e7758a2373",
@@ -413,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "والتر آيزاكسون يتحدث عن الفضول والإبداع في عصر الذكاء الاصطناعي",
+   "ar_summary": "حلقة جديدة من «حوارات حول التقنية والمجتمع» يستضيف فيها كينت ووكر المؤرخ والتر آيزاكسون لمناقشة دروس مبتكري التاريخ عن الإبداع والحكم البشري في زمن الذكاء الاصطناعي.",
+   "ai": true
   },
   {
    "id": "596ca441f551",
