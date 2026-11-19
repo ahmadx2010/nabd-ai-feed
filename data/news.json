@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:32:31Z",
+ "updated": "2026-11-19T23:33:27Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مايكروسوفت تطلق Aion Instruct وواجهة Prompt API في متصفح Edge للذكاء الهجين على الويب",
+   "ar_summary": "أعلنت مايكروسوفت إتاحة نموذج Aion Instruct مفتوح الأوزان كنموذج لغوي صغير مدمج في Edge، مع تجربة أصلية لواجهة Prompt API ومعاينة لواجهة Decisions API التجريبية.",
+   "ai": true
   },
   {
    "id": "79253e7e09fa",
@@ -789,7 +793,11 @@
    "found": "2026-11-19T23:32:31Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "استكشف إضافة Codex Security: عرض توضيحي",
+   "ar_summary": "فيديو توضيحي من OpenAI يعرض سير العمل مع إضافة Codex Security، من البدء حتى مراجعة النتائج.",
+   "ai": true
   },
   {
    "id": "cb99e2baa62e",
@@ -803,7 +811,11 @@
    "found": "2026-11-19T23:32:31Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "فحوصات طلبات الدمج PR أثناء العمل: عرض توضيحي",
+   "ar_summary": "شرح مرئي لكيفية مراجعة نتائج فحص طلبات السحب ضمن سير عمل الـ pull request.",
+   "ai": true
   },
   {
    "id": "a2fb00344062",
@@ -817,7 +829,11 @@
    "found": "2026-11-19T23:32:31Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ابدأ مع Daybreak Blue: شرح الإعداد الأولي",
+   "ar_summary": "فيديو يشرح خطوات الانضمام وإعداد Daybreak Blue وكيفية البدء.",
+   "ai": true
   },
   {
    "id": "335c8fb068c7",
@@ -1545,10 +1561,14 @@
    "image": "https://devin.ai/images/blog/gemini-4-neon/cover.png",
    "published": "2026-11-18T00:00:00Z",
    "found": "2026-11-19T23:05:03Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini 4 Neon متاح الآن في Devin بأداء قريب من Claude Opus 5.5 وبثلث التكلفة",
+   "ar_summary": "أصبح Gemini 4 Neon متاحاً في Devin Desktop وDevin CLI، وحقق 46.2% في اختبار FrontierCode 2.0، وهو أفضل نتيجة لنموذج من غوغل.",
+   "ai": true
   },
   {
    "id": "e65aea8e9b4d",
