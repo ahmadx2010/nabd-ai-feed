@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:01:35Z",
+ "updated": "2026-11-19T22:10:03Z",
  "categories": [
   {
    "key": "big",
@@ -386,6 +386,21 @@
  },
  "items": [
   {
+   "id": "0e0fed824d81",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "NVIDIA Announces Upcoming Event for Financial Community",
+   "summary": "NVIDIA will present at the following event for the financial community",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
+   "image": null,
+   "published": "2026-11-19T22:00:00Z",
+   "found": "2026-11-19T22:10:03Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "61227606dad5",
    "company": "anthropic",
    "kind": "video",
@@ -630,6 +645,21 @@
    "ar_title": "Candid Health توفر أكثر من 850 ساعة عمل بمكالمات المطالبات الآلية عبر ElevenAgents",
    "ar_summary": "تستخدم Candid Health منصة ElevenAgents من ElevenLabs للتحقيق في رفض المطالبات الطبية والتحقق من أهلية المرضى في مكالمات شركات التأمين، ووفّرت أكثر من 850 ساعة عمل خلال تجربة استمرت شهرًا.",
    "ai": true
+  },
+  {
+   "id": "acdbbdc59718",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "How many calls can an AI voice agent handle at scale?",
+   "summary": "Learn how many calls can an AI voice agent handle at scale, how to estimate your peak needs, and how burst, queueing, and plan tiers affect capacity.",
+   "url": "https://elevenlabs.io/blog/how-many-calls-can-an-ai-voice-agent-handle",
+   "image": null,
+   "published": "2026-11-19T12:00:00Z",
+   "found": "2026-11-19T22:10:03Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "5712ac5365ff",
