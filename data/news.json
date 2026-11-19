@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:19:11Z",
+ "updated": "2026-11-19T22:47:22Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-19T22:19:11Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مستقبل الطب: هل يستطيع الذكاء الاصطناعي التنبؤ بالأمراض والوقاية منها؟",
+   "ar_summary": "مقال من مايكروسوفت يناقش دور الذكاء الاصطناعي في التنبؤ بالأمراض والوقاية منها في مستقبل الطب.",
+   "ai": true
   },
   {
    "id": "0e0fed824d81",
@@ -409,10 +413,14 @@
    "image": null,
    "published": "2026-11-19T22:00:00Z",
    "found": "2026-11-19T22:10:03Z",
-   "importance": 2,
+   "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إنفيديا تعلن مشاركتها في مؤتمر UBS للتكنولوجيا والذكاء الاصطناعي",
+   "ar_summary": "أعلنت إنفيديا أنها ستقدم عرضاً أمام المجتمع المالي في مؤتمر UBS العالمي للتكنولوجيا والذكاء الاصطناعي في الأول من ديسمبر.",
+   "ai": true
   },
   {
    "id": "61227606dad5",
@@ -673,7 +681,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كم مكالمة يستطيع وكيل صوتي بالذكاء الاصطناعي التعامل معها على نطاق واسع؟",
+   "ar_summary": "تشرح ElevenLabs أن سعة المكالمات المتزامنة لوكيل الصوت تعتمد على خطة الاشتراك وسعة الاتصال الهاتفي وسرعة استجابة النموذج.",
+   "ai": true
   },
   {
    "id": "5712ac5365ff",
