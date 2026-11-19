@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:19:30Z",
+ "updated": "2026-11-19T20:29:32Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/QuantumContextuality1-MagicSquareGame.png",
    "published": "2026-11-19T20:03:00Z",
    "found": "2026-11-19T20:10:23Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "لعبة لا يمكن الفوز بها دون حاسوب كمّي: أبحاث Google Quantum AI",
+   "ar_summary": "فريق Google Quantum AI حوّل ظاهرة «السياقية الكمّية» إلى لعبة قابلة للقياس على معالج فائق التوصيل، وطبّقها على أنظمة بحجم يصل إلى 105 كيوبت.",
+   "ai": true
   },
   {
    "id": "fe6303fbf7c4",
@@ -410,10 +414,14 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-microsoft.png",
    "published": "2026-11-19T20:00:15Z",
    "found": "2026-11-19T20:19:30Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA وMicrosoft توسّعان الحوسبة المتسارعة من Azure إلى حواسيب Windows",
+   "ar_summary": "في مؤتمر Microsoft Ignite أعلنت الشركتان توسيع إتاحة أجهزة Azure الافتراضية المعتمدة على أنظمة NVIDIA Vera Rubin NVL72، إضافة إلى نماذج NVIDIA المفتوحة عبر Microsoft Foundry وخيارات جديدة للذكاء الاصطناعي على الحافة.",
+   "ai": true
   },
   {
    "id": "0befceefd071",
@@ -428,7 +436,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini والطريق إلى AGI مع كوراي كافوكجوغلو",
+   "ar_summary": "حلقة بودكاست تجمع هانا فراي مع كوراي كافوكجوغلو من Google DeepMind لمناقشة دور المنتجات في الوصول إلى الذكاء العام وتطور بنية Gemini والتحسين الذاتي التكراري.",
+   "ai": true
   },
   {
    "id": "57728669e048",
