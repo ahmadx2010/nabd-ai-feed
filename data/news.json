@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:51:22Z",
+ "updated": "2026-11-19T22:01:35Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "لماذا أسسنا Anthropic: المؤسسون يروون القصة",
+   "ar_summary": "فيديو يروي فيه مؤسسو Anthropic، ومنهم Dario Amodei وDaniela Amodei وChris Olah، لماذا أسسوا الشركة وما تعلموه والعمل المتبقي.",
+   "ai": true
   },
   {
    "id": "63715c934641",
@@ -693,10 +697,14 @@
    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6afe9132ab8e4b42c67e2c3d_tsa-og-image.png",
    "published": "2026-11-19T00:00:00Z",
    "found": "2026-11-19T21:51:22Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Together AI تطلق Storage Accelerator لتسريع قراءة البيانات في عناقيد GPU",
+   "ar_summary": "أطلقت Together AI أداة Together Storage Accelerator، وهي طبقة تخزين مؤقت موزعة لعناقيد GPU تسرّع القراءات المخزنة بنحو 20 ضعفاً، وتجلب البيانات من المصدر مرة واحدة لكل عنقود دون تغيير في التطبيقات. الخدمة مجانية مع كل عنقود.",
+   "ai": true
   },
   {
    "id": "335c8fb068c7",
