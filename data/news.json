@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:24:00Z",
+ "updated": "2026-11-19T21:51:22Z",
  "categories": [
   {
    "key": "big",
@@ -682,6 +682,21 @@
    "ar_title": "Devin لترحيل البيانات إلى Databricks: وقت أقل في الترحيل ووقت أكثر في البناء",
    "ar_summary": "أطلقت Cognition بالشراكة مع Databricks خدمة Devin for Databricks Migrations لمساعدة الشركات على الانتقال من منصات البيانات القديمة إلى منصة Databricks بشكل أسرع.",
    "ai": true
+  },
+  {
+   "id": "d23ef0ed3115",
+   "company": "together",
+   "kind": "blog",
+   "title": "Introducing Together Storage Accelerator: fast, free data caching for your GPU cluster",
+   "summary": "Together Storage Accelerator is a distributed caching layer for Together GPU Clusters: about 20x faster warm reads, one origin fetch per cluster, no application changes, and it's included free.",
+   "url": "https://www.together.ai/blog/introducing-together-storage-accelerator",
+   "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6afe9132ab8e4b42c67e2c3d_tsa-og-image.png",
+   "published": "2026-11-19T00:00:00Z",
+   "found": "2026-11-19T21:51:22Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "335c8fb068c7",
