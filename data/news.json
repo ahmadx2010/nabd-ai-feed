@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:54:21Z",
+ "updated": "2026-11-19T01:25:51Z",
  "categories": [
   {
    "key": "big",
@@ -802,6 +802,24 @@
    "ar_detail": true,
    "ar_title": "ما هي قاعدة البيانات المتجهية؟ كيف يجد البحث بالذكاء الاصطناعي المعنى",
    "ar_summary": "دليل من ElevenLabs يشرح قواعد البيانات المتجهية وطريقة عملها واستخداماتها وأنواعها ومقارنتها بقواعد البيانات العلائقية وقواعد بيانات الرسم البياني.",
+   "ai": true
+  },
+  {
+   "id": "82d64c5bdc1c",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Work with teammates on mobile with voice mode",
+   "summary": "Perplexity added voice mode for Computer teammates on iOS and Android, letting users assign tasks, get updates and change priorities by calling the agent.",
+   "url": "https://www.perplexity.ai/hub/blog/work-with-teammates-on-mobile-with-voice-mode",
+   "image": null,
+   "published": "2026-11-18T12:00:00Z",
+   "found": "2026-11-19T01:25:51Z",
+   "importance": 1,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity تضيف الوضع الصوتي لزملاء الفريق الذكيين على الجوال",
+   "ar_summary": "أضافت Perplexity وضعًا صوتيًا لوكلاء «Teammates» في Perplexity Computer على iOS وأندرويد، ليتمكن المستخدم من إسناد المهام ومتابعة التقدم وتغيير الأولويات عبر مكالمة صوتية.",
    "ai": true
   },
   {
