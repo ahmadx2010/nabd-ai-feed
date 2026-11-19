@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:05:03Z",
+ "updated": "2026-11-19T23:14:20Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "3a6bcf25cc05",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "Hybrid intelligence on the Web: Introducing Aion Instruct and Prompt API in Microsoft Edge",
+   "summary": "Rapidly evolving AI capabilities are redefining what sites can do for users on the web. With on-device AI in Microsoft The post Hybrid intelligence on the Web: Introducing Aion Instruct and Prompt API in Microsoft Edge appeared first on Windows Blog .",
+   "url": "https://blogs.windows.com/msedgedev/2026/11/19/hybrid-intelligence-on-the-web-introducing-aion-instruct-and-prompt-api-in-microsoft-edge/",
+   "image": "https://winblogs.thesourcemediaassets.com/sites/33/2021/06/Edge-social.jpg",
+   "published": "2026-11-19T23:08:46Z",
+   "found": "2026-11-19T23:14:20Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "79253e7e09fa",
    "company": "microsoft",
