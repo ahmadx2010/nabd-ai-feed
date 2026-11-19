@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T16:12:36Z",
+ "updated": "2026-11-19T16:40:47Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "أعمال فنانين من جلسات Google Flow وFlow Music",
+   "ar_summary": "استعرضت جوجل مشاريع بصرية وأدوات صوتية أنشأها فنانون وموسيقيون خلال جلسات Google Flow الأخيرة، من أفلام رسوم متحركة قصيرة إلى إضافات موسيقية مخصصة.",
+   "ai": true
   },
   {
    "id": "4a1d3fe3c3dd",
