@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:14:24Z",
+ "updated": "2026-11-19T21:15:26Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transfer_socialshare.max-600x600.format-webp.webp",
    "published": "2026-11-19T20:30:00Z",
    "found": "2026-11-19T20:47:06Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "انقل سجل محادثاتك من تطبيقات الذكاء الاصطناعي الأخرى إلى Gemini",
+   "ar_summary": "أعلنت Google عن إمكانية استيراد تفضيلاتك وسجل محادثاتك من مساعدات ذكاء اصطناعي أخرى إلى Gemini عبر ملف ZIP وملخص يُولَّد من الأداة السابقة، لتكمل محادثاتك دون البدء من الصفر.",
+   "ai": true
   },
   {
    "id": "a3b183c1cf42",
@@ -1371,10 +1375,14 @@
    "image": "https://devin.ai/images/blog/nginx2root-java4shell-threats/og.jpg",
    "published": "2026-11-18T00:00:00Z",
    "found": "2026-11-19T21:14:24Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Devin Security تطلق «Threats» لفحص ثغرات NGINX2Root وJava4Shell وإصلاحها",
+   "ar_summary": "أطلقت Cognition ميزة Threats في Devin Security، وهي فهرس مُدار للثغرات المكتشفة حديثًا مع فحص وإصلاح بنقرة واحدة، وتدعم ثغرتي Java4Shell وNGINX2Root اللتين أُعلن عنهما هذا الأسبوع.",
+   "ai": true
   },
   {
    "id": "e65aea8e9b4d",
