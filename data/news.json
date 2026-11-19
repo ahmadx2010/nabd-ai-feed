@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:47:06Z",
+ "updated": "2026-11-19T21:14:24Z",
  "categories": [
   {
    "key": "big",
@@ -1360,6 +1360,21 @@
    "ar_title": "Anthropic تحدد سعر طرحها العام الأولي عند 83 دولارًا للسهم",
    "ar_summary": "أعلنت Anthropic تسعير طرحها العام الأولي لأسهم الفئة A بسعر 83 دولارًا للسهم، على أن يبدأ التداول في ناسداك في 19 نوفمبر 2026 تحت الرمز ANT.",
    "ai": true
+  },
+  {
+   "id": "994d36ea7d85",
+   "company": "windsurf",
+   "kind": "blog",
+   "title": "Checking for NGINX2Root and Java4Shell with Threats in Devin Security | Devin",
+   "summary": "Helping customers scan for and patch the recently disclosed NGINX2Root and Java4Shell vulnerabilities with Threats in Devin Security.",
+   "url": "https://windsurf.com/blog/nginx2root-java4shell-threats",
+   "image": "https://devin.ai/images/blog/nginx2root-java4shell-threats/og.jpg",
+   "published": "2026-11-18T00:00:00Z",
+   "found": "2026-11-19T21:14:24Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "e65aea8e9b4d",
@@ -11325,24 +11340,6 @@
    "ar_summary": "يمكن الآن رؤية الوكلاء العاملين على حاسوبك والرد عليهم من تطبيق Cursor على iOS. الميزة مفعّلة افتراضياً لغير مؤسسات Enterprise.",
    "ai": true,
    "img_tried": true
-  },
-  {
-   "id": "c3d66983a8dc",
-   "company": "google",
-   "kind": "blog",
-   "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
-   "summary": "Generative AI",
-   "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PrivacySecurity_ContextualAngle2-ModelOverview.png",
-   "published": "2026-10-05T21:08:00Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "مشكلات مفتوحة في خصوصية وأمان الوكلاء الذكيين من منظور السياق",
-   "ar_summary": "نشرت Google Research تقرير ورشة عمل شارك فيها أكثر من 50 خبيراً يحدد اتجاهات بحثية لجعل وكلاء الذكاء الاصطناعي ملتزمين بالأعراف السلوكية السياقية.",
-   "ai": true
   }
  ]
 }
