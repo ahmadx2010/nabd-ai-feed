@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:26:46Z",
+ "updated": "2026-11-19T15:54:53Z",
  "categories": [
   {
    "key": "big",
@@ -416,7 +416,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Anthropic: ما نصنعه في هذه اللحظة هو ما سيصنع هذه اللحظة",
+   "ar_summary": "فيديو جديد من Anthropic يعرض قصصًا لأشخاص حول العالم يستخدمون Claude في مشاريعهم، من بنك طعام في تكساس إلى باحث في طوكيو ومطوّر في سلوفينيا.",
+   "ai": true
   },
   {
    "id": "b6fd64654869",
