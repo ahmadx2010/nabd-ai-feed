@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:57:12Z",
+ "updated": "2026-11-19T18:58:15Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
    "published": "2026-11-19T18:00:00Z",
    "found": "2026-11-19T18:38:57Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "جوجل تطلق «استرجاع الأدوات» في Gemini API لتقليل التوكنات وتحسين دقة الوكلاء",
+   "ar_summary": "أعلنت جوجل عن ميزة Tool Retrieval بنسخة تجريبية في Interactions API ضمن Gemini API، وهي تحمّل مخططات معاملات الأدوات عند الحاجة فقط بدل إرسالها كاملة في كل طلب، مما يقلل الاستهلاك ويحافظ على دقة اختيار الأدوات.",
+   "ai": true
   },
   {
    "id": "7bc91eb31e2a",
@@ -5801,7 +5805,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "أبحاث أبل: تعقيد الاختيار الخاص تفاضلياً عبر واجهات التعلم الموزع",
+   "ar_summary": "ورقة بحثية من أبل تبيّن أن خوارزميات الاختيار الخاصة المعتمدة على التجميع الضوضائي القياسي تتطلب عدد عينات كبيراً، وتقترح عنصراً جديداً مبنياً على تقنية المتجه المتناثر (SVT) يحقق خطأً مماثلاً للنموذج المركزي.",
+   "ai": true
   },
   {
    "id": "5f5a5a012b72",
