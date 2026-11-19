@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:38:57Z",
+ "updated": "2026-11-19T18:48:05Z",
  "categories": [
   {
    "key": "big",
@@ -5787,6 +5787,21 @@
    "ar_title": "نحو نظرية لقابلية التقييم",
    "ar_summary": "ورقة بحثية من Apple تدرس إمكانية تقييم النماذج الصندوق الأسود عندما قد تكون عينات الاختبار استُخدمت في التدريب.",
    "ai": true
+  },
+  {
+   "id": "74a0027dd658",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Complexity of Differentially Private Selection via Federated APIs",
+   "summary": "Differential privacy (DP) has become the standard for privacy-preserving data analysis, yet its practical implementation in federated or distributed settings often faces a significant utility gap compared to the central model. While existing frameworks, including local, shuffle, and secure aggregation models, offer vetted primitives, they can incur high error for important tasks such as…",
+   "url": "https://machinelearning.apple.com/research/differentially-private-selection",
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+   "published": "2026-11-10T00:00:00Z",
+   "found": "2026-11-19T18:48:05Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "5f5a5a012b72",
