@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:49:48Z",
+ "updated": "2026-11-19T15:08:03Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "4a1d3fe3c3dd",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "Langsmith Tool Gateway",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/langsmith-tool-gateway",
+   "image": null,
+   "published": "2026-11-19T15:08:03Z",
+   "found": "2026-11-19T15:08:03Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "b6fd64654869",
    "company": "nvidia",
