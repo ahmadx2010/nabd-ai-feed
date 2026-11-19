@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:08:03Z",
+ "updated": "2026-11-19T15:09:16Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-19T15:08:03Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "LangChain تطلق LangSmith Tool Gateway",
+   "ar_summary": "أعلنت LangChain عن أداة جديدة باسم LangSmith Tool Gateway ضمن منصة LangSmith، وهي بوابة مخصصة لإدارة الأدوات التي تستخدمها وكلاء الذكاء الاصطناعي.",
+   "ai": true
   },
   {
    "id": "b6fd64654869",
@@ -447,10 +451,14 @@
    "image": "https://devin.ai/images/blog/devin-for-databricks-migrations/cover.jpg",
    "published": "2026-11-19T00:00:00Z",
    "found": "2026-11-19T14:49:48Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Devin لترحيل البيانات إلى Databricks: وقت أقل في الترحيل ووقت أكثر في البناء",
+   "ar_summary": "أطلقت Cognition بالشراكة مع Databricks خدمة Devin for Databricks Migrations لمساعدة الشركات على الانتقال من منصات البيانات القديمة إلى منصة Databricks بشكل أسرع.",
+   "ai": true
   },
   {
    "id": "335c8fb068c7",
