@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:47:22Z",
+ "updated": "2026-11-19T23:05:03Z",
  "categories": [
   {
    "key": "big",
@@ -1477,6 +1477,21 @@
    "ar_title": "Devin Security تطلق «Threats» لفحص ثغرات NGINX2Root وJava4Shell وإصلاحها",
    "ar_summary": "أطلقت Cognition ميزة Threats في Devin Security، وهي فهرس مُدار للثغرات المكتشفة حديثًا مع فحص وإصلاح بنقرة واحدة، وتدعم ثغرتي Java4Shell وNGINX2Root اللتين أُعلن عنهما هذا الأسبوع.",
    "ai": true
+  },
+  {
+   "id": "116cb2c3eba8",
+   "company": "windsurf",
+   "kind": "blog",
+   "title": "Gemini 4 Neon is now available in Devin | Devin",
+   "summary": "Gemini 4 Neon is now live in Devin Desktop and Devin CLI. On FrontierCode 2.0 it scores 46.2%, the best result from a Google model, about a point behind Claude Opus 5.5 at about a third of the cost.",
+   "url": "https://windsurf.com/blog/gemini-4-neon",
+   "image": "https://devin.ai/images/blog/gemini-4-neon/cover.png",
+   "published": "2026-11-18T00:00:00Z",
+   "found": "2026-11-19T23:05:03Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "e65aea8e9b4d",
