@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:05:50Z",
+ "updated": "2026-11-19T14:04:03Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "b6fd64654869",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+   "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, […]",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday_November_19.jpg",
+   "published": "2026-11-19T14:00:12Z",
+   "found": "2026-11-19T14:04:03Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "5712ac5365ff",
    "company": "openai",
