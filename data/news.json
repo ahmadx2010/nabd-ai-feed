@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:11:23Z",
+ "updated": "2026-11-19T18:12:24Z",
  "categories": [
   {
    "key": "big",
@@ -511,7 +511,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Candid Health توفر أكثر من 850 ساعة عمل بمكالمات المطالبات الآلية عبر ElevenAgents",
+   "ar_summary": "تستخدم Candid Health منصة ElevenAgents من ElevenLabs للتحقيق في رفض المطالبات الطبية والتحقق من أهلية المرضى في مكالمات شركات التأمين، ووفّرت أكثر من 850 ساعة عمل خلال تجربة استمرت شهرًا.",
+   "ai": true
   },
   {
    "id": "5712ac5365ff",
@@ -542,9 +546,13 @@
    "image": null,
    "published": "2026-11-19T08:00:00Z",
    "found": "2026-11-19T17:44:11Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف يحافظ «Performance Factory» من OpenAI على سرعة ChatGPT",
+   "ar_summary": "تشرح OpenAI نظام Performance Factory، وهو مجموعة سير عمل تعمل بـ Codex تكتشف مشكلات الأداء وتصلحها للحفاظ على سرعة ChatGPT.",
+   "ai": true
   },
   {
    "id": "bb3d6b44a215",
