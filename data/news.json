@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:10:03Z",
+ "updated": "2026-11-19T22:19:11Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "79253e7e09fa",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "The future of medicine: Could AI help predict and prevent disease?",
+   "summary": "The post The future of medicine: Could AI help predict and prevent disease? appeared first on Source .",
+   "url": "https://news.microsoft.com/source/2026/11/19/the-future-of-medicine-could-ai-help-predict-and-prevent-disease/",
+   "image": "https://news.microsoft.com/source/wp-content/uploads/2026/11/Screenshot-2026-11-19-132144.png",
+   "published": "2026-11-19T22:14:18Z",
+   "found": "2026-11-19T22:19:11Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "0e0fed824d81",
    "company": "nvidia",
