@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:12:24Z",
+ "updated": "2026-11-19T18:38:57Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "57728669e048",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Introducing Tool Retrieval in the Gemini API",
+   "summary": "Gemini spark on a space background",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
+   "published": "2026-11-19T18:00:00Z",
+   "found": "2026-11-19T18:38:57Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "7bc91eb31e2a",
    "company": "gemini",
