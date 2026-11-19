@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:26:33Z",
+ "updated": "2026-11-19T17:44:11Z",
  "categories": [
   {
    "key": "big",
@@ -516,6 +516,20 @@
    "ar_title": "تعرّف على «براين» و«بيست»: مساعدا dots في شركة Holiday Extras",
    "ar_summary": "فيديو من OpenAI يعرض كيف يستخدم مديرو Holiday Extras مساعدين أذكياء يسمّونهما «براين» و«بيست» لتحضير التقارير ومتابعة أداء ميزات التطبيق الجديدة.",
    "ai": true
+  },
+  {
+   "id": "6687f7be62c3",
+   "company": "openai",
+   "kind": "blog",
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "image": null,
+   "published": "2026-11-19T08:00:00Z",
+   "found": "2026-11-19T17:44:11Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "bb3d6b44a215",
