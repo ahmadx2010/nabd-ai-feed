@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:04:42Z",
+ "updated": "2026-11-20T23:14:44Z",
  "categories": [
   {
    "key": "big",
@@ -452,10 +452,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Connected_apps_-_Social_share_a.max-600x600.format-webp.webp",
    "published": "2026-11-20T18:00:00Z",
    "found": "2026-11-20T22:46:32Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "جوجل تطلق «التطبيقات المتصلة» في البحث وتطبيق Gemini لإنجاز مهام نهاية العام",
+   "ar_summary": "أعلنت جوجل عن تطبيقات متصلة جديدة في البحث وتطبيق Gemini في الولايات المتحدة، تساعد في طلب البقالة ومتابعة التصنيف الائتماني وحساب الضرائب والعثور على فنيين محليين.",
+   "ai": true
   },
   {
    "id": "e56c8a71f46f",
@@ -564,7 +568,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف أجرت مؤسسة Televisa أكثر من 1000 مقابلة مع رواد أعمال بالذكاء الاصطناعي الصوتي",
+   "ar_summary": "استخدمت مؤسسة Fundación Televisa منصة ElevenAgents لإجراء أكثر من ألف مقابلة مع رواد أعمال تقدموا إلى POSiBLE، أكبر مسرّعة أعمال في المكسيك.",
+   "ai": true
   },
   {
    "id": "d4ff4fecb54e",
