@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:19:32Z",
+ "updated": "2026-11-20T20:46:52Z",
  "categories": [
   {
    "key": "big",
@@ -791,6 +791,21 @@
    "published": "2026-11-20T00:00:00Z",
    "found": "2026-11-20T20:19:32Z",
    "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "d15c45643214",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+   "url": "https://openai.com/business/customer-stories/hebbia",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-20T00:00:00Z",
+   "found": "2026-11-20T20:46:52Z",
+   "importance": 2,
    "detail": true,
    "fetched": true,
    "img_tried": true
