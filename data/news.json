@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:55:23Z",
+ "updated": "2026-11-20T01:05:31Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-20T00:55:23Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "حوكمة الوكلاء ومراقبتهم: مقال جديد من LangChain",
+   "ar_summary": "نشرت LangChain مقالاً جديداً حول حوكمة وكلاء الذكاء الاصطناعي ومراقبة سلوكهم أثناء التشغيل.",
+   "ai": true
   },
   {
    "id": "3a6bcf25cc05",
@@ -877,10 +881,14 @@
    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6aff92a073f09431cc1d2ec2_tencent-hy4-og-image.png",
    "published": "2026-11-19T00:00:00Z",
    "found": "2026-11-20T00:37:08Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "نموذج Tencent Hy4 متاح الآن على Together AI",
+   "ar_summary": "أعلنت Together AI عن إتاحة نموذج Hy4 من Tencent عبر نقاط نهاية serverless وdedicated، وهو أول نموذج في عائلة Hy يقبل الصور مع النص. اختبرت الشركة قدرته على استخراج بيانات مخطط وإعادة بنائه وعلى كتابة لعبة متصفح من تعليمة واحدة.",
+   "ai": true
   },
   {
    "id": "335c8fb068c7",
