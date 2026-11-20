@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:01:53Z",
+ "updated": "2026-11-20T16:20:04Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "ba750ffcc2fd",
+   "company": "openai",
+   "kind": "video",
+   "title": "3 ChatGPT Tips to Save Money",
+   "summary": "ChatGPT can help you find ways to save, whether you’re shopping for a desk chair or wondering what you’re still paying for after a free trial ends. Learn three ways to save money with ChatGPT. Use a product screenshot to compare prices before you buy, spot subscriptions you no longer use, and build a monthly budget that leaves room for things you enjoy. Looking for a better deal? Try ChatGPT…",
+   "url": "https://www.youtube.com/watch?v=WGvsk0LIveU",
+   "image": "https://i4.ytimg.com/vi/WGvsk0LIveU/hqdefault.jpg",
+   "published": "2026-11-20T16:00:17Z",
+   "found": "2026-11-20T16:20:04Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "d4ff4fecb54e",
    "company": "lovable",
