@@ -589,6 +589,7 @@
   "https://windsurf.com/blog/vulnerability-fixes-plugin"
  ],
  "https://blog.langchain.com/": [
+  "https://blog.langchain.com/blog/agent-governance-observability",
   "https://blog.langchain.com/blog/agent-traces-ai-search-langsmith",
   "https://blog.langchain.com/blog/agents-are-going-async",
   "https://blog.langchain.com/blog/browser-use-in-managed-deep-agents",

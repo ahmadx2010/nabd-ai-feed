@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:37:08Z",
+ "updated": "2026-11-20T00:55:23Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "6ea18585bfd4",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "Agent Governance Observability",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/agent-governance-observability",
+   "image": null,
+   "published": "2026-11-20T00:55:23Z",
+   "found": "2026-11-20T00:55:23Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "3a6bcf25cc05",
    "company": "microsoft",
