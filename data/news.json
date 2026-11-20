@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:52:49Z",
+ "updated": "2026-11-20T18:10:50Z",
  "categories": [
   {
    "key": "big",
@@ -440,6 +440,21 @@
    "ar_title": "ElevenLabs تضيف متغيرات الإعلانات المرئية والتوطين إلى Ads Engine",
    "ar_summary": "أضافت ElevenLabs إلى أداة Ads Engine إمكانية إنشاء نسخ جديدة من الإعلانات المرئية الحالية بخطافات افتتاحية وموسيقى جديدة، إضافة إلى دبلجتها وترجمة التعليقات النصية لأسواق جديدة دون إعادة تصوير.",
    "ai": true
+  },
+  {
+   "id": "52c6915bc7b5",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "ElevenAgents for Healthcare: Build an outbound appointment reminder agent with Architect",
+   "summary": "Build an outbound voice agent on ElevenAgents that verifies patients and confirms, reschedules, or cancels appointments in the EHR during the call.",
+   "url": "https://elevenlabs.io/blog/build-an-outbound-reminder-agent-with-architect",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/rf8z7tpiwd-Outbound-Cover.webp",
+   "published": "2026-11-20T12:00:00Z",
+   "found": "2026-11-20T18:10:50Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "d4ff4fecb54e",
