@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:07:10Z",
+ "updated": "2026-11-20T17:33:37Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "e56c8a71f46f",
+   "company": "openai",
+   "kind": "video",
+   "title": "An underrated way to use ChatGPT: Finding a doctor",
+   "summary": "Your yearly checkups start with finding the right doctor. Magan Chin shares how she uses ChatGPT to find highly rated doctors nearby. Tip by 💡: Instagram @genzbestie · TikTok @genzbestie_",
+   "url": "https://www.youtube.com/shorts/X19Q12hmRjY",
+   "image": "https://i1.ytimg.com/vi/X19Q12hmRjY/hqdefault.jpg",
+   "published": "2026-11-20T17:22:23Z",
+   "found": "2026-11-20T17:33:37Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "ba750ffcc2fd",
    "company": "openai",
