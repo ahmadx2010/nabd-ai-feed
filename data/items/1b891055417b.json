@@ -1,0 +1,3 @@
+{
+ "body": "Connect the data tools your team already uses to ChatGPT. This walkthrough is for workspace admins: enable the Data plugin, choose how teammates can install it, and explore the setup for a Snowflake connection. You’ll also see how to add a custom plugin or MCP server and why connecting your team’s messages, email, and files gives ChatGPT more context for its answers. Workspace setup and access: https://help.openai.com/en/articles/20001518-using-the-data-plugin-in-chatgpt-work-and-codex Snowflake setup guide: https://help.openai.com/en/articles/20001249-set-up-the-snowflake-app-template-in-chatgpt Custom MCP setup guide: https://help.openai.com/en/articles/12584461-connecting-custom-mcp-servers-in-chatgpt Part 2 of the Data Agent series."
+}

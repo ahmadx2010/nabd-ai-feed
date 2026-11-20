@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:48:22Z",
+ "updated": "2026-11-20T06:24:40Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,51 @@
   }
  },
  "items": [
+  {
+   "id": "b4606f809401",
+   "company": "openai",
+   "kind": "video",
+   "title": "Create and Share a Dashboard in ChatGPT",
+   "summary": "Turn your analysis into a dashboard your team can use. Building on the fictional Acme sales example, this walkthrough brings quarterly metrics and customer follow-ups into one view. See how to inspect the data behind a chart, edit its appearance, ask questions about the numbers, and refine the dashboard with annotations. The video also covers refreshes, matching your branding, and sharing through…",
+   "url": "https://www.youtube.com/watch?v=OSHSopaYjTw",
+   "image": "https://i4.ytimg.com/vi/OSHSopaYjTw/hqdefault.jpg",
+   "published": "2026-11-20T06:07:50Z",
+   "found": "2026-11-20T06:24:40Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "540cdc8b57cf",
+   "company": "openai",
+   "kind": "video",
+   "title": "Ask Questions About Your Data in ChatGPT",
+   "summary": "Prepare for a sales meeting by asking ChatGPT what changed in your data and which customers need attention. Using sample data from the fictional company Acme, this walkthrough compares quarterly sales, visualizes the segments behind the change, and explores customer orders alongside account notes. See how to ask follow-up questions, check which sources ChatGPT is using, and turn the findings into…",
+   "url": "https://www.youtube.com/watch?v=JEgTn37Sk50",
+   "image": "https://i3.ytimg.com/vi/JEgTn37Sk50/hqdefault.jpg",
+   "published": "2026-11-20T06:05:59Z",
+   "found": "2026-11-20T06:24:40Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "1b891055417b",
+   "company": "openai",
+   "kind": "video",
+   "title": "Connect Your Team’s Data to ChatGPT",
+   "summary": "Connect the data tools your team already uses to ChatGPT. This walkthrough is for workspace admins: enable the Data plugin, choose how teammates can install it, and explore the setup for a Snowflake connection. You’ll also see how to add a custom plugin or MCP server and why connecting your team’s messages, email, and files gives ChatGPT more context for its answers. Workspace setup and access:…",
+   "url": "https://www.youtube.com/watch?v=oJIuz3AFfEQ",
+   "image": "https://i4.ytimg.com/vi/oJIuz3AFfEQ/hqdefault.jpg",
+   "published": "2026-11-20T06:02:57Z",
+   "found": "2026-11-20T06:24:40Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "da62636c1c52",
    "company": "openai",
