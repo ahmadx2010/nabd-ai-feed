@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:25:21Z",
+ "updated": "2026-11-20T19:42:44Z",
  "categories": [
   {
    "key": "big",
@@ -497,6 +497,20 @@
    "ar_title": "Lovable تفتح «App Studio» في أتلانتا لمدة يوم واحد",
    "ar_summary": "تفتح Lovable أول استوديو تطبيقات لها في مدينة أتلانتا الأمريكية في 2 ديسمبر ليوم واحد مجاناً وللعامة، ليحوّل الزوار أفكارهم إلى تطبيقات عاملة بمساعدة خبراء الشركة.",
    "ai": true
+  },
+  {
+   "id": "3ea993db7e3c",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Combatting adversarial distillation",
+   "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "image": null,
+   "published": "2026-11-20T10:00:00Z",
+   "found": "2026-11-20T19:42:44Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "6d1ae60134f3",
