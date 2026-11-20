@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:51:19Z",
+ "updated": "2026-11-20T22:00:26Z",
  "categories": [
   {
    "key": "big",
@@ -516,6 +516,21 @@
    "ar_title": "ElevenAgents للرعاية الصحية: بناء وكيل صوتي لتذكير المرضى بالمواعيد باستخدام Architect",
    "ar_summary": "تشرح ElevenLabs كيفية بناء وكيل صوتي يتصل بالمرضى قبل مواعيدهم، فيتحقق من هويتهم ويؤكد الموعد أو يعيد جدولته أو يلغيه في السجل الصحي الإلكتروني أثناء المكالمة.",
    "ai": true
+  },
+  {
+   "id": "d0d32febab12",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "How to fix text to speech accuracy problems",
+   "summary": "Text to speech not working? Learn how to fix text to speech accuracy problems like mispronounced words, robotic delivery, and API errors with these tips.",
+   "url": "https://elevenlabs.io/blog/fix-text-to-speech-accuracy-problems",
+   "image": null,
+   "published": "2026-11-20T12:00:00Z",
+   "found": "2026-11-20T22:00:26Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "d4ff4fecb54e",
