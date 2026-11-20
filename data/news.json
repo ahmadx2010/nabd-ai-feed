@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:10:50Z",
+ "updated": "2026-11-20T18:38:07Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "48d6b0c870b6",
+   "company": "meta",
+   "kind": "blog",
+   "title": "Advancing Science Together: Highlights From the Open Source AI For Science Summit",
+   "summary": "We brought researchers from universities, hospitals, and industry together for the Open Source AI for Science Summit, an event built around using open source AI to accelerate scientific discovery. The post Advancing Science Together: Highlights From the Open Source AI For Science Summit appeared first on Meta Newsroom .",
+   "url": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/",
+   "image": "https://about.fb.com/wp-content/uploads/2026/11/Highlights-From-the-Open-Source-AI-For-Science-Summit_Thumbnail.jpg?fit=890%2C501",
+   "published": "2026-11-20T18:30:45Z",
+   "found": "2026-11-20T18:38:07Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "e56c8a71f46f",
    "company": "openai",
