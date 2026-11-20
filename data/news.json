@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:19:15Z",
+ "updated": "2026-11-20T00:37:08Z",
  "categories": [
   {
    "key": "big",
@@ -852,6 +852,21 @@
    "ar_title": "نشر Daybreak Red: بنية مرجعية للتحقيقات الأمنية تحت الإشراف",
    "ar_summary": "تستعرض OpenAI بنية مرجعية لإجراء تحقيقات أمنية خاضعة للإشراف باستخدام Daybreak Red، وتشمل ضوابط السلامة وخطوات الإعداد والمراقبة.",
    "ai": true
+  },
+  {
+   "id": "cc5d7f4c6c4c",
+   "company": "together",
+   "kind": "blog",
+   "title": "Tencent Hy4 is live on Together AI",
+   "summary": "Tencent Hy4 is live on Together AI. We tested its image input by extracting and rebuilding a chart, then tried its coding with a browser game generated from one prompt.",
+   "url": "https://www.together.ai/blog/tencent-hy4",
+   "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6aff92a073f09431cc1d2ec2_tencent-hy4-og-image.png",
+   "published": "2026-11-19T00:00:00Z",
+   "found": "2026-11-20T00:37:08Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "335c8fb068c7",
