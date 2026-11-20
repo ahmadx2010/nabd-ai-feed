@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:42:44Z",
+ "updated": "2026-11-20T20:00:56Z",
  "categories": [
   {
    "key": "big",
@@ -5223,6 +5223,21 @@
    "ar_title": "واجهة Gemini Decisions API: قرارات متعددة الوسائط سريعة ومعايَرة",
    "ar_summary": "أطلقت Google واجهة Gemini Decisions API المدعومة بنموذج Gemini Decision 1 لاتخاذ قرارات محدودة الخيارات بسرعة عبر النص والصورة والصوت والفيديو وPDF.",
    "ai": true
+  },
+  {
+   "id": "40c18930e257",
+   "company": "replit",
+   "kind": "blog",
+   "title": "Securely connect Replit to your private network with Tunnels",
+   "summary": "A self-driving company needs agents that can investigate issues, prepare reports and build with company data. When that data sits on a private network, teams shouldn’t have to choose between keeping it secure and putting it to work. Replit’s enterprise controls include governance tools, separate development and production databases, and single-tenant infrastructure. Bring Your Own Cloud adds…",
+   "url": "https://replit.com/blog/build-with-private-data-using-tunnels",
+   "image": "https://cdn.sanity.io/images/bj34pdbp/migration/7841d4a7b6fad45837b993b73a3f8f4e7c97a419-1920x1000.png",
+   "published": "2026-11-11T17:55:00Z",
+   "found": "2026-11-20T20:00:56Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "845b2050df4d",
@@ -11908,25 +11923,6 @@
    "ai": true,
    "detail": true,
    "fetched": true
-  },
-  {
-   "id": "4dd290070848",
-   "company": "deepmind",
-   "kind": "blog",
-   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-   "summary": "",
-   "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.width-1300.png",
-   "published": "2026-10-06T19:57:04Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 2,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "EmbeddingGemma 2: نموذج تضمين متعدد الوسائط مفتوح وخفيف",
-   "ar_summary": "أطلقت Google DeepMind نموذج EmbeddingGemma 2 بحجم 740 مليون معامل، يدمج النص والصور والصوت والفيديو والشيفرة في فضاء تضمين واحد، ويعمل على الأجهزة بترخيص Apache 2.0.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
