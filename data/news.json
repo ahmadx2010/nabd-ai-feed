@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:46:52Z",
+ "updated": "2026-11-20T20:56:02Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "fe7dfa336613",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "As AI agents take on more work, Microsoft makes Windows more secure",
+   "summary": "The post As AI agents take on more work, Microsoft makes Windows more secure appeared first on Source .",
+   "url": "https://blogs.windows.com/windowsexperience/2026/11/17/microsoft-ignite-2026-building-windows-for-the-next-era-of-work/",
+   "image": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg",
+   "published": "2026-11-20T20:44:36Z",
+   "found": "2026-11-20T20:56:02Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "48d6b0c870b6",
    "company": "meta",
