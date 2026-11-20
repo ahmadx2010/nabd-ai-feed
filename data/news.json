@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:44:08Z",
+ "updated": "2026-11-20T14:03:41Z",
  "categories": [
   {
    "key": "big",
@@ -603,10 +603,14 @@
    "image": "https://huggingface.co/blog/assets/harness-adapters-at-scale/thumbnail.png",
    "published": "2026-11-20T00:00:00Z",
    "found": "2026-11-20T13:44:08Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Hugging Face تقدّم «محوّلات الأداة»: تكييف النموذج المفضل مع بيئة عملك لتحسين الأداء والتكلفة",
+   "ar_summary": "تعرض Hugging Face طريقة تدريب محوّل LoRA بالتعلم المعزز داخل بيئة الوكيل نفسها، فيرتفع أداء Qwen3.8-27B في Terminal-Bench 2.1 من 39% إلى 55% مع استهلاك رموز أقل.",
+   "ai": true
   },
   {
    "id": "3a6bcf25cc05",
