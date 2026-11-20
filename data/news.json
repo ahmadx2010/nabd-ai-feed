@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:57:09Z",
+ "updated": "2026-11-20T21:05:36Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "774b05fa8bf3",
+   "company": "openai",
+   "kind": "video",
+   "title": "How to claim your business in ChatGPT with Shopify",
+   "summary": "Claim your business in ChatGPT by connecting your Shopify store. This demo shows how to start in Business Hub or the Shopify App Store, then connect your store directly to ChatGPT. After that, you can manage your business information to shape how you show up in ChatGPT. Claim your business in Business Hub https://chatgpt.com/business-hub Connect through the Shopify App Store…",
+   "url": "https://www.youtube.com/watch?v=mX7wHNnsghs",
+   "image": "https://i2.ytimg.com/vi/mX7wHNnsghs/hqdefault.jpg",
+   "published": "2026-11-20T20:48:27Z",
+   "found": "2026-11-20T21:05:36Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "fe7dfa336613",
    "company": "microsoft",
