@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:33:27Z",
+ "updated": "2026-11-20T00:00:10Z",
  "categories": [
   {
    "key": "big",
@@ -11515,25 +11515,6 @@
    "ar_title": "نماذج Earth AI الجغرافية الأساسية في خدمة الصحة العامة العالمية",
    "ar_summary": "تعرض Google Research خمس دراسات حالة مع شركاء تُظهر أن نموذج PDFM ضمن Earth AI يمكن دمجه في سير العمل الوبائي لسد فجوات البيانات وتأخر التقارير.",
    "ai": true
-  },
-  {
-   "id": "ecd4573e22e0",
-   "company": "cursor",
-   "kind": "blog",
-   "title": "Remote control for local agents",
-   "summary": "See and reply to the local agents running on your computer from the Cursor iOS app.",
-   "url": "https://cursor.com/changelog/remote-control-local-agents",
-   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/OG%20Images/remote-control-for-local-agents-0ohSVDCa58OLDRkm0Dt3WyACu4AuXi.png",
-   "published": "2026-10-06T00:00:00Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "Cursor تتيح التحكم عن بُعد بالوكلاء المحليين من iOS",
-   "ar_summary": "يمكن الآن رؤية الوكلاء العاملين على حاسوبك والرد عليهم من تطبيق Cursor على iOS. الميزة مفعّلة افتراضياً لغير مؤسسات Enterprise.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
