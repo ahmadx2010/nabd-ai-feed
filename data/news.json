@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:20:04Z",
+ "updated": "2026-11-20T16:21:00Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "٣ نصائح لتوفير المال باستخدام ChatGPT",
+   "ar_summary": "فيديو من OpenAI يشرح ثلاث طرق لاستخدام ChatGPT في توفير المال، منها مقارنة الأسعار بلقطة شاشة للمنتج وكشف الاشتراكات غير المستخدمة وإعداد ميزانية شهرية.",
+   "ai": true
   },
   {
    "id": "d4ff4fecb54e",
