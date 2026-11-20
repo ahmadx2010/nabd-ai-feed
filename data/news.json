@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:47:45Z",
+ "updated": "2026-11-20T16:56:55Z",
  "categories": [
   {
    "key": "big",
@@ -645,6 +645,21 @@
    "ar_title": "Hugging Face تقدّم «محوّلات الأداة»: تكييف النموذج المفضل مع بيئة عملك لتحسين الأداء والتكلفة",
    "ar_summary": "تعرض Hugging Face طريقة تدريب محوّل LoRA بالتعلم المعزز داخل بيئة الوكيل نفسها، فيرتفع أداء Qwen3.8-27B في Terminal-Bench 2.1 من 39% إلى 55% مع استهلاك رموز أقل.",
    "ai": true
+  },
+  {
+   "id": "af212a7ce83c",
+   "company": "together",
+   "kind": "blog",
+   "title": "Qwen3 TTS is now available on Together AI",
+   "summary": "Qwen3 TTS is now available on Together AI. Keep one voice across your product, change its tone with a plain-language instruction and move it between 10 languages, with first audio in as little as 97ms.",
+   "url": "https://www.together.ai/blog/qwen3-tts",
+   "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6aff8fbaca134c94b0c46d44_2026-11-19-qwen3-tts-og-image.png",
+   "published": "2026-11-20T00:00:00Z",
+   "found": "2026-11-20T16:56:55Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "3a6bcf25cc05",
