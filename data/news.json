@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:00:10Z",
+ "updated": "2026-11-20T00:18:22Z",
  "categories": [
   {
    "key": "big",
@@ -834,6 +834,20 @@
    "ar_title": "ابدأ مع Daybreak Blue: شرح الإعداد الأولي",
    "ar_summary": "فيديو يشرح خطوات الانضمام وإعداد Daybreak Blue وكيفية البدء.",
    "ai": true
+  },
+  {
+   "id": "4b08ec50268e",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Deploying Daybreak Red",
+   "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+   "url": "https://openai.com/business/learn/deploying-daybreak-red",
+   "image": null,
+   "published": "2026-11-19T00:00:00Z",
+   "found": "2026-11-20T00:18:22Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "335c8fb068c7",
