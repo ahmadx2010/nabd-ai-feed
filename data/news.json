@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:15:01Z",
+ "updated": "2026-11-20T19:25:21Z",
  "categories": [
   {
    "key": "big",
@@ -735,9 +735,13 @@
    "image": null,
    "published": "2026-11-20T00:00:00Z",
    "found": "2026-11-20T19:15:01Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "هل يستطيع الذكاء الاصطناعي مساعدة العلماء في تحديد أدوية واعدة؟ OpenAI تطلق MedChemBench",
+   "ar_summary": "يقيّم المعيار الجديد MedChemBench قدرة نماذج الذكاء الاصطناعي على فهم البنى الجزيئية والاستدلال من الأدلة التجريبية واختيار المركبات في المراحل المبكرة لاكتشاف الأدوية.",
+   "ai": true
   },
   {
    "id": "4e4568214c6d",
@@ -749,10 +753,14 @@
    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
    "published": "2026-11-20T00:00:00Z",
    "found": "2026-11-20T19:15:01Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Depth Pro 2: تقدير عمق أحادي دقيق وحاد ومتسق زمنيًا",
+   "ar_summary": "تقدم Apple نموذج Depth Pro 2 لتقدير العمق المترّي للصور والفيديو بدقة كاملة، ويجمع بين الدقة والحدّة والاتساق الزمني في شبكة واحدة.",
+   "ai": true
   },
   {
    "id": "3a6bcf25cc05",
