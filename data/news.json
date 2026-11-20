@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:05:31Z",
+ "updated": "2026-11-20T02:24:43Z",
  "categories": [
   {
    "key": "big",
@@ -722,6 +722,24 @@
    "ar_detail": true,
    "ar_title": "كم مكالمة يستطيع وكيل صوتي بالذكاء الاصطناعي التعامل معها على نطاق واسع؟",
    "ar_summary": "تشرح ElevenLabs أن سعة المكالمات المتزامنة لوكيل الصوت تعتمد على خطة الاشتراك وسعة الاتصال الهاتفي وسرعة استجابة النموذج.",
+   "ai": true
+  },
+  {
+   "id": "b6df59bd6d33",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "What Is RAG as a Service (RaaS)? Definition, Use Cases, and Top Providers",
+   "summary": "A Perplexity guide explaining RAG as a service, where a vendor manages indexing, storage and retrieval, compared with local and hybrid RAG setups.",
+   "url": "https://www.perplexity.ai/hub/blog/rag-as-a-service",
+   "image": null,
+   "published": "2026-11-19T12:00:00Z",
+   "found": "2026-11-20T02:24:43Z",
+   "importance": 0,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "ما هو RAG كخدمة (RaaS)؟ دليل Perplexity للتعريف والاستخدامات وأبرز المزوّدين",
+   "ar_summary": "نشرت Perplexity دليلاً يشرح خدمة RAG التي يتولى فيها المزوّد الفهرسة والتخزين والاسترجاع بدلاً من الشركة نفسها، ويقارنها بالحلول المحلية والهجينة.",
    "ai": true
   },
   {
