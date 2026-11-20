@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:11:00Z",
+ "updated": "2026-11-20T20:19:32Z",
  "categories": [
   {
    "key": "big",
@@ -779,6 +779,21 @@
    "ar_title": "Depth Pro 2: تقدير عمق أحادي دقيق وحاد ومتسق زمنيًا",
    "ar_summary": "تقدم Apple نموذج Depth Pro 2 لتقدير العمق المترّي للصور والفيديو بدقة كاملة، ويجمع بين الدقة والحدّة والاتساق الزمني في شبكة واحدة.",
    "ai": true
+  },
+  {
+   "id": "80d31a6dee29",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "summary": "",
+   "url": "https://huggingface.co/blog/inkling2mini",
+   "image": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png",
+   "published": "2026-11-20T00:00:00Z",
+   "found": "2026-11-20T20:19:32Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "3a6bcf25cc05",
