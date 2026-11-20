@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:17:53Z",
+ "updated": "2026-11-20T11:46:05Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Lovable تفتح «App Studio» في أتلانتا لمدة يوم واحد",
+   "ar_summary": "تفتح Lovable أول استوديو تطبيقات لها في مدينة أتلانتا الأمريكية في 2 ديسمبر ليوم واحد مجاناً وللعامة، ليحوّل الزوار أفكارهم إلى تطبيقات عاملة بمساعدة خبراء الشركة.",
+   "ai": true
   },
   {
    "id": "6d1ae60134f3",
