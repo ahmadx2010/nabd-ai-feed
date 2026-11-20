@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:21:00Z",
+ "updated": "2026-11-20T16:47:45Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "٣ نصائح لتوفير المال باستخدام ChatGPT",
    "ar_summary": "فيديو من OpenAI يشرح ثلاث طرق لاستخدام ChatGPT في توفير المال، منها مقارنة الأسعار بلقطة شاشة للمنتج وكشف الاشتراكات غير المستخدمة وإعداد ميزانية شهرية.",
    "ai": true
+  },
+  {
+   "id": "6668009dbad5",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Introducing video ad variants and localization in Ads Engine",
+   "summary": "Ads Engine makes new versions of the video ads you already run: new hooks, new soundtracks, and dubbed versions with translated captions.",
+   "url": "https://elevenlabs.io/blog/video-variants-localization-ads-engine",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/dbkgpzyumvn-ads-engine-video-variants-cover-v4.webp",
+   "published": "2026-11-20T12:00:00Z",
+   "found": "2026-11-20T16:47:45Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "d4ff4fecb54e",
