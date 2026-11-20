@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:46:32Z",
+ "updated": "2026-11-20T23:04:42Z",
  "categories": [
   {
    "key": "big",
@@ -550,6 +550,21 @@
    "ar_title": "كيف تعالج مشكلات دقة تحويل النص إلى كلام",
    "ar_summary": "دليل من ElevenLabs لمعالجة مشكلات تحويل النص إلى كلام مثل أخطاء النطق والأداء الآلي وأخطاء واجهة البرمجة، مع نصائح عملية لكل حالة.",
    "ai": true
+  },
+  {
+   "id": "e8758b64c9e8",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "How Fundación Televisa interviewed more than 1,000 entrepreneurs with voice AI",
+   "summary": "Fundación Televisa used ElevenAgents to interview more than 1,000 entrepreneurs for POSiBLE, Mexico’s largest entrepreneurship accelerator.",
+   "url": "https://elevenlabs.io/blog/fundacion-televisa-posible",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/5yo3m77h6p-44.webp",
+   "published": "2026-11-20T12:00:00Z",
+   "found": "2026-11-20T23:04:42Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "d4ff4fecb54e",
