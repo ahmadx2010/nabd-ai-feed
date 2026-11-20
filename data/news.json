@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T06:24:40Z",
+ "updated": "2026-11-20T06:25:38Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تنشئ لوحة معلومات وتشاركها في ChatGPT",
+   "ar_summary": "فيديو تعليمي من OpenAI يشرح تحويل التحليل إلى لوحة معلومات يستخدمها الفريق، مع تعديل الرسوم وإضافة الملاحظات ومشاركتها عبر Sites.",
+   "ai": true
   },
   {
    "id": "540cdc8b57cf",
@@ -413,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "اسأل ChatGPT عن بياناتك: ما الذي تغيّر وأي العملاء يحتاجون اهتماماً",
+   "ar_summary": "فيديو من OpenAI يوضح كيفية استخدام ChatGPT لمقارنة المبيعات الفصلية وتصوير الشرائح واستكشاف طلبات العملاء، ثم تحويل النتائج إلى عرض من ثلاث شرائح.",
+   "ai": true
   },
   {
    "id": "1b891055417b",
@@ -428,7 +436,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "اربط بيانات فريقك بـ ChatGPT",
+   "ar_summary": "فيديو موجّه لمسؤولي مساحات العمل يشرح تفعيل إضافة Data، وإعداد الاتصال بـ Snowflake، وإضافة خوادم MCP مخصصة.",
+   "ai": true
   },
   {
    "id": "da62636c1c52",
@@ -443,7 +455,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تعرّف على وكيل البيانات في ChatGPT",
+   "ar_summary": "جولة سريعة في إضافة Data داخل ChatGPT: طرح أسئلة عن البيانات وإنشاء الرسوم ولوحات المعلومات ومشاركة التقارير.",
+   "ai": true
   },
   {
    "id": "27db4f2d4b5e",
@@ -458,7 +474,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إنشاء تقرير ومشاركته في ChatGPT Space",
+   "ar_summary": "فيديو من OpenAI يشرح تحويل تحليل المبيعات إلى صفحة في Space يمكن للفريق قراءتها ومناقشتها والتعاون عليها.",
+   "ai": true
   },
   {
    "id": "6ea18585bfd4",
