@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T02:27:03Z",
+ "updated": "2026-11-20T05:48:22Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,36 @@
   }
  },
  "items": [
+  {
+   "id": "da62636c1c52",
+   "company": "openai",
+   "kind": "video",
+   "title": "Meet the Data Agent in ChatGPT",
+   "summary": "Get started with the Data plugin in ChatGPT. Take a quick tour of how to ask questions about your data, create visualizations, build dashboards, and share reports with your team. See where to find Data in the plugin marketplace, how it works with your files and connected tools, and the skills available for tasks like checking data quality, defining KPIs, and business analysis. Explore the Data…",
+   "url": "https://www.youtube.com/watch?v=KrlfehIapEA",
+   "image": "https://i4.ytimg.com/vi/KrlfehIapEA/hqdefault.jpg",
+   "published": "2026-11-20T05:35:32Z",
+   "found": "2026-11-20T05:48:22Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "27db4f2d4b5e",
+   "company": "openai",
+   "kind": "video",
+   "title": "Create and Share a Report in ChatGPT Space",
+   "summary": "Give your team a report they can read, discuss, and work on together. In this walkthrough, turn the fictional Acme sales analysis into a Page in Space, with the highlights, quarterly comparisons, and charts in one place. See how to choose who can access the report, copy a link for your meeting, edit a heading directly, ask ChatGPT questions about the report, and leave comments beside the findings…",
+   "url": "https://www.youtube.com/watch?v=3_fayTbZrW8",
+   "image": "https://i4.ytimg.com/vi/3_fayTbZrW8/hqdefault.jpg",
+   "published": "2026-11-20T05:32:52Z",
+   "found": "2026-11-20T05:48:22Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "6ea18585bfd4",
    "company": "langchain",
