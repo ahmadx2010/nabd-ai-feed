@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:17:36Z",
+ "updated": "2026-11-20T13:44:08Z",
  "categories": [
   {
    "key": "big",
@@ -592,6 +592,21 @@
    "ar_title": "Anthropic تعلن إتمام اكتتابها العام بقيمة 93.5 مليار دولار",
    "ar_summary": "أعلنت Anthropic إغلاق طرحها العام الأولي بسعر 83 دولارًا للسهم، مع ممارسة المكتتبين الضامنين حقهم الكامل في شراء أسهم إضافية. بدأ تداول السهم في ناسداك تحت الرمز ANT يوم 19 نوفمبر 2026.",
    "ai": true
+  },
+  {
+   "id": "211fbe8009a4",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+   "summary": "",
+   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+   "image": "https://huggingface.co/blog/assets/harness-adapters-at-scale/thumbnail.png",
+   "published": "2026-11-20T00:00:00Z",
+   "found": "2026-11-20T13:44:08Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "3a6bcf25cc05",
