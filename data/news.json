@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:56:55Z",
+ "updated": "2026-11-20T17:07:10Z",
  "categories": [
   {
    "key": "big",
@@ -414,10 +414,14 @@
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/dbkgpzyumvn-ads-engine-video-variants-cover-v4.webp",
    "published": "2026-11-20T12:00:00Z",
    "found": "2026-11-20T16:47:45Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تضيف متغيرات الإعلانات المرئية والتوطين إلى Ads Engine",
+   "ar_summary": "أضافت ElevenLabs إلى أداة Ads Engine إمكانية إنشاء نسخ جديدة من الإعلانات المرئية الحالية بخطافات افتتاحية وموسيقى جديدة، إضافة إلى دبلجتها وترجمة التعليقات النصية لأسواق جديدة دون إعادة تصوير.",
+   "ai": true
   },
   {
    "id": "d4ff4fecb54e",
@@ -656,10 +660,14 @@
    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6aff8fbaca134c94b0c46d44_2026-11-19-qwen3-tts-og-image.png",
    "published": "2026-11-20T00:00:00Z",
    "found": "2026-11-20T16:56:55Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "نموذج Qwen3 TTS لتحويل النص إلى كلام متاح الآن على Together AI",
+   "ar_summary": "أتاحت Together AI نموذج Qwen3 TTS المفتوح لتحويل النص إلى كلام، بتسع أصوات جاهزة و10 لغات وأول صوت خلال 97 ملّي ثانية، بسعر 20 دولاراً لكل مليون حرف.",
+   "ai": true
   },
   {
    "id": "3a6bcf25cc05",
