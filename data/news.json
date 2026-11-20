@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T10:14:26Z",
+ "updated": "2026-11-20T11:17:53Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "d4ff4fecb54e",
+   "company": "lovable",
+   "kind": "blog",
+   "title": "Your ideas are in store at Lovable’s App Studio, opening soon in Atlanta | Lovable",
+   "summary": "On December 2, Lovable App Studio opens for one day at Ponce City Market in Atlanta. Turn your idea into a working app with a Lovable expert, free and open to the public.",
+   "url": "https://lovable.dev/blog/lovable-app-studio-atlanta",
+   "image": "https://assets.lovable.dev/content/news/covers/lovable-app-studio-atlanta.jpg",
+   "published": "2026-11-20T11:00:00Z",
+   "found": "2026-11-20T11:17:53Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "6d1ae60134f3",
    "company": "manus",
