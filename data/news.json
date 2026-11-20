@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:38:07Z",
+ "updated": "2026-11-20T18:39:05Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://about.fb.com/wp-content/uploads/2026/11/Highlights-From-the-Open-Source-AI-For-Science-Summit_Thumbnail.jpg?fit=890%2C501",
    "published": "2026-11-20T18:30:45Z",
    "found": "2026-11-20T18:38:07Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ميتا تستعرض أبرز ما جاء في قمة الذكاء الاصطناعي مفتوح المصدر للعلوم",
+   "ar_summary": "جمعت ميتا باحثين من الجامعات والمستشفيات والصناعة في قمة لبحث كيفية تسريع الاكتشاف العلمي عبر الذكاء الاصطناعي مفتوح المصدر. وأعلنت توسيع مشروع الدماغ الرقمي وإطلاق UMA Nitro.",
+   "ai": true
   },
   {
    "id": "e56c8a71f46f",
@@ -469,7 +473,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenAgents للرعاية الصحية: بناء وكيل صوتي لتذكير المرضى بالمواعيد باستخدام Architect",
+   "ar_summary": "تشرح ElevenLabs كيفية بناء وكيل صوتي يتصل بالمرضى قبل مواعيدهم، فيتحقق من هويتهم ويؤكد الموعد أو يعيد جدولته أو يلغيه في السجل الصحي الإلكتروني أثناء المكالمة.",
+   "ai": true
   },
   {
    "id": "d4ff4fecb54e",
