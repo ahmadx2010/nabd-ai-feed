@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:00:26Z",
+ "updated": "2026-11-20T22:29:03Z",
  "categories": [
   {
    "key": "big",
@@ -530,7 +530,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تعالج مشكلات دقة تحويل النص إلى كلام",
+   "ar_summary": "دليل من ElevenLabs لمعالجة مشكلات تحويل النص إلى كلام مثل أخطاء النطق والأداء الآلي وأخطاء واجهة البرمجة، مع نصائح عملية لكل حالة.",
+   "ai": true
   },
   {
    "id": "d4ff4fecb54e",
