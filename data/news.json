@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:39:05Z",
+ "updated": "2026-11-20T19:15:01Z",
  "categories": [
   {
    "key": "big",
@@ -724,6 +724,35 @@
    "ar_title": "نموذج Qwen3 TTS لتحويل النص إلى كلام متاح الآن على Together AI",
    "ar_summary": "أتاحت Together AI نموذج Qwen3 TTS المفتوح لتحويل النص إلى كلام، بتسع أصوات جاهزة و10 لغات وأول صوت خلال 97 ملّي ثانية، بسعر 20 دولاراً لكل مليون حرف.",
    "ai": true
+  },
+  {
+   "id": "f4784c304003",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+   "url": "https://openai.com/index/introducing-medchembench",
+   "image": null,
+   "published": "2026-11-20T00:00:00Z",
+   "found": "2026-11-20T19:15:01Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "4e4568214c6d",
+   "company": "apple",
+   "kind": "blog",
+   "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+   "summary": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-frame methods favor sharpness. To overcome this trade-off, we train a single, scalable network that…",
+   "url": "https://machinelearning.apple.com/research/depth-pro-2-monocular",
+   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+   "published": "2026-11-20T00:00:00Z",
+   "found": "2026-11-20T19:15:01Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "3a6bcf25cc05",
