@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:29:03Z",
+ "updated": "2026-11-20T22:46:32Z",
  "categories": [
   {
    "key": "big",
@@ -441,6 +441,21 @@
    "ar_title": "ميتا تستعرض أبرز ما جاء في قمة الذكاء الاصطناعي مفتوح المصدر للعلوم",
    "ar_summary": "جمعت ميتا باحثين من الجامعات والمستشفيات والصناعة في قمة لبحث كيفية تسريع الاكتشاف العلمي عبر الذكاء الاصطناعي مفتوح المصدر. وأعلنت توسيع مشروع الدماغ الرقمي وإطلاق UMA Nitro.",
    "ai": true
+  },
+  {
+   "id": "0f4da97fb1bd",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Get your year-end tasks done with new Connected Apps.",
+   "summary": "Google Connected Apps simplify your year-end tasks. Manage groceries, credit scores, and home services directly in Search. Get the details for November 2026.",
+   "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Connected_apps_-_Social_share_a.max-600x600.format-webp.webp",
+   "published": "2026-11-20T18:00:00Z",
+   "found": "2026-11-20T22:46:32Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "e56c8a71f46f",
