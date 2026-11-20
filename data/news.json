@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T06:25:38Z",
+ "updated": "2026-11-20T09:36:57Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,51 @@
   }
  },
  "items": [
+  {
+   "id": "6d1ae60134f3",
+   "company": "manus",
+   "kind": "blog",
+   "title": "How to Make a Multiplayer Game in Manus (No Coding)",
+   "summary": "Build a three-lap racing game your friends can join online, without coding. Set up a room, test with a second player and publish in 7 steps.",
+   "url": "https://manus.im/blog/how-make-a-multiplayer-game",
+   "image": "https://files.manuscdn.com/assets/dashboard/materials/2026/11/19/1201a69117e5ad87ce9d8b6999b102f4e8d7acb0db9ccaaf4e8b931696025833.webp",
+   "published": "2026-11-20T09:36:57Z",
+   "found": "2026-11-20T09:36:57Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "7138170c7daf",
+   "company": "manus",
+   "kind": "blog",
+   "title": "How to Build a 3D Game for Beginners",
+   "summary": "Learn how to make a 3D game without coding. Plan your idea, pick a free 3D game maker, get 3D models, and publish a playable link, step by step.",
+   "url": "https://manus.im/blog/how-to-make-a-3d-game",
+   "image": "https://files.manuscdn.com/assets/dashboard/materials/2026/11/19/f04bea06fe31d1dab1ae52fa7148b5003a44b65f7dd14b07d808c730b18e373e.webp",
+   "published": "2026-11-20T09:36:57Z",
+   "found": "2026-11-20T09:36:57Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "e9dc397177d8",
+   "company": "manus",
+   "kind": "blog",
+   "title": "11 Best AI Character Generators in 2026 (Free & Paid)",
+   "summary": "Find an AI character generator that fits your game. Compare 11 free and paid tools for 2026, with prices, reference features and prompts to try.",
+   "url": "https://manus.im/blog/best-ai-character-generators",
+   "image": "https://files.manuscdn.com/assets/dashboard/materials/2026/11/20/6116d6e59aa572ba5abfab7f008c81d3ed867fbaf755c98ca29ad74ddec9d746.webp",
+   "published": "2026-11-20T09:36:57Z",
+   "found": "2026-11-20T09:36:57Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "b4606f809401",
    "company": "openai",
