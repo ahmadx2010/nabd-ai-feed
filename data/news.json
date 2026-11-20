@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:56:02Z",
+ "updated": "2026-11-20T20:57:09Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg",
    "published": "2026-11-20T20:44:36Z",
    "found": "2026-11-20T20:56:02Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مع تزايد مهام وكلاء الذكاء الاصطناعي، مايكروسوفت تعزز أمان Windows",
+   "ar_summary": "أعلنت مايكروسوفت في Ignite 2026 عن تعزيزات أمنية لنظام Windows وبيئة أكثر أماناً لتشغيل وكلاء الذكاء الاصطناعي، إضافة إلى توجيه GitHub Copilot Fusion للمهام إلى نماذج محلية.",
+   "ai": true
   },
   {
    "id": "48d6b0c870b6",
@@ -805,10 +809,14 @@
    "image": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png",
    "published": "2026-11-20T00:00:00Z",
    "found": "2026-11-20T20:19:32Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تعرّف على Inkling 2 Mini: أداء متقدم لإعداداتك المحلية",
+   "ar_summary": "Inkling 2 Mini نموذج متعدد الوسائط من نوع خليط الخبراء بنحو 26 مليار معامل إجمالي و3 مليارات نشطة لكل رمز، صُمم للتشغيل المحلي ويدعم سياقاً بطول مليون رمز.",
+   "ai": true
   },
   {
    "id": "d15c45643214",
@@ -820,10 +828,14 @@
    "image": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
    "published": "2026-11-20T00:00:00Z",
    "found": "2026-11-20T20:46:52Z",
-   "importance": 2,
+   "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Hebbia تحقق تحسناً في البحث المالي باستخدام GPT-6 Astra",
+   "ar_summary": "اختبرت شركة Hebbia نموذج GPT-6 Astra في البحث المالي، وأظهرت تقييماتها الأولية تحسناً في تغطية المصادر وصلة الاقتباسات بالسؤال وجودة العروض التقديمية.",
+   "ai": true
   },
   {
    "id": "3a6bcf25cc05",
