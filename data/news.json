@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:00:56Z",
+ "updated": "2026-11-20T20:11:00Z",
  "categories": [
   {
    "key": "big",
@@ -508,9 +508,13 @@
    "image": null,
    "published": "2026-11-20T10:00:00Z",
    "found": "2026-11-20T19:42:44Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI تكافح «التقطير العدائي» لحماية قدرات نماذجها",
+   "ar_summary": "تعرض OpenAI نهجاً متعدد الطبقات لمواجهة التقطير العدائي، يجمع بين تدريب النماذج وإجراءات الحماية وأنظمة الكشف والإنفاذ. الهدف منع استخراج قدرات النماذج المتقدمة بطرق غير مصرح بها.",
+   "ai": true
   },
   {
    "id": "6d1ae60134f3",
@@ -5234,10 +5238,14 @@
    "image": "https://cdn.sanity.io/images/bj34pdbp/migration/7841d4a7b6fad45837b993b73a3f8f4e7c97a419-1920x1000.png",
    "published": "2026-11-11T17:55:00Z",
    "found": "2026-11-20T20:00:56Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Replit تطلق «Tunnels» لربط بيئاتها بأمان بشبكتك الخاصة",
+   "ar_summary": "تقدم Replit ميزة Tunnels التي تربط بيئاتها بخدمات داخل الشبكة الخاصة للشركة مثل قواعد البيانات وواجهات API الداخلية، دون فتح الشبكة للعموم. تُشفَّر الحركة بتقنية mTLS ويحدد فريق تقنية المعلومات الخدمات المسموح بها.",
+   "ai": true
   },
   {
    "id": "845b2050df4d",
