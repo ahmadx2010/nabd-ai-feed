@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:14:44Z",
+ "updated": "2026-11-20T23:32:16Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "064d8fb5049e",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+   "summary": "Generative AI",
+   "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Duplex1-TasksInGeminiHero.png",
+   "published": "2026-11-20T23:30:30Z",
+   "found": "2026-11-20T23:32:16Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "774b05fa8bf3",
    "company": "openai",
