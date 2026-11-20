@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:33:37Z",
+ "updated": "2026-11-20T17:52:49Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-20T17:33:37Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "طريقة غير متوقعة لاستخدام ChatGPT: العثور على طبيب",
+   "ar_summary": "تشارك ماغان تشين كيف تستخدم ChatGPT للعثور على أطباء ذوي تقييمات عالية بالقرب منها، كنصيحة لبدء الفحوصات السنوية.",
+   "ai": true
   },
   {
    "id": "ba750ffcc2fd",
