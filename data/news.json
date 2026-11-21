@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:45:46Z",
+ "updated": "2026-11-21T16:46:46Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-21T16:45:46Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "LangChain تنشر مقالة «Knowledge Factory» على مدونتها",
+   "ar_summary": "نشرت LangChain مقالة جديدة بعنوان «Knowledge Factory» على مدونتها الرسمية. لم يتوفر نص المقالة أو ملخصها وقت المعالجة، لذلك لا تتوفر تفاصيل إضافية.",
+   "ai": true
   },
   {
    "id": "064d8fb5049e",
