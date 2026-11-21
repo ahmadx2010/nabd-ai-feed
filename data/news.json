@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:46:46Z",
+ "updated": "2026-11-21T17:50:12Z",
  "categories": [
   {
    "key": "big",
@@ -12084,25 +12084,6 @@
    "ar_title": "هل العمل الأفضل يعني عاملين أفضل؟ دراسة Google عن الذكاء الاصطناعي والخبرة",
    "ar_summary": "تجربة لثلاثة أشهر مع محامي براءات الاختراع بيّنت أن الذكاء الاصطناعي يحسّن جودة العمل، لكن تأثيره في التعلم يختلف بحسب الأقدمية.",
    "ai": true
-  },
-  {
-   "id": "c13c9140efc7",
-   "company": "copilot",
-   "kind": "blog",
-   "title": "Secret protection must scale with software",
-   "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .",
-   "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
-   "image": "https://github.blog/wp-content/uploads/2026/01/generic-security-invertocat-blocks-copilot.png",
-   "published": "2026-10-07T17:45:34Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "حماية الأسرار يجب أن تواكب نمو البرمجيات",
-   "ar_summary": "يعرض GitHub بيانات تسعة أرباع سنوية تظهر أن المطورين ليسوا أكثر إهمالاً بل تجاوزهم حجم العمل، ويقدم مصنفاً جديداً مع Microsoft لتوسيع حماية الدفع إلى الأسرار غير المنظمة.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
