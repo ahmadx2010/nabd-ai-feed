@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:21:11Z",
+ "updated": "2026-11-21T23:19:31Z",
  "categories": [
   {
    "key": "big",
@@ -421,6 +421,21 @@
    "ar_title": "Qwen4 Max متاح الآن على منصة Together AI مع خصم 30%",
    "ar_summary": "أعلنت Together AI توفر Qwen4 Max، النموذج الرائد من علي بابا، على منصتها مع خصم 30% حتى 22 نوفمبر 2026. وفي اختبار للشركة أنتج النموذج رقعة برمجية اجتازت اختبارات المشروع بتكلفة 69 سنتًا.",
    "ai": true
+  },
+  {
+   "id": "329b54ad7ed6",
+   "company": "together",
+   "kind": "blog",
+   "title": "Security event: Prompt leakage for requests in June and July of 2026",
+   "summary": "We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026.",
+   "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+   "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6b022370652340ea74608520_OG-image_20261121-security-event-prompt-leakage.png",
+   "published": "2026-11-21T00:00:00Z",
+   "found": "2026-11-21T23:19:31Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "064d8fb5049e",
