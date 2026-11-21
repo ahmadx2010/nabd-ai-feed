@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:25:33Z",
+ "updated": "2026-11-21T20:53:11Z",
  "categories": [
   {
    "key": "big",
@@ -402,6 +402,21 @@
    "ar_title": "LangChain تنشر مقالة «Knowledge Factory» على مدونتها",
    "ar_summary": "نشرت LangChain مقالة جديدة بعنوان «Knowledge Factory» على مدونتها الرسمية. لم يتوفر نص المقالة أو ملخصها وقت المعالجة، لذلك لا تتوفر تفاصيل إضافية.",
    "ai": true
+  },
+  {
+   "id": "3ac87bcc9a31",
+   "company": "together",
+   "kind": "blog",
+   "title": "Qwen4 Max is live on Together AI",
+   "summary": "Qwen4 Max, Alibaba's flagship Qwen model, is live on Together AI and 30% off through November 22, 2026. We sent it a bug report and an entire repository in one request. Its patch passed the project's tests, for 69 cents.",
+   "url": "https://www.together.ai/blog/qwen4-max",
+   "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6b01fce39084a4a443ffe779_2026-11-19-qwen4-max-og-image.png",
+   "published": "2026-11-21T00:00:00Z",
+   "found": "2026-11-21T20:53:11Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "064d8fb5049e",
