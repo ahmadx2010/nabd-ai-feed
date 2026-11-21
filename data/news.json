@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:19:31Z",
+ "updated": "2026-11-21T23:38:52Z",
  "categories": [
   {
    "key": "big",
@@ -432,10 +432,14 @@
    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6b022370652340ea74608520_OG-image_20261121-security-event-prompt-leakage.png",
    "published": "2026-11-21T00:00:00Z",
    "found": "2026-11-21T23:19:31Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Together AI تُبلغ عملاءها بحادث أمني: تسرّب عيّنات من الطلبات في يونيو ويوليو 2026",
+   "ar_summary": "أعلنت Together AI عن حادث أمني تضمّن تحميل جهة غير مصرّح لها عيّنات من الطلبات المرسلة إلى خدمة الاستدلال دون خادم (serverless) خلال يونيو ويوليو 2026، بعد انكشاف بيانات اعتماد في مستودع عام.",
+   "ai": true
   },
   {
    "id": "064d8fb5049e",
