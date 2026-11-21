@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:32:16Z",
+ "updated": "2026-11-21T00:00:22Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Duplex1-TasksInGeminiHero.png",
    "published": "2026-11-20T23:30:30Z",
    "found": "2026-11-20T23:32:16Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تطوّر Google Duplex ليتصل بالأنشطة التجارية نيابةً عنك في Gemini",
+   "ar_summary": "تستعرض Google رحلة تطور Duplex منذ 2018 حتى أصبح يعمل ضمن «المهام» في تطبيق Gemini، حيث يتصل بالمتاجر والمطاعم لإنجاز أمور واقعية نيابةً عن المستخدم.",
+   "ai": true
   },
   {
    "id": "774b05fa8bf3",
