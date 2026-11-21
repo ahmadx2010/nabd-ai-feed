@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:02:34Z",
+ "updated": "2026-11-21T16:45:46Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "0e589a9ed03b",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "Knowledge Factory",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/knowledge-factory",
+   "image": null,
+   "published": "2026-11-21T16:45:46Z",
+   "found": "2026-11-21T16:45:46Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "064d8fb5049e",
    "company": "gemini",
