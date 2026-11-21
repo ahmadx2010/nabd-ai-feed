@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:53:11Z",
+ "updated": "2026-11-21T21:21:11Z",
  "categories": [
   {
    "key": "big",
@@ -413,10 +413,14 @@
    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6b01fce39084a4a443ffe779_2026-11-19-qwen4-max-og-image.png",
    "published": "2026-11-21T00:00:00Z",
    "found": "2026-11-21T20:53:11Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Qwen4 Max متاح الآن على منصة Together AI مع خصم 30%",
+   "ar_summary": "أعلنت Together AI توفر Qwen4 Max، النموذج الرائد من علي بابا، على منصتها مع خصم 30% حتى 22 نوفمبر 2026. وفي اختبار للشركة أنتج النموذج رقعة برمجية اجتازت اختبارات المشروع بتكلفة 69 سنتًا.",
+   "ai": true
   },
   {
    "id": "064d8fb5049e",
