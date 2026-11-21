@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:50:12Z",
+ "updated": "2026-11-21T20:25:33Z",
  "categories": [
   {
    "key": "big",
@@ -12066,24 +12066,6 @@
    "ar_summary": "أضاف التحديث الأسبوعي المجلدات المشتركة ووضع Thinking لصور الإصدار 8.2 وتحسينات في التنظيم واللوحات.",
    "ai": true,
    "img_tried": true
-  },
-  {
-   "id": "fc6c16485847",
-   "company": "google",
-   "kind": "blog",
-   "title": "Does better work always mean better workers?",
-   "summary": "",
-   "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
-   "published": "2026-10-07T20:19:57Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "هل العمل الأفضل يعني عاملين أفضل؟ دراسة Google عن الذكاء الاصطناعي والخبرة",
-   "ar_summary": "تجربة لثلاثة أشهر مع محامي براءات الاختراع بيّنت أن الذكاء الاصطناعي يحسّن جودة العمل، لكن تأثيره في التعلم يختلف بحسب الأقدمية.",
-   "ai": true
   }
  ]
 }
