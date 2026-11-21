@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:00:22Z",
+ "updated": "2026-11-21T12:02:34Z",
  "categories": [
   {
    "key": "big",
@@ -12085,24 +12085,6 @@
    "ar_summary": "يعرض GitHub بيانات تسعة أرباع سنوية تظهر أن المطورين ليسوا أكثر إهمالاً بل تجاوزهم حجم العمل، ويقدم مصنفاً جديداً مع Microsoft لتوسيع حماية الدفع إلى الأسرار غير المنظمة.",
    "ai": true,
    "img_tried": true
-  },
-  {
-   "id": "22643d6fcb19",
-   "company": "google",
-   "kind": "blog",
-   "title": "Introducing Playground: Create and play custom games",
-   "summary": "Overview of Playground",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
-   "published": "2026-10-07T12:00:00Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "ar_detail": true,
-   "ar_title": "غوغل تقدم Playground لإنشاء الألعاب ومشاركتها دون برمجة",
-   "ar_summary": "منصة تجريبية تتيح إنشاء ألعاب مخصصة ولعبها ومشاركتها عبر وصف نصي فقط.",
-   "ai": true,
-   "detail": true,
-   "fetched": true
   }
  ]
 }
