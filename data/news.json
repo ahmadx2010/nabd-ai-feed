@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:09:27Z",
+ "updated": "2026-11-22T17:17:45Z",
  "categories": [
   {
    "key": "big",
@@ -392,7 +392,7 @@
    "title": "Perplexity and Intelligence",
    "summary": "Jakub Pachocki, OpenAI's Chief Scientist, argues that perplexity (prediction error on held-out data) is a key measure of AI progress and proposes that labs adopt it as a shared metric and agree on common limits on development until monitoring and understanding of model behavior reach concrete milestones.",
    "url": "https://openai.com/index/perplexity-and-intelligence/",
-   "image": null,
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
    "published": "2026-11-22T09:00:00Z",
    "found": "2026-11-22T17:09:27Z",
    "importance": 1,
@@ -401,7 +401,9 @@
    "ar_detail": true,
    "ar_title": "OpenAI: «Perplexity and Intelligence» — الحيرة (Perplexity) كمقياس مشترك لتقدّم الذكاء الاصطناعي",
    "ar_summary": "يقترح كبير علماء OpenAI ياكوب باخوتسكي اعتماد مقياس perplexity (خطأ التنبؤ على بيانات غير مرئية) معيارًا مشتركًا لقياس تقدّم النماذج، واتفاق المختبرات على حدود مشتركة للتطوير إلى أن يصل فهم سلوك الذكاء الاصطناعي ومراقبته إلى مستوى محدد.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "0e589a9ed03b",
