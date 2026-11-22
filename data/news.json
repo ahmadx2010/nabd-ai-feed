@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:17:45Z",
+ "updated": "2026-11-22T21:24:11Z",
  "categories": [
   {
    "key": "big",
@@ -12084,44 +12084,6 @@
    "ar_detail": true,
    "ar_title": "وكلاء لغويون يضغطون سياقهم ذاتياً",
    "ar_summary": "يقترح بحث Apple إطار SELFCOMPACT الذي يتيح للنموذج تحديد وقت وكيفية تلخيص سياقه، فيخفض التكلفة 30–70% ويحسن النتائج.",
-   "ai": true,
-   "img_tried": true
-  },
-  {
-   "id": "6d143a9a16cf",
-   "company": "midjourney",
-   "kind": "blog",
-   "title": "Testing Thinking Mode",
-   "summary": "hi everyone! We're testing a new \"Thinking Mode\" for image generation on our Alpha website ( alpha.midjourney.com ) and we'd love your feedback. To run it go under the lightbox for a job and click \"Rerun (Thinking)\" in the lower right corner",
-   "url": "https://updates.midjourney.com/testing-thinking-mode/",
-   "image": null,
-   "published": "2026-10-08T21:17:13Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "Midjourney تختبر «وضع التفكير» لتوليد الصور",
-   "ar_summary": "تختبر Midjourney وضع Thinking على موقع Alpha لتحسين دقة الالتزام بالوصف والكتابة والترابط.",
-   "ai": true,
-   "img_tried": true
-  },
-  {
-   "id": "a0c18c3e9abb",
-   "company": "midjourney",
-   "kind": "blog",
-   "title": "Alpha Changelog - 10/7/26",
-   "summary": "Hi everyone, here's this week's round of changes on alpha.midjourney.com . The highlight this week is shared folders, a new way to collaborate on Midjourney. Many of these improvements came straight from #alpha-ideas-and-bugs and office hours, so keep your thoughts coming! 🆕",
-   "url": "https://updates.midjourney.com/alpha-changelog-10-7-26/",
-   "image": null,
-   "published": "2026-10-08T21:16:55Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "سجل تغييرات Midjourney Alpha: مجلدات مشتركة ووضع التفكير",
-   "ar_summary": "أضاف التحديث الأسبوعي المجلدات المشتركة ووضع Thinking لصور الإصدار 8.2 وتحسينات في التنظيم واللوحات.",
    "ai": true,
    "img_tried": true
   }
