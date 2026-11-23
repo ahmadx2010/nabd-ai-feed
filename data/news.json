@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:22:07Z",
+ "updated": "2026-11-23T17:31:16Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "bcf32450cab1",
+   "company": "google",
+   "kind": "blog",
+   "title": "Supercharging transformer residual connections",
+   "summary": "Algorithms & Theory",
+   "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepCrossAttention1_Banner.gif",
+   "published": "2026-11-23T17:21:12Z",
+   "found": "2026-11-23T17:31:16Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "ca38829e7312",
    "company": "huggingface",
