@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:53:02Z",
+ "updated": "2026-11-23T23:10:37Z",
  "categories": [
   {
    "key": "big",
@@ -687,6 +687,21 @@
    "ar_title": "ElevenMusic مقابل الموسيقى في ElevenCreative: أيهما تحتاج؟",
    "ar_summary": "توضح ElevenLabs الفرق بين تطبيق ElevenMusic الموجّه للمستهلكين ولإنشاء الأغاني، وأداة الموسيقى في منصة ElevenCreative الموجّهة للمبدعين والشركات، من حيث الاستخدام والتسعير.",
    "ai": true
+  },
+  {
+   "id": "bbe25ab304a4",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "How to choose the best speech to text API for your use case",
+   "summary": "How to choose the best speech to text API for your business? Compare accuracy, latency, pricing, and more to find the best fit for your use case.",
+   "url": "https://elevenlabs.io/blog/choose-the-best-speech-to-text-api",
+   "image": null,
+   "published": "2026-11-23T12:00:00Z",
+   "found": "2026-11-23T23:10:37Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f8a4e02f4212",
