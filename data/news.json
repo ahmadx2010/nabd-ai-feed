@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:53:06Z",
+ "updated": "2026-11-23T21:20:21Z",
  "categories": [
   {
    "key": "big",
@@ -664,6 +664,21 @@
    "ar_title": "الذكاء المترابط للإدارات القانونية الداخلية في الشركات",
    "ar_summary": "حلقة نقاش من OpenAI تجمع ستايسي وانغ وكريغ برونيي من OpenAI مع ماري أوكارول من LECG وريتشارد سيغال من Cooley، تتناول كيف يساعد الذكاء الاصطناعي الفرق القانونية الداخلية على ربط سياق العمل وبناء مسارات عمل قابلة لإعادة الاستخدام والاستفادة أكثر من المحامين الخارجيين.",
    "ai": true
+  },
+  {
+   "id": "680b35173b97",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Richpanel helps companies automate 50% of support in 30 days",
+   "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+   "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-23T08:00:00Z",
+   "found": "2026-11-23T21:20:21Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "6fd4c32fe34a",
