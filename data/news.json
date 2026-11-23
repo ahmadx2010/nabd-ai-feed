@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:12:44Z",
+ "updated": "2026-11-23T15:13:38Z",
  "categories": [
   {
    "key": "big",
@@ -6205,7 +6205,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "MiniMax تطلق H3-Image: توليد صور بدقة 4K في أقل من 10 ثوانٍ",
+   "ar_summary": "أطلقت MiniMax نموذج H3-Image مفتوح الأوزان لتوليد الصور وتحريرها، ويستطيع إنتاج صورة بدقة 4K في أقل من 10 ثوانٍ مع دعم حتى 16 صورة مرجعية.",
+   "ai": true
   },
   {
    "id": "14b8faf6dd2f",
