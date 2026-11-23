@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:32:25Z",
+ "updated": "2026-11-23T17:58:56Z",
  "categories": [
   {
    "key": "big",
@@ -535,6 +535,21 @@
    "ar_title": "مجلس إدارة NVIDIA يعيد جنسن هوانغ رئيساً ومديراً تنفيذياً وعضواً في المجلس",
    "ar_summary": "أعلنت NVIDIA إعادة جنسن هوانغ فوراً إلى منصبي الرئيس والمدير التنفيذي وعضوية مجلس الإدارة. جاء القرار بالإجماع بعد مناقشات ومدخلات من مستويات عليا في الحكومة الأمريكية.",
    "ai": true
+  },
+  {
+   "id": "0dd0b35c7b54",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "ElevenMusic vs. music in ElevenCreative: which do I need?",
+   "summary": "Compare ElevenMusic and ElevenCreative music generation. See what each does, how pricing differs, and which fits your song or project.",
+   "url": "https://elevenlabs.io/blog/elevenmusic-vs-elevencreative",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/ElevenMusic_1920.webp",
+   "published": "2026-11-23T12:00:00Z",
+   "found": "2026-11-23T17:58:56Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "6fd4c32fe34a",
