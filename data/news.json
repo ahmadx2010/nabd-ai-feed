@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:18:10Z",
+ "updated": "2026-11-23T18:26:40Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "باحثون يستخدمون نماذج Meta مفتوحة الأوزان لإحداث نقلة في الطب",
    "ar_summary": "استعرضت Meta في قمة الذكاء الاصطناعي مفتوح المصدر للعلوم كيف يستخدم باحثون نماذجها مفتوحة الأوزان لتسريع الاكتشافات الطبية، من تدريب الأطباء بالواقع الافتراضي إلى فهم أصل الصرع والأمراض النادرة.",
    "ai": true
+  },
+  {
+   "id": "fb9ed0228401",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
+   "summary": "Boost productivity with Google Gemini Canvas. Build web apps, create custom study tools, and refine writing side-by-side. Try it in your next chat.",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/02_hero_video_poster.max-600x600.format-webp.webp",
+   "published": "2026-11-23T18:00:00Z",
+   "found": "2026-11-23T18:26:40Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "bcf32450cab1",
