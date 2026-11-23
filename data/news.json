@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:10:37Z",
+ "updated": "2026-11-23T23:39:02Z",
  "categories": [
   {
    "key": "big",
@@ -701,7 +701,29 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تختار أفضل واجهة برمجية لتحويل الكلام إلى نص لحالتك",
+   "ar_summary": "دليل من ElevenLabs لاختيار واجهة تحويل الكلام إلى نص مناسبة، بمقارنة الدقة وزمن الاستجابة والتسعير ودعم اللغات.",
+   "ai": true
+  },
+  {
+   "id": "608b8cf80eca",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "An AI orchestration layer for enterprises: a clear explanation and use cases",
+   "summary": "Perplexity explains what an AI orchestration layer is, when enterprises need one, its core components and implementation tradeoffs.",
+   "url": "https://www.perplexity.ai/hub/blog/orchestration-layer",
+   "image": null,
+   "published": "2026-11-23T09:00:00Z",
+   "found": "2026-11-23T23:39:02Z",
+   "importance": 0,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "طبقة تنسيق الذكاء الاصطناعي للمؤسسات: شرح واضح وحالات استخدام",
+   "ar_summary": "تشرح Perplexity ما هي طبقة تنسيق الذكاء الاصطناعي، ومتى تحتاجها الشركات، ومكوناتها الأساسية وكيفية تطبيقها.",
+   "ai": true
   },
   {
    "id": "f8a4e02f4212",
