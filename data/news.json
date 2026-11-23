@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:07:04Z",
+ "updated": "2026-11-23T22:24:50Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "Cohere تقدّم إطارًا لتقييم جاهزية المؤسسات للذكاء الاصطناعي",
    "ar_summary": "نشرت Cohere دليلًا لتقييم جاهزية المؤسسة لتبنّي الذكاء الاصطناعي عبر سبعة أبعاد تشمل البيانات والتقنية والحوكمة والكفاءات، لمساعدة القادة على كشف الفجوات قبل البدء.",
    "ai": true
+  },
+  {
+   "id": "1d0c151fefed",
+   "company": "openai",
+   "kind": "blog",
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+   "url": "https://openai.com/index/introducing-shirudo",
+   "image": null,
+   "published": "2026-11-23T21:20:00Z",
+   "found": "2026-11-23T22:24:50Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f5eb9edc6995",
