@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:31:16Z",
+ "updated": "2026-11-23T17:32:25Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepCrossAttention1_Banner.gif",
    "published": "2026-11-23T17:21:12Z",
    "found": "2026-11-23T17:31:16Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تعزيز الوصلات المتبقية في المحولات عبر DeepCrossAttention",
+   "ar_summary": "قدّم باحثو Google بنية DeepCrossAttention التي تحسّن الوصلات المتبقية في نماذج المحولات، وتصل إلى الجودة نفسها بسرعة تصل إلى ثلاثة أضعاف مع زيادة طفيفة في المعاملات.",
+   "ai": true
   },
   {
    "id": "ca38829e7312",
@@ -410,10 +414,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/0KlbITzhyUGtGPyvi09um.png",
    "published": "2026-11-23T17:20:37Z",
    "found": "2026-11-23T17:22:07Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "RoboTrack: تتبع النقاط للتحكم الروبوتي في العالم الحقيقي",
+   "ar_summary": "قدّم Ai2 معيار RoboTrack ومجموعة بيانات تدريب لتتبع النقاط في مهام التلاعب الروبوتي، لاختبار مدى اعتمادية المتتبعات الحالية في مشاهد واقعية.",
+   "ai": true
   },
   {
    "id": "5080a13c0be9",
@@ -428,7 +436,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA تستعرض تقنياتها للألعاب والإبداع والبناء في موسم الأعياد",
+   "ar_summary": "دليل من NVIDIA لتقنياتها في موسم الأعياد، من بطاقات GeForce RTX 50 وحواسيب RTX Spark إلى DLSS 5 وخدمة GeForce NOW.",
+   "ai": true
   },
   {
    "id": "c5903c8754bb",
@@ -440,10 +452,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
    "published": "2026-11-23T17:00:00Z",
    "found": "2026-11-23T17:03:48Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "بحث Google أكثر تخصيصًا: ربط Wallet وDrive بـ Personal Intelligence",
+   "ar_summary": "تضيف Google خدمتي Wallet وDrive إلى Personal Intelligence في وضع AI Mode ليقدم البحث إجابات مبنية على إنفاقك ومستنداتك ومحادثاتك، بشرط موافقة المستخدم.",
+   "ai": true
   },
   {
    "id": "9dddeb89e408",
@@ -455,9 +471,13 @@
    "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo",
    "published": "2026-11-23T16:59:40Z",
    "found": "2026-11-23T17:03:48Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إيجاد خوارزميات كمّية أسرع بالوكلاء والتحقق الصوري",
+   "ar_summary": "تستخدم Google DeepMind فرق وكلاء ذكاء اصطناعي مع التحقق الصوري لتحسين الخوارزميات الكمّية المستخدمة في مجالي الاندماج النووي والكيمياء.",
+   "ai": true
   },
   {
    "id": "e248af5e777a",
