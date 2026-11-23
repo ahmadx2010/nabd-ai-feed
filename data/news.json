@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:08:39Z",
+ "updated": "2026-11-23T14:28:20Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": null,
    "published": "2026-11-23T13:55:00Z",
    "found": "2026-11-23T14:08:39Z",
-   "importance": 1,
+   "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مجلس إدارة NVIDIA يعيد جنسن هوانغ رئيساً ومديراً تنفيذياً وعضواً في المجلس",
+   "ar_summary": "أعلنت NVIDIA إعادة جنسن هوانغ فوراً إلى منصبي الرئيس والمدير التنفيذي وعضوية مجلس الإدارة. جاء القرار بالإجماع بعد مناقشات ومدخلات من مستويات عليا في الحكومة الأمريكية.",
+   "ai": true
   },
   {
    "id": "6fd4c32fe34a",
@@ -410,10 +414,14 @@
    "image": "https://huggingface.co/blog/assets/agentic-evals/thumbnail.png",
    "published": "2026-11-23T00:00:00Z",
    "found": "2026-11-23T14:08:39Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تبني تقييماً للوكلاء الأذكياء (Agentic Evals) وتحافظ عليه",
+   "ar_summary": "دليل من Hugging Face حول بناء تقييمات الذكاء الاصطناعي الوكيلية وصيانتها، ويشرح تطور التقييم وخطوات بنائه وأهمية الانفتاح.",
+   "ai": true
   },
   {
    "id": "b0ef78d25e98",
