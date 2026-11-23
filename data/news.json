@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:59:28Z",
+ "updated": "2026-11-23T17:03:48Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,35 @@
   }
  },
  "items": [
+  {
+   "id": "c5903c8754bb",
+   "company": "google",
+   "kind": "blog",
+   "title": "A more tailored Google Search that’s uniquely yours",
+   "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+   "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
+   "published": "2026-11-23T17:00:00Z",
+   "found": "2026-11-23T17:03:48Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "9dddeb89e408",
+   "company": "deepmind",
+   "kind": "blog",
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo",
+   "published": "2026-11-23T16:59:40Z",
+   "found": "2026-11-23T17:03:48Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "e248af5e777a",
    "company": "openai",
