@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:12:57Z",
+ "updated": "2026-11-23T17:22:07Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "ca38829e7312",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+   "summary": "",
+   "url": "https://huggingface.co/blog/allenai/robotrack",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/0KlbITzhyUGtGPyvi09um.png",
+   "published": "2026-11-23T17:20:37Z",
+   "found": "2026-11-23T17:22:07Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "5080a13c0be9",
    "company": "nvidia",
