@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:04:09Z",
+ "updated": "2026-11-23T19:12:26Z",
  "categories": [
   {
    "key": "big",
@@ -687,6 +687,20 @@
    "ar_title": "Together AI تُبلغ عملاءها بحادث أمني: تسرّب عيّنات من الطلبات في يونيو ويوليو 2026",
    "ar_summary": "أعلنت Together AI عن حادث أمني تضمّن تحميل جهة غير مصرّح لها عيّنات من الطلبات المرسلة إلى خدمة الاستدلال دون خادم (serverless) خلال يونيو ويوليو 2026، بعد انكشاف بيانات اعتماد في مستودع عام.",
    "ai": true
+  },
+  {
+   "id": "57d71cfca45f",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "4 cybersecurity steps every organization should take in the age of AI",
+   "summary": "The post 4 cybersecurity steps every organization should take in the age of AI appeared first on Source .",
+   "url": "https://news.microsoft.com/source/2026/11/20/4-cybersecurity-steps-every-organization-should-take-in-the-age-of-ai/",
+   "image": null,
+   "published": "2026-11-20T23:57:00Z",
+   "found": "2026-11-23T19:12:26Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "064d8fb5049e",
