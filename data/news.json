@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:28:20Z",
+ "updated": "2026-11-23T15:12:44Z",
  "categories": [
   {
    "key": "big",
@@ -6191,6 +6191,21 @@
    "ar_title": "خادم لغة C++ يضبط بناءات MSBuild تلقائيًا في GitHub Copilot",
    "ar_summary": "خادم لغة C++ من مايكروسوفت لـ GitHub Copilot CLI يضم الآن أداة استخراج أوامر الترجمة لـ MSBuild ويشغّلها تلقائيًا، دون حاجة لأن يبحث الوكيل عن مهارة إعداد منفصلة.",
    "ai": true
+  },
+  {
+   "id": "b430dc6274af",
+   "company": "minimax",
+   "kind": "blog",
+   "title": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
+   "summary": "Today, we're releasing MiniMax H3-Image, an open-weight image generation model built on H3. It supports text-to-image generation, reference-based generation, and image editing.",
+   "url": "https://www.minimax.io/blog/minimax-h3-image",
+   "image": "https://file.cdn.minimax.io/public/h3-image-cover-1794323228475.jpg?x-oss-process=image/format,webp",
+   "published": "2026-11-10T16:23:20Z",
+   "found": "2026-11-23T15:12:44Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "14b8faf6dd2f",
