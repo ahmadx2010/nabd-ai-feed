@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:26:40Z",
+ "updated": "2026-11-23T19:04:09Z",
  "categories": [
   {
    "key": "big",
@@ -417,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "4 استخدامات قد لا تعرفها لـ Gemini Canvas",
+   "ar_summary": "تستعرض Google أربع طرق لاستخدام Canvas في تطبيق Gemini، من بناء تطبيقات ويب وألعاب بسيطة إلى إنشاء أدوات دراسة وتحسين الكتابة جنبًا إلى جنب مع المحادثة.",
+   "ai": true
   },
   {
    "id": "bcf32450cab1",
