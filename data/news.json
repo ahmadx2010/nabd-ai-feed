@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:40:27Z",
+ "updated": "2026-11-23T15:59:28Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تستخدم Franklin Templeton الذكاء الاصطناعي في أبحاث الاستثمار",
+   "ar_summary": "تشرح كاترينا دودلي من Franklin Templeton كيف تساعد OpenAI الشركة على ربط بيانات الامتثال والمخاطر والتداول وتحويلها إلى رؤى لمديري المحافظ. يمنح ذلك المحللين وقتاً أكبر للتواصل مع الشركات الخاصة وتطوير أفكار استثمارية جديدة.",
+   "ai": true
   },
   {
    "id": "5b1271fb45b0",
@@ -413,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تستخدم Franklin Templeton الذكاء الاصطناعي في أبحاث الاستثمار",
+   "ar_summary": "تشرح كاترينا دودلي من Franklin Templeton كيف تساعد OpenAI الشركة على ربط بيانات الامتثال والمخاطر والتداول وتحويلها إلى رؤى لمديري المحافظ. يمنح ذلك المحللين وقتاً أكبر للتواصل مع الشركات الخاصة وتطوير أفكار استثمارية جديدة.",
+   "ai": true
   },
   {
    "id": "be9c8fb91e88",
