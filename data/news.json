@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:03:48Z",
+ "updated": "2026-11-23T17:12:57Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "5080a13c0be9",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+   "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]",
+   "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+   "image": "https://iprsoftwaremedia.com/219/files/202611/bc89bebfe8b03ffab773ba004ddb5842/6b04714c3d6332f07ccc903f_nvidia-holiday26-gfn-nv-blog-preview-1280x680-1-842x450/nvidia-holiday26-gfn-nv-blog-preview-1280x680-1-842x450_thmb.jpg?v=16e9ca88-6ca3-4796-8c5a-89dc386e2045",
+   "published": "2026-11-23T17:00:08Z",
+   "found": "2026-11-23T17:12:57Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "c5903c8754bb",
    "company": "google",
