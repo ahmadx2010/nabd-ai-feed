@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:12:26Z",
+ "updated": "2026-11-23T19:39:38Z",
  "categories": [
   {
    "key": "big",
@@ -592,6 +592,21 @@
    "ar_title": "ElevenMusic مقابل الموسيقى في ElevenCreative: أيهما تحتاج؟",
    "ar_summary": "توضح ElevenLabs الفرق بين تطبيق ElevenMusic الموجّه للمستهلكين ولإنشاء الأغاني، وأداة الموسيقى في منصة ElevenCreative الموجّهة للمبدعين والشركات، من حيث الاستخدام والتسعير.",
    "ai": true
+  },
+  {
+   "id": "f8a4e02f4212",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Connected intelligence for in-house legal",
+   "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+   "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "image": null,
+   "published": "2026-11-23T08:00:00Z",
+   "found": "2026-11-23T19:39:38Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "6fd4c32fe34a",
