@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:58:56Z",
+ "updated": "2026-11-23T18:08:04Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "ef22b0993eaa",
+   "company": "meta",
+   "kind": "blog",
+   "title": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
+   "summary": "We brought researchers together for the Open Source AI For Science Summit, where they shared how they’re using AI to accelerate scientific discovery. The post Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine appeared first on Meta Newsroom .",
+   "url": "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/",
+   "image": "https://about.fb.com/wp-content/uploads/2027/11/Researchers-Are-Using-Metas-Open-Weight-AI-Models-to-Transform-Medicine_Header-1.jpg?fit=3840%2C2160",
+   "published": "2026-11-23T18:00:01Z",
+   "found": "2026-11-23T18:08:04Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "bcf32450cab1",
    "company": "google",
