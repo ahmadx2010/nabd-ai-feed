@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:08:04Z",
+ "updated": "2026-11-23T18:18:10Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "باحثون يستخدمون نماذج Meta مفتوحة الأوزان لإحداث نقلة في الطب",
+   "ar_summary": "استعرضت Meta في قمة الذكاء الاصطناعي مفتوح المصدر للعلوم كيف يستخدم باحثون نماذجها مفتوحة الأوزان لتسريع الاكتشافات الطبية، من تدريب الأطباء بالواقع الافتراضي إلى فهم أصل الصرع والأمراض النادرة.",
+   "ai": true
   },
   {
    "id": "bcf32450cab1",
@@ -564,7 +568,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenMusic مقابل الموسيقى في ElevenCreative: أيهما تحتاج؟",
+   "ar_summary": "توضح ElevenLabs الفرق بين تطبيق ElevenMusic الموجّه للمستهلكين ولإنشاء الأغاني، وأداة الموسيقى في منصة ElevenCreative الموجّهة للمبدعين والشركات، من حيث الاستخدام والتسعير.",
+   "ai": true
   },
   {
    "id": "6fd4c32fe34a",
