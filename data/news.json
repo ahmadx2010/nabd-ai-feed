@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:24:50Z",
+ "updated": "2026-11-23T22:53:02Z",
  "categories": [
   {
    "key": "big",
@@ -414,10 +414,14 @@
    "image": null,
    "published": "2026-11-23T21:20:00Z",
    "found": "2026-11-23T22:24:50Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI وCisco تطلقان Shirudo: بيئة تشغيل مفتوحة المصدر لحماية أنظمة Linux أثناء ترقيعها",
+   "ar_summary": "أعلنت OpenAI وCisco عن Shirudo، بيئة تشغيل مفتوحة المصدر تساعد الفرق على حماية أنظمة Linux العاملة بينما تُطبَّق التصحيحات الأمنية. وفي اختبار مضبوط، منع «درع» أنشأه Codex محاولة استغلال ثغرة Java4Shell ضد خدمة Elasticsearch دون إعادة تشغيلها.",
+   "ai": true
   },
   {
    "id": "f5eb9edc6995",
