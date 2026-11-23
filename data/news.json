@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:13:38Z",
+ "updated": "2026-11-23T15:40:27Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,36 @@
   }
  },
  "items": [
+  {
+   "id": "e248af5e777a",
+   "company": "openai",
+   "kind": "video",
+   "title": "How Franklin Templeton uses AI for investment research | OpenAI",
+   "summary": "“Just delivering data is not enough.” Franklin Templeton’s Katrina Dudley explains how OpenAI is helping the firm connect information from compliance, risk and trading, then turn it into insights for portfolio managers. That gives analysts more time in the field, talking to private companies and developing their next investment idea. See how AI is changing the work behind investment decisions—and…",
+   "url": "https://www.youtube.com/shorts/gAmjBqXNoFI",
+   "image": "https://i4.ytimg.com/vi/gAmjBqXNoFI/hqdefault.jpg",
+   "published": "2026-11-23T15:23:23Z",
+   "found": "2026-11-23T15:40:27Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "5b1271fb45b0",
+   "company": "openai",
+   "kind": "video",
+   "title": "How Franklin Templeton uses AI for investment research | OpenAI",
+   "summary": "“Just delivering data is not enough.” Franklin Templeton’s Katrina Dudley explains how OpenAI is helping the firm connect information from compliance, risk and trading, then turn it into insights for portfolio managers. That gives analysts more time in the field, talking to private companies and developing their next investment idea. See how AI is changing the work behind investment decisions—and…",
+   "url": "https://www.youtube.com/watch?v=PXKvR8ta22Q",
+   "image": "https://i1.ytimg.com/vi/PXKvR8ta22Q/hqdefault.jpg",
+   "published": "2026-11-23T15:21:09Z",
+   "found": "2026-11-23T15:40:27Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "be9c8fb91e88",
    "company": "nvidia",
