@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:24:11Z",
+ "updated": "2026-11-23T13:04:47Z",
  "categories": [
   {
    "key": "big",
@@ -2990,6 +2990,21 @@
    "ar_title": "Perplexity تطلق Context API لاستخراج المحتوى الكامل من أي صفحة ويب",
    "ar_summary": "أطلقت Perplexity واجهة Context API التي تعيد للوكلاء الذكيين محتوى نظيفاً من حتى 10 روابط في الطلب الواحد، بسعر 1 دولار لكل 1000 رابط.",
    "ai": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "0fb21a0877fb",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "How Yahoo Scout, a new AI answer tool from Yahoo, got a voice",
+   "summary": "Yahoo used the ElevenAgents platform to add conversational voice to its new Yahoo Scout AI answer tool, going from kickoff to production in 6 weeks.",
+   "url": "https://elevenlabs.io/blog/yahoo",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/83toj0bqfcs-ElevenLabs_YahooScoutFINAL_PartnerProgram_linkedin_1200x628.webp",
+   "published": "2026-11-17T12:00:00Z",
+   "found": "2026-11-23T13:04:47Z",
+   "importance": 0,
+   "detail": true,
    "fetched": true,
    "img_tried": true
   },
