@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:16:22Z",
+ "updated": "2026-11-23T20:35:29Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://i4.ytimg.com/vi/w-ltt0Np2cY/hqdefault.jpg",
    "published": "2026-11-23T20:03:11Z",
    "found": "2026-11-23T20:16:22Z",
-   "importance": 2,
+   "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "التحقيق في ثغرات لينكس باستخدام GPT-6 Cyber",
+   "ar_summary": "ساعد GPT-6 Cyber في التحقق من 948 ثغرة في نواة لينكس وتوليد تصحيحات مرشحة لمراجعتها بشرياً. الباحث كايل زينغ يشرح كيف بنى خط البحث عن الثغرات.",
+   "ai": true
   },
   {
    "id": "bfa457749df1",
@@ -410,10 +414,14 @@
    "image": "https://i2.ytimg.com/vi/MpsO8Ds8uyo/hqdefault.jpg",
    "published": "2026-11-23T20:02:15Z",
    "found": "2026-11-23T20:16:22Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "التحقيق في ثغرات لينكس باستخدام GPT-6 Cyber",
+   "ar_summary": "ساعد GPT-6 Cyber في التحقق من 948 ثغرة في نواة لينكس وتوليد تصحيحات مرشحة لمراجعتها بشرياً. حوار مع الباحث كايل زينغ حول بناء خط البحث والتعاون مع القائمين على لينكس.",
+   "ai": true
   },
   {
    "id": "ef22b0993eaa",
