@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:49:41Z",
+ "updated": "2026-11-23T20:16:22Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,36 @@
   }
  },
  "items": [
+  {
+   "id": "f5eb9edc6995",
+   "company": "openai",
+   "kind": "video",
+   "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
+   "summary": "AI can help security teams move faster from finding vulnerabilities to getting fixes into the software people rely on. In one run, GPT-6 Cyber helped validate 948 Linux kernel vulnerabilities and generate candidate patches for human review. Cyber researcher Kyle Zeng sits down with Clint Gibler, applied cyber research lead, to discuss how he built the vulnerability research pipeline and worked…",
+   "url": "https://www.youtube.com/shorts/w-ltt0Np2cY",
+   "image": "https://i4.ytimg.com/vi/w-ltt0Np2cY/hqdefault.jpg",
+   "published": "2026-11-23T20:03:11Z",
+   "found": "2026-11-23T20:16:22Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "bfa457749df1",
+   "company": "openai",
+   "kind": "video",
+   "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
+   "summary": "AI can help security teams move faster from finding vulnerabilities to getting fixes into the software people rely on. In one run, GPT-6 Cyber helped validate 948 Linux kernel vulnerabilities and generate candidate patches for human review. Cyber researcher Kyle Zeng sits down with Clint Gibler, applied cyber research lead, to discuss how he built the vulnerability research pipeline and worked…",
+   "url": "https://www.youtube.com/watch?v=MpsO8Ds8uyo",
+   "image": "https://i2.ytimg.com/vi/MpsO8Ds8uyo/hqdefault.jpg",
+   "published": "2026-11-23T20:02:15Z",
+   "found": "2026-11-23T20:16:22Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "ef22b0993eaa",
    "company": "meta",
