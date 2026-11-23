@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:04:47Z",
+ "updated": "2026-11-23T13:09:08Z",
  "categories": [
   {
    "key": "big",
@@ -3006,7 +3006,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ياهو تضيف الصوت إلى أداة Yahoo Scout للإجابات الذكية عبر منصة ElevenAgents",
+   "ar_summary": "استخدمت ياهو منصة ElevenAgents من ElevenLabs لإضافة محادثة صوتية طبيعية إلى أداة Yahoo Scout الجديدة للإجابات بالذكاء الاصطناعي، وانتقلت من بداية المشروع إلى الإنتاج خلال 6 أسابيع.",
+   "ai": true
   },
   {
    "id": "350fb3acef43",
