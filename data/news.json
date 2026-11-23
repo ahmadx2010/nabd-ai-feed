@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:35:29Z",
+ "updated": "2026-11-23T20:53:06Z",
  "categories": [
   {
    "key": "big",
@@ -460,6 +460,21 @@
    "ar_title": "4 استخدامات قد لا تعرفها لـ Gemini Canvas",
    "ar_summary": "تستعرض Google أربع طرق لاستخدام Canvas في تطبيق Gemini، من بناء تطبيقات ويب وألعاب بسيطة إلى إنشاء أدوات دراسة وتحسين الكتابة جنبًا إلى جنب مع المحادثة.",
    "ai": true
+  },
+  {
+   "id": "ea7cf607d4db",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "See what 6 builders are making with Gemini 4 Hydrogen",
+   "summary": "Collage of six 3D graphics showcasing virtual environments, interactive scenes, and model comparisons including \"Gemini 4 Hydrogen\" and \"Gemini 3.8 Flash.\"",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/6_Builders_Hydrogen_herosocial_.max-600x600.format-webp.webp",
+   "published": "2026-11-23T18:00:00Z",
+   "found": "2026-11-23T20:53:06Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "bcf32450cab1",
