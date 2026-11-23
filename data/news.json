@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:21:35Z",
+ "updated": "2026-11-23T21:57:08Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "bc560c06e976",
+   "company": "cohere",
+   "kind": "blog",
+   "title": "AI Readiness Assessment: Is Your Enterprise Ready? | Cohere",
+   "summary": "Assess your enterprise AI readiness across data, technology, governance, and talent. Use our framework and checklist to find gaps before you adopt AI.",
+   "url": "https://cohere.com/blog/ai-readiness-assessment",
+   "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2fe8f3315b7d7b2dde0fec7473be95dd5249460f-3840x2160.png?rect=0,72,3840,2016&w=1200&h=630&q=80&fit=crop&auto=format",
+   "published": "2026-11-23T21:44:00Z",
+   "found": "2026-11-23T21:57:08Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "f5eb9edc6995",
    "company": "openai",
