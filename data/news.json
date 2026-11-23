@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:09:08Z",
+ "updated": "2026-11-23T14:08:39Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,36 @@
   }
  },
  "items": [
+  {
+   "id": "be9c8fb91e88",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+   "summary": "NVIDIA (NASDAQ: NVDA) today announced that effective immediately, Jensen Huang has been reinstated as President and Chief Executive Officer and as a member of the Board.",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+   "image": null,
+   "published": "2026-11-23T13:55:00Z",
+   "found": "2026-11-23T14:08:39Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "6fd4c32fe34a",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "How to build and maintain an agentic evaluation",
+   "summary": "",
+   "url": "https://huggingface.co/blog/agentic-evals",
+   "image": "https://huggingface.co/blog/assets/agentic-evals/thumbnail.png",
+   "published": "2026-11-23T00:00:00Z",
+   "found": "2026-11-23T14:08:39Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "b0ef78d25e98",
    "company": "openai",
