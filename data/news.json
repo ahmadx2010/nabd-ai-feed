@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:09:40Z",
+ "updated": "2026-11-24T19:28:21Z",
  "categories": [
   {
    "key": "big",
@@ -625,6 +625,21 @@
    "ai": true
   },
   {
+   "id": "f3aa9260f109",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Searching for distant planets with Astra",
+   "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-24T11:00:00Z",
+   "found": "2026-11-24T19:28:21Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "b6d232fb2fed",
    "company": "meta",
    "kind": "blog",
@@ -697,6 +712,21 @@
    "ar_title": "كيف توسّع iFood استخدام وكلاء البرمجة عبر 15,000 مستودع",
    "ar_summary": "قصة عميل من OpenAI عن كيفية استخدام شركة iFood لوكلاء البرمجة على نطاق واسع يشمل 15,000 مستودع برمجي.",
    "ai": true
+  },
+  {
+   "id": "ec442b764e04",
+   "company": "openai",
+   "kind": "blog",
+   "title": "How Intentful uses dots to make more time for growth",
+   "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+   "url": "https://openai.com/business/customer-stories/intentful-dots",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/2DH2aby1xmlzvADCraI7Xi/bbe8b8956578492f2c3fd7326ecbd9e1/intentful-dots-social-c.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-24T00:00:00Z",
+   "found": "2026-11-24T19:28:21Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "bc560c06e976",
