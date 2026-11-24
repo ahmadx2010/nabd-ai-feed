@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:42:49Z",
+ "updated": "2026-11-24T19:09:40Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "0bc69287553e",
+   "company": "openai",
+   "kind": "video",
+   "title": "How to Search for Exoplanets",
+   "summary": "Two amateur astronomers, Kevin Bond and Ethan Byrd, independently found signals that could point to planets around distant stars. They knew you didn't need your own telescope for this kind of hunt. Kevin used Codex and Ethan used Astra to search public telescope data for tiny, recurring dips in starlight that an orbiting planet can cause. Both found signals worth a second look.…",
+   "url": "https://www.youtube.com/watch?v=EVlaLVDY3to",
+   "image": "https://i2.ytimg.com/vi/EVlaLVDY3to/hqdefault.jpg",
+   "published": "2026-11-24T19:00:45Z",
+   "found": "2026-11-24T19:09:40Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "1c7457c312fd",
    "company": "deepmind",
