@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:28:21Z",
+ "updated": "2026-11-24T19:28:45Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تبحث عن الكواكب الخارجية: هاويان يستخدمان Codex وAstra",
+   "ar_summary": "تمكن هاويان لعلم الفلك، كيفن بوند وإيثان بيرد، من العثور بشكل مستقل على إشارات قد تدل على وجود كواكب حول نجوم بعيدة، مستخدمَين Codex وAstra لتحليل بيانات التلسكوبات العامة.",
+   "ai": true
   },
   {
    "id": "1c7457c312fd",
