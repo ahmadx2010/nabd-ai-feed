@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:42:27Z",
+ "updated": "2026-11-24T17:10:45Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Microduck: تجنّب العوائق من المحاكاة إلى الروبوت الحقيقي باستخدام Isaac Lab وNewton",
+   "ar_summary": "تقدّم NVIDIA دليلاً عملياً لإضافة تجنّب العوائق المحلي إلى الروبوت Microduck مع إبقاء سياسة المشي ثابتة. يعتمد الحل على حساسات ToF ومحاكاة Newton وتدريب في Isaac Lab.",
+   "ai": true
   },
   {
    "id": "8d6c7c64bc85",
