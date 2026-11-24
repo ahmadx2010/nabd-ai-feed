@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:14:28Z",
+ "updated": "2026-11-24T18:41:45Z",
  "categories": [
   {
    "key": "big",
@@ -656,6 +656,20 @@
    "ar_title": "تنتظر سعراً أفضل لهدية؟ استخدم ChatGPT لتتبع الأسعار",
    "ar_summary": "مقطع قصير من OpenAI يعرض كيف يمكن لـ ChatGPT مراقبة سعر منتج يومياً وإبلاغك عند انخفاضه، مع ذكر السعر القديم والجديد ورابط العرض.",
    "ai": true
+  },
+  {
+   "id": "71996d97862b",
+   "company": "openai",
+   "kind": "blog",
+   "title": "How iFood scales coding agents across 15,000 repositories",
+   "summary": "",
+   "url": "https://openai.com/index/ifood",
+   "image": null,
+   "published": "2026-11-24T00:00:00Z",
+   "found": "2026-11-24T18:41:45Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "bc560c06e976",
