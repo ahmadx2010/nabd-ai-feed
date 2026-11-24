@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:24:54Z",
+ "updated": "2026-11-24T16:42:27Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "16565a3f5dc0",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+   "summary": "",
+   "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6847ab8c06094fa4afb6ee38/M70tUMNd7N4KO5QGI37YZ.png",
+   "published": "2026-11-24T16:34:13Z",
+   "found": "2026-11-24T16:42:27Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "8d6c7c64bc85",
    "company": "gemini",
