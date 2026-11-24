@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:04:31Z",
+ "updated": "2026-11-24T02:19:23Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-24T02:04:31Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تنتظر سعراً أفضل لهدية؟ استخدم ChatGPT لتتبع الأسعار",
+   "ar_summary": "مقطع قصير من OpenAI يعرض كيف يمكن لـ ChatGPT مراقبة سعر منتج يومياً وإبلاغك عند انخفاضه، مع ذكر السعر القديم والجديد ورابط العرض.",
+   "ai": true
   },
   {
    "id": "bc560c06e976",
