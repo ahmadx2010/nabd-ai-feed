@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:30:23Z",
+ "updated": "2026-11-24T13:39:30Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "f10242ef986e",
+   "company": "openai",
+   "kind": "video",
+   "title": "Conheça o novíssimo ChatGPT Modo Voz.",
+   "summary": "De uma simples pergunta a uma tarefa resolvida. É só falar com o ChatGPT Modo Voz. Ele te escuta e faz com você.",
+   "url": "https://www.youtube.com/watch?v=5p8CdiQGqV4",
+   "image": "https://i2.ytimg.com/vi/5p8CdiQGqV4/hqdefault.jpg",
+   "published": "2026-11-24T13:14:46Z",
+   "found": "2026-11-24T13:39:30Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "b6d232fb2fed",
    "company": "meta",
