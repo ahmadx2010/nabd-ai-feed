@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:39:30Z",
+ "updated": "2026-11-24T13:55:42Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-24T13:39:30Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تعرّف على وضع الصوت الجديد كليًا في ChatGPT",
+   "ar_summary": "فيديو من OpenAI يقدّم وضع الصوت الجديد في ChatGPT، حيث يمكنك التحدث إليه ليستمع إليك وينجز المهام معك، من سؤال بسيط حتى حل المهمة.",
+   "ai": true
   },
   {
    "id": "b6d232fb2fed",
