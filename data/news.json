@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:04:50Z",
+ "updated": "2026-11-24T20:15:00Z",
  "categories": [
   {
    "key": "big",
@@ -638,10 +638,14 @@
    "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
    "published": "2026-11-24T11:00:00Z",
    "found": "2026-11-24T19:28:21Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "البحث عن كواكب بعيدة باستخدام Astra",
+   "ar_summary": "استخدم هاويان لعلم الفلك أداتي Codex وAstra لتحليل بيانات تلسكوبي Kepler وTESS العامة من ناسا، وتوصلا إلى كواكب محتملة خارج المجموعة الشمسية قدّماها للفلكيين المحترفين للتحقق.",
+   "ai": true
   },
   {
    "id": "b6d232fb2fed",
@@ -730,7 +734,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تستخدم Intentful مساعد dots لتوفير وقت أكبر للنمو",
+   "ar_summary": "تروي القصة كيف يساعد مساعد «dot» المسمى Aria مؤسسة Intentful مارينا بيتروفا في البحث وإعداد العروض وتنبيهها بالرسائل المهمة، فيختصر عمل أيام إلى ساعات.",
+   "ai": true
   },
   {
    "id": "bc560c06e976",
@@ -820,7 +828,11 @@
    "found": "2026-11-24T20:04:50Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "3 أسئلة تساعد الجامعات على تحويل تجارب الذكاء الاصطناعي إلى نتائج",
+   "ar_summary": "مقال من مايكروسوفت يطرح ثلاثة أسئلة لقادة التعليم العالي لمساعدتهم على تحويل تجارب الذكاء الاصطناعي إلى أثر فعلي.",
+   "ai": true
   },
   {
    "id": "ef22b0993eaa",
