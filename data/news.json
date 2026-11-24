@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:56:56Z",
+ "updated": "2026-11-24T18:05:20Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "1c7457c312fd",
+   "company": "deepmind",
+   "kind": "video",
+   "title": "The brain helped us build AI. Now AI is explaining the brain.",
+   "summary": "The human brain remains one of the greatest unsolved mysteries in science. We have roughly 86 billion neurons firing in a way that somehow produces intelligence, and yet the brain is still largely a black box. In the early days of AI, researchers looked to the brain for clues about how to build smarter machines. But today, that relationship has been flipped on its head. Join Professor Hannah Fry…",
+   "url": "https://www.youtube.com/watch?v=K8rdrWQRd20",
+   "image": "https://i4.ytimg.com/vi/K8rdrWQRd20/hqdefault.jpg",
+   "published": "2026-11-24T17:51:08Z",
+   "found": "2026-11-24T18:05:20Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "13d62f35bbd7",
    "company": "openai",
