@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:06:47Z",
+ "updated": "2026-11-24T14:53:29Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "صانعات أفلام مستقلات في الهند يحوّلن قصصهن إلى أفلام باستخدام Google Flow",
+   "ar_summary": "تعاونت غوغل مع Women in Film India لإطلاق مسابقة Filmathon لصناعة الأفلام بالذكاء الاصطناعي عبر Google Flow. عُرضت خمسة أفلام قصيرة فائزة في مهرجان الهند الدولي للأفلام في غوا.",
+   "ai": true
   },
   {
    "id": "f10242ef986e",
