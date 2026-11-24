@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:41:45Z",
+ "updated": "2026-11-24T18:42:49Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "الدماغ ساعدنا على بناء الذكاء الاصطناعي، والآن الذكاء الاصطناعي يشرح الدماغ",
+   "ar_summary": "حلقة جديدة من بودكاست Google DeepMind تستضيف فيها البروفيسورة Hannah Fry باحثين في علم الأعصاب لمناقشة كيف يُستخدم الذكاء الاصطناعي لفهم العقل البشري بعد أن كان الدماغ مصدر إلهام لبناء الذكاء الاصطناعي.",
+   "ai": true
   },
   {
    "id": "9cbd96710b47",
@@ -410,10 +414,14 @@
    "image": "https://cdn.amazon.science/dims4/default/b075f93/2147483647/strip/true/crop/1236x649+0+294/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fce%2F3c%2F31331de64ffeabb5022d39541714%2Fp3run008.gif",
    "published": "2026-11-24T17:49:48Z",
    "found": "2026-11-24T18:14:28Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "غاز كسول وغاز ساخن وألف روبوت: تخطيط مسارات الروبوتات من منظور النقل الأمثل",
+   "ar_summary": "يقدّم باحثو Amazon Robotics طريقة لتخطيط مسارات آلاف الروبوتات في مراكز التلبية عبر معاملة المشكلة كمسألة نقل أمثل، مع حل تقريبي سريع يقارب الحل الأمثل.",
+   "ai": true
   },
   {
    "id": "13d62f35bbd7",
@@ -669,7 +677,11 @@
    "found": "2026-11-24T18:41:45Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف توسّع iFood استخدام وكلاء البرمجة عبر 15,000 مستودع",
+   "ar_summary": "قصة عميل من OpenAI عن كيفية استخدام شركة iFood لوكلاء البرمجة على نطاق واسع يشمل 15,000 مستودع برمجي.",
+   "ai": true
   },
   {
    "id": "bc560c06e976",
