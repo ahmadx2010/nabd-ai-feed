@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:05:38Z",
+ "updated": "2026-11-24T16:24:54Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Gemini شريك الذكاء الاصطناعي الرسمي لفريق Golden State",
+   "ar_summary": "وسّعت Google شراكتها مع Golden State لتصبح Gemini المساعد الرسمي للذكاء الاصطناعي لفريق Warriors وفريق Valkyries وملعب Chase Center، لتحسين تجربة الجماهير وعمليات الفريق.",
+   "ai": true
   },
   {
    "id": "79306799dcbe",
