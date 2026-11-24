@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:28:45Z",
+ "updated": "2026-11-24T20:04:50Z",
  "categories": [
   {
    "key": "big",
@@ -807,6 +807,20 @@
    "ar_title": "التحقيق في ثغرات لينكس باستخدام GPT-6 Cyber",
    "ar_summary": "ساعد GPT-6 Cyber في التحقق من 948 ثغرة في نواة لينكس وتوليد تصحيحات مرشحة لمراجعتها بشرياً. حوار مع الباحث كايل زينغ حول بناء خط البحث والتعاون مع القائمين على لينكس.",
    "ai": true
+  },
+  {
+   "id": "d65823e2d117",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "3 questions that can help universities turn AI experiments into results",
+   "summary": "The post 3 questions that can help universities turn AI experiments into results appeared first on Source .",
+   "url": "https://www.microsoft.com/en-us/education/blog/2026/11/how-higher-education-leaders-can-turn-institutional-intelligence-into-impact/",
+   "image": "https://www.microsoft.com/en-us/education/blog/wp-content/uploads/2026/11/Unlock-Intelligence-Higher-Education-4.jpg",
+   "published": "2026-11-23T19:37:01Z",
+   "found": "2026-11-24T20:04:50Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "ef22b0993eaa",
