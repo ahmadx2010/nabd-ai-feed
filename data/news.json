@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:29:15Z",
+ "updated": "2026-11-24T06:30:23Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ميتا تطلق Muse في بريطانيا: وكيل ذكاء اصطناعي شخصي تتحكم به",
+   "ar_summary": "أتاحت ميتا وكيلها الشخصي Muse في المملكة المتحدة، وهو وكيل لا يكتفي بالإجابة عن الأسئلة بل ينفّذ المهام نيابةً عنك، مع بقاء القرار بيد المستخدم.",
+   "ai": true
   },
   {
    "id": "ab631f8c46ba",
@@ -410,10 +414,14 @@
    "image": null,
    "published": "2026-11-24T06:00:04Z",
    "found": "2026-11-24T06:29:15Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Muse في بريطانيا: الوكيل ينجز العمل وأنت تبقى المتحكم",
+   "ar_summary": "تشرح ميتا ضوابط التحكم في وكيلها Muse المتاح الآن للبالغين في بريطانيا: موافقة على الإجراءات المهمة، وتحكم بالصلاحيات، وتحكم بما يتذكره.",
+   "ai": true
   },
   {
    "id": "91e27f3842dc",
