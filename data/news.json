@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:15:00Z",
+ "updated": "2026-11-24T20:41:28Z",
  "categories": [
   {
    "key": "big",
@@ -627,6 +627,21 @@
    "ar_title": "تعرّف على وضع الصوت الجديد كليًا في ChatGPT",
    "ar_summary": "فيديو من OpenAI يقدّم وضع الصوت الجديد في ChatGPT، حيث يمكنك التحدث إليه ليستمع إليك وينجز المهام معك، من سؤال بسيط حتى حل المهمة.",
    "ai": true
+  },
+  {
+   "id": "44341f568c01",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "What is SIP trunking? A business guide to modern calls",
+   "summary": "Learn what is SIP trunking, how it works, what it costs, how to choose a provider, and how to connect it to AI voice agents for customer service.",
+   "url": "https://elevenlabs.io/blog/what-is-sip-trunking",
+   "image": null,
+   "published": "2026-11-24T12:00:00Z",
+   "found": "2026-11-24T20:41:28Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f3aa9260f109",
