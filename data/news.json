@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:46:43Z",
+ "updated": "2026-11-24T17:56:56Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-24T17:28:31Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "افهم يومك مع ChatGPT",
+   "ar_summary": "فيديو من OpenAI يوضح كيف يمكنك التقاط صورة وسؤال ChatGPT عمّا تراه، مع تنبيهك لما يستحق التحقق منه.",
+   "ai": true
   },
   {
    "id": "00fb57daa887",
@@ -412,7 +416,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "اصنع يومًا مميزًا مع ChatGPT",
+   "ar_summary": "يوضح الفيديو كيف يحوّل ChatGPT فكرة عامة إلى خطة مناسبة للعائلة، فيتصفح المواقع ويجد معلومات محلية ويساعد في الحجز.",
+   "ai": true
   },
   {
    "id": "56c095bda4d5",
@@ -426,7 +434,11 @@
    "found": "2026-11-24T17:28:31Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "اصنع مساحة في يومك مع ChatGPT",
+   "ar_summary": "عند ربط التقويم، يستطيع ChatGPT إيجاد موعد لاحق لاجتماعك لتبقى وقتًا أطول في الحديقة.",
+   "ai": true
   },
   {
    "id": "bd3f354ffbaf",
@@ -440,7 +452,11 @@
    "found": "2026-11-24T17:28:31Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "اجعل يومك مرنًا مع ChatGPT",
+   "ar_summary": "عند تغيّر الخطط، يفحص ChatGPT جدولك بعد ربط التقويم، ويجد وقتًا بديلًا ويصوغ رسالة لإبلاغ الآخرين.",
+   "ai": true
   },
   {
    "id": "c330206f5aeb",
@@ -455,7 +471,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "يوم مدرسي: اجعل اليوم يفعل أي شيء مع ChatGPT",
+   "ar_summary": "إعلان من OpenAI تظهر فيه مارلا وآفا تخوضان مغامرة عفوية بعد تغيّر مفاجئ في الخطط بمساعدة ChatGPT.",
+   "ai": true
   },
   {
    "id": "16565a3f5dc0",
@@ -505,10 +525,14 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_Builders_Neon_herosocial.max-600x600.format-webp.webp",
    "published": "2026-11-24T16:00:00Z",
    "found": "2026-11-24T17:46:43Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ماذا صنع 5 مطورين باستخدام Gemini 4 Neon؟",
+   "ar_summary": "تستعرض غوغل خمسة مشاريع أنشأها مطورون بنموذج Gemini 4 Neon، منها كرة أرضية ثلاثية الأبعاد متوهجة ومحاكاة لثقب أسود تفاعلي.",
+   "ai": true
   },
   {
    "id": "79306799dcbe",
