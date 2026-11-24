@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:46:37Z",
+ "updated": "2026-11-24T23:08:18Z",
  "categories": [
   {
    "key": "big",
@@ -796,6 +796,36 @@
    "ar_title": "كيف تستخدم Intentful مساعد dots لتوفير وقت أكبر للنمو",
    "ar_summary": "تروي القصة كيف يساعد مساعد «dot» المسمى Aria مؤسسة Intentful مارينا بيتروفا في البحث وإعداد العروض وتنبيهها بالرسائل المهمة، فيختصر عمل أيام إلى ساعات.",
    "ai": true
+  },
+  {
+   "id": "99b93f3e1098",
+   "company": "openai",
+   "kind": "blog",
+   "title": "Clay helps sales teams win with Codex and ChatGPT",
+   "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+   "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/24rUSNlLR8iXQysKA6dq12/38954f25812d30bf772691824f747b84/clay-seo-1920.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-24T00:00:00Z",
+   "found": "2026-11-24T23:08:18Z",
+   "importance": 1,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "4230f956fc9c",
+   "company": "together",
+   "kind": "blog",
+   "title": "Introducing preemptible compute: the same compute, half the price",
+   "summary": "Together GPU Clusters now supports preemptible compute: the same GPU capacity at a flat 50% of the on-demand rate, with a five-minute drain window.",
+   "url": "https://www.together.ai/blog/introducing-preemptible-compute-the-same-compute-half-the-price",
+   "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6aa2b2d5f51bb47d0473296d_6aa2b1b106394e7398efaee0_og-preemptible.png",
+   "published": "2026-11-24T00:00:00Z",
+   "found": "2026-11-24T23:08:18Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "bc560c06e976",
