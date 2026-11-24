@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:19:23Z",
+ "updated": "2026-11-24T06:29:15Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,36 @@
   }
  },
  "items": [
+  {
+   "id": "b6d232fb2fed",
+   "company": "meta",
+   "kind": "blog",
+   "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
+   "summary": "Muse is now in the UK: a personal AI agent that doesn't just answer questions, but one that you can task to get things done on your behalf The post Introducing Muse in the UK: A Personal AI Agent You Control appeared first on Meta Newsroom .",
+   "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/",
+   "image": "https://about.fb.com/wp-content/uploads/2026/11/England_v2a_4x3.png?fit=1440%2C1080",
+   "published": "2026-11-24T06:00:40Z",
+   "found": "2026-11-24T06:29:15Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "ab631f8c46ba",
+   "company": "meta",
+   "kind": "blog",
+   "title": "Muse Now Available in the UK: Muse Does the Work, You Stay in Control",
+   "summary": "Muse, Meta’s personal AI agent, is now available to adults in the UK. Think of it as a helping hand for the jobs that pile up, like chasing a refund, renewing car insurance or keeping on top of the school calendar. To get those jobs done you can connect Muse to the apps you already use, from your email and calendar to the retailer apps you shop on. Handing tasks to an AI agent is new for most of…",
+   "url": "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/",
+   "image": null,
+   "published": "2026-11-24T06:00:04Z",
+   "found": "2026-11-24T06:29:15Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "91e27f3842dc",
    "company": "openai",
