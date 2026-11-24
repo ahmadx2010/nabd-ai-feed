@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:19:22Z",
+ "updated": "2026-11-24T17:28:31Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,63 @@
   }
  },
  "items": [
+  {
+   "id": "13d62f35bbd7",
+   "company": "openai",
+   "kind": "video",
+   "title": "Make sense of your day | with ChatGPT",
+   "summary": "Snap a photo and ask ChatGPT to help you figure out what you’re looking at, and highlight anything you should double-check.",
+   "url": "https://www.youtube.com/watch?v=2DUJ2whBJRM",
+   "image": "https://i3.ytimg.com/vi/2DUJ2whBJRM/hqdefault.jpg",
+   "published": "2026-11-24T17:14:03Z",
+   "found": "2026-11-24T17:28:31Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "00fb57daa887",
+   "company": "openai",
+   "kind": "video",
+   "title": "Make a day of it | with ChatGPT",
+   "summary": "ChatGPT can turn a rough idea into the perfect-sized plan for your family. Tell ChatGPT what you’re looking for and it’ll browse sites on your behalf to find local information, and even help you book things.",
+   "url": "https://www.youtube.com/watch?v=4MFBNFyBmQg",
+   "image": "https://i1.ytimg.com/vi/4MFBNFyBmQg/hqdefault.jpg",
+   "published": "2026-11-24T17:14:01Z",
+   "found": "2026-11-24T17:28:31Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "56c095bda4d5",
+   "company": "openai",
+   "kind": "video",
+   "title": "Make room in your day | with ChatGPT",
+   "summary": "A little more time at the park? Connect your calendar and ask ChatGPT to find a later time for your meeting.",
+   "url": "https://www.youtube.com/watch?v=Faoam45LT-Q",
+   "image": "https://i3.ytimg.com/vi/Faoam45LT-Q/hqdefault.jpg",
+   "published": "2026-11-24T17:13:58Z",
+   "found": "2026-11-24T17:28:31Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "bd3f354ffbaf",
+   "company": "openai",
+   "kind": "video",
+   "title": "Make your day move | with ChatGPT",
+   "summary": "Plans changed? With your calendar connected, ChatGPT can check your schedule, find another time, and draft a note to let people know.",
+   "url": "https://www.youtube.com/watch?v=DLV3XRdJAog",
+   "image": "https://i1.ytimg.com/vi/DLV3XRdJAog/hqdefault.jpg",
+   "published": "2026-11-24T17:13:55Z",
+   "found": "2026-11-24T17:28:31Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "c330206f5aeb",
    "company": "openai",
