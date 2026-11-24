@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:28:31Z",
+ "updated": "2026-11-24T17:46:43Z",
  "categories": [
   {
    "key": "big",
@@ -494,6 +494,21 @@
    "ar_title": "Gemini شريك الذكاء الاصطناعي الرسمي لفريق Golden State",
    "ar_summary": "وسّعت Google شراكتها مع Golden State لتصبح Gemini المساعد الرسمي للذكاء الاصطناعي لفريق Warriors وفريق Valkyries وملعب Chase Center، لتحسين تجربة الجماهير وعمليات الفريق.",
    "ai": true
+  },
+  {
+   "id": "22e762975130",
+   "company": "gemini",
+   "kind": "blog",
+   "title": "See what 5 builders are making with Gemini 4 Neon",
+   "summary": "Collage of creations using Gemini 4 Neon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_Builders_Neon_herosocial.max-600x600.format-webp.webp",
+   "published": "2026-11-24T16:00:00Z",
+   "found": "2026-11-24T17:46:43Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "79306799dcbe",
