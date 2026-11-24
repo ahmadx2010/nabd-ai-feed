@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:45:46Z",
+ "updated": "2026-11-24T21:46:37Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "تجربة تصميم SVG وثلاثي الأبعاد باستخدام إضافة Codex",
+   "ar_summary": "فيديو من OpenAI يعرض كيف تتيح إضافة SVG & 3D Design في Codex تحويل صورة مرجعية إلى رسم قابل للتعديل أو نموذج ثلاثي الأبعاد، مع طلب التعديلات بلغة بسيطة.",
+   "ai": true
   },
   {
    "id": "0bc69287553e",
@@ -656,7 +660,11 @@
    "importance": 2,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "نماذج GPT-6 تُظهر قدرة ذاتية على تصميم البروتينات",
+   "ar_summary": "تقول OpenAI إن نماذج GPT-6 تستطيع تصميم هياكل البروتينات وتسلسلاتها بالاعتماد على الاستدلال والبرمجة فقط. وأظهرت اختبارات مخبرية دلائل على الارتباط بخمسة أهداف.",
+   "ai": true
   },
   {
    "id": "44341f568c01",
