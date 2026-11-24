@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:55:42Z",
+ "updated": "2026-11-24T14:06:47Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "79306799dcbe",
+   "company": "googlelabs",
+   "kind": "blog",
+   "title": "Independent filmmakers in India bring big-screen stories to life with Google Flow.",
+   "summary": "Indian filmmakers use Google Flow to create original short films. Watch five winning stories from the WIF India Filmathon. See the films now.",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_WIF_x_Google_Flow.max-600x600.format-webp.webp",
+   "published": "2026-11-24T14:00:00Z",
+   "found": "2026-11-24T14:06:47Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "f10242ef986e",
    "company": "openai",
