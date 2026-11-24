@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:08:18Z",
+ "updated": "2026-11-24T23:18:22Z",
  "categories": [
   {
    "key": "big",
@@ -807,10 +807,14 @@
    "image": "https://images.ctfassets.net/kftzwdyauwt9/24rUSNlLR8iXQysKA6dq12/38954f25812d30bf772691824f747b84/clay-seo-1920.png?w=1600&h=900&fit=fill",
    "published": "2026-11-24T00:00:00Z",
    "found": "2026-11-24T23:08:18Z",
-   "importance": 1,
+   "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Clay تساعد فرق المبيعات على الفوز باستخدام Codex وChatGPT",
+   "ar_summary": "تساعد إضافات Clay في ChatGPT وCodex فرق المبيعات على دراسة الصفقات وتحويل البيانات إلى خطط للتسويق والمبيعات، بينما تتولى نماذج GPT-6 مهمة الاستدلال.",
+   "ai": true
   },
   {
    "id": "4230f956fc9c",
@@ -822,10 +826,14 @@
    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6aa2b2d5f51bb47d0473296d_6aa2b1b106394e7398efaee0_og-preemptible.png",
    "published": "2026-11-24T00:00:00Z",
    "found": "2026-11-24T23:08:18Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Together AI تطلق الحوسبة القابلة للإيقاف المؤقت بنصف السعر",
+   "ar_summary": "أتاحت Together AI الحوسبة القابلة للإيقاف المؤقت (preemptible) على عناقيد GPU لديها بسعر ثابت يعادل 50% من السعر المعتاد، مع مهلة إخلاء مدتها خمس دقائق.",
+   "ai": true
   },
   {
    "id": "bc560c06e976",
