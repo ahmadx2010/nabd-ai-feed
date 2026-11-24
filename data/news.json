@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:41:28Z",
+ "updated": "2026-11-24T21:00:34Z",
  "categories": [
   {
    "key": "big",
@@ -641,7 +641,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ما هو SIP Trunking؟ دليل الشركات للمكالمات الحديثة",
+   "ar_summary": "دليل من ElevenLabs يشرح تقنية SIP trunking وكيفية عملها وتكلفتها واختيار المزوّد، وكيفية ربطها بوكلاء الصوت بالذكاء الاصطناعي لخدمة العملاء.",
+   "ai": true
   },
   {
    "id": "f3aa9260f109",
