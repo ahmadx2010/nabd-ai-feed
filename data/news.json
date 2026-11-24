@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:00:34Z",
+ "updated": "2026-11-24T21:27:30Z",
  "categories": [
   {
    "key": "big",
@@ -627,6 +627,21 @@
    "ar_title": "تعرّف على وضع الصوت الجديد كليًا في ChatGPT",
    "ar_summary": "فيديو من OpenAI يقدّم وضع الصوت الجديد في ChatGPT، حيث يمكنك التحدث إليه ليستمع إليك وينجز المهام معك، من سؤال بسيط حتى حل المهمة.",
    "ai": true
+  },
+  {
+   "id": "3c6728c1bfd1",
+   "company": "openai",
+   "kind": "blog",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-24T13:00:00Z",
+   "found": "2026-11-24T21:27:30Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "44341f568c01",
