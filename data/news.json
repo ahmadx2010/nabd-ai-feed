@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:59:36Z",
+ "updated": "2026-11-25T17:17:52Z",
  "categories": [
   {
    "key": "big",
@@ -386,6 +386,21 @@
  },
  "items": [
   {
+   "id": "040b9138c790",
+   "company": "google",
+   "kind": "blog",
+   "title": "Verifiable Social Reasoning for LLM Assistants",
+   "summary": "Generative AI",
+   "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning1-UserMediatedReality.png",
+   "published": "2026-11-25T17:10:27Z",
+   "found": "2026-11-25T17:17:52Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
    "id": "3da4c3a0055b",
    "company": "openai",
    "kind": "video",
@@ -473,6 +488,21 @@
    "ar_title": "حوكمة الذكاء الاصطناعي ومعيار ISO/IEC 42001 مع LangSmith",
    "ar_summary": "نشرت LangChain مقالاً عن حوكمة الذكاء الاصطناعي ومعيار ISO/IEC 42001 وعلاقته بمنصة LangSmith. لم يتوفر نص المقال للتحقق من تفاصيله.",
    "ai": true
+  },
+  {
+   "id": "d8d6777ecf09",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+   "summary": "",
+   "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+   "image": "https://huggingface.co/blog/assets/inkling-2-mini-inference-hillclimb/thumbnail.png",
+   "published": "2026-11-25T00:00:00Z",
+   "found": "2026-11-25T17:17:52Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "31d37d4ac5eb",
@@ -754,6 +784,20 @@
    "ar_title": "تعرّف على وضع الصوت الجديد كليًا في ChatGPT",
    "ar_summary": "فيديو من OpenAI يقدّم وضع الصوت الجديد في ChatGPT، حيث يمكنك التحدث إليه ليستمع إليك وينجز المهام معك، من سؤال بسيط حتى حل المهمة.",
    "ai": true
+  },
+  {
+   "id": "dd94f7af62fb",
+   "company": "deepmind",
+   "kind": "blog",
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+   "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+   "image": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w528-h297-n-nu-rw-lo",
+   "published": "2026-11-24T13:07:53Z",
+   "found": "2026-11-25T17:17:52Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "3c6728c1bfd1",
