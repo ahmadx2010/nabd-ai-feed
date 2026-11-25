@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:36:08Z",
+ "updated": "2026-11-25T17:37:18Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning1-UserMediatedReality.png",
    "published": "2026-11-25T17:10:27Z",
    "found": "2026-11-25T17:17:52Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "غوغل تقدم إطارًا لقياس الاستدلال الاجتماعي لدى مساعدات الذكاء الاصطناعي",
+   "ar_summary": "قدّم باحثو Google Research إطار تقييم يعتمد على محاكاة اجتماعية متعددة الوكلاء لقياس مدى فهم المساعدات الذكية للمواقف الاجتماعية من روايات المستخدمين الذاتية. أظهرت النتائج أن النماذج تتأثر بطريقة صياغة المستخدم ولا تستفيد كاملًا من أسئلة التوضيح.",
+   "ai": true
   },
   {
    "id": "3da4c3a0055b",
@@ -413,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إعلان OpenAI الرسمي: «يوم الدراسة» مع ChatGPT",
+   "ar_summary": "فيديو ترويجي من OpenAI يعرض كيف يساعد ChatGPT في إعادة ترتيب اليوم والتخطيط للرحلات بعد تغيّر مفاجئ في الخطط.",
+   "ai": true
   },
   {
    "id": "01f58d7014fd",
@@ -499,10 +507,14 @@
    "image": "https://huggingface.co/blog/assets/inkling-2-mini-inference-hillclimb/thumbnail.png",
    "published": "2026-11-25T00:00:00Z",
    "found": "2026-11-25T17:17:52Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Hugging Face: تسريع Inkling 2 Mini بنسبة 40% على بطاقة RTX PRO 6000 واحدة",
+   "ar_summary": "شرح Hugging Face كيف استخدم وكيل برمجي مهارة تحسين الاستدلال لرفع سرعة تشغيل نموذج Inkling 2 Mini على بطاقة NVIDIA RTX PRO 6000 واحدة. ارتفعت سرعة المستخدم الواحد من 136 إلى 190.6 رمزًا في الثانية.",
+   "ai": true
   },
   {
    "id": "31d37d4ac5eb",
@@ -795,9 +807,13 @@
    "image": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w528-h297-n-nu-rw-lo",
    "published": "2026-11-24T13:07:53Z",
    "found": "2026-11-25T17:17:52Z",
-   "importance": 0,
+   "importance": 1,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "من الطيف إلى البنية: مهارات Mass Spec لتحديد الجزيئات في Google Antigravity",
+   "ar_summary": "تتيح مهارات Mass Spec الجديدة للعلماء المستخدمين لـ Google Antigravity تفسير أطياف الكتلة التتابعية لتحديد بنية الجزيئات.",
+   "ai": true
   },
   {
    "id": "3c6728c1bfd1",
@@ -870,7 +886,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs: وكلاء صوتيون لإصلاح «الباب الأمامي» للخدمات الحكومية",
+   "ar_summary": "تعرض ElevenLabs كيف تستبدل الحكومات قوائم الهاتف الآلية القديمة بوكلاء صوتيين يفهمون المتصلين وينجزون مطالبهم. وتشير إلى أمثلة مثل خط التوظيف الأوكراني.",
+   "ai": true
   },
   {
    "id": "f3aa9260f109",
