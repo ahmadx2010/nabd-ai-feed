@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:25:19Z",
+ "updated": "2026-11-25T10:44:36Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "وكيل صوتي بلغات الهند مبني على CUGA من IBM",
+   "ar_summary": "تعرض IBM Research مساعدًا صوتيًا للمزارعين يفهم أسئلتهم بلغاتهم المحلية ويجيب عنها صوتيًا اعتمادًا على دليل زراعي إنجليزي، باستخدام إطار CUGA مفتوح المصدر.",
+   "ai": true
   },
   {
    "id": "9e16e7c8e347",
