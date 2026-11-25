@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:14:57Z",
+ "updated": "2026-11-25T23:43:32Z",
  "categories": [
   {
    "key": "big",
@@ -550,7 +550,47 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ما هو GraphRAG؟ دليل عملي لاسترجاع أذكى للمعلومات",
+   "ar_summary": "يشرح ElevenLabs تقنية GraphRAG التي تستخدم الرسوم البيانية المعرفية لتحسين إجابات نماذج الذكاء الاصطناعي على الأسئلة المعقدة، ومتى تتفوق على RAG التقليدي.",
+   "ai": true
+  },
+  {
+   "id": "47f264fb8bc6",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Perplexity Pro now includes weekly Computer usage",
+   "summary": "Starting today, Perplexity Pro includes a weekly allowance of Computer usage, shown as a meter in Settings.",
+   "url": "https://www.perplexity.ai/hub/blog/perplexity-pro-now-includes-weekly-computer-usage",
+   "image": null,
+   "published": "2026-11-25T12:00:00Z",
+   "found": "2026-11-25T23:43:32Z",
+   "importance": 1,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Perplexity Pro يضيف حصة أسبوعية لاستخدام Computer",
+   "ar_summary": "بدأت Perplexity بتضمين حصة أسبوعية من استخدام وكيل Computer في اشتراك Pro، تظهر كعداد في الإعدادات وتتجدد كل سبعة أيام.",
+   "ai": true
+  },
+  {
+   "id": "02ac470c599a",
+   "company": "luma",
+   "kind": "news",
+   "title": "Introducing Brand Kit and Character Library",
+   "summary": "Luma launches Brand Kit and Character Library to keep AI-generated images and video on brand, available to all users.",
+   "url": "https://lumalabs.ai/news/brand-kit-character-library",
+   "image": null,
+   "published": "2026-11-25T12:00:00Z",
+   "found": "2026-11-25T23:43:32Z",
+   "importance": 1,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "Luma تطلق Brand Kit و Character Library",
+   "ar_summary": "أطلقت Luma ميزتي Brand Kit و Character Library للحفاظ على اتساق الصور والفيديو المولّدة بالذكاء الاصطناعي مع هوية العلامة التجارية، وهما متاحتان لجميع المستخدمين.",
+   "ai": true
   },
   {
    "id": "d0a3a7f662b5",
