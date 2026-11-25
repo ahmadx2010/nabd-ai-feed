@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:34:27Z",
+ "updated": "2026-11-25T01:35:29Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-25T01:34:27Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "بحيرة الوكلاء (The Agent Lake): مقال جديد من LangChain",
+   "ar_summary": "نشرت LangChain مقالاً جديداً بعنوان «The Agent Lake» على مدونتها الرسمية. لم يتوفر نص المقال للتحقق من تفاصيله.",
+   "ai": true
   },
   {
    "id": "3ef46f46ce80",
@@ -411,7 +415,11 @@
    "found": "2026-11-25T01:07:12Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "حوكمة الذكاء الاصطناعي ومعيار ISO/IEC 42001 مع LangSmith",
+   "ar_summary": "نشرت LangChain مقالاً عن حوكمة الذكاء الاصطناعي ومعيار ISO/IEC 42001 وعلاقته بمنصة LangSmith. لم يتوفر نص المقال للتحقق من تفاصيله.",
+   "ai": true
   },
   {
    "id": "31d37d4ac5eb",
