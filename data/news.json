@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:58:47Z",
+ "updated": "2026-11-25T19:08:55Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F32BgZC_rj0kg99apJlto.png",
    "published": "2026-11-25T18:52:55Z",
    "found": "2026-11-25T18:58:47Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "أين يضع العلماء الخط الأحمر أمام وكلاء الذكاء الاصطناعي؟",
+   "ar_summary": "أجرى معهد Ai2 مقابلات مع 17 عالماً في العلوم الطبيعية والتطبيقية والاجتماعية لفهم كيف ينبغي تطوير وكلاء الذكاء الاصطناعي بمسؤولية في البحث العلمي. تركز الدراسة على الضمانات التي يحتاجها الباحثون ليثقوا بهذه الأنظمة.",
+   "ai": true
   },
   {
    "id": "ec8743068e33",
@@ -413,7 +417,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف يواصل مساعدك «dot» إنجاز العمل أثناء غيابك",
+   "ar_summary": "فيديو من OpenAI يشرح كيف يستخدم موظف اسمه Raymond مساعده dot لمتابعة المشاريع وتنبيهه للأمور المهمة أثناء الإجازة. يقدم الفيديو مثال أمر جاهز لمراقبة قنوات Slack وإنشاء تذاكر في Linear.",
+   "ai": true
   },
   {
    "id": "60ccd11aa2a7",
