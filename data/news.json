@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:15:13Z",
+ "updated": "2026-11-25T10:25:19Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "d0a3a7f662b5",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "An Indic Voice Agent with CUGA",
+   "summary": "",
+   "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/67fe070a4e8cc28ba346f53c/-QNcrxSDbjI8VOCBlhi-C.png",
+   "published": "2026-11-25T10:22:09Z",
+   "found": "2026-11-25T10:25:19Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "9e16e7c8e347",
    "company": "langchain",
