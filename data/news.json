@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:51:12Z",
+ "updated": "2026-11-25T16:59:36Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "3da4c3a0055b",
+   "company": "openai",
+   "kind": "video",
+   "title": "School Day | Make a day do anything with ChatGPT (Official)",
+   "summary": "When an unexpected change of plans throws Marla and Ava’s day off course, the pair embark on a spontaneous adventure with a little help from ChatGPT. ChatGPT can move things around, plan trips and create room in your day to spend doing things you love, with people you love. With ChatGPT, you can Make a Day Do Anything.",
+   "url": "https://www.youtube.com/watch?v=kfGYU_-SuaE",
+   "image": "https://i4.ytimg.com/vi/kfGYU_-SuaE/hqdefault.jpg",
+   "published": "2026-11-25T16:45:33Z",
+   "found": "2026-11-25T16:59:36Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "01f58d7014fd",
    "company": "openai",
