@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:34:21Z",
+ "updated": "2026-11-25T21:52:33Z",
  "categories": [
   {
    "key": "big",
@@ -592,6 +592,21 @@
    "ar_title": "Hugging Face: تسريع Inkling 2 Mini بنسبة 40% على بطاقة RTX PRO 6000 واحدة",
    "ar_summary": "شرح Hugging Face كيف استخدم وكيل برمجي مهارة تحسين الاستدلال لرفع سرعة تشغيل نموذج Inkling 2 Mini على بطاقة NVIDIA RTX PRO 6000 واحدة. ارتفعت سرعة المستخدم الواحد من 136 إلى 190.6 رمزًا في الثانية.",
    "ai": true
+  },
+  {
+   "id": "320d72e607c3",
+   "company": "together",
+   "kind": "blog",
+   "title": "Introducing Hurdle: Run agent evals on your API, skills, and docs",
+   "summary": "Hurdle is an open-source npm library for agent evals. Run Claude Code and Codex against real tasks on your API, score each run with code checks, guards and an LLM judge, and see which models and conditions pass.",
+   "url": "https://www.together.ai/blog/introducing-hurdle-run-agent-evals-on-your-api-skills-and-docs",
+   "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6b06969eaa676efee9932eb7_cms-og-image.webp",
+   "published": "2026-11-25T00:00:00Z",
+   "found": "2026-11-25T21:52:33Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "31d37d4ac5eb",
