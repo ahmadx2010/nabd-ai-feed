@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:17:52Z",
+ "updated": "2026-11-25T17:36:08Z",
  "categories": [
   {
    "key": "big",
@@ -854,6 +854,21 @@
    "ar_title": "كيف تبني محرك بحث داخلي؟ دليل من Perplexity للمواقع وأماكن العمل",
    "ar_summary": "نشرت Perplexity دليلاً تعريفياً حول إنشاء محرك بحث داخلي يساعد على اكتشاف المحتوى في المواقع وبيئات العمل.",
    "ai": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "4398de60e3fa",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Fixing the front door to government, one voice agent at a time",
+   "summary": "The front door to government for millions of people is an outdated IVR phone menu. Governments are now adopting AI agents for several kinds of calls.",
+   "url": "https://elevenlabs.io/blog/fixing-front-door-government",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/bxbv23zf2u-fixing-front-door-government-agent-16x9.webp",
+   "published": "2026-11-24T12:00:00Z",
+   "found": "2026-11-25T17:36:08Z",
+   "importance": 0,
+   "detail": true,
    "fetched": true,
    "img_tried": true
   },
