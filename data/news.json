@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:22:56Z",
+ "updated": "2026-11-25T18:49:38Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "ec8743068e33",
+   "company": "openai",
+   "kind": "video",
+   "title": "How your dot can keep work moving while you’re away",
+   "summary": "Even when you step away for the holidays, work doesn’t always stop. Your dot can help. Raymond walks through how his dot keeps an eye on ongoing projects, flags what needs his attention, and helps move work forward so he can review and approve next steps on the go. Steal Raymond’s workflow. Try these prompts with your dot and make them your own: \"I’m stepping away until [time + time zone]. Watch…",
+   "url": "https://www.youtube.com/watch?v=A4UNP-axGHU",
+   "image": "https://i2.ytimg.com/vi/A4UNP-axGHU/hqdefault.jpg",
+   "published": "2026-11-25T18:21:11Z",
+   "found": "2026-11-25T18:49:38Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "60ccd11aa2a7",
    "company": "copilot",
