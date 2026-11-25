@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:37:18Z",
+ "updated": "2026-11-25T18:03:44Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "60ccd11aa2a7",
+   "company": "copilot",
+   "kind": "blog",
+   "title": "How to choose the next safe step in application modernization",
+   "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog .",
+   "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+   "image": "https://github.blog/wp-content/uploads/2026/11/38b3dc4817bfb01261d608e093dda2cdf3392f0886a14b95208bc6f1cd49e58d-1920x1080-1.png?fit=1920%2C1080",
+   "published": "2026-11-25T18:00:00Z",
+   "found": "2026-11-25T18:03:44Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "040b9138c790",
    "company": "google",
