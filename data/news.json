@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:33:23Z",
+ "updated": "2026-11-25T16:40:49Z",
  "categories": [
   {
    "key": "big",
@@ -2214,6 +2214,21 @@
    "ar_title": "والتر آيزاكسون يتحدث عن الفضول والإبداع في عصر الذكاء الاصطناعي",
    "ar_summary": "حلقة جديدة من «حوارات حول التقنية والمجتمع» يستضيف فيها كينت ووكر المؤرخ والتر آيزاكسون لمناقشة دروس مبتكري التاريخ عن الإبداع والحكم البشري في زمن الذكاء الاصطناعي.",
    "ai": true
+  },
+  {
+   "id": "93c4c9b1fe2e",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "Bringing Salesforce to Copilot as we build Copilot as the OS for work!",
+   "summary": "The post Bringing Salesforce to Copilot as we build Copilot as the OS for work! appeared first on Source .",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7528885100705402880/",
+   "image": "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7",
+   "published": "2026-11-19T16:38:35Z",
+   "found": "2026-11-25T16:40:49Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "596ca441f551",
