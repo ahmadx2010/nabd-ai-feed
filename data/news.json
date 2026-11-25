@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:23:20Z",
+ "updated": "2026-11-25T14:33:23Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تُعدّ ميزة «المالية» في ChatGPT",
+   "ar_summary": "فيديو تعليمي من OpenAI يشرح أساسيات ميزة Finances في ChatGPT، التي تساعدك على فهم إنفاقك وتحقيق أهدافك المالية عبر ربط حسابك المصرفي ومراجعة الاشتراكات وبناء ميزانية.",
+   "ai": true
   },
   {
    "id": "d0a3a7f662b5",
