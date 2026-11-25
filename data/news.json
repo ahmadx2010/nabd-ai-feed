@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:49:38Z",
+ "updated": "2026-11-25T18:58:47Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "37b5c9ba9326",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Where scientists draw the line on AI agents",
+   "summary": "",
+   "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F32BgZC_rj0kg99apJlto.png",
+   "published": "2026-11-25T18:52:55Z",
+   "found": "2026-11-25T18:58:47Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "ec8743068e33",
    "company": "openai",
