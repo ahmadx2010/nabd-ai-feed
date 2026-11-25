@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:40:49Z",
+ "updated": "2026-11-25T16:49:58Z",
  "categories": [
   {
    "key": "big",
@@ -626,6 +626,21 @@
    "ar_title": "يوم مدرسي: اجعل اليوم يفعل أي شيء مع ChatGPT",
    "ar_summary": "إعلان من OpenAI تظهر فيه مارلا وآفا تخوضان مغامرة عفوية بعد تغيّر مفاجئ في الخطط بمساعدة ChatGPT.",
    "ai": true
+  },
+  {
+   "id": "ad8f3e69a92f",
+   "company": "microsoft",
+   "kind": "blog",
+   "title": "Outcome per dollar is the frontier. We’re advancing it at every layer: FLOPs-efficient pretraining (MAI Base 2), long RL climbs (Rocket), and token-efficient models (7 new MAI models announced last…",
+   "summary": "The post Outcome per dollar is the frontier. We’re advancing it at every layer: FLOPs-efficient pretraining (MAI Base 2), long RL climbs (Rocket), and token-efficient models (7 new MAI models announced last week) [Read more] appeared first on Source .",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7530839822152708096/",
+   "image": "https://media.licdn.com/dms/image/v2/D4E10AQGhOD5Xz2q3ZA/image-shrink_800/B4EaIJhD3YKAAk-/0/1795455991590?e=2147483647&v=beta&t=0VGG_g9Chj6is1-k6g6bqL_MNpVPHgcZoM_XzBn0l8M",
+   "published": "2026-11-24T16:41:15Z",
+   "found": "2026-11-25T16:49:58Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "16565a3f5dc0",
