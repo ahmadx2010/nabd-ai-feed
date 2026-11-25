@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:26:02Z",
+ "updated": "2026-11-25T21:34:21Z",
  "categories": [
   {
    "key": "big",
@@ -534,7 +534,9 @@
    "ar_detail": true,
    "ar_title": "بيربلكسيتي تطلق Time Machine: تجميد الويب عند تاريخ محدد لوكلاء الذكاء الاصطناعي",
    "ar_summary": "أضافت Perplexity معامل snapshot_as_of إلى واجهتي Search API وContext API ليرى الوكلاء الويب كما كان في تاريخ محدد حتى 365 يومًا للخلف، مما يتيح اختبار الوكلاء دون تسرّب معلومات لاحقة.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "9e16e7c8e347",
