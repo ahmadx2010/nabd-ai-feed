@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:20:09Z",
+ "updated": "2026-11-25T22:57:24Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "فوترة مراجعة الكود في Copilot ستُحمَّل افتراضياً على المؤسسة",
+   "ar_summary": "اعتباراً من 30 ديسمبر 2026، ستُفوتَر مراجعات الكود التي يجريها أعضاء لديهم ترخيص Copilot على المؤسسة المالكة للمستودع إذا لم يحدد المسؤولون خياراً. ولإبقاء الفوترة على العضو يجب اختيار «Member» قبل هذا التاريخ.",
+   "ai": true
   },
   {
    "id": "37b5c9ba9326",
@@ -512,6 +516,23 @@
    "ar_detail": true,
    "ar_title": "كيف تُعدّ ميزة «المالية» في ChatGPT",
    "ar_summary": "فيديو تعليمي من OpenAI يشرح أساسيات ميزة Finances في ChatGPT، التي تساعدك على فهم إنفاقك وتحقيق أهدافك المالية عبر ربط حسابك المصرفي ومراجعة الاشتراكات وبناء ميزانية.",
+   "ai": true
+  },
+  {
+   "id": "971857a3a6a7",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Context compaction: what happens when your AI chat runs out of room",
+   "summary": "Perplexity explains context compaction and what happens when an AI chat runs out of context window space.",
+   "url": "https://www.perplexity.ai/hub/blog/context-compaction",
+   "image": null,
+   "published": "2026-11-25T12:00:00Z",
+   "found": "2026-11-25T22:57:24Z",
+   "importance": 0,
+   "via": "claude",
+   "ar_detail": true,
+   "ar_title": "ضغط السياق: ماذا يحدث عندما تنفد مساحة محادثة الذكاء الاصطناعي",
+   "ar_summary": "مقال تعليمي من Perplexity يشرح مفهوم ضغط السياق (context compaction) وما يحدث حين تمتلئ نافذة السياق في محادثات الذكاء الاصطناعي.",
    "ai": true
   },
   {
