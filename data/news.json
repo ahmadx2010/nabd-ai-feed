@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:05:50Z",
+ "updated": "2026-11-25T23:14:57Z",
  "categories": [
   {
    "key": "big",
@@ -534,6 +534,21 @@
    "ar_title": "ضغط السياق: ماذا يحدث عندما تنفد مساحة محادثة الذكاء الاصطناعي",
    "ar_summary": "مقال تعليمي من Perplexity يشرح مفهوم ضغط السياق (context compaction) وما يحدث حين تمتلئ نافذة السياق في محادثات الذكاء الاصطناعي.",
    "ai": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "022420567f75",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "What is GraphRAG? A practical guide to smarter AI retrieval",
+   "summary": "Learn what is GraphRAG, how knowledge graph RAG works, and where it beats standard RAG. See use cases and how ElevenAgents handles RAG for voice agents.",
+   "url": "https://elevenlabs.io/blog/what-is-graphrag",
+   "image": null,
+   "published": "2026-11-25T12:00:00Z",
+   "found": "2026-11-25T23:14:57Z",
+   "importance": 0,
+   "detail": true,
    "fetched": true,
    "img_tried": true
   },
