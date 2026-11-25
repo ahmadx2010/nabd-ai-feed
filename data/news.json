@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:57:24Z",
+ "updated": "2026-11-25T23:05:50Z",
  "categories": [
   {
    "key": "big",
@@ -533,7 +533,9 @@
    "ar_detail": true,
    "ar_title": "ضغط السياق: ماذا يحدث عندما تنفد مساحة محادثة الذكاء الاصطناعي",
    "ar_summary": "مقال تعليمي من Perplexity يشرح مفهوم ضغط السياق (context compaction) وما يحدث حين تمتلئ نافذة السياق في محادثات الذكاء الاصطناعي.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "d0a3a7f662b5",
