@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:06:44Z",
+ "updated": "2026-11-25T03:15:13Z",
  "categories": [
   {
    "key": "big",
@@ -737,7 +737,9 @@
    "ar_detail": true,
    "ar_title": "كيف تبني محرك بحث داخلي؟ دليل من Perplexity للمواقع وأماكن العمل",
    "ar_summary": "نشرت Perplexity دليلاً تعريفياً حول إنشاء محرك بحث داخلي يساعد على اكتشاف المحتوى في المواقع وبيئات العمل.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "f3aa9260f109",
