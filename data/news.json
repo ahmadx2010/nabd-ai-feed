@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:08:55Z",
+ "updated": "2026-11-25T21:26:02Z",
  "categories": [
   {
    "key": "big",
@@ -516,6 +516,24 @@
    "ar_detail": true,
    "ar_title": "وكيل صوتي بلغات الهند مبني على CUGA من IBM",
    "ar_summary": "تعرض IBM Research مساعدًا صوتيًا للمزارعين يفهم أسئلتهم بلغاتهم المحلية ويجيب عنها صوتيًا اعتمادًا على دليل زراعي إنجليزي، باستخدام إطار CUGA مفتوح المصدر.",
+   "ai": true
+  },
+  {
+   "id": "e0c1be8a37c7",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "Freeze the web with Perplexity Time Machine",
+   "summary": "Time Machine adds a snapshot_as_of date cutoff to Perplexity's Search API and Context API, letting agents see the web as it was on a chosen date up to 365 days back.",
+   "url": "https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine",
+   "image": null,
+   "published": "2026-11-25T09:00:00Z",
+   "found": "2026-11-25T21:26:02Z",
+   "importance": 1,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "بيربلكسيتي تطلق Time Machine: تجميد الويب عند تاريخ محدد لوكلاء الذكاء الاصطناعي",
+   "ar_summary": "أضافت Perplexity معامل snapshot_as_of إلى واجهتي Search API وContext API ليرى الوكلاء الويب كما كان في تاريخ محدد حتى 365 يومًا للخلف، مما يتيح اختبار الوكلاء دون تسرّب معلومات لاحقة.",
    "ai": true
   },
   {
