@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:49:58Z",
+ "updated": "2026-11-25T16:51:12Z",
  "categories": [
   {
    "key": "big",
@@ -637,10 +637,14 @@
    "image": "https://media.licdn.com/dms/image/v2/D4E10AQGhOD5Xz2q3ZA/image-shrink_800/B4EaIJhD3YKAAk-/0/1795455991590?e=2147483647&v=beta&t=0VGG_g9Chj6is1-k6g6bqL_MNpVPHgcZoM_XzBn0l8M",
    "published": "2026-11-24T16:41:15Z",
    "found": "2026-11-25T16:49:58Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مايكروسوفت تكشف Rocket: بنية تحتية خاصة للتعلم المعزز واسع النطاق لنماذج MAI",
+   "ar_summary": "شارك الرئيس التنفيذي لمايكروسوفت تفاصيل Rocket، نظام التعلم المعزز الداخلي الذي نقل MAI Base 1 إلى MAI Thinking 1 ويُستخدم الآن في ما بعد تدريب MAI Base 2. ويؤكد أن «العائد لكل دولار» هو الحدود الجديدة للتنافس.",
+   "ai": true
   },
   {
    "id": "16565a3f5dc0",
@@ -2240,10 +2244,14 @@
    "image": "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7",
    "published": "2026-11-19T16:38:35Z",
    "found": "2026-11-25T16:40:49Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "مايكروسوفت: Salesforce يأتي إلى Copilot ضمن شراكة «Copilotforce»",
+   "ar_summary": "أعلن الرئيس التنفيذي لمايكروسوفت عن Copilotforce، إذ تصل سياقات عملاء Salesforce وسير عمل المبيعات إلى Microsoft Copilot وTeams. وتشمل الشراكة أيضاً Fabric وInformatica.",
+   "ai": true
   },
   {
    "id": "596ca441f551",
