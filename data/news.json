@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:43:32Z",
+ "updated": "2026-11-25T23:51:46Z",
  "categories": [
   {
    "key": "big",
@@ -572,7 +572,9 @@
    "ar_detail": true,
    "ar_title": "Perplexity Pro يضيف حصة أسبوعية لاستخدام Computer",
    "ar_summary": "بدأت Perplexity بتضمين حصة أسبوعية من استخدام وكيل Computer في اشتراك Pro، تظهر كعداد في الإعدادات وتتجدد كل سبعة أيام.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "02ac470c599a",
@@ -581,7 +583,7 @@
    "title": "Introducing Brand Kit and Character Library",
    "summary": "Luma launches Brand Kit and Character Library to keep AI-generated images and video on brand, available to all users.",
    "url": "https://lumalabs.ai/news/brand-kit-character-library",
-   "image": null,
+   "image": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
    "published": "2026-11-25T12:00:00Z",
    "found": "2026-11-25T23:43:32Z",
    "importance": 1,
@@ -590,7 +592,9 @@
    "ar_detail": true,
    "ar_title": "Luma تطلق Brand Kit و Character Library",
    "ar_summary": "أطلقت Luma ميزتي Brand Kit و Character Library للحفاظ على اتساق الصور والفيديو المولّدة بالذكاء الاصطناعي مع هوية العلامة التجارية، وهما متاحتان لجميع المستخدمين.",
-   "ai": true
+   "ai": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "d0a3a7f662b5",
