@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:07:12Z",
+ "updated": "2026-11-25T01:34:27Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "9e16e7c8e347",
+   "company": "langchain",
+   "kind": "blog",
+   "title": "The Agent Lake",
+   "summary": "",
+   "url": "https://blog.langchain.com/blog/the-agent-lake",
+   "image": null,
+   "published": "2026-11-25T01:34:27Z",
+   "found": "2026-11-25T01:34:27Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "3ef46f46ce80",
    "company": "langchain",
