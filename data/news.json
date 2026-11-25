@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:44:36Z",
+ "updated": "2026-11-25T14:23:20Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "01f58d7014fd",
+   "company": "openai",
+   "kind": "video",
+   "title": "How to Set Up Finances in ChatGPT",
+   "summary": "Finances in ChatGPT can help you get a clearer picture of your spending and find ways to make progress toward your financial goals. In this video, we'll get you up to speed with the basics of Finances in ChatGPT: connect your bank account, review your recurring subscriptions, and build a budget around what matters to you. Get started with Finances in ChatGPT:…",
+   "url": "https://www.youtube.com/watch?v=hwKct_1ilEQ",
+   "image": "https://i1.ytimg.com/vi/hwKct_1ilEQ/hqdefault.jpg",
+   "published": "2026-11-25T14:00:28Z",
+   "found": "2026-11-25T14:23:20Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "d0a3a7f662b5",
    "company": "huggingface",
