@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:03:44Z",
+ "updated": "2026-11-25T18:22:56Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "كيف تختار الخطوة الآمنة التالية في تحديث التطبيقات القديمة",
+   "ar_summary": "يشرح GitHub كيفية تقييم تطبيق قديم واختيار خطوة تحديث محدودة النطاق، مع إمكانية إعادة استخدام الأسلوب عبر مهارة وكيل في GitHub Copilot.",
+   "ai": true
   },
   {
    "id": "040b9138c790",
