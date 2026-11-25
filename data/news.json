@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:35:29Z",
+ "updated": "2026-11-25T03:06:44Z",
  "categories": [
   {
    "key": "big",
@@ -719,6 +719,24 @@
    "ar_detail": true,
    "ar_title": "ما هو SIP Trunking؟ دليل الشركات للمكالمات الحديثة",
    "ar_summary": "دليل من ElevenLabs يشرح تقنية SIP trunking وكيفية عملها وتكلفتها واختيار المزوّد، وكيفية ربطها بوكلاء الصوت بالذكاء الاصطناعي لخدمة العملاء.",
+   "ai": true
+  },
+  {
+   "id": "f307bda01476",
+   "company": "perplexity",
+   "kind": "blog",
+   "title": "How do you create an internal search engine? A guide for website and workplace discovery",
+   "summary": "Perplexity published a guide on building an internal search engine for websites and workplaces.",
+   "url": "https://www.perplexity.ai/hub/blog/internal-search",
+   "image": null,
+   "published": "2026-11-24T12:00:00Z",
+   "found": "2026-11-25T03:06:44Z",
+   "importance": 0,
+   "via": "claude",
+   "detail": true,
+   "ar_detail": true,
+   "ar_title": "كيف تبني محرك بحث داخلي؟ دليل من Perplexity للمواقع وأماكن العمل",
+   "ar_summary": "نشرت Perplexity دليلاً تعريفياً حول إنشاء محرك بحث داخلي يساعد على اكتشاف المحتوى في المواقع وبيئات العمل.",
    "ai": true
   },
   {
