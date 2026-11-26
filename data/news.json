@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:49:09Z",
+ "updated": "2026-11-26T11:45:38Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "02a088434703",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "summary": "",
+   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/67289c93ff90038d9a6e5675/tbIvyMSISXCm64WYP3atl.png",
+   "published": "2026-11-26T11:37:17Z",
+   "found": "2026-11-26T11:45:38Z",
+   "importance": 2,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "d3aa48daa62d",
    "company": "huggingface",
