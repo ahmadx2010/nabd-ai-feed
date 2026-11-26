@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:27:23Z",
+ "updated": "2026-11-26T14:03:13Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "99043acd3b6a",
+   "company": "nvidia",
+   "kind": "blog",
+   "title": "Come for the Games, Stay for the Community With GeForce NOW",
+   "summary": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love cloud gaming. Those ready to find their own […]",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday-November_26.jpg",
+   "published": "2026-11-26T14:00:22Z",
+   "found": "2026-11-26T14:03:13Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "02a088434703",
    "company": "huggingface",
