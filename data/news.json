@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:19:06Z",
+ "updated": "2026-11-26T00:29:06Z",
  "categories": [
   {
    "key": "big",
@@ -397,7 +397,11 @@
    "found": "2026-11-26T00:19:06Z",
    "importance": 0,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "OpenAI: «You had us at Deployed» شكراً لعملائنا",
+   "ar_summary": "فيديو من OpenAI تشكر فيه عملاءها على الثقة وعلى ما يبنونه ويتعلمونه معاً أثناء نشر الذكاء الاصطناعي في أعمالهم.",
+   "ai": true
   },
   {
    "id": "c0d40e212e2d",
