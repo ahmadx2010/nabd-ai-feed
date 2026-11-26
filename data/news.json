@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:03:13Z",
+ "updated": "2026-11-26T14:13:18Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "GeForce NOW تحتفي بمجتمعها مع خصومات الجمعة السوداء ودعم DLSS 5 للعبة War Thunder",
+   "ar_summary": "تحتفي NVIDIA في «خميس GFN» بأعضاء مجتمع GeForce NOW وسفرائها، مع خصم 30% على اشتراكات Performance وUltimate لستة أشهر. كما تحصل War Thunder على مظهر جديد بتقنية DLSS 5 لأعضاء Ultimate، وتنضم 12 لعبة جديدة إلى المكتبة.",
+   "ai": true
   },
   {
    "id": "02a088434703",
