@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:29:06Z",
+ "updated": "2026-11-26T05:11:45Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "d3aa48daa62d",
+   "company": "huggingface",
+   "kind": "blog",
+   "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+   "summary": "",
+   "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png",
+   "published": "2026-11-26T05:05:36Z",
+   "found": "2026-11-26T05:11:45Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "726045a047c8",
    "company": "openai",
