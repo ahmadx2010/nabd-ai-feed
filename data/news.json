@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:00:55Z",
+ "updated": "2026-11-26T00:19:06Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,20 @@
   }
  },
  "items": [
+  {
+   "id": "726045a047c8",
+   "company": "openai",
+   "kind": "video",
+   "title": "You had us at Deployed",
+   "summary": "You had us at deployed. ❤️ We’re thankful for our customers and everything we’re building together. Thank you for trusting us and sharing what you’re learning along the way.",
+   "url": "https://www.youtube.com/watch?v=C6DENY3rgqg",
+   "image": "https://i4.ytimg.com/vi/C6DENY3rgqg/hqdefault.jpg",
+   "published": "2026-11-25T23:50:43Z",
+   "found": "2026-11-26T00:19:06Z",
+   "importance": 0,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "c0d40e212e2d",
    "company": "copilot",
