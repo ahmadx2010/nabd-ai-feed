@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:11:45Z",
+ "updated": "2026-11-26T05:38:59Z",
  "categories": [
   {
    "key": "big",
@@ -396,6 +396,21 @@
    "published": "2026-11-26T05:05:36Z",
    "found": "2026-11-26T05:11:45Z",
    "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
+  {
+   "id": "d46aff2bf273",
+   "company": "together",
+   "kind": "blog",
+   "title": "Distilling Kimi-K3.1-Pro into Qwen3.8-27B: Teaching a model a new language",
+   "summary": "Qwen3.8-27B answered in Thai when asked for Lao. We distilled Kimi-K3.1-Pro's Lao translation into it with Together Post-Training: 93% of the teacher's score, with Thai intact. Code and costs included.",
+   "url": "https://www.together.ai/blog/distilling-kimi-into-qwen",
+   "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6b0769d6c61ce2ca36813242_og-distilling-kimi-into-qwen.png",
+   "published": "2026-11-26T00:00:00Z",
+   "found": "2026-11-26T05:38:59Z",
+   "importance": 2,
    "detail": true,
    "fetched": true,
    "img_tried": true
