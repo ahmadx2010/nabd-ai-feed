@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:45:38Z",
+ "updated": "2026-11-26T11:55:41Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/67289c93ff90038d9a6e5675/tbIvyMSISXCm64WYP3atl.png",
    "published": "2026-11-26T11:37:17Z",
    "found": "2026-11-26T11:45:38Z",
-   "importance": 2,
+   "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "إطلاق لوحة قياس أداء llama.cpp لمعالجات AMD Ryzen وRadeon على Hugging Face",
+   "ar_summary": "أطلقت Hugging Face لوحة بيانات عامة لتتبع أداء الاستدلال المحلي عبر llama.cpp على عتاد AMD Ryzen وRadeon. تتيح مقارنة النماذج والإصدارات وأنواع التكميم ومتابعة الأداء مع الوقت.",
+   "ai": true
   },
   {
    "id": "d3aa48daa62d",
