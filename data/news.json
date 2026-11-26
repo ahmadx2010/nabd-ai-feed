@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:38:59Z",
+ "updated": "2026-11-26T05:49:09Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png",
    "published": "2026-11-26T05:05:36Z",
    "found": "2026-11-26T05:11:45Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "NVIDIA توسّع Nemotron 3.5 Parse ببيانات مفتوحة ووصفة ضبط دقيق واستدلال أسرع",
+   "ar_summary": "أعلنت NVIDIA عن مجموعات بيانات تركيبية مفتوحة المصدر ووصفة للضبط الدقيق ومُسرّع DFlash2 لنموذج Nemotron 3.5 Parse الذي يحوّل صور المستندات إلى بيانات منظمة. كما شاركت طريقة تدريبه.",
+   "ai": true
   },
   {
    "id": "d46aff2bf273",
@@ -410,10 +414,14 @@
    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6b0769d6c61ce2ca36813242_og-distilling-kimi-into-qwen.png",
    "published": "2026-11-26T00:00:00Z",
    "found": "2026-11-26T05:38:59Z",
-   "importance": 2,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "Together AI تنقل قدرة Kimi-K3.1-Pro في الترجمة إلى اللاوية داخل نموذج Qwen3.8-27B",
+   "ar_summary": "أظهرت Together AI أن نموذج Qwen3.8-27B كان يجيب بالتايلاندية عند طلب الترجمة إلى اللاوية. بعد تقطير ترجمات Kimi-K3.1-Pro إليه وصل إلى 93% من أداء المعلّم مع الحفاظ على التايلاندية.",
+   "ai": true
   },
   {
    "id": "726045a047c8",
