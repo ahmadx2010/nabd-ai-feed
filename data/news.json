@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:13:18Z",
+ "updated": "2026-11-26T17:43:16Z",
  "categories": [
   {
    "key": "big",
@@ -13463,25 +13463,6 @@
    "ar_detail": true,
    "ar_title": "تطبيق GitHub Copilot للمبتدئين: كيف تعلّم Copilot عن شيفرتك",
    "ar_summary": "دليل يشرح التعليمات المخصصة والمهارات والوكلاء المخصصين وخوادم MCP لتكييف Copilot مع مشروعك.",
-   "ai": true,
-   "img_tried": true
-  },
-  {
-   "id": "e05f5dfb850c",
-   "company": "amazon",
-   "kind": "blog",
-   "title": "Can we change an AI model’s architecture without retraining it from scratch?",
-   "summary": "“Priming” reuses pretrained Transformer weights to build models with more efficient architectures at less than 1% of the original training cost and with throughputs up to twice as high.",
-   "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
-   "image": "https://cdn.amazon.science/dims4/default/34de22a/2147483647/strip/true/crop/2270x1192+0+43/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F48%2Ffc%2Fcf86b92b484f9da3927d4c06f537%2Fstate-composition-16x9.png",
-   "published": "2026-10-12T17:36:18Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "Amazon: «التهيئة المسبقة» تغيّر بنية النموذج دون إعادة التدريب من الصفر",
-   "ar_summary": "طرحت AWS طريقة priming تعيد استخدام أوزان Transformer لبناء نماذج هجينة بتكلفة أقل من 1% وإنتاجية تصل إلى الضعف.",
    "ai": true,
    "img_tried": true
   }
