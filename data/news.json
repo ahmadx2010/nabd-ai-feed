@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:52:23Z",
+ "updated": "2026-11-26T22:08:41Z",
  "categories": [
   {
    "key": "big",
@@ -403,6 +403,21 @@
    "ar_title": "GeForce NOW تحتفي بمجتمعها مع خصومات الجمعة السوداء ودعم DLSS 5 للعبة War Thunder",
    "ar_summary": "تحتفي NVIDIA في «خميس GFN» بأعضاء مجتمع GeForce NOW وسفرائها، مع خصم 30% على اشتراكات Performance وUltimate لستة أشهر. كما تحصل War Thunder على مظهر جديد بتقنية DLSS 5 لأعضاء Ultimate، وتنضم 12 لعبة جديدة إلى المكتبة.",
    "ai": true
+  },
+  {
+   "id": "c96459061798",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "What is AI transcription: The complete guide",
+   "summary": "Learn what is AI transcription and how it works, which features to look for, and how teams use it for meetings and support. Plus legal and privacy basics.",
+   "url": "https://elevenlabs.io/blog/what-is-ai-transcription",
+   "image": null,
+   "published": "2026-11-26T12:00:00Z",
+   "found": "2026-11-26T22:08:41Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
   },
   {
    "id": "02a088434703",
