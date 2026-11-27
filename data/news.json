@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:06:16Z",
+ "updated": "2026-11-27T18:15:23Z",
  "categories": [
   {
    "key": "big",
@@ -385,6 +385,21 @@
   }
  },
  "items": [
+  {
+   "id": "e60e9d4684f8",
+   "company": "elevenlabs",
+   "kind": "blog",
+   "title": "Webinar recap: Refresh your Black Friday ads with ElevenCreative",
+   "summary": "Ad platforms now use your creative to find buyers. Here's how teams refresh, test, and localize ads every week through January.",
+   "url": "https://elevenlabs.io/blog/webinar-recap-refresh-your-black-friday-ads-with-elevencreative",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/3zamarrmz9u-webinar-recap-refresh-bfcm-ads-cover.webp",
+   "published": "2026-11-27T12:00:00Z",
+   "found": "2026-11-27T18:15:23Z",
+   "importance": 0,
+   "detail": true,
+   "fetched": true,
+   "img_tried": true
+  },
   {
    "id": "2d7f8b4f8454",
    "company": "huggingface",
