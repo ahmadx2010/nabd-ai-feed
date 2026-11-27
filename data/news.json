@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:10:23Z",
+ "updated": "2026-11-27T19:46:58Z",
  "categories": [
   {
    "key": "big",
@@ -13189,25 +13189,6 @@
    "ar_title": "فضاء تصميم نماذج الانتشار المقنّع ثلاثية الوسائط",
    "ar_summary": "تقدم Apple أول نماذج انتشار مقنّع ثلاثية الوسائط (نص وصورة وصوت) مدرّبة من الصفر، مع دراسة منهجية لقوانين التوسع.",
    "ai": true,
-   "img_tried": true
-  },
-  {
-   "id": "471508c04c30",
-   "company": "gemini",
-   "kind": "blog",
-   "title": "Developing Gemini 4 Argon responsibly and safely",
-   "summary": "",
-   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup_light_16-9.width-1300.png",
-   "published": "2026-10-13T19:43:07Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "ar_detail": true,
-   "ar_title": "تطوير Gemini 4 Argon بمسؤولية وأمان",
-   "ar_summary": "تشرح ديب مايند نهجها في سلامة وأمن Gemini 4 Argon، بما يشمل منع إساءة الاستخدام السيبراني والبيولوجي وتوسيع برنامج Fairwind للمدافعين.",
-   "ai": true,
-   "detail": true,
-   "fetched": true,
    "img_tried": true
   }
  ]
