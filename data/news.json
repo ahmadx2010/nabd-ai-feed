@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:36:40Z",
+ "updated": "2026-11-27T00:07:02Z",
  "categories": [
   {
    "key": "big",
@@ -13427,44 +13427,6 @@
    "ar_title": "Character.ai تبدأ إجراءات الإفلاس (الفصل 11) تمهيداً لبيع الشركة",
    "ar_summary": "أعلنت Character.ai بدء إجراء الفصل 11 الطوعي لبيع الشركة بإشراف المحكمة. المنصة تعمل حالياً، وإن لم يظهر مشترٍ فستُغلق.",
    "ai": true
-  },
-  {
-   "id": "adadd90b83d7",
-   "company": "apple",
-   "kind": "blog",
-   "title": "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings",
-   "summary": "For most languages of the world, language model pre-training operates in a data-constrained regime where models must repeat their training data many times, degrading generalization. Two remedies exist: aggressive hyperparameter tuning such as high weight decay, and mixing in data from a high-resource auxiliary language to directly aid the low-resource target. While hyperparameter tuning…",
-   "url": "https://machinelearning.apple.com/research/mix-dont-tune",
-   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-   "published": "2026-10-13T00:00:00Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "اخلط ولا تضبط: التدريب ثنائي اللغة يتفوق على ضبط المعاملات",
-   "ar_summary": "دراسة من Apple باستخدام العربية كلغة هدف والإنجليزية كمساندة تظهر أن خلط بيانات لغة غنية أفضل من ضبط المعاملات عند شح البيانات.",
-   "ai": true,
-   "img_tried": true
-  },
-  {
-   "id": "b8b5f613d53f",
-   "company": "cursor",
-   "kind": "blog",
-   "title": "Origin App Marketplace",
-   "summary": "Origin integrates with over 20 apps for deployments, CI, code review, security, monitoring, and project management, and the marketplace is now open to public submissions.",
-   "url": "https://cursor.com/changelog/origin-app-marketplace",
-   "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/OG%20Images/origin-app-marketplace-YJgFl3hzGx8O8gQLTktnZtVE3oF9D7.png",
-   "published": "2026-10-13T00:00:00Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "Cursor تفتح سوق تطبيقات Origin للمطورين",
-   "ar_summary": "يتكامل Origin مع أكثر من 20 تطبيقاً للنشر والتكامل المستمر ومراجعة الشيفرة والأمان، وأصبح السوق مفتوحاً لتقديم التطبيقات.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
