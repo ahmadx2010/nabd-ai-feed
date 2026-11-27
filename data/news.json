@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:07:06Z",
+ "updated": "2026-11-27T16:43:48Z",
  "categories": [
   {
    "key": "big",
@@ -13261,42 +13261,6 @@
    "ar_detail": true,
    "ar_title": "Replit تعلن برنامج شركاء الحلول",
    "ar_summary": "تطلق Replit برنامج Solutions Partner لدعم شركات التكامل والاستشارات والوكالات في نشر Replit داخل المؤسسات.",
-   "ai": true,
-   "detail": true,
-   "fetched": true
-  },
-  {
-   "id": "e1fac0b9234f",
-   "company": "gemini",
-   "kind": "video",
-   "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
-   "summary": "The Chromium codebase is millions of lines long and decades old. In the past, working with it has meant navigating decades of tangled features, where touching one component can unexpectedly affect another. Erik Chen, an engineer at Google, is using Gemini 4 Argon to ‘untangle’ the architecture. The model’s coding capabilities mean that multiple agents can work independently to refactor the…",
-   "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c",
-   "image": "https://i1.ytimg.com/vi/LVEfFyijQ2c/hqdefault.jpg",
-   "published": "2026-10-13T16:38:17Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "ar_detail": true,
-   "ar_title": "استخدام Gemini 4 في صيانة شيفرة Chromium واسعة النطاق",
-   "ar_summary": "يعمل مهندس في Google مع Gemini 4 Argon لفك تعقيد بنية Chromium عبر وكلاء يعيدون الهيكلة بشكل مستقل.",
-   "ai": true,
-   "detail": true,
-   "fetched": true
-  },
-  {
-   "id": "d5d8f56a8647",
-   "company": "gemini",
-   "kind": "video",
-   "title": "Using Gemini 4 Argon to protect against Cyber attackers",
-   "summary": "In shadow A/B testing on real-world systems, Wiz security researchers put Gemini 4 Argon to the test against complex cyber threats. Using its advanced reasoning and long-horizon capabilities, Gemini 4 Argon found over two times more vulnerabilities than baseline models and successfully uncovered critical risks—such as identifying a file download bypass and master key in healthcare software. By…",
-   "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg",
-   "image": "https://i3.ytimg.com/vi/ftkic7Tdpcg/hqdefault.jpg",
-   "published": "2026-10-13T16:38:14Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "ar_detail": true,
-   "ar_title": "Gemini 4 Argon في الحماية من الهجمات السيبرانية",
-   "ar_summary": "في اختبارات مع باحثي Wiz وجد Gemini 4 Argon ضعف عدد الثغرات مقارنة بالنماذج الأساسية.",
    "ai": true,
    "detail": true,
    "fetched": true
