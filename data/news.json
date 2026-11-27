@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:29:30Z",
+ "updated": "2026-11-27T17:57:08Z",
  "categories": [
   {
    "key": "big",
@@ -13227,25 +13227,6 @@
    "ai": true,
    "detail": true,
    "fetched": true
-  },
-  {
-   "id": "22c6ef693aee",
-   "company": "copilot",
-   "kind": "blog",
-   "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
-   "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog .",
-   "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-   "image": null,
-   "published": "2026-10-13T17:56:33Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "نموذج GitHub لكشف الأسرار: نتائج أكثر بضجيج أقل",
-   "ar_summary": "طورت GitHub مصنّفاً واعياً بالسياق لاكتشاف الأسرار يرفع القبول الموزون 11.5% ويخفض زمن الفحص 86%.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
