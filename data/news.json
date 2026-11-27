@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:15:23Z",
+ "updated": "2026-11-27T18:25:29Z",
  "categories": [
   {
    "key": "big",
@@ -398,7 +398,11 @@
    "importance": 0,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "ElevenLabs تلخص ورشة تجديد إعلانات الجمعة السوداء باستخدام ElevenCreative",
+   "ar_summary": "تستعرض ElevenLabs كيف تعتمد منصات الإعلانات اليوم على المحتوى الإبداعي نفسه للوصول إلى المشترين، وكيف يمكن للفرق تجديد الإعلانات واختبارها وتوطينها أسبوعيًا حتى يناير.",
+   "ai": true
   },
   {
    "id": "2d7f8b4f8454",
