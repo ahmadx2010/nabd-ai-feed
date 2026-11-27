@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:25:29Z",
+ "updated": "2026-11-27T19:10:23Z",
  "categories": [
   {
    "key": "big",
@@ -13208,25 +13208,6 @@
    "ai": true,
    "detail": true,
    "fetched": true,
-   "img_tried": true
-  },
-  {
-   "id": "ed2bad3e4df7",
-   "company": "suno",
-   "kind": "blog",
-   "title": "Behind the Scenes: Make what moves you",
-   "summary": "Nina McNeely brings Braylon Browner's and Banoffee's visions to life across two shoots built on experimentation, instinct and creative freedom.",
-   "url": "https://suno.com/blog/behind-the-scenes-make-what-moves-you",
-   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/71ffab6b0d1c3fd4787bf7ae1135c926a97fe4f8-2970x1620.jpg?rect=0,31,2970,1559&w=1200&h=630&fit=crop&auto=format",
-   "published": "2026-10-13T19:01:53Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "كواليس Suno: اصنع ما يحرّكك",
-   "ar_summary": "تحتفي Suno بإطلاق v6 بتصوير مشروعين مع الراقص Braylon Browner والمغنية Banoffee بإخراج Nina McNeely، لكل منهما أسلوبه الإبداعي.",
-   "ai": true,
    "img_tried": true
   }
  ]
