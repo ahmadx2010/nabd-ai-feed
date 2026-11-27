@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:09:34Z",
+ "updated": "2026-11-27T12:19:47Z",
  "categories": [
   {
    "key": "big",
@@ -395,10 +395,14 @@
    "image": "https://huggingface.co/blog/assets/video-trainium3/thumbnail.jpg",
    "published": "2026-11-27T00:00:00Z",
    "found": "2026-11-27T12:09:34Z",
-   "importance": 0,
+   "importance": 1,
    "detail": true,
    "fetched": true,
-   "img_tried": true
+   "img_tried": true,
+   "ar_detail": true,
+   "ar_title": "توليد الفيديو بنموذج LTX-2.5 على شرائح Trainium3 من AWS",
+   "ar_summary": "يعرض فريق Hugging Face تجربة توليد مقاطع فيديو مع الصوت باستخدام نموذج LTX-2.5 من Lightricks على جهاز Trainium3. استغرق مقطع مدته 10 ثوانٍ نحو 22 إلى 23 ثانية على نصف الجهاز.",
+   "ai": true
   },
   {
    "id": "99043acd3b6a",
