@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:57:08Z",
+ "updated": "2026-11-27T18:06:16Z",
  "categories": [
   {
    "key": "big",
@@ -13209,24 +13209,6 @@
    "ar_summary": "تحتفي Suno بإطلاق v6 بتصوير مشروعين مع الراقص Braylon Browner والمغنية Banoffee بإخراج Nina McNeely، لكل منهما أسلوبه الإبداعي.",
    "ai": true,
    "img_tried": true
-  },
-  {
-   "id": "3e78d0d4c307",
-   "company": "gemini",
-   "kind": "blog",
-   "title": "Developing Gemini 4 Argon responsibly and safely",
-   "summary": "Gemini 4 Argon logo next to a large white \"4\", all on a gradient blue background",
-   "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup.max-600x600.format-webp.webp",
-   "published": "2026-10-13T18:00:00Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "ar_detail": true,
-   "ar_title": "تطوير Gemini 4 Argon بمسؤولية وأمان",
-   "ar_summary": "تعرض غوغل نهجها في سلامة وأمن Gemini 4 Argon، مع توسيع برنامج Fairwind للمدافعين السيبرانيين.",
-   "ai": true,
-   "detail": true,
-   "fetched": true
   }
  ]
 }
