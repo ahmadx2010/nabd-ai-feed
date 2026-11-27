@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:07:02Z",
+ "updated": "2026-11-27T03:55:35Z",
  "categories": [
   {
    "key": "big",
@@ -13409,24 +13409,6 @@
    "ai": true,
    "detail": true,
    "fetched": true
-  },
-  {
-   "id": "3c04da4c4ba3",
-   "company": "characterai",
-   "kind": "blog",
-   "title": "An Update on Character.ai",
-   "summary": "Today, we’re sharing that Character.ai has initiated a voluntary Chapter 11 bankruptcy process to facilitate a court-supervised sale of the company. Over the past year, we’ve taken meaningful steps to sustain and improve our business amid significant legal, regulatory, and operational headwinds. After",
-   "url": "https://blog.character.ai/an-update-on-character-ai/",
-   "image": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/2026/10/oct-blog-header.jpg",
-   "published": "2026-10-13T03:52:33Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 2,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "Character.ai تبدأ إجراءات الإفلاس (الفصل 11) تمهيداً لبيع الشركة",
-   "ar_summary": "أعلنت Character.ai بدء إجراء الفصل 11 الطوعي لبيع الشركة بإشراف المحكمة. المنصة تعمل حالياً، وإن لم يظهر مشترٍ فستُغلق.",
-   "ai": true
   }
  ]
 }
