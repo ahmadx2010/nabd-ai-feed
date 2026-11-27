@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:43:48Z",
+ "updated": "2026-11-27T17:29:30Z",
  "categories": [
   {
    "key": "big",
@@ -13246,24 +13246,6 @@
    "ar_summary": "طورت GitHub مصنّفاً واعياً بالسياق لاكتشاف الأسرار يرفع القبول الموزون 11.5% ويخفض زمن الفحص 86%.",
    "ai": true,
    "img_tried": true
-  },
-  {
-   "id": "d057f04d0b3c",
-   "company": "replit",
-   "kind": "blog",
-   "title": "Introducing Replit Solutions Partners",
-   "summary": "When anyone in an organization can put AI to work on the problems they know best, the way the organization operates starts to change. Designers turn ideas into working software that engineers can review and build on. HR builds its own onboarding tools. Finance replaces messy spreadsheets with live, custom dashboards. Support teams use agents to investigate issues and resolve tickets faster. The…",
-   "url": "https://replit.com/blog/introducing-replit-solutions-partners",
-   "image": "https://cdn.sanity.io/images/bj34pdbp/migration/9b07abf4052e0699a2bbc0bb80da5c2eba7fea57-1920x1080.png",
-   "published": "2026-10-13T17:25:04Z",
-   "found": "2026-11-03T19:05:44Z",
-   "importance": 1,
-   "ar_detail": true,
-   "ar_title": "Replit تعلن برنامج شركاء الحلول",
-   "ar_summary": "تطلق Replit برنامج Solutions Partner لدعم شركات التكامل والاستشارات والوكالات في نشر Replit داخل المؤسسات.",
-   "ai": true,
-   "detail": true,
-   "fetched": true
   }
  ]
 }
