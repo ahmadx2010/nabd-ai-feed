@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:03:04Z",
+ "updated": "2026-11-28T02:01:49Z",
  "categories": [
   {
    "key": "big",
@@ -13153,23 +13153,6 @@
    "ar_detail": true,
    "ar_title": "Meta وبيناكوتيكا دي بريرا وEssilorLuxottica توسّع الوصول إلى الفن عبر نظارات الذكاء الاصطناعي",
    "ar_summary": "أطلقت Meta مشروعًا تجريبيًا في متحف بريرا بميلانو يستخدم النظارات الذكية لجعل الأعمال الفنية متاحة للمكفوفين وضعاف البصر.",
-   "ai": true
-  },
-  {
-   "id": "58e4191fcfe4",
-   "company": "deepmind",
-   "kind": "blog",
-   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-   "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-   "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo",
-   "published": "2026-10-14T02:00:14Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "DeepMind وحكومة سنغافورة تبنيان نموذجاً لكشف الاحتيال على الجهاز",
-   "ar_summary": "تعاونت Google DeepMind وGovTech Singapore لاستخدام نماذج Gemma خفيفة على الجهاز لاعتراض الاحتيال في المحادثات الخاصة دون إرسال بيانات إلى السحابة.",
    "ai": true
   }
  ]
