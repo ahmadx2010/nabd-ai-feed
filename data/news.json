@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:31:41Z",
+ "updated": "2026-11-28T00:03:04Z",
  "categories": [
   {
    "key": "big",
@@ -13171,44 +13171,6 @@
    "ar_title": "DeepMind وحكومة سنغافورة تبنيان نموذجاً لكشف الاحتيال على الجهاز",
    "ar_summary": "تعاونت Google DeepMind وGovTech Singapore لاستخدام نماذج Gemma خفيفة على الجهاز لاعتراض الاحتيال في المحادثات الخاصة دون إرسال بيانات إلى السحابة.",
    "ai": true
-  },
-  {
-   "id": "15a88e7ee914",
-   "company": "apple",
-   "kind": "blog",
-   "title": "Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models",
-   "summary": "Code-switching (CS), the alternation between languages within an utterance, is common in multilingual speech but underrepresented in pretraining corpora. Increasing CS coverage requires finding relevant utterances in large speech collections so that they can be included in training data. One way to find such utterances is to transcribe the speech and detect language alternation in the text, but…",
-   "url": "https://machinelearning.apple.com/research/code-switching-detection",
-   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-   "published": "2026-10-14T00:00:00Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 0,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "كشف التبديل اللغوي في الكلام عبر أبعاد انتقائية للغة",
-   "ar_summary": "بحث من Apple يقترح طريقة خفيفة لاكتشاف التبديل بين لغتين داخل الجملة مباشرة من الكلام باستخدام مشفّر Whisper، بمتوسط F1 يبلغ 0.798.",
-   "ai": true,
-   "img_tried": true
-  },
-  {
-   "id": "e612dc941250",
-   "company": "apple",
-   "kind": "blog",
-   "title": "The Design Space of Tri-Modal Masked Diffusion Models",
-   "summary": "Discrete diffusion models have emerged as strong alternatives to autoregressive language models, with recent work initializing and finetuning a base unimodal model for bi-modal generation. Diverging from previous approaches, we introduce the first tri-modal Masked Diffusion Models (MDM) pretrained from scratch on text, image-text, and audio-text data. We systematically analyze multimodal scaling…",
-   "url": "https://machinelearning.apple.com/research/tri-modal-masked-diffusion",
-   "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-   "published": "2026-10-14T00:00:00Z",
-   "found": "2026-11-03T18:30:31Z",
-   "importance": 1,
-   "detail": true,
-   "fetched": true,
-   "ar_detail": true,
-   "ar_title": "فضاء تصميم نماذج الانتشار المقنّع ثلاثية الوسائط",
-   "ar_summary": "تقدم Apple أول نماذج انتشار مقنّع ثلاثية الوسائط (نص وصورة وصوت) مدرّبة من الصفر، مع دراسة منهجية لقوانين التوسع.",
-   "ai": true,
-   "img_tried": true
   }
  ]
 }
